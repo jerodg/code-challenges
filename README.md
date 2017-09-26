@@ -1,2 +1,2 @@
-# hackerrack-python
+# hackerrank-python
 hackerrack challenges in python
