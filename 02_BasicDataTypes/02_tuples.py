@@ -12,24 +12,9 @@ def main():
     """
     Main/Tests
     """
-    q = [input().split() for _ in range(int(input()))]
-
-    ls = []
-    for i in q:
-        if i[0] == 'insert':
-            ls.insert(int(i[1]), int(i[2]))
-        elif i[0] == 'remove':
-            ls.remove(int(i[1]))
-        elif i[0] == 'append':
-            ls.append(int(i[1]))
-        elif i[0] == 'sort':
-            ls.sort()
-        elif i[0] == 'print':
-            print(ls)
-        elif i[0] == 'pop':
-            ls.pop()
-        elif i[0] == 'reverse':
-            ls.reverse()
+    n = int(input())
+    ints = tuple(map(int, input().split()))
+    print(hash(ints))
 
 
 if __name__ == '__main__':
