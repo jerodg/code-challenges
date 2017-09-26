@@ -1,8 +1,7 @@
 #!/usr/bin/python3.6
-"""
-Jerod Gawne, 2016-09-21
+"""Jerod Gawne, 2016-09-21
 
-HackkerRank
+Arithmetic Operators
 
 https://www.hackerrank.com/challenges/python-arithmetic-operators/
 """
