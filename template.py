@@ -1,15 +1,18 @@
 #!/usr/bin/python3.6
-""" Jerod Gawne, 2017-09-12
+"""Jerod Gawne, 2017-09-12
 
-HackkerRank
+HackkerRank Challenge
 
 https://www.hackerrank.com/challenges/
+
+Editorial:
+ -
 """
 
 
 def main():
     """
-    Main-Logic
+    Main/Tests
     """
 
 

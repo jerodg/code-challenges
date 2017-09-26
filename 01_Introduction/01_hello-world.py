@@ -1,10 +1,14 @@
 #!/usr/bin/python3.6
-"""
-Jerod Gawne, 2016-09-19
+"""Jerod Gawne, 2016-09-19
 
-HackkerRank
-Say "Hello, World!" With Python
+Hello World
+
 https://www.hackerrank.com/challenges/py-hello-world/
+
+Editorial:
+ - Use print to write the resulting object to standard output.
+
+print("Hello, World!")
 """
 
 

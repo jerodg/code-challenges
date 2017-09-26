@@ -2,7 +2,7 @@
 """
 Jerod Gawne, 2017-04-19
 
-HackkerRank
+Division
 
 https://www.hackerrank.com/challenges/python-division/
 """
