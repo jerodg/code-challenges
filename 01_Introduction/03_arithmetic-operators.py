@@ -23,7 +23,7 @@ def main():
     """
     a, b = int(input()), int(input())
 
-    print(f'{a + b} \n{a - b} \n{a * b}')
+    print((a + b), (a - b), (a * b), sep='\n')
 
 
 if __name__ == '__main__':
