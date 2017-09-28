@@ -2,19 +2,23 @@
 """
 Jerod Gawne, 2017-05-20
 
-HackkerRank
+Loops
 
 https://www.hackerrank.com/challenges/python-loops/
+
+Editorial
+ - Use loops to iterate over the range.
+
+for i in range(int(raw_input())):
+    print i**2
 """
 
 
 def main():
     """
-    Main-Logic
+    Main
     """
-    n = int(input())
-    if 1 <= n <= 20:
-        [print(i**2) for i in range(0, n)]
+    [print(i ** 2) for i in range(int(input()))]
 
 
 if __name__ == '__main__':
