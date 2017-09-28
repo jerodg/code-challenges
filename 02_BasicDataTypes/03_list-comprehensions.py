@@ -6,7 +6,8 @@ List Comprehensions
 https://www.hackerrank.com/challenges/list-comprehensions
 
 Editorial:
- -
+ -List comprehensions are an elegant way where lists can be built without having
+  to use different for loops to append values one by one.
 """
 
 
