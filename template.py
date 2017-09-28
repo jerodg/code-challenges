@@ -1,7 +1,7 @@
 #!/usr/bin/python3.6
 """Jerod Gawne, 2017-09-12
 
-HackkerRank Challenge
+Challenge
 
 https://www.hackerrank.com/challenges/
 
