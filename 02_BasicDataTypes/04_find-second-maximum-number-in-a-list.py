@@ -1,5 +1,5 @@
 #!/usr/bin/python3.6
-"""Jerod Gawne, 2017-09-12
+"""Jerod Gawne, 2017-09-28
 
 Find the Second Largest Number
 
