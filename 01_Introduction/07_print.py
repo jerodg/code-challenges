@@ -2,21 +2,22 @@
 """
 Jerod Gawne, 2017-09-10
 
-HackkerRank
+Print
 
 https://www.hackerrank.com/challenges/python-print/
+
+Editorial:
+ - Using the map() and the print _function, we can solve this in one line.
+
+print(*range(1, int(input()) + 1), sep="")
 """
 
 
 def main():
     """
-    Main-Logic
+    Main
     """
-    n = int(input())
-    s = ''
-    for i in range(1, n+1):
-        s += str(i)
-    print(s)
+    print(*range(1, int(input()) + 1), sep='')
 
 
 if __name__ == '__main__':
