@@ -6,25 +6,17 @@ String Split and Join
 https://www.hackerrank.com/challenges/python-string-split-and-join/
 
 Editorial:
- -
+ -Using the split and join methods, we can solve this challenge.
+
+print "-".join(raw_input().split())
 """
-
-
-def split_and_join(line):
-    """
-    Splits line on space and joins with hyphen
-
-    :param line:
-    :return:
-    """
-    return '-'.join(line.split())
 
 
 def main():
     """
     Main/Tests
     """
-    print(split_and_join('this is a string'))
+    print(*input().split(), sep='-')
 
 
 if __name__ == '__main__':
