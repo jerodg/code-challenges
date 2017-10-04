@@ -22,6 +22,18 @@ def mutate_string(string, position, character):
     return string[:position] + character + string[position + 1:]
 
 
+def mutate_string2(string, position, character):
+    """
+    Changes string at position to character
+
+    :param string:
+    :param position:
+    :param character:
+    :return:
+    """
+    return ''.join([character if i == position else string[i] for i in range(len(string))])
+
+
 def main():
     """
     Main/Tests
