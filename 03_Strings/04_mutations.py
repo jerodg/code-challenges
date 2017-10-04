@@ -6,7 +6,11 @@ Mutations
 https://www.hackerrank.com/challenges/python-mutations/
 
 Editorial:
- -
+ -Using the slice : operator, we can solve this challenge.
+
+s = raw_input()
+i,k = raw_input().split()
+print s[:int(i)]+k+s[int(i)+1:]
 """
 
 
