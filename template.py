@@ -1,12 +1,19 @@
-#!/usr/bin/python3.6
-"""Jerod Gawne, 2017-09-12
+#!/usr/bin/env python3.6
+# -*- coding: utf-8 -*-
+"""Jerod Gawne, 2017-10-
 
-Challenge
+
 
 https://www.hackerrank.com/challenges/
 
 Editorial:
  -
+
+Sample Input:
+
+
+Sample Output:
+
 """
 
 
