@@ -6,7 +6,14 @@ String Validators
 https://www.hackerrank.com/challenges/string-validators/
 
 Editorial:
- -
+ - Check the string s by using the methods: .isalpha(), .isalnum(), .isdigit(), .islower() and .isupper().
+
+S = raw_input()
+print any([char.isalnum() for char in S])
+print any([char.isalpha() for char in S])
+print any([char.isdigit() for char in S])
+print any([char.islower() for char in S])
+print any([char.isupper() for char in S])
 
 Sample Input:
 qA2
