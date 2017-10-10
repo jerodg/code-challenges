@@ -7,7 +7,25 @@ String Formatting
 https://www.hackerrank.com/challenges/python-string-formatting/
 
 Editorial:
- -
+We can solve this challenge using the .format tool.
+"{0:{width}d} {0:{width}o} {0:{width}X} {0:{width}b}".format(i,width = width)
+0 is the index indicating which format argument should be placed in that spot.
+width indicates the padding space between two rows.
+d, o, X and b converts the string into decimal, octal, hexadecimal, and binary format, respectively.
+
+Note: Capital X is used to print the hexadecimal characters in uppercase.
+
+Another Approach
+We can solve this using the rjust function to align the rows.
+The oct, hex and bin can be used to convert the integer into octal, hexadecimal and binary format, respectively.4
+
+def fun(N):
+    width = len(bin(N)) - 2
+    for i in range(1,N+1):
+        print "{0:{width}d} {0:{width}o} {0:{width}X} {0:{width}b}".format(i,width = width)
+
+n = input()
+fun(n)
 
 Sample Input:
 17
@@ -33,19 +51,15 @@ Sample Output:
 """
 
 
-def print_formatted(number):
+def print_formatted(n):
     """
 
-    :param number:
+    :param n:
     :return:
     """
-    data = []
-    for i in range(1, number+1):
-        data.append([str(i), str(oct(i))[2:], str(hex(i))[2:], str(bin(i))[2:]])
-
-    width = max(len(word) for row in data for word in row) + 2
-    for row in data:
-        print(''.join(word.rjust(width) for word in row))
+    width = len("{0:b}".format(n))
+    for i in range(1, n + 1):
+        print('{0:{width}d} {0:{width}o} {0:{width}X} {0:{width}b}'.format(i, width=width))
 
 
 def main():
