@@ -34,7 +34,8 @@ e-d-c-b-a-b-c-d-e
 
 
 def print_rangoli(size):
-    """
+    """Jerod Gawne, 2017-10-13
+
     If n is the number of unique letters we will be printing,
     then we end up printing twice this many in any given row.
     We are also printing a '-' for each letter, so now we're
