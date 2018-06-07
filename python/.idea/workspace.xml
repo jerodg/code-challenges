@@ -1,0 +1,567 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/docs/problem.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/solution_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/solution_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Algorithms/0.Warmup/1.SimpleArraySum/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/0.Algorithms/0.Warmup/1.SimpleArraySum/docs/problem.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Algorithms/0.Warmup/1.SimpleArraySum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Algorithms/0.Warmup/1.SimpleArraySum/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/docs/problem.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/solution_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/solution_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/docs/problem.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/docs/problem.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/template/docs/problem.adoc" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/python$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1528392452406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.DataStructures/0.ArraysDS" />
+    <SUITE FILE_PATH="coverage/python$solution.coverage" NAME="solution Coverage Results" MODIFIED="1528390242199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="78">
+              <caret line="6" lean-forward="true" selection-end-line="160" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/template.py" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/0_solve_me_first/solve_me_first_template.py" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/1_simple_array_sum/docs/improvements.adoc" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/1_simple_array_sum/template.py" />
+        <option value="$PROJECT_DIR$/template/problem.adoc" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/1_simple_array_sum/solution.py" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/0_solve_me_first/template.py" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/1_simple_array_sum/docs/problem.adoc" />
+        <option value="$PROJECT_DIR$/solution_1.py" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/0_solve_me_first/solution.py" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets/template.py" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets/docs/problem.adoc" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/0_solve_me_first/docs/problem.adoc" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets/solution_1.py" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets/solution.py" />
+        <option value="$PROJECT_DIR$/template/template.py" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/3_a_very_big_sum/template.py" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/3_a_very_big_sum/docs/problem.adoc" />
+        <option value="$PROJECT_DIR$/0_algorithms/0_warmup/3_a_very_big_sum/solution.py" />
+        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/template.py" />
+        <option value="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/template.py" />
+        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/solution.py" />
+        <option value="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/solution.py" />
+        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/solution_1.py" />
+        <option value="$PROJECT_DIR$/template/docs/problem.adoc" />
+        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/solution.py" />
+        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/solution_1.py" />
+        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/solution.py" />
+        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/1.SimpleArraySum/solution.py" />
+        <option value="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/docs/problem.adoc" />
+        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/docs/problem.adoc" />
+        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/docs/problem.adoc" />
+        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/1.SimpleArraySum/docs/problem.adoc" />
+        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/docs/problem.adoc" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1077" />
+    <option name="y" value="50" />
+    <option name="width" value="2412" />
+    <option name="height" value="2120" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="template" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\projects\hackerrank\python\0_algorithms\0_warmup\0_solve_me_first" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.solution (1)">
+    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.DataStructures/0.ArraysDS" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.solution" />
+      <item itemvalue="Python.solution (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.solution (1)" />
+        <item itemvalue="Python.solution" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="" />
+      <created>1528381242025</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1528381242025</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="862" y="40" width="1929" height="1696" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2769231" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Python Console" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.11985019" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
+      <window_info anchor="right" id="SciView" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="initial" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/0_algorithms/.gitkeep">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/1_simple_array_sum/tests/input/input00.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="1" column="13" lean-forward="true" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/1_simple_array_sum/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="13">
+          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/0_solve_me_first/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="26">
+          <caret line="2" column="26" lean-forward="true" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
+          <folding>
+            <element signature="e#133#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/0_solve_me_first/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/0_solve_me_first/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="e#133#143#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="78">
+            <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/0_solve_me_first/docs/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="52">
+            <caret line="4" column="23" lean-forward="true" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#140#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#140#150#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="8" column="36" lean-forward="true" selection-start-line="8" selection-end-line="8" selection-end-column="36" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/3_a_very_big_sum/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets/docs/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="208">
+            <caret line="16" column="21" lean-forward="true" selection-end-line="44" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/1_simple_array_sum/docs/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="377">
+            <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="26" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/3_a_very_big_sum/docs/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="533">
+            <caret line="41" column="118" selection-start-line="41" selection-start-column="118" selection-end-line="41" selection-end-column="118" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/1_simple_array_sum/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="14" selection-end-column="41" />
+          <folding>
+            <element signature="e#135#145#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/3_a_very_big_sum/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="117">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <folding>
+            <element signature="e#109#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1528391012668" expanded="true" signature="137:139" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="8" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.DataStructures/0.ArraysDS/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="65">
+          <caret line="5" column="9" lean-forward="true" selection-start-line="5" selection-start-column="9" selection-end-line="5" selection-end-column="9" />
+          <folding>
+            <marker date="1528392133919" expanded="true" signature="138:140" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/template.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/1.SimpleArraySum/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/solution_1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.DataStructures/0.ArraysDS/docs/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="28" selection-start-column="28" selection-end-column="28" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.DataStructures/0.ArraysDS/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="4" column="36" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
+          <folding>
+            <element signature="e#109#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template/docs/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="143">
+            <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/docs/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="35" selection-start-column="35" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/docs/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="55" lean-forward="true" selection-start-column="55" selection-end-column="55" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/1.SimpleArraySum/docs/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="35" selection-start-column="35" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/docs/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor>
+            <caret column="35" selection-start-column="35" selection-end-column="35" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="6" lean-forward="true" selection-end-line="160" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

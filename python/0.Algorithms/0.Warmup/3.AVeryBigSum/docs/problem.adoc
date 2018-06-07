@@ -1,4 +1,4 @@
-:doctitle: 3. A Very Big Sum
+:doctitle: 0.Algorithms/0.Warmup/3.A Very Big Sum
 
 :author: Jerod Gawne
 :email: jerodgawne@gmail.com
@@ -9,9 +9,9 @@
 :keywords: python, sum, int, function
 :src-uri:
 
-:revnumber: 1.0.0
+:revnumber: 1.1.0
 :revdate: June 07, 2018
-:revremark: initial
+:revremark: add learning and reference sections
 
 :doctype: article
 :library: Asciidoctor
@@ -46,3 +46,8 @@ the use of three lines of code by switching to print() and an additional import
 
 .Syntax
 * Missing pass in undefined function
+
+== Learning
+
+== Reference
+https://www.hackerrank.com/challenges/a-very-big-sum[Hackerrank - A Very Big Sum]

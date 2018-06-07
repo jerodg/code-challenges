@@ -1,7 +1,7 @@
-# hackerrank-python
-hackerrack challenges in python
+# jerodg.hackerrank
+hackerrack challenges
 
-
+## Python
 #### Conventions
 It's an old practice to use underscore (_) for unused index/iterator 
 variable so that variables like i or j which are commonly used 

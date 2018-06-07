@@ -2,7 +2,7 @@
 # coding=utf-8
 """Jerod Gawne, 2018.06.07
 
-https://www.hackerrank.com/challenges/simple-array-sum/problem
+https://github.com/jerodg/hackerrank
 """
 import sys
 import traceback
