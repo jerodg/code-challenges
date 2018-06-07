@@ -1,0 +1,48 @@
+:doctitle: 3. A Very Big Sum
+
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 07, 2018
+
+:description: Python, a very big sum, easy, score 10
+:summary: Calculate and print the sum of the elements in an array, keeping in mind that some of those integers may be quite large.
+:keywords: python, sum, int, function
+:src-uri:
+
+:revnumber: 1.0.0
+:revdate: June 07, 2018
+:revremark: initial
+
+:doctype: article
+:library: Asciidoctor
+:source-highlighter: highlight.js
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Improvements
+.Convention
+* Improve documentation through use of doc strings
+* Code formatting
+* Missing encoding
+* Missing main()
+* Variable naming (fptr) ?
+
+.Extraneous
+* ar_count variable is unecessary
+* Use of os.environ to output to screen is a bit ridiculous
+** It is required only because there is an input that defines the array length which is also unecessary. We can reduce
+the use of three lines of code by switching to print() and an additional import
+* No need to define variable for results of function call as they are not used again
+* Unused import: sys
+* This entire problem
+** Python does not differentiate between int and long data types, the same solution for 1_simple_array_sum can be used
+
+.Pep8
+* function names should be in lower case
+
+.Syntax
+* Missing pass in undefined function
