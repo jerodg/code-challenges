@@ -1,0 +1,39 @@
+:doctitle: 1. Simple Array Sum
+
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 07, 2018
+
+:description: Python, simple array sum, easy, score 10
+:summary: Given an array of integers, find the sum of its elements.
+:keywords: python, array, sum
+:src-uri:
+
+:revnumber: 1.0.0
+:revdate: June 07, 2018
+:revremark: initial
+
+:doctype: article
+:library: Asciidoctor
+:source-highlighter: highlight.js
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Improvements
+.Convention
+* Improve documentation through use of doc strings
+* Code formatting
+* Variable naming (fptr) ?
+
+.Extraneous
+* No need to define variable for results of function call as they are not used again
+
+.Pep8
+* Function names should be lowercase
+
+.Syntax
+* Missing pass in undefined function
