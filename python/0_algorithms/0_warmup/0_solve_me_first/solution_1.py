@@ -8,11 +8,25 @@ import sys
 import traceback
 
 
+def solvemefirst(a, b) -> int:
+    """Solve Me First
+
+    :param a: int
+    :param b: int
+    :return: int
+    """
+    # Hint: Type return a+b below
+    return a + b
+
+
 def main():
     """
     Main/Tests
     """
-    print(sum((int(input()), int(input()))))
+    num1 = int(input())
+    num2 = int(input())
+
+    print(solvemefirst(num1, num2))
 
 
 if __name__ == '__main__':

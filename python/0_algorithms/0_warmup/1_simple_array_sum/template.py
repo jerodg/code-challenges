@@ -1,37 +1,25 @@
-#!/usr/bin/env python3.7
-# coding=utf-8
-"""Jerod Gawne, 2018.06.07
+#!/bin/python3
 
-https://www.hackerrank.com/challenges/simple-array-sum/problem
-"""
 import os
 import sys
-import traceback
 
+#
+# Complete the simpleArraySum function below.
+#
+def simpleArraySum(ar):
+    #
+    # Write your code here.
+    #
 
-def simple_array_sum(ar):
-    pass
-
-
-def main():
-    """
-    Main/Tests
-    """
+if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
     ar_count = int(input())
 
     ar = list(map(int, input().rstrip().split()))
 
-    result = simple_array_sum(ar)
+    result = simpleArraySum(ar)
 
     fptr.write(str(result) + '\n')
 
     fptr.close()
-
-
-if __name__ == '__main__':
-    try:
-        main()
-    except Exception:
-        print(traceback.print_exception(*sys.exc_info()))
