@@ -4,17 +4,20 @@
 :email: jerodgawne@gmail.com
 :docdate: June 07, 2018
 
-:description:
 :summary:
+
+:difficulty:
+:time-complexity:
+:required-knowledge:
+:solution-variability:
 :keywords: python
 :src-uri:
 
-:revnumber: 1.4.0
-:revdate: June 07, 2018
-:revremark: add learning and reference sections
+:revnumber: 1.5.0
+:revdate: {docdatetime}
+:revremark: change improvements titles to sub-headings; remove description; add problem ratings
 
 :doctype: article
-:library: Asciidoctor
 :source-highlighter: highlight.js
 :sectanchors:
 :sectlinks:
@@ -23,17 +26,24 @@
 
 {summary}
 
+
 == Improvements
 
-.Convention
+=== Convention
 
-.Extraneous
 
-.Pep8
+=== Extraneous
 
-.Syntax
+
+=== Pep8
+
+
+=== Syntax
+
 
 
 == Learning
+
+
 
 == Reference
