@@ -10,6 +10,8 @@
 :time-complexity:
 :required-knowledge:
 :solution-variability:
+:score:
+
 :keywords: python
 :src-uri:
 
@@ -26,24 +28,16 @@
 
 {summary}
 
-
 == Improvements
 
 === Convention
 
-
 === Extraneous
-
 
 === Pep8
 
-
 === Syntax
 
-
-
 == Learning
-
-
 
 == Reference

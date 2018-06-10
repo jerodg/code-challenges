@@ -1,17 +1,17 @@
-:doctitle: 0.Introduction/2.ArithmeticOperators
+:doctitle: 0.Introduction/3.Division
 
 :author: Jerod Gawne
 :email: jerodgawne@gmail.com
-:docdate: June 08, 2018
+:docdate: June 10, 2018
 
-:summary: Read two integers from STDIN and print three lines where: The first line contains the sum of the two numbers. The second line contains the difference of the two numbers (first - second). The third line contains the product of the two numbers.
+:summary: Read two integers and print two lines. The first line should contain integer division, a//b. The second line should contain float division, a/b.
 
 :difficulty: easy
-:time-complexity: short
-:required-knowledge: print, expressions
-:solution-variability: 1
+:time-complexity: low
+:required-knowledge:
+:solution-variability:
 :score: 10
-:keywords: python, arithmetic operators, expressions, print
+:keywords: python, arithmetic, division, expressions
 :src-uri:
 
 :revnumber: 1.0.0
@@ -27,7 +27,6 @@
 
 {summary}
 
-
 == Improvements
 
 === Convention
@@ -36,22 +35,18 @@
 ** encoding
 ** doc-comments
 
-
 === Extraneous
 N/A
 
 === Pep8
-* No new-line at end of file
-
+Too many blank lines
 
 === Syntax
 N/A
-
 
 == Learning
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/reference/expressions.html[PyDocs - Expressions]
 
-
 == Reference
-https://www.hackerrank.com/challenges/python-arithmetic-operators[Hackerrank - Arithmetic Operators]
+https://www.hackerrank.com/challenges/python-division/[Hackerrank - Division]
