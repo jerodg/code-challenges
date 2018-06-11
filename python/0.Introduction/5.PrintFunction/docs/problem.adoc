@@ -1,0 +1,41 @@
+:doctitle:
+
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 07, 2018
+:revdate: {docdatetime}
+
+:summary:
+:keywords: python
+:src-uri:
+
+:difficulty:
+:time-complexity:
+:required-knowledge:
+:solution-variability:
+:score:
+
+:doctype: article
+:source-highlighter: highlight.js
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Tutorial
+
+== Improvements
+
+=== Convention
+
+=== Extraneous
+
+=== Pep8
+
+=== Syntax
+
+== Learning
+
+== Reference
