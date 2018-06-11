@@ -9,10 +9,11 @@
 :difficulty: easy
 :time-complexity: low
 :required-knowledge: control flow
-:solution-variability:
+:alternate-knowledge: list comprehension, arbitrary argument lists
+:solution-variability: 2
 :score: 10
 
-:keywords: python, loops, control flow
+:keywords: python, loops, control flow, data structures
 :src-uri: https://github.com/jerodg/hackerrank
 
 :revnumber: 1.0.0
