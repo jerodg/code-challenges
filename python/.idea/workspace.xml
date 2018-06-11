@@ -2,42 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LICENSE" beforeDir="false" afterPath="$PROJECT_DIR$/../LICENSE" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.Introduction/0.SayHelloWorld/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/0.SayHelloWorld/docs/problem.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.Introduction/0.SayHelloWorld/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/0.SayHelloWorld/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.Introduction/0.SayHelloWorld/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/0.SayHelloWorld/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.Introduction/1.IfElse/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/1.IfElse/docs/problem.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.Introduction/1.IfElse/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/1.IfElse/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.Introduction/1.IfElse/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/1.IfElse/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.Introduction/1.IfElse/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/1.IfElse/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.Introduction/1.IfElse/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/1.IfElse/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/docs/problem.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/0.SolveMeFirst/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/0.SolveMeFirst/docs/problem.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/0.SolveMeFirst/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/0.SolveMeFirst/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/0.SolveMeFirst/solution_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/0.SolveMeFirst/solution_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/0.SolveMeFirst/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/0.SolveMeFirst/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/1.SimpleArraySum/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/1.SimpleArraySum/docs/problem.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/1.SimpleArraySum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/1.SimpleArraySum/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/1.SimpleArraySum/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/1.SimpleArraySum/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/2.CompareTheTriplets/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/2.CompareTheTriplets/docs/problem.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/2.CompareTheTriplets/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/2.CompareTheTriplets/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/2.CompareTheTriplets/solution_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/2.CompareTheTriplets/solution_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/2.CompareTheTriplets/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/2.CompareTheTriplets/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/3.AVeryBigSum/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/3.AVeryBigSum/docs/problem.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/3.AVeryBigSum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/3.AVeryBigSum/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.Algorithms/0.Warmup/3.AVeryBigSum/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.Algorithms/0.Warmup/3.AVeryBigSum/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.DataStructures/0.ArraysDS/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/2.DataStructures/0.ArraysDS/docs/problem.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.DataStructures/0.ArraysDS/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.DataStructures/0.ArraysDS/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.DataStructures/0.ArraysDS/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.DataStructures/0.ArraysDS/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Introduction/3.Division/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/3.Division/docs/problem.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/0.Introduction/3.Division/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/0.Introduction/3.Division/template.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/template/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/template/docs/problem.adoc" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,17 +25,17 @@
           <file leaf-file-name="template.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/0.Introduction/3.Division/template.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" selection-start-line="6" selection-end-line="6" />
+                <state relative-caret-position="30">
+                  <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/0.Introduction/3.Division/solution.py">
+            <entry file="file://$PROJECT_DIR$/0.Introduction/4.Loops/solution.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                <state relative-caret-position="210">
+                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
                   <folding>
                     <element signature="e#107#117#0" expanded="true" />
                   </folding>
@@ -85,7 +52,7 @@
               <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
                 <state split_layout="SPLIT">
                   <first_editor relative-caret-position="165">
-                    <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+                    <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
                   </first_editor>
                   <second_editor />
                 </state>
@@ -96,10 +63,19 @@
             <entry file="file://$PROJECT_DIR$/template.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="210">
-                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+                  <caret line="14" selection-end-line="14" />
                   <folding>
                     <element signature="e#107#117#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="template.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/0.Introduction/4.Loops/template.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="15">
+                  <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
                 </state>
               </provider>
             </entry>
@@ -165,10 +141,12 @@
         <option value="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/template.py" />
         <option value="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/solution.py" />
         <option value="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/docs/problem.adoc" />
-        <option value="$PROJECT_DIR$/0.Introduction/3.Division/template.py" />
-        <option value="$PROJECT_DIR$/0.Introduction/3.Division/docs/problem.adoc" />
         <option value="$PROJECT_DIR$/0.Introduction/3.Division/solution.py" />
         <option value="$PROJECT_DIR$/template/docs/problem.adoc" />
+        <option value="$PROJECT_DIR$/0.Introduction/3.Division/template.py" />
+        <option value="$PROJECT_DIR$/0.Introduction/3.Division/docs/problem.adoc" />
+        <option value="$PROJECT_DIR$/0.Introduction/4.Loops/template.py" />
+        <option value="$PROJECT_DIR$/0.Introduction/4.Loops/solution.py" />
       </list>
     </option>
   </component>
@@ -182,10 +160,10 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="2544" />
-    <option name="height" value="2135" />
+    <option name="x" value="567" />
+    <option name="y" value="27" />
+    <option name="width" value="1974" />
+    <option name="height" value="2133" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -195,7 +173,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -212,43 +189,13 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="0.Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="2.ArithmeticOperators" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="0.Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="2.ArithmeticOperators" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="0.Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Division" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="0.Introduction" type="462c0819:PsiDirectoryNode" />
-              <item name="3.Division" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="template" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
+              <item name="4.Loops" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -339,7 +286,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="2544" height="2135" extended-state="4" />
+    <frame x="567" y="27" width="1974" height="2133" extended-state="4" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -349,7 +296,7 @@
       <window_info anchor="bottom" id="Python Console" order="7" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.2769231" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.0904088" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.127153" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="right" id="SciView" order="3" />
@@ -360,9 +307,9 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32948717" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -376,17 +323,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="initial" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/template/docs/problem.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="480">
-            <caret line="32" lean-forward="true" selection-start-line="32" selection-end-line="32" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0_algorithms/.gitkeep" />
     <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/1_simple_array_sum/tests/input/input00.txt" />
     <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/1_simple_array_sum/template.py" />
     <entry file="file://$PROJECT_DIR$/0_algorithms/0_warmup/0_solve_me_first/solution.py" />
@@ -500,30 +436,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0.Introduction/3.Division/docs/problem.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="120">
-            <caret line="8" column="17" lean-forward="true" selection-start-line="8" selection-start-column="17" selection-end-line="8" selection-end-column="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="15" selection-start-line="15" selection-end-line="15" />
-          <folding>
-            <element signature="e#109#119#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.Introduction/3.Division/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -531,7 +447,7 @@
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="165">
-            <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
           </first_editor>
           <second_editor />
         </state>
@@ -547,20 +463,51 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/0.Introduction/3.Division/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Introduction/3.Division/docs/problem.adoc">
+      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="135">
+            <caret line="9" column="21" lean-forward="true" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Introduction/4.Loops/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="20" selection-start-line="1" selection-start-column="20" selection-end-line="1" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/0.Introduction/3.Division/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="20" lean-forward="true" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <caret line="14" selection-end-line="14" />
           <folding>
             <element signature="e#107#117#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/0.Introduction/3.Division/solution.py">
+    <entry file="file://$PROJECT_DIR$/0.Introduction/4.Loops/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
           <folding>
             <element signature="e#107#117#0" expanded="true" />
           </folding>

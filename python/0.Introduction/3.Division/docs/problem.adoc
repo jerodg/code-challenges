@@ -8,7 +8,7 @@
 
 :difficulty: easy
 :time-complexity: low
-:required-knowledge:
+:required-knowledge: 
 :solution-variability:
 :score: 10
 :keywords: python, arithmetic, division, expressions
@@ -39,7 +39,7 @@
 N/A
 
 === Pep8
-Too many blank lines
+No new-line at end of file
 
 === Syntax
 N/A

@@ -3,21 +3,17 @@
 :author: Jerod Gawne
 :email: jerodgawne@gmail.com
 :docdate: June 07, 2018
+:revdate: {docdatetime}
 
 :summary:
+:keywords: python
+:src-uri:
 
 :difficulty:
 :time-complexity:
 :required-knowledge:
 :solution-variability:
 :score:
-
-:keywords: python
-:src-uri:
-
-:revnumber: 1.5.0
-:revdate: {docdatetime}
-:revremark: change improvements titles to sub-headings; remove description; add problem ratings
 
 :doctype: article
 :source-highlighter: highlight.js
@@ -27,6 +23,8 @@
 :toc:
 
 {summary}
+
+== Tutorial
 
 == Improvements
 
