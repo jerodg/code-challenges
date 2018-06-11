@@ -9,11 +9,11 @@
 :difficulty: easy
 :time-complexity: low
 :required-knowledge: control flow
-:alternate-knowledge: list comprehension, arbitrary argument lists
+:advanced-knowledge: list comprehension, arbitrary argument lists
 :solution-variability: 2
 :score: 10
 
-:keywords: python, loops, control flow, data structures
+:keywords: python, {required-knowledge}, {advanced-knowledge}
 :src-uri: https://github.com/jerodg/hackerrank
 
 :revnumber: 1.0.0
@@ -28,6 +28,9 @@
 :toc:
 
 {summary}
+== Learning
+* https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
+* https://www.python.org/dev/peps/pep-0008/#indentation[PEP8 - Indentation]
 
 == Tutorial
 Loops are control structures that iterate over a range to perform a certain task.
@@ -66,10 +69,6 @@ No new-line at end of file
 
 === Syntax
 N/A
-
-== Learning
-* https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
-* https://www.python.org/dev/peps/pep-0008/#indentation[PyDocs - Indentation]
 
 == Reference
 * https://www.hackerrank.com/challenges/python-loops[Hackerrank - Loops]

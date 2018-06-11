@@ -1,22 +1,20 @@
 :doctitle:
-
 :author: Jerod Gawne
 :email: jerodgawne@gmail.com
 :docdate: June 07, 2018
 :revdate: {docdatetime}
-
-:summary:
-:keywords: python
-:src-uri:
+:src-uri: https://github.com/jerodg/hackerrank
 
 :difficulty:
 :time-complexity:
 :required-knowledge:
+:advanced-knowledge:
 :solution-variability:
 :score:
+:keywords: python, {required-knowledge}, {advanced-knowledge}
+:summary:
 
 :doctype: article
-:source-highlighter: highlight.js
 :sectanchors:
 :sectlinks:
 :sectnums:
@@ -24,18 +22,21 @@
 
 {summary}
 
+== Learning
+
 == Tutorial
 
 == Improvements
-
 === Convention
+N/A
 
 === Extraneous
+N/A
 
 === Pep8
+N/A
 
 === Syntax
-
-== Learning
+N/A
 
 == Reference

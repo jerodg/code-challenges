@@ -9,6 +9,6 @@ import traceback
 
 if __name__ == '__main__':
     try:
-        print(*range(1, int(input()) + 1), sep='')
+        list(map(lambda x: print(x + 1, end=''), range(int(input()))))
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))
