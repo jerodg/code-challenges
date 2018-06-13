@@ -28,13 +28,16 @@
 
 == Improving the Template
 === Convention
-N/A
+.Missing
+* shebang
+* encoding
+* doc-comments
 
 === Extraneous
 N/A
 
 === Pep8
-N/A
+* No new-line at end of file
 
 === Syntax
 N/A
