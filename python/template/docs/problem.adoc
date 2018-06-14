@@ -26,6 +26,8 @@
 
 == Tutorial
 
+== Improving the Problem
+
 == Improving the Template
 === Convention
 .Missing
