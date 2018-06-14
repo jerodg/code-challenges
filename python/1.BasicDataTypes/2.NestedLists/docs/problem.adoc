@@ -1,0 +1,62 @@
+:doctitle: 1.BasicDataTypes/2.NestedLists
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 14, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: moderate
+:required-knowledge: control flow, lists
+:advanced-knowledge: comprehensions, list unpacking
+:solution-variability: 2
+:score: 10
+:keywords: python, {required-knowledge}, {advanced-knowledge}
+:summary: Given the names and grades for each student in a Physics class of _N_ students, store them in a nested list and print the name(s) of any student(s) having the second lowest grade.
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Learning
+* https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
+* https://stackoverflow.com/q/4174941/4434405[Stack Overflow - How to Sort a List of Lists]
+
+=== Advanced
+* https://docs.python.org/3/tutorial/controlflow.html#unpacking-argument-lists[PyDocs - Control Flow/Unpacking Argument Lists]
+
+== Tutorial
+
+== Improving the Problem
+At the very end of the problem it states in the example:
+
+"The second lowest grade of 37.21 belongs to both Harry and Berry, so we order their names alphabetically and print each name on a new line.""
+
+What to do in the event of a tie (print both and order alphabetically by name)
+is a significant requirement and should be stated clearly in the problem rather
+than incidentally in the example.
+
+== Improving the Template
+=== Convention
+.Missing
+* shebang
+* encoding
+* doc-comments
+
+=== Extraneous
+N/A
+
+=== Pep8
+* No new-line at end of file
+
+=== Syntax
+N/A
+
+== Reference
+* https://www.hackerrank.com/challenges/nested-list[Hackerrank - Nested List]
+* https://www.hackerrank.com/challenges/nested-list/forum/comments/364892[Hackerrank - Comment]
