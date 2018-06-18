@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/docs/problem.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/docs/problem.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/docs/problem.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage/template.py" afterDir="false" />
-    </list>
+    <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -21,7 +12,7 @@
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python$solution__4_.coverage" NAME="solution (4) Coverage Results" MODIFIED="1529353660283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage" />
     <SUITE FILE_PATH="coverage/python$solution__3_.coverage" NAME="solution (3) Coverage Results" MODIFIED="1528994086622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/2.NestedLists" />
-    <SUITE FILE_PATH="coverage/python$solution.coverage" NAME="solution Coverage Results" MODIFIED="1528390242199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0_algorithms/0_warmup/2_compare_the_triplets" />
+    <SUITE FILE_PATH="coverage/python$solution.coverage" NAME="solution Coverage Results" MODIFIED="1529357094947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples" />
     <SUITE FILE_PATH="coverage/python$solution__5_.coverage" NAME="solution (5) Coverage Results" MODIFIED="1529355597973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/0.Lists" />
     <SUITE FILE_PATH="coverage/python$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1528392452406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.DataStructures/0.ArraysDS" />
     <SUITE FILE_PATH="coverage/python$solution__2_.coverage" NAME="solution (2) Coverage Results" MODIFIED="1528909896945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/1.FindTheRunnerUpScore" />
@@ -31,13 +22,22 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution.py">
+            <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/solution.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="120">
-                  <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+                <state relative-caret-position="60">
+                  <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
                   <folding>
                     <element signature="e#107#117#0" expanded="true" />
                   </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/4.ListComprehensions/solution.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="150">
+                  <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
                 </state>
               </provider>
             </entry>
@@ -46,23 +46,11 @@
       </split-first>
       <split-second>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="problem.adoc" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/docs/problem.adoc">
-              <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-                <state split_layout="SPLIT">
-                  <first_editor relative-caret-position="165">
-                    <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
-                  </first_editor>
-                  <second_editor />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="template.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/template.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="210">
-                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
                   <folding>
                     <element signature="e#107#117#0" expanded="true" />
                   </folding>
@@ -87,8 +75,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/template.py" />
-        <option value="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/template.py" />
         <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/solution.py" />
         <option value="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/solution.py" />
         <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/solution_1.py" />
@@ -138,6 +124,8 @@
         <option value="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage/solution.py" />
         <option value="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/template.py" />
         <option value="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution.py" />
+        <option value="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/template.py" />
+        <option value="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/solution.py" />
       </list>
     </option>
   </component>
@@ -181,7 +169,13 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="1.BasicDataTypes" type="462c0819:PsiDirectoryNode" />
-              <item name="0.Lists" type="462c0819:PsiDirectoryNode" />
+              <item name="4.ListComprehensions" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="1.BasicDataTypes" type="462c0819:PsiDirectoryNode" />
+              <item name="5.Tuples" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -220,26 +214,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution (5)">
-    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.DataStructures/0.ArraysDS" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.solution">
     <configuration name="solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -316,20 +291,39 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
+    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <list>
-      <item itemvalue="Python.solution (1)" />
       <item itemvalue="Python.solution (2)" />
       <item itemvalue="Python.solution (3)" />
       <item itemvalue="Python.solution (4)" />
       <item itemvalue="Python.solution (5)" />
+      <item itemvalue="Python.solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution" />
         <item itemvalue="Python.solution (5)" />
         <item itemvalue="Python.solution (4)" />
         <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution (2)" />
-        <item itemvalue="Python.solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -355,9 +349,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.2768166" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2768166" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09422633" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09422633" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32921404" />
@@ -389,9 +383,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.DataStructures/0.ArraysDS/docs/problem.adoc" />
-    <entry file="file://$PROJECT_DIR$/1.DataStructures/0.ArraysDS/solution.py" />
-    <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/docs/problem.adoc" />
     <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/docs/problem.adoc" />
     <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/1.SimpleArraySum/docs/problem.adoc" />
     <entry file="file://$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/docs/problem.adoc" />
@@ -610,23 +601,47 @@
     <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/template.py">
+    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="30">
+          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
           <folding>
             <element signature="e#107#117#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution.py">
+    <entry file="file://$PROJECT_DIR$/template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#107#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/4.ListComprehensions/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="21" lean-forward="true" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
           <folding>
             <element signature="e#107#117#0" expanded="true" />
           </folding>
