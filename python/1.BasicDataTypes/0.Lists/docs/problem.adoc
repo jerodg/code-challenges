@@ -1,0 +1,58 @@
+:doctitle:
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 07, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty:
+:time-complexity:
+:required-knowledge:
+:advanced-knowledge:
+:solution-variability:
+:score:
+:keywords: python, {required-knowledge}, {advanced-knowledge}
+:summary:
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Learning
+
+== Tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+=== Deliverables
+==== Input
+===== Constraints
+==== Output
+===== Constraints
+=== Constraints
+=== Bonus
+
+== Improving the Problem
+
+== Improving the Template
+=== Convention
+.Missing
+* shebang
+* encoding
+* doc-comments
+
+=== Extraneous
+N/A
+
+=== Pep8
+* No new-line at end of file
+
+=== Syntax
+N/A
+
+== Reference
