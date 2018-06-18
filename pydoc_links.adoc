@@ -1,0 +1,21 @@
+
+= Input and Output
+https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* print
+
+https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
+* if, for, range, break, continue, else, pass, functions, default arguments, keyword arguments,
+
+https://docs.python.org/3.7/tutorial/datastructures.html[PyDocs - Data Structures]
+* list, dictionary
+
+https://docs.python.org/3.7/library/datatypes.html[PyDocs - Data Types]
+* dict, list, set, frozenset, tuple, str, bytes
+
+https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
+* boolean, comparisons, numeric types, iterator types, sequence types, set types
+
+https://docs.python.org/3.7/library/string.html[PyDocs - String]
+* string constants, string formatting, string templating
+
+https://docs.python.org/3.7/reference/expressions.html#binary-arithmetic-operations[PyDocs - Expressions/Binary Arithmetic Operations]
