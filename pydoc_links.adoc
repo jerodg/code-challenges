@@ -15,6 +15,9 @@ https://docs.python.org/3.7/library/datatypes.html[PyDocs - Data Types]
 https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
 * boolean, comparisons, numeric types, iterator types, sequence types, set types
 
+https://docs.python.org/3.7/library/functions.html[PyDocs - Built-in Functions]
+* hash
+
 https://docs.python.org/3.7/library/string.html[PyDocs - String]
 * string constants, string formatting, string templating
 
