@@ -26,6 +26,17 @@
 
 == Tutorial
 
+== The Problem
+// todo: state as agile story
+=== Objective
+=== Deliverables
+==== Input
+===== Constraints
+==== Output
+===== Constraints
+=== Constraints
+=== Bonus
+
 == Improving the Problem
 
 == Improving the Template
