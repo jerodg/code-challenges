@@ -7,7 +7,7 @@ https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
 * if, for, range, break, continue, else, pass, functions, default arguments, keyword arguments,
 
 https://docs.python.org/3.7/tutorial/datastructures.html[PyDocs - Data Structures]
-* list, dictionary
+* list, dictionary, comprehensions
 
 https://docs.python.org/3.7/library/datatypes.html[PyDocs - Data Types]
 * dict, list, set, frozenset, tuple, str, bytes
