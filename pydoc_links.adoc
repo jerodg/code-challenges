@@ -4,7 +4,7 @@ https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * print
 
 https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
-* if, for, range, break, continue, else, pass, functions, default arguments, keyword arguments,
+* if, for, range, break, continue, else, pass, functions, default arguments, keyword arguments, arbitrary argument lists
 
 https://docs.python.org/3.7/tutorial/datastructures.html[PyDocs - Data Structures]
 * list, dictionary, comprehensions
@@ -13,7 +13,7 @@ https://docs.python.org/3.7/library/datatypes.html[PyDocs - Data Types]
 * dict, list, set, frozenset, tuple, str, bytes
 
 https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
-* boolean, comparisons, numeric types, iterator types, sequence types, set types
+* boolean, comparisons, numeric types, iterator types, sequence types, set types, swapcase, split, join, str methods
 
 https://docs.python.org/3.7/library/functions.html[PyDocs - Built-in Functions]
 * hash
