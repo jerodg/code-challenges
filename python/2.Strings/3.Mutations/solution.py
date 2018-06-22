@@ -9,6 +9,8 @@ import traceback
 
 if __name__ == '__main__':
     try:
-        print(f'Hello {input()} {input()}! You just delved into python.')
+        string = input()
+        position, character = input().split()
+        print(string[:position] + character + string[position + 1:])
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))
