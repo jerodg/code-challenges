@@ -25,6 +25,7 @@
 == Learning
 
 == Tutorial
+// todo: tutorial
 
 == The Problem
 // todo: state as agile story
@@ -39,6 +40,7 @@
 === Breakdown
 
 == Improving the Problem
+// todo: improving the problem
 
 == Improving the Template
 === Convention
@@ -55,5 +57,8 @@ N/A
 
 === Syntax
 N/A
+
+== Improving the Tests
+// todo: improving the tests
 
 == Reference
