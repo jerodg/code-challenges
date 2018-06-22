@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Strings/3.Mutations/solution1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Strings/3.Mutations/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.Strings/2.WhatsYourName/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.Strings/2.WhatsYourName/template.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,7 +16,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python$solution__4_.coverage" NAME="solution (4) Coverage Results" MODIFIED="1529353660283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage" />
+    <SUITE FILE_PATH="coverage/python$solution__4_.coverage" NAME="solution (4) Coverage Results" MODIFIED="1529702133467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/3.Mutations" />
     <SUITE FILE_PATH="coverage/python$solution__3_.coverage" NAME="solution (3) Coverage Results" MODIFIED="1529700952733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/2.WhatsYourName" />
     <SUITE FILE_PATH="coverage/python$solution.coverage" NAME="solution Coverage Results" MODIFIED="1529357094947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples" />
     <SUITE FILE_PATH="coverage/python$solution__5_.coverage" NAME="solution (5) Coverage Results" MODIFIED="1529355597973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/0.Lists" />
@@ -24,10 +28,10 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py">
+            <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="225">
-                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+                <state relative-caret-position="135">
+                  <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
                   <folding>
                     <element signature="e#107#117#0" expanded="true" />
                   </folding>
@@ -36,8 +40,24 @@
             </entry>
           </file>
           <file leaf-file-name="solution1.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution1.py">
-              <provider selected="true" editor-type-id="text-editor" />
+            <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution1.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="375">
+                  <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+                  <folding>
+                    <element signature="e#109#119#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="solution2.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution2.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="8" selection-start-line="8" selection-end-line="8" />
+                </state>
+              </provider>
             </entry>
           </file>
         </leaf>
@@ -82,9 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/docs/problem.adoc" />
-        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/1.SimpleArraySum/docs/problem.adoc" />
-        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/docs/problem.adoc" />
         <option value="$PROJECT_DIR$/0.Introduction/0.SayHelloWorld/template.py" />
         <option value="$PROJECT_DIR$/0.Introduction/0.SayHelloWorld/solution.py" />
         <option value="$PROJECT_DIR$/template.py" />
@@ -133,6 +150,9 @@
         <option value="$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution5.py" />
         <option value="$PROJECT_DIR$/2.Strings/2.WhatsYourName/template.py" />
         <option value="$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py" />
+        <option value="$PROJECT_DIR$/2.Strings/3.Mutations/template.py" />
+        <option value="$PROJECT_DIR$/2.Strings/3.Mutations/solution1.py" />
+        <option value="$PROJECT_DIR$/2.Strings/3.Mutations/solution.py" />
       </list>
     </option>
   </component>
@@ -176,7 +196,7 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="2.Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="2.WhatsYourName" type="462c0819:PsiDirectoryNode" />
+              <item name="3.Mutations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -193,11 +213,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2.Strings/3.Mutations" />
       <recent name="$PROJECT_DIR$/2.Strings/2.WhatsYourName" />
       <recent name="$PROJECT_DIR$/2.Strings/1.SplitAndJoin" />
       <recent name="$PROJECT_DIR$/2.Strings" />
       <recent name="$PROJECT_DIR$/1.BasicDataTypes/0.Lists" />
-      <recent name="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2.Strings/0.SwapCase" />
@@ -216,7 +236,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution (3)">
+  <component name="RunManager" selected="Python.solution (4)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -274,7 +294,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="solution (5)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="solution (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -282,12 +302,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.BasicDataTypes/0.Lists" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.Strings/3.Mutations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Strings/3.Mutations/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -313,19 +333,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.solution (5)" />
       <item itemvalue="Python.solution" />
       <item itemvalue="Python.solution (1)" />
       <item itemvalue="Python.solution (2)" />
       <item itemvalue="Python.solution (3)" />
+      <item itemvalue="Python.solution (4)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (4)" />
         <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution" />
-        <item itemvalue="Python.solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -385,31 +405,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.Algorithms/0.Warmup/2.CompareTheTriplets/docs/problem.adoc" />
-    <entry file="file://$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.Introduction/0.SayHelloWorld/docs/problem.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="60">
-            <caret line="4" column="23" selection-start-line="4" selection-start-column="23" selection-end-line="4" selection-end-column="23" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/template/docs/problem.adoc">
       <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
         <state split_layout="SPLIT">
@@ -659,6 +654,43 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#107#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
+          <folding>
+            <element signature="e#109#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -669,13 +701,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py">
+    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="135">
+          <caret line="9" column="26" lean-forward="true" selection-start-line="9" selection-start-column="26" selection-end-line="9" selection-end-column="26" />
           <folding>
             <element signature="e#107#117#0" expanded="true" />
           </folding>
