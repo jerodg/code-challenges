@@ -1,0 +1,63 @@
+:doctitle: 2.Strings/2.WhatsYourName
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 22, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge: input and output, built-in types
+:advanced-knowledge:
+:solution-variability: 2
+:score: 10
+:keywords: python, {required-knowledge}, {advanced-knowledge}
+:summary: You are given the firstname and lastname of a person on two different lines. Your task is to read them and print.
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Learning
+* https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
+
+== Tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+=== Deliverables
+==== Input
+===== Constraints
+==== Output
+===== Constraints
+=== Constraints
+=== Bonus
+=== Breakdown
+
+== Improving the Problem
+
+== Improving the Template
+=== Convention
+.Missing
+* shebang
+* encoding
+* doc-comments
+
+=== Extraneous
+N/A
+
+=== Pep8
+* No new-line at end of file
+* Expecting two blank lines after function
+
+=== Syntax
+N/A
+
+== Reference
+https://www.hackerrank.com/challenges/whats-your-name[Hackerrank - What's Your Name]
