@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pydoc_links.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/../pydoc_links.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Strings/0.SwapCase/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.Strings/0.SwapCase/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Strings/0.SwapCase/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/2.Strings/0.SwapCase/template.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution1.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -21,7 +13,7 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/python$solution__4_.coverage" NAME="solution (4) Coverage Results" MODIFIED="1529353660283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage" />
-    <SUITE FILE_PATH="coverage/python$solution__3_.coverage" NAME="solution (3) Coverage Results" MODIFIED="1528994086622" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/2.NestedLists" />
+    <SUITE FILE_PATH="coverage/python$solution__3_.coverage" NAME="solution (3) Coverage Results" MODIFIED="1529700952733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/2.WhatsYourName" />
     <SUITE FILE_PATH="coverage/python$solution.coverage" NAME="solution Coverage Results" MODIFIED="1529357094947" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples" />
     <SUITE FILE_PATH="coverage/python$solution__5_.coverage" NAME="solution (5) Coverage Results" MODIFIED="1529355597973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1.BasicDataTypes/0.Lists" />
     <SUITE FILE_PATH="coverage/python$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1529621329263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/0.SwapCase" />
@@ -31,11 +23,11 @@
     <splitter split-orientation="horizontal" split-proportion="0.49872515">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution.py">
+          <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="255">
-                  <caret line="17" selection-start-line="17" selection-end-line="17" />
+                <state relative-caret-position="225">
+                  <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
                   <folding>
                     <element signature="e#107#117#0" expanded="true" />
                   </folding>
@@ -43,35 +35,8 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="solution3.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution3.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="150">
-                  <caret line="11" selection-start-line="11" selection-end-line="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="solution5.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution5.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="240">
-                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="solution2.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution2.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="solution1.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution1.py">
+            <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution1.py">
               <provider selected="true" editor-type-id="text-editor" />
             </entry>
           </file>
@@ -83,7 +48,7 @@
             <entry file="file://$PROJECT_DIR$/template.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="210">
-                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
                   <folding>
                     <element signature="e#107#117#0" expanded="true" />
                   </folding>
@@ -117,8 +82,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.DataStructures/0.ArraysDS/docs/problem.adoc" />
-        <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/3.AVeryBigSum/docs/problem.adoc" />
         <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/2.CompareTheTriplets/docs/problem.adoc" />
         <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/1.SimpleArraySum/docs/problem.adoc" />
         <option value="$PROJECT_DIR$/0.Algorithms/0.Warmup/0.SolveMeFirst/docs/problem.adoc" />
@@ -168,6 +131,8 @@
         <option value="$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution.py" />
         <option value="$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution3.py" />
         <option value="$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution5.py" />
+        <option value="$PROJECT_DIR$/2.Strings/2.WhatsYourName/template.py" />
+        <option value="$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py" />
       </list>
     </option>
   </component>
@@ -211,13 +176,7 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="2.Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="0.SwapCase" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2.Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="1.SplitAndJoin" type="462c0819:PsiDirectoryNode" />
+              <item name="2.WhatsYourName" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -234,11 +193,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2.Strings/2.WhatsYourName" />
       <recent name="$PROJECT_DIR$/2.Strings/1.SplitAndJoin" />
       <recent name="$PROJECT_DIR$/2.Strings" />
       <recent name="$PROJECT_DIR$/1.BasicDataTypes/0.Lists" />
       <recent name="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage" />
-      <recent name="$PROJECT_DIR$/1.BasicDataTypes/2.NestedLists" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2.Strings/0.SwapCase" />
@@ -257,7 +216,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution (2)">
+  <component name="RunManager" selected="Python.solution (3)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -296,7 +255,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="solution (4)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -304,12 +263,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.Strings/2.WhatsYourName" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -354,19 +313,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.solution (4)" />
       <item itemvalue="Python.solution (5)" />
       <item itemvalue="Python.solution" />
       <item itemvalue="Python.solution (1)" />
       <item itemvalue="Python.solution (2)" />
+      <item itemvalue="Python.solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python.solution (5)" />
-        <item itemvalue="Python.solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -426,30 +385,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0.Introduction/1.IfElse/solution2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="2" column="26" selection-start-line="2" selection-start-column="26" selection-end-line="2" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.Introduction/1.IfElse/docs/problem.adoc">
-      <provider selected="true" editor-type-id="split-provider[text-editor;AsciiDocPreviewEditor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="65">
-            <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/0.Introduction/1.IfElse/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.Algorithms/0.Warmup/2.CompareTheTriplets/docs/problem.adoc" />
     <entry file="file://$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/template.py">
       <provider selected="true" editor-type-id="text-editor">
@@ -676,16 +611,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#107#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.Strings/0.SwapCase/solution.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="405">
@@ -703,13 +628,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution.py">
+    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution5.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#107#117#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="210">
+          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
         </state>
       </provider>
     </entry>
@@ -720,10 +642,43 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution5.py">
+    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        <state relative-caret-position="105">
+          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
+          <folding>
+            <element signature="e#107#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#107#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#107#117#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
