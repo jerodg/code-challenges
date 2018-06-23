@@ -1,0 +1,71 @@
+:doctitle: 2.Strings/5.StringValidators
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 23, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge: input and output, control flow, built-in types, data structures
+:solution-variability: 3
+:score: 10
+:keywords: python, {required-knowledge}
+:summary: Python has built-in string validation methods for basic data. It can check if a string is composed of alphabetical characters, alphanumeric characters, digits, etc.
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Learning
+* https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
+* https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
+* https://docs.python.org/3.7/tutorial/datastructures.html[PyDocs - Data Structures]
+
+== Tutorial
+// todo: tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+=== Deliverables
+==== Input
+===== Constraints
+==== Output
+===== Constraints
+=== Constraints
+=== Bonus
+=== Breakdown
+
+== Improving the Problem
+// todo: improving the problem
+
+== Improving the Template
+=== Convention
+.Missing
+* shebang
+* encoding
+* doc-comments
+
+=== Extraneous
+N/A
+
+=== Pep8
+* No new-line at end of file
+
+=== Syntax
+N/A
+
+== Improving the Tests
+// todo: improving the tests
+
+== Reference
+* https://www.hackerrank.com/challenges/string-validators[Hackerrank - String Validators]
+* https://www.hackerrank.com/itsbruce?hr_r=1[Hackerrank - Comment]
+* https://www.hackerrank.com/yuanster?hr_r=1[Hackerrank - Comment]
+* https://www.hackerrank.com/harishbisht?hr_r=1[Hackerrank - Comment]
