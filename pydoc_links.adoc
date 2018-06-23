@@ -22,3 +22,6 @@ https://docs.python.org/3.7/library/string.html[PyDocs - String]
 * string constants, string formatting, string templating
 
 https://docs.python.org/3.7/reference/expressions.html#binary-arithmetic-operations[PyDocs - Expressions/Binary Arithmetic Operations]
+
+https://docs.python.org/3.7/library/re.html[PyDocs - Regular Expression Operations]
+* regex
