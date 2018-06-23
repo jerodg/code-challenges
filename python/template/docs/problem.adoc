@@ -8,10 +8,9 @@
 :difficulty:
 :time-complexity:
 :required-knowledge:
-:advanced-knowledge:
 :solution-variability:
 :score:
-:keywords: python, {required-knowledge}, {advanced-knowledge}
+:keywords: python, {required-knowledge}
 :summary:
 
 :doctype: article
