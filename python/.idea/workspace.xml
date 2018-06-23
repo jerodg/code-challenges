@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2.Strings/4.FindAString/solution1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Strings/4.FindAString/solution2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Strings/4.FindAString/solution3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Strings/4.FindAString/solution4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Strings/4.FindAString/solution5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Strings/5.StringValidators/solution1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.Strings/5.StringValidators/solution2.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -28,34 +25,46 @@
     <splitter split-orientation="horizontal" split-proportion="0.49872515">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution.py">
+          <file leaf-file-name="template.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/template.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="270">
-                  <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+                <state relative-caret-position="15">
+                  <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="255">
+                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
                   <folding>
-                    <element signature="e#109#118#0" expanded="true" />
+                    <element signature="e#107#117#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="solution1.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution1.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="165">
+                  <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+                  <folding>
+                    <element signature="e#109#119#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
             </entry>
           </file>
           <file leaf-file-name="solution2.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution2.py">
+            <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution2.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="6" selection-start-line="6" selection-end-line="6" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="solution1.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution1.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="75">
-                  <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+                <state relative-caret-position="165">
+                  <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
                   <folding>
-                    <element signature="e#109#118#0" expanded="true" />
+                    <element signature="e#109#119#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -69,19 +78,10 @@
             <entry file="file://$PROJECT_DIR$/template.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="210">
-                  <caret line="14" selection-start-line="14" selection-end-line="14" />
+                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
                   <folding>
                     <element signature="e#107#117#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="template.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2.Strings/0.SwapCase/template.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="90">
-                  <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
                 </state>
               </provider>
             </entry>
@@ -103,10 +103,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/0.Introduction/1.IfElse/solution2.py" />
-        <option value="$PROJECT_DIR$/0.Introduction/1.IfElse/solution.py" />
-        <option value="$PROJECT_DIR$/0.Introduction/1.IfElse/docs/problem.adoc" />
-        <option value="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/template.py" />
         <option value="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/solution.py" />
         <option value="$PROJECT_DIR$/0.Introduction/2.ArithmeticOperators/docs/problem.adoc" />
         <option value="$PROJECT_DIR$/0.Introduction/3.Division/solution.py" />
@@ -154,6 +150,10 @@
         <option value="$PROJECT_DIR$/2.Strings/4.FindAString/solution2.py" />
         <option value="$PROJECT_DIR$/2.Strings/4.FindAString/solution.py" />
         <option value="$PROJECT_DIR$/2.Strings/4.FindAString/solution1.py" />
+        <option value="$PROJECT_DIR$/2.Strings/5.StringValidators/template.py" />
+        <option value="$PROJECT_DIR$/2.Strings/5.StringValidators/solution.py" />
+        <option value="$PROJECT_DIR$/2.Strings/5.StringValidators/solution1.py" />
+        <option value="$PROJECT_DIR$/2.Strings/5.StringValidators/solution2.py" />
       </list>
     </option>
   </component>
@@ -197,7 +197,7 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="2.Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="4.FindAString" type="462c0819:PsiDirectoryNode" />
+              <item name="5.StringValidators" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -214,11 +214,11 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2.Strings/5.StringValidators" />
       <recent name="$PROJECT_DIR$/2.Strings/4.FindAString" />
       <recent name="$PROJECT_DIR$/2.Strings/3.Mutations" />
       <recent name="$PROJECT_DIR$/2.Strings/2.WhatsYourName" />
       <recent name="$PROJECT_DIR$/2.Strings/1.SplitAndJoin" />
-      <recent name="$PROJECT_DIR$/2.Strings" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/2.Strings/0.SwapCase" />
@@ -406,10 +406,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/0.Introduction/4.Loops/solution1.py" />
-    <entry file="file://$PROJECT_DIR$/0.Introduction/5.PrintFunction/solution.py" />
-    <entry file="file://$PROJECT_DIR$/0.Introduction/5.PrintFunction/solution1.py" />
-    <entry file="file://$PROJECT_DIR$/0.Introduction/6.ListComprehensions/template.py" />
     <entry file="file://$PROJECT_DIR$/0.Introduction/6.ListComprehensions/solution1.py" />
     <entry file="file://$PROJECT_DIR$/0.Introduction/6.ListComprehensions/solution2.py" />
     <entry file="file://$PROJECT_DIR$/0.Introduction/6.ListComprehensions/solution.py" />
@@ -693,16 +689,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-          <folding>
-            <element signature="e#107#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution5.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -730,13 +716,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution.py">
+    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding>
-            <element signature="e#109#118#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -747,12 +730,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution1.py">
+    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+        <state relative-caret-position="300">
+          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
           <folding>
             <element signature="e#109#118#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="e#107#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#109#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="e#109#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#107#117#0" expanded="true" />
           </folding>
         </state>
       </provider>
