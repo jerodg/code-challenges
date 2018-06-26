@@ -18,22 +18,15 @@
 :sectlinks:
 :sectnums:
 :toc:
-:copyright:  ​​​‌‌‎‏​​​​‍​​​​​​
-‏‍​​​​​‎‏‏​​​​‌‏‌​​​
-​‎‏‏​​​​‏‍‌​​​​‏‌‏
-
 
 {summary}
 
 == Learning
-{copyright}
 
 == Tutorial
-{copyright}
 // todo: tutorial
 
 == The Problem
-{copyright}
 // todo: state as agile story
 === Objective
 === Deliverables
@@ -46,11 +39,9 @@
 === Breakdown
 
 == Improving the Problem
-{copyright}
 // todo: improving the problem
 
 == Improving the Template
-{copyright}
 === Convention
 .Missing
 * shebang
@@ -67,8 +58,6 @@ N/A
 N/A
 
 == Improving the Tests
-{copyright}
 // todo: improving the tests
 
 == Reference
-{copyright}
