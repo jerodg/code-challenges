@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2.Strings/7.TextWrap/solution1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Strings/7.TextWrap/solution2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Strings/7.TextWrap/solution3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.Strings/7.TextWrap/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../pydoc_links.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/../pydoc_links.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/2.Strings/6.TextAlignment/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/2.Strings/6.TextAlignment/docs/problem.adoc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/docs/problem.adoc" beforeDir="false" afterPath="$PROJECT_DIR$/template/docs/problem.adoc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2.Strings/7.TextWrap/test.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -46,7 +39,7 @@
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="solution1.py" pinned="false" current-in-tab="false">
+          <file leaf-file-name="solution1.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/solution1.py">
               <provider selected="true" editor-type-id="text-editor">
                 <state relative-caret-position="465">
@@ -54,15 +47,6 @@
                   <folding>
                     <element signature="e#109#119#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="test.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/test.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
                 </state>
               </provider>
             </entry>
@@ -393,9 +377,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2768166" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2768166" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09422633" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09422633" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32921404" />
@@ -822,6 +806,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/solution1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="465">
@@ -829,13 +820,6 @@
           <folding>
             <element signature="e#109#119#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
         </state>
       </provider>
     </entry>
