@@ -18,8 +18,8 @@ https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
 https://docs.python.org/3.7/library/functions.html[PyDocs - Built-in Functions]
 * hash
 
-https://docs.python.org/3.7/library/string.html[PyDocs - String]
-* string constants, string formatting, string templating
+https://docs.python.org/3.7/library/string.html[PyDocs - Common String Operations]
+* string constants, string formatting, string templating, ljust, rjust, center
 
 https://docs.python.org/3.7/reference/expressions.html#binary-arithmetic-operations[PyDocs - Expressions/Binary Arithmetic Operations]
 
