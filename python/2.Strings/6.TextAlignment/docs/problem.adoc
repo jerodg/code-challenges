@@ -66,3 +66,4 @@ N/A
 // todo: improving the tests
 
 == Reference
+* https://www.hackerrank.com/challenges/text-alignment[Hackerrank - Text Alignment]

@@ -25,3 +25,12 @@ https://docs.python.org/3.7/reference/expressions.html#binary-arithmetic-operati
 
 https://docs.python.org/3.7/library/re.html[PyDocs - Regular Expression Operations]
 * regex
+
+https://docs.python.org/3.5/library/textwrap.html[PyDocs - Textwrap]
+* textwrap
+
+https://docs.python.org/3.5/library/functools.html[PyDocs - Functools]
+* functools
+
+https://docs.python.org/3.7/library/io.html[PyDocs - IO]
+* stringio, textio, binaryio
