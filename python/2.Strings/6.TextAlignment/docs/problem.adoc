@@ -1,39 +1,35 @@
-:doctitle:
+:doctitle: 2.Strings/6.TextAlignment
 :author: Jerod Gawne
 :email: jerodgawne@gmail.com
-:docdate: June 07, 2018
+:docdate: June 26, 2018
 :revdate: {docdatetime}
 :src-uri: https://github.com/jerodg/hackerrank
 
-:difficulty:
-:time-complexity:
-:required-knowledge:
-:solution-variability:
-:score:
+:difficulty: easy
+:time-complexity: low
+:required-knowledge: input and output, control flow, common string operations
+:solution-variability: 1
+:score: 10
 :keywords: python, {required-knowledge}
-:summary:
+:summary: In Python, a string of text can be aligned left, right and center.
 
 :doctype: article
 :sectanchors:
 :sectlinks:
 :sectnums:
 :toc:
-:copyright:  ​​​‌‌‎‏​​​​‍​​​​​​
-‏‍​​​​​‎‏‏​​​​‌‏‌​​​
-​‎‏‏​​​​‏‍‌​​​​‏‌‏
-
 
 {summary}
 
 == Learning
-{copyright}
+* https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
+* https://docs.python.org/3.7/library/string.html[PyDocs - Common String Operations]
 
 == Tutorial
-{copyright}
 // todo: tutorial
 
 == The Problem
-{copyright}
 // todo: state as agile story
 === Objective
 === Deliverables
@@ -46,16 +42,16 @@
 === Breakdown
 
 == Improving the Problem
-{copyright}
 // todo: improving the problem
+The sample output is not properly formatted and causes the alignment to be off.
 
 == Improving the Template
-{copyright}
 === Convention
 .Missing
 * shebang
 * encoding
 * doc-comments
+* if __name__ == '__main__'
 
 === Extraneous
 N/A
@@ -67,8 +63,6 @@ N/A
 N/A
 
 == Improving the Tests
-{copyright}
 // todo: improving the tests
 
 == Reference
-{copyright}
