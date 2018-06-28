@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -28,25 +25,13 @@
     <splitter split-orientation="horizontal" split-proportion="0.49872515">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution.py">
+          <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/2.Strings/11.Capitalize/solution.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="555">
-                  <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+                <state relative-caret-position="405">
+                  <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
                   <folding>
-                    <element signature="e#109#122#0" expanded="true" />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file leaf-file-name="solution1.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution1.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-                  <folding>
-                    <element signature="e#109#119#0" expanded="true" />
+                    <element signature="e#107#117#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -85,8 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.BasicDataTypes/1.FindTheRunnerUpScore/template.py" />
-        <option value="$PROJECT_DIR$/1.BasicDataTypes/1.FindTheRunnerUpScore/solution.py" />
         <option value="$PROJECT_DIR$/1.BasicDataTypes/2.NestedLists/template.py" />
         <option value="$PROJECT_DIR$/1.BasicDataTypes/2.NestedLists/solution.py" />
         <option value="$PROJECT_DIR$/1.BasicDataTypes/2.NestedLists/solution1.py" />
@@ -136,6 +119,8 @@
         <option value="$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/template.py" />
         <option value="$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution.py" />
         <option value="$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution1.py" />
+        <option value="$PROJECT_DIR$/2.Strings/11.Capitalize/template.py" />
+        <option value="$PROJECT_DIR$/2.Strings/11.Capitalize/solution.py" />
       </list>
     </option>
   </component>
@@ -179,7 +164,7 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="2.Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="10.AlphabetRangoli" type="462c0819:PsiDirectoryNode" />
+              <item name="11.Capitalize" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -388,12 +373,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -783,6 +762,36 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
+          <folding>
+            <element signature="e#109#119#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/11.Capitalize/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <element signature="e#16#27#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+          <folding>
+            <element signature="e#109#122#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -793,22 +802,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution.py">
+    <entry file="file://$PROJECT_DIR$/2.Strings/11.Capitalize/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="26" lean-forward="true" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
+        <state relative-caret-position="405">
+          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
           <folding>
-            <element signature="e#109#122#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-          <folding>
-            <element signature="e#109#119#0" expanded="true" />
+            <element signature="e#107#117#0" expanded="true" />
           </folding>
         </state>
       </provider>
