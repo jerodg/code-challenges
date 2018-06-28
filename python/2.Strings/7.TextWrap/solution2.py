@@ -4,8 +4,6 @@
 
 https://github.com/jerodg/hackerrank
 """
-import functools
-import io
 import sys
 import traceback
 
