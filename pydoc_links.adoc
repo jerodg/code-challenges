@@ -34,3 +34,6 @@ https://docs.python.org/3.5/library/functools.html[PyDocs - Functools]
 
 https://docs.python.org/3.7/library/io.html[PyDocs - IO]
 * stringio, textio, binaryio
+
+https://docs.python.org/3.5/library/itertools.html[PyDocs - Itertools]
+* itertools

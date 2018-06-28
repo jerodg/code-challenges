@@ -18,7 +18,7 @@
     <SUITE FILE_PATH="coverage/python$solution__3_.coverage" NAME="solution (3) Coverage Results" MODIFIED="1529700952733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/2.WhatsYourName" />
     <SUITE FILE_PATH="coverage/python$solution.coverage" NAME="solution Coverage Results" MODIFIED="1530199032716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/8.DesignerDoorMat" />
     <SUITE FILE_PATH="coverage/python$solution__5_.coverage" NAME="solution (5) Coverage Results" MODIFIED="1530024808809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/6.TextAlignment" />
-    <SUITE FILE_PATH="coverage/python$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1529621329263" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/0.SwapCase" />
+    <SUITE FILE_PATH="coverage/python$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1530205187887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/12.TheMinionGame" />
     <SUITE FILE_PATH="coverage/python$solution__2_.coverage" NAME="solution (2) Coverage Results" MODIFIED="1529622297390" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/1.SplitAndJoin" />
   </component>
   <component name="FileEditorManager">
@@ -26,12 +26,12 @@
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/2.Strings/11.Capitalize/solution.py">
+            <entry file="file://$PROJECT_DIR$/2.Strings/12.TheMinionGame/solution.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="405">
-                  <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+                <state relative-caret-position="360">
+                  <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
                   <folding>
-                    <element signature="e#107#117#0" expanded="true" />
+                    <element signature="e#109#125#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -70,8 +70,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.BasicDataTypes/2.NestedLists/template.py" />
-        <option value="$PROJECT_DIR$/1.BasicDataTypes/2.NestedLists/solution.py" />
         <option value="$PROJECT_DIR$/1.BasicDataTypes/2.NestedLists/solution1.py" />
         <option value="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage/template.py" />
         <option value="$PROJECT_DIR$/1.BasicDataTypes/3.FindingThePercentage/solution2.py" />
@@ -121,6 +119,8 @@
         <option value="$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution1.py" />
         <option value="$PROJECT_DIR$/2.Strings/11.Capitalize/template.py" />
         <option value="$PROJECT_DIR$/2.Strings/11.Capitalize/solution.py" />
+        <option value="$PROJECT_DIR$/2.Strings/12.TheMinionGame/template.py" />
+        <option value="$PROJECT_DIR$/2.Strings/12.TheMinionGame/solution.py" />
       </list>
     </option>
   </component>
@@ -164,7 +164,7 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="2.Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="11.Capitalize" type="462c0819:PsiDirectoryNode" />
+              <item name="12.TheMinionGame" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -204,7 +204,26 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution">
+  <component name="RunManager" selected="Python.solution (1)">
+    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.Strings/12.TheMinionGame" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Strings/12.TheMinionGame/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
     <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -238,25 +257,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Strings/7.TextWrap/solution1.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
-    <configuration name="solution1" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.Strings/6.TextAlignment" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Strings/6.TextAlignment/solution1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -301,19 +301,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.solution1" />
       <item itemvalue="Python.solution1 (1)" />
       <item itemvalue="Python.test" />
       <item itemvalue="Python.solution3" />
       <item itemvalue="Python.solution" />
+      <item itemvalue="Python.solution (1)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (1)" />
         <item itemvalue="Python.solution" />
         <item itemvalue="Python.test" />
         <item itemvalue="Python.solution3" />
         <item itemvalue="Python.solution1 (1)" />
-        <item itemvalue="Python.solution1" />
       </list>
     </recent_temporary>
   </component>
@@ -339,9 +339,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2768166" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2768166" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.09422633" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.09422633" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32921404" />
@@ -373,23 +373,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="44" selection-start-line="2" selection-start-column="44" selection-end-line="2" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-          <folding>
-            <element signature="e#107#117#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/2.Strings/0.SwapCase/template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="90">
@@ -792,6 +775,26 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/12.TheMinionGame/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
+          <folding>
+            <marker date="1530202686000" expanded="true" signature="24:29" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/11.Capitalize/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
+          <folding>
+            <element signature="e#107#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
@@ -802,12 +805,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/11.Capitalize/solution.py">
+    <entry file="file://$PROJECT_DIR$/2.Strings/12.TheMinionGame/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="26" lean-forward="true" selection-start-line="27" selection-start-column="26" selection-end-line="27" selection-end-column="26" />
+        <state relative-caret-position="360">
+          <caret line="24" column="34" lean-forward="true" selection-start-line="24" selection-start-column="34" selection-end-line="24" selection-end-column="34" />
           <folding>
-            <element signature="e#107#117#0" expanded="true" />
+            <element signature="e#109#125#0" expanded="true" />
           </folding>
         </state>
       </provider>
