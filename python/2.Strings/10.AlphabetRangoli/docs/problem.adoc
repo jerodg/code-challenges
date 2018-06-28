@@ -1,4 +1,4 @@
-:doctitle: 2.Strings/9.StringFormatting
+:doctitle: 2.Strings/10.AlphabetRangoli
 :author: Jerod Gawne
 :email: jerodgawne@gmail.com
 :docdate: June 28, 2018
@@ -6,12 +6,12 @@
 :src-uri: https://github.com/jerodg/hackerrank
 
 :difficulty: easy
-:time-complexity: low
-:required-knowledge: input and output, control flow, common string operations
-:solution-variability: 1
-:score: 10
+:time-complexity: moderate
+:required-knowledge: input and output, control flow, data structures, common string operations
+:solution-variability: 2
+:score: 20
 :keywords: python, {required-knowledge}
-:summary: Given an integer, _n_ , print the following values for each integer _i_ from 1 to _n_
+:summary: You are given an integer, _N_. Your task is to print an alphabet rangoli of size _N_.
 
 :doctype: article
 :sectanchors:
@@ -24,6 +24,7 @@
 == Learning
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
+* https://docs.python.org/3.7/tutorial/datastructures.html[PyDocs - Data Structures]
 * https://docs.python.org/3.7/library/string.html[PyDocs - Common String Operations]
 
 == Tutorial
@@ -66,4 +67,6 @@ N/A
 // todo: improving the tests
 
 == Reference
-* https://www.hackerrank.com/challenges/python-string-formatting[Hackerrank - String Formatting]
+* https://www.hackerrank.com/challenges/alphabet-rangoli[Hackerrank - Alphabet Rangoli]
+* https://www.hackerrank.com/challenges/alphabet-rangoli/forum/comments/208741[Hackerrank - Comment]
+* https://www.hackerrank.com/challenges/alphabet-rangoli/forum/comments/254211[Hackerrank - Comment]
