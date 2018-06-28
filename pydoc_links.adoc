@@ -19,7 +19,7 @@ https://docs.python.org/3.7/library/functions.html[PyDocs - Built-in Functions]
 * hash, map
 
 https://docs.python.org/3.7/library/string.html[PyDocs - Common String Operations]
-* string constants, string formatting, string templating, ljust, rjust, center
+* string constants, string formatting, string templating, ljust, rjust, center, capitalize
 
 https://docs.python.org/3.7/reference/expressions.html#binary-arithmetic-operations[PyDocs - Expressions/Binary Arithmetic Operations]
 
