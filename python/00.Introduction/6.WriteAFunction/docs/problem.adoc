@@ -1,0 +1,88 @@
+:doctitle: 0.Introduction/6.WriteAFunction
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 11, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: medium
+:time-complexity: low
+:required-knowledge: functions, print, input, if-else
+:advanced-knowledge: modulo, binary arithmetic operations
+:solution-variability: 2
+:score: 10
+:keywords: python, {required-knowledge}, {advanced-knowledge}
+:summary:
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Learning
+* https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
+* https://docs.python.org/3/tutorial/controlflow.html#defining-functions[PyDocs - Control Flow/Defining Functions]
+* https://docs.python.org/3.7/reference/expressions.html#binary-arithmetic-operations[PyDocs - Expressions/Binary Arithmetic Operations]
+
+== Tutorial
+// todo: improve tutorial
+
+TIP: Order of operator precedence: not > and > or. This defines the order in
+which the interpreter evaluates expressions.
+
+For the learners: you should know that doing something like the setup for this
+challenge inclines you to do is a bad practice. 
+
+.Please, No!
+[source,python,linenums]
+def f():
+  if condition:
+    return True
+  else:
+    return False
+
+This is simply unnecessary. You are returning a boolean, so why even use if
+blocks in the first place?
+
+.A Better Approach
+[source,python,linenums]
+def f():
+	return condition
+
+Because this already evaluates as a boolean. So in this challenge, forget about
+ifs and elses, and that leap variable.
+
+// todo: this is the answer and needs to be replaced
+.Just do the following
+[source,python,linenums]
+def is_leap(year):
+    return year % 4 == 0 and (year % 400 == 0 or year % 100 != 0)
+
+NOTE: Don't be redundant, be https://en.wikipedia.org/wiki/Don%27t_repeat_yourself[DRY (Don't Repeat Yourself)].
+
+== Improving the Template
+=== Convention
+.Missing
+* shebang
+* encoding
+* doc-comments
+* type-hinting for function return
+
+=== Extraneous
+.Unnecessary variable definition
+* Since *_year_* is only being used once we don't need to assign it to a variable
+first
+
+=== Pep8
+* No new-line at end of file
+
+=== Syntax
+N/A
+
+== Reference
+* https://www.hackerrank.com/challenges/write-a-function[Hackerrank - Write a Function]
+* https://www.hackerrank.com/challenges/write-a-function/forum/comments/215243[Hackerrank - Comment by kpagcha]

@@ -1,0 +1,39 @@
+
+= Input and Output
+https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* print
+
+https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
+* if, for, range, break, continue, else, pass, functions, default arguments, keyword arguments, arbitrary argument lists
+
+https://docs.python.org/3.7/tutorial/datastructures.html[PyDocs - Data Structures]
+* list, dictionary, comprehensions, list indices
+
+https://docs.python.org/3.7/library/datatypes.html[PyDocs - Data Types]
+* dict, list, set, frozenset, tuple, str, bytes
+
+https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
+* boolean, comparisons, numeric types, iterator types, sequence types, set types, swapcase, split, join, str methods
+
+https://docs.python.org/3.7/library/functions.html[PyDocs - Built-in Functions]
+* hash, map
+
+https://docs.python.org/3.7/library/string.html[PyDocs - Common String Operations]
+* string constants, string formatting, string templating, ljust, rjust, center, capitalize
+
+https://docs.python.org/3.7/reference/expressions.html#binary-arithmetic-operations[PyDocs - Expressions/Binary Arithmetic Operations]
+
+https://docs.python.org/3.7/library/re.html[PyDocs - Regular Expression Operations]
+* regex
+
+https://docs.python.org/3.5/library/textwrap.html[PyDocs - Textwrap]
+* textwrap
+
+https://docs.python.org/3.5/library/functools.html[PyDocs - Functools]
+* functools
+
+https://docs.python.org/3.7/library/io.html[PyDocs - IO]
+* stringio, textio, binaryio
+
+https://docs.python.org/3.7/library/itertools.html[PyDocs - Itertools]
+* itertools
