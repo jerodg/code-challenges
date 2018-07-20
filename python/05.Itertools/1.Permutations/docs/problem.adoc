@@ -1,0 +1,68 @@
+:doctitle: 05.Itertools/1.Permutations
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: July 20, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge: input and output, itertools
+:solution-variability: 1
+:score: 10
+:keywords: python, {required-knowledge}
+:summary: You are given a string __S__. Your task is to print all possible permutations of size __k__ of the string in lexicographic sorted order.
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Learning
+* https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* https://docs.python.org/3.7/library/itertools.html[PyDocs - Itertools]
+
+== Tutorial
+// todo: tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+=== Deliverables
+==== Input
+===== Constraints
+==== Output
+===== Constraints
+=== Constraints
+=== Bonus
+=== Breakdown
+
+== Improving the Problem
+// todo: improving the problem
+Define lexographic and permutations.
+
+== Improving the Template
+=== Convention
+.Missing
+* shebang
+* encoding
+* doc-comments
+* if __name__ == '__main__':
+
+=== Extraneous
+N/A
+
+=== Pep8
+* No new-line at end of file
+
+=== Syntax
+N/A
+
+== Improving the Tests
+// todo: improving the tests
+
+== Reference
+* https://www.hackerrank.com/challenges/itertools-permutations[Hackerrank - Itertools Permutations]

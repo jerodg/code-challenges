@@ -1,0 +1,42 @@
+:doctitle: 0.Introduction/0.SayHelloWorld
+
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 08, 2018
+
+:description: Python, say hello world, easy, score 5
+:summary: Print Hello, World! to stdout.
+:keywords: python, print
+:src-uri:
+
+:revnumber: 1.0.0
+:revdate: June 08, 2018
+:revremark: initial
+
+:doctype: article
+:library: Asciidoctor
+:source-highlighter: highlight.js
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Improvements
+.Convention
+* Improve documentation through use of doc comments
+* Code formatting
+* Missing encoding
+* Missing shebang
+
+.Extraneous
+
+.Pep8
+
+.Syntax
+
+== Learning
+
+== Reference
+https://www.hackerrank.com/challenges/py-hello-world[Hackerrank - Say Hellow World]
