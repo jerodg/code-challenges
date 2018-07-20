@@ -1,0 +1,68 @@
+:doctitle: 5.Itertools/0.Product
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: July 20, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge: itertools
+:solution-variability: 1
+:score: 10
+:keywords: python, {required-knowledge}
+:summary: You are given a two lists __A__ and __B__. Your task is to compute their cartesian product __A__X__B__.
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Learning
+* https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* https://docs.python.org/3.7/library/itertools.html[PyDocs - Itertools]
+
+== Tutorial
+// todo: tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+=== Deliverables
+==== Input
+===== Constraints
+==== Output
+===== Constraints
+=== Constraints
+=== Bonus
+=== Breakdown
+
+== Improving the Problem
+// todo: improving the problem
+
+== Improving the Template
+=== Convention
+.Missing
+* shebang
+* encoding
+* doc-comments
+* if __name__ == '__main__':
+
+=== Extraneous
+N/A
+
+=== Pep8
+* No new-line at end of file
+
+=== Syntax
+N/A
+
+== Improving the Tests
+// todo: improving the tests
+
+== Reference
+* https://www.hackerrank.com/challenges/itertools-product[Hackerrank - Itertools Product]
+* https://stackoverflow.com/questions/19555472/change-a-string-of-integers-separated-by-spaces-to-a-list-of-int#19555487[StackOverflow - Comment]
