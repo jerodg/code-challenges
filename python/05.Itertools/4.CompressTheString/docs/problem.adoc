@@ -1,17 +1,17 @@
-:doctitle: 05.Itertools/3.CombinationsWithReplacement
+:doctitle: 05.Itertools/4.CompressTheString
 :author: Jerod Gawne
 :email: jerodgawne@gmail.com
 :docdate: July 24, 2018
 :revdate: {docdatetime}
 :src-uri: https://github.com/jerodg/hackerrank
 
-:difficulty: easy
-:time-complexity: low
+:difficulty: medium
+:time-complexity: moderate
 :required-knowledge: input and output, itertools
-:solution-variability: 1
-:score: 10
+:solution-variability: 3
+:score: 20
 :keywords: python, {required-knowledge}
-:summary: You are given a string __S__. Your task is to print all possible size __k__ replacement combinations of the string in lexicographic sorted order.
+:summary: In this task, we would like for you to appreciate the usefulness of the groupby() function of itertools.
 
 :doctype: article
 :sectanchors:
@@ -64,4 +64,6 @@ N/A
 // todo: improving the tests
 
 == Reference
-* https://www.hackerrank.com/challenges/itertools-combinations-with-replacement[Hackerrank - Itertools Combinations With Replacement]
+* https://www.hackerrank.com/challenges/compress-the-string[Hackerrank - Compress The String]
+* https://www.hackerrank.com/challenges/compress-the-string/forum/comments/170866[Hackerrank - Comment]
+* https://www.hackerrank.com/challenges/compress-the-string/forum/comments/239985[Hackerrank - Comment]
