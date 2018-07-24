@@ -16,12 +16,13 @@ https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
 * boolean, comparisons, numeric types, iterator types, sequence types, set types, swapcase, split, join, str methods
 
 https://docs.python.org/3.7/library/functions.html[PyDocs - Built-in Functions]
-* hash, map
+* hash, map, filter
 
 https://docs.python.org/3.7/library/string.html[PyDocs - Common String Operations]
 * string constants, string formatting, string templating, ljust, rjust, center, capitalize
 
-https://docs.python.org/3.7/reference/expressions.html#binary-arithmetic-operations[PyDocs - Expressions/Binary Arithmetic Operations]
+https://docs.python.org/3.7/reference/expressions.html[PyDocs - Expressions/Binary Arithmetic Operations]
+* lambda
 
 https://docs.python.org/3.7/library/re.html[PyDocs - Regular Expression Operations]
 * regex
