@@ -4,7 +4,6 @@
 
 https://github.com/jerodg/hackerrank
 """
-import itertools
 import sys
 import traceback
 

@@ -1,0 +1,10 @@
+A
+C
+H
+K
+AC
+AH
+AK
+CH
+CK
+HK

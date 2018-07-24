@@ -2,9 +2,86 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/2.Strings/13.MergeTheTools/solution1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/0.SayHelloWorld/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/0.SayHelloWorld/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/2.ArithmeticOperators/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/2.ArithmeticOperators/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/3.Division/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/3.Division/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/4.Loops/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/4.Loops/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/4.Loops/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/4.Loops/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/5.PrintFunction/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/5.PrintFunction/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/5.PrintFunction/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/5.PrintFunction/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/6.WriteAFunction/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/6.WriteAFunction/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/00.Introduction/6.WriteAFunction/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/6.WriteAFunction/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/1.FindTheRunnerUpScore/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/1.FindTheRunnerUpScore/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/2.NestedLists/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/2.NestedLists/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/2.NestedLists/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/2.NestedLists/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/3.FindingThePercentage/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/3.FindingThePercentage/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/3.FindingThePercentage/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/3.FindingThePercentage/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/5.Tuples/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/5.Tuples/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/00.SwapCase/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/00.SwapCase/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/00.SwapCase/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/00.SwapCase/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution3.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution5.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/02.WhatsYourName/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/02.WhatsYourName/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/02.WhatsYourName/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/02.WhatsYourName/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/03.Mutations/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/03.Mutations/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/03.Mutations/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/03.Mutations/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/03.Mutations/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/03.Mutations/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution3.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution4.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution5.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/06.TextAlignment/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/06.TextAlignment/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/06.TextAlignment/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/06.TextAlignment/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/06.TextAlignment/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/06.TextAlignment/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution3.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/08.DesignerDoorMat/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/08.DesignerDoorMat/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/08.DesignerDoorMat/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/08.DesignerDoorMat/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/09.StringFormatting/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/09.StringFormatting/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/09.StringFormatting/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/09.StringFormatting/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/11.Capitalize/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/11.Capitalize/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/11.Capitalize/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/11.Capitalize/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/12.TheMinionGame/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/12.TheMinionGame/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/12.TheMinionGame/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/12.TheMinionGame/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.Itertools/0.Product/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/05.Itertools/0.Product/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.Itertools/0.Product/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/05.Itertools/0.Product/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/05.Itertools/1.Permutations/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/05.Itertools/1.Permutations/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/0.SolveMeFirst/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/0.SolveMeFirst/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/0.SolveMeFirst/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/0.SolveMeFirst/solution1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/1.SimpleArraySum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/1.SimpleArraySum/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/2.CompareTheTriplets/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/2.CompareTheTriplets/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/2.CompareTheTriplets/solution_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/2.CompareTheTriplets/solution_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/3.AVeryBigSum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/3.AVeryBigSum/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/18.DataStructures/0.ArraysDS/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/18.DataStructures/0.ArraysDS/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/template.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -14,54 +91,36 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1530027900956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/7.TextWrap" />
-    <SUITE FILE_PATH="coverage/python$solution__4_.coverage" NAME="solution (4) Coverage Results" MODIFIED="1529702133467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/3.Mutations" />
-    <SUITE FILE_PATH="coverage/python$solution1.coverage" NAME="solution1 Coverage Results" MODIFIED="1531240689676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/13.MergeTheTools" />
     <SUITE FILE_PATH="coverage/python$solution1__1_.coverage" NAME="solution1 (1) Coverage Results" MODIFIED="1530026345307" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/7.TextWrap" />
+    <SUITE FILE_PATH="coverage/python$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1530205187887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/12.TheMinionGame" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1530027900956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/7.TextWrap" />
+    <SUITE FILE_PATH="coverage/python$solution__5_.coverage" NAME="solution (5) Coverage Results" MODIFIED="1530024808809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/6.TextAlignment" />
     <SUITE FILE_PATH="coverage/python$solution3.coverage" NAME="solution3 Coverage Results" MODIFIED="1530027779878" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/7.TextWrap" />
-    <SUITE FILE_PATH="coverage/python$solution__3_.coverage" NAME="solution (3) Coverage Results" MODIFIED="1529700952733" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/2.WhatsYourName" />
+    <SUITE FILE_PATH="coverage/python$solution__2_.coverage" NAME="solution (2) Coverage Results" MODIFIED="1531240404866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/13.MergeTheTools" />
+    <SUITE FILE_PATH="coverage/python$solution1.coverage" NAME="solution1 Coverage Results" MODIFIED="1531240689676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/13.MergeTheTools" />
+    <SUITE FILE_PATH="coverage/python$solution__4_.coverage" NAME="solution (4) Coverage Results" MODIFIED="1529702133467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/3.Mutations" />
     <SUITE FILE_PATH="coverage/python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1530552211595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$solution.coverage" NAME="solution Coverage Results" MODIFIED="1530199032716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/8.DesignerDoorMat" />
-    <SUITE FILE_PATH="coverage/python$solution__5_.coverage" NAME="solution (5) Coverage Results" MODIFIED="1530024808809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/6.TextAlignment" />
-    <SUITE FILE_PATH="coverage/python$solution__1_.coverage" NAME="solution (1) Coverage Results" MODIFIED="1530205187887" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/12.TheMinionGame" />
-    <SUITE FILE_PATH="coverage/python$solution__2_.coverage" NAME="solution (2) Coverage Results" MODIFIED="1531240404866" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/13.MergeTheTools" />
+    <SUITE FILE_PATH="coverage/python$solution__3_.coverage" NAME="solution (3) Coverage Results" MODIFIED="1532448467292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.Itertools/2.Combinations" />
   </component>
   <component name="FileEditorManager">
-    <splitter split-orientation="horizontal" split-proportion="0.49872515">
+    <splitter split-orientation="horizontal" split-proportion="0.6128093">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="template.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2.Strings/13.MergeTheTools/template.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="60">
-                  <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-                  <folding>
-                    <marker date="1531239392000" expanded="true" signature="31:36" ph="..." />
-                  </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
           <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/2.Strings/13.MergeTheTools/solution.py">
+            <entry file="file://$PROJECT_DIR$/05.Itertools/2.Combinations/solution.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="360">
-                  <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-                  <folding>
-                    <element signature="e#109#119#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="96">
+                  <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
                 </state>
               </provider>
             </entry>
           </file>
-          <file leaf-file-name="solution1.py" pinned="false" current-in-tab="false">
-            <entry file="file://$PROJECT_DIR$/2.Strings/13.MergeTheTools/solution1.py">
+          <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/05.Itertools/1.Permutations/solution.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-                  <folding>
-                    <element signature="e#109#127#0" expanded="true" />
-                  </folding>
+                <state relative-caret-position="156">
+                  <caret line="14" column="92" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="92" />
                 </state>
               </provider>
             </entry>
@@ -69,14 +128,14 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+        <leaf>
           <file leaf-file-name="template.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/template.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="210">
-                  <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+                <state relative-caret-position="180">
+                  <caret line="15" selection-start-line="15" selection-end-line="15" />
                   <folding>
-                    <element signature="e#107#117#0" expanded="true" />
+                    <element signature="e#107#123#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -99,8 +158,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/template.py" />
-        <option value="$PROJECT_DIR$/1.BasicDataTypes/0.Lists/solution.py" />
         <option value="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/template.py" />
         <option value="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/solution.py" />
         <option value="$PROJECT_DIR$/2.Strings/0.SwapCase/template.py" />
@@ -150,6 +207,8 @@
         <option value="$PROJECT_DIR$/2.Strings/13.MergeTheTools/template.py" />
         <option value="$PROJECT_DIR$/2.Strings/13.MergeTheTools/solution.py" />
         <option value="$PROJECT_DIR$/2.Strings/13.MergeTheTools/solution1.py" />
+        <option value="$PROJECT_DIR$/05.Itertools/2.Combinations/template.py" />
+        <option value="$PROJECT_DIR$/05.Itertools/2.Combinations/solution.py" />
       </list>
     </option>
   </component>
@@ -162,11 +221,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="4">
-    <option name="x" value="67" />
-    <option name="y" value="25" />
-    <option name="width" value="1887" />
-    <option name="height" value="2135" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="1911" />
+    <option name="y" value="50" />
+    <option name="width" value="1938" />
+    <option name="height" value="2119" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -187,13 +246,19 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2.Strings" type="462c0819:PsiDirectoryNode" />
+              <item name="05.Itertools" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="2.Strings" type="462c0819:PsiDirectoryNode" />
-              <item name="13.MergeTheTools" type="462c0819:PsiDirectoryNode" />
+              <item name="05.Itertools" type="462c0819:PsiDirectoryNode" />
+              <item name="1.Permutations" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="05.Itertools" type="462c0819:PsiDirectoryNode" />
+              <item name="2.Combinations" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,10 +268,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../code_tests" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.Python" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -233,7 +298,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution1">
+  <component name="RunManager" selected="Python.solution (3)">
     <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,7 +337,7 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <option name="MODULE_MODE" value="false" />
     </configuration>
-    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="solution (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -280,12 +345,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.Strings/8.DesignerDoorMat" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.Itertools/2.Combinations" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Strings/8.DesignerDoorMat/solution.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.Itertools/2.Combinations/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -330,19 +395,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.solution" />
       <item itemvalue="Python.solution (1)" />
       <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.solution (2)" />
       <item itemvalue="Python.solution1" />
+      <item itemvalue="Python.solution (3)" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution1" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.test (1)" />
         <item itemvalue="Python.solution (1)" />
-        <item itemvalue="Python.solution" />
       </list>
     </recent_temporary>
   </component>
@@ -360,7 +425,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="25" width="1887" height="2135" extended-state="4" />
+    <frame x="1530" y="40" width="1549" height="1694" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -368,22 +433,22 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.38222224" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3820367" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10810811" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.104885995" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32921404" />
       <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32921404" />
+      <window_info anchor="bottom" id="Message" order="0" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -402,364 +467,81 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/0.SwapCase/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="28" lean-forward="true" selection-start-line="28" selection-end-line="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="15" column="21" lean-forward="true" selection-start-line="15" selection-start-column="21" selection-end-line="15" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="67" selection-start-line="7" selection-start-column="67" selection-end-line="7" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="13" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="16" lean-forward="true" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution5.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution4.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="36" lean-forward="true" selection-start-line="4" selection-start-column="36" selection-end-line="4" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="10" lean-forward="true" selection-start-line="7" selection-start-column="10" selection-end-line="7" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="20" column="16" selection-start-line="20" selection-start-column="16" selection-end-line="20" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="15" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/6.TextAlignment/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/6.TextAlignment/solution1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="14" selection-start-line="1" selection-start-column="14" selection-end-line="1" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/6.TextAlignment/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="96" selection-start-line="28" selection-start-column="96" selection-end-line="28" selection-end-column="96" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="17" lean-forward="true" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/solution3.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="55" selection-start-line="22" selection-start-column="11" selection-end-line="22" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/solution2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="390">
-          <caret line="26" column="64" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution2.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution5.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution3.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution1.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/solution.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution1.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution2.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/3.Mutations/solution.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution5.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution4.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution3.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution1.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution2.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/4.FindAString/solution.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution1.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution2.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/5.StringValidators/solution.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/6.TextAlignment/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/6.TextAlignment/solution1.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/6.TextAlignment/solution.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/solution3.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/solution2.py" />
     <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/test.py" />
-    <entry file="file://$PROJECT_DIR$/2.Strings/8.DesignerDoorMat/template.py">
+    <entry file="file://$PROJECT_DIR$/2.Strings/8.DesignerDoorMat/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/solution1.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/solution.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/8.DesignerDoorMat/solution1.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/9.StringFormatting/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/8.DesignerDoorMat/solution.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/9.StringFormatting/solution.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution1.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/11.Capitalize/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/12.TheMinionGame/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/11.Capitalize/solution.py" />
+    <entry file="file://$PROJECT_DIR$/test.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/12.TheMinionGame/solution.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/13.MergeTheTools/template.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/13.MergeTheTools/solution1.py" />
+    <entry file="file://$PROJECT_DIR$/2.Strings/13.MergeTheTools/solution.py" />
+    <entry file="file://$PROJECT_DIR$/05.Itertools/2.Combinations/template.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="5" lean-forward="true" selection-start-column="5" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/solution1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/7.TextWrap/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/8.DesignerDoorMat/solution1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="48" selection-start-line="16" selection-start-column="48" selection-end-line="16" selection-end-column="48" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/9.StringFormatting/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/8.DesignerDoorMat/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="57" lean-forward="true" selection-start-line="15" selection-start-column="57" selection-end-line="15" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" selection-start-line="2" selection-end-line="4" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/9.StringFormatting/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="35" selection-start-line="29" selection-start-column="35" selection-end-line="29" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/11.Capitalize/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" lean-forward="true" selection-start-line="19" selection-end-line="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/10.AlphabetRangoli/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="555">
-          <caret line="37" column="26" selection-start-line="37" selection-start-column="26" selection-end-line="37" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/12.TheMinionGame/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/11.Capitalize/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="29" column="27" lean-forward="true" selection-start-line="29" selection-start-column="27" selection-end-line="29" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
-          <folding>
-            <element signature="e#70#80#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/12.TheMinionGame/solution.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" selection-start-line="9" selection-end-line="9" />
-          <folding>
-            <element signature="e#109#125#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/13.MergeTheTools/template.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="30" lean-forward="true" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-          <folding>
-            <marker date="1531239392000" expanded="true" signature="31:36" ph="..." />
-          </folding>
+          <caret column="18" lean-forward="true" selection-start-column="18" selection-end-column="18" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="180">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
           <folding>
-            <element signature="e#107#117#0" expanded="true" />
+            <element signature="e#107#123#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/13.MergeTheTools/solution1.py">
+    <entry file="file://$PROJECT_DIR$/05.Itertools/1.Permutations/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <element signature="e#109#127#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="156">
+          <caret line="14" column="92" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="92" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/2.Strings/13.MergeTheTools/solution.py">
+    <entry file="file://$PROJECT_DIR$/05.Itertools/2.Combinations/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
-          <folding>
-            <element signature="e#109#119#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="96">
+          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
         </state>
       </provider>
     </entry>
