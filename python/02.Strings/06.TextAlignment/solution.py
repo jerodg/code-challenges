@@ -31,6 +31,6 @@ if __name__ == '__main__':
         # Bottom Cone
         for i in range(thickness):
             print(((c * (thickness - i - 1)).rjust(thickness) + c + (c * (thickness - i - 1)).ljust(thickness)).rjust(
-                thickness * 6))
+                    thickness * 6))
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))
