@@ -2,86 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f1d39388-5b47-464c-a746-523d63ab2345" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/0.SayHelloWorld/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/0.SayHelloWorld/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/1.IfElse/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/2.ArithmeticOperators/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/2.ArithmeticOperators/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/3.Division/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/3.Division/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/4.Loops/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/4.Loops/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/4.Loops/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/4.Loops/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/5.PrintFunction/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/5.PrintFunction/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/5.PrintFunction/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/5.PrintFunction/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/6.WriteAFunction/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/6.WriteAFunction/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/00.Introduction/6.WriteAFunction/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/00.Introduction/6.WriteAFunction/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/0.Lists/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/1.FindTheRunnerUpScore/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/1.FindTheRunnerUpScore/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/2.NestedLists/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/2.NestedLists/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/2.NestedLists/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/2.NestedLists/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/3.FindingThePercentage/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/3.FindingThePercentage/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/3.FindingThePercentage/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/3.FindingThePercentage/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/4.ListComprehensions/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01.BasicDataTypes/5.Tuples/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/01.BasicDataTypes/5.Tuples/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/00.SwapCase/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/00.SwapCase/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/00.SwapCase/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/00.SwapCase/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution3.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution5.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/01.SplitAndJoin/solution5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/02.WhatsYourName/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/02.WhatsYourName/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/02.WhatsYourName/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/02.WhatsYourName/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/03.Mutations/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/03.Mutations/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/03.Mutations/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/03.Mutations/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/03.Mutations/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/03.Mutations/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution3.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution4.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/04.FindAString/solution5.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/04.FindAString/solution5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/05.StringValidators/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/06.TextAlignment/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/06.TextAlignment/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/06.TextAlignment/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/06.TextAlignment/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/06.TextAlignment/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/06.TextAlignment/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution2.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution3.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/07.TextWrap/solution3.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/08.DesignerDoorMat/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/08.DesignerDoorMat/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/08.DesignerDoorMat/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/08.DesignerDoorMat/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/09.StringFormatting/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/09.StringFormatting/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/09.StringFormatting/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/09.StringFormatting/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/10.AlphabetRangoli/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/11.Capitalize/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/11.Capitalize/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/11.Capitalize/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/11.Capitalize/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/12.TheMinionGame/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/12.TheMinionGame/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/12.TheMinionGame/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/12.TheMinionGame/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/02.Strings/13.MergeTheTools/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.Itertools/0.Product/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/05.Itertools/0.Product/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/05.Itertools/0.Product/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/05.Itertools/0.Product/template.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/05.Itertools/1.Permutations/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/05.Itertools/1.Permutations/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/0.SolveMeFirst/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/0.SolveMeFirst/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/0.SolveMeFirst/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/0.SolveMeFirst/solution1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/1.SimpleArraySum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/1.SimpleArraySum/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/2.CompareTheTriplets/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/2.CompareTheTriplets/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/2.CompareTheTriplets/solution_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/2.CompareTheTriplets/solution_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/17.Algorithms/0.Warmup/3.AVeryBigSum/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/17.Algorithms/0.Warmup/3.AVeryBigSum/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/18.DataStructures/0.ArraysDS/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/18.DataStructures/0.ArraysDS/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/template.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -100,18 +21,21 @@
     <SUITE FILE_PATH="coverage/python$solution1.coverage" NAME="solution1 Coverage Results" MODIFIED="1531240689676" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/13.MergeTheTools" />
     <SUITE FILE_PATH="coverage/python$solution__4_.coverage" NAME="solution (4) Coverage Results" MODIFIED="1529702133467" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/3.Mutations" />
     <SUITE FILE_PATH="coverage/python$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1530552211595" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$solution.coverage" NAME="solution Coverage Results" MODIFIED="1530199032716" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/2.Strings/8.DesignerDoorMat" />
+    <SUITE FILE_PATH="coverage/python$solution.coverage" NAME="solution Coverage Results" MODIFIED="1532450063183" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.Itertools/3.CombinationsWithReplacement" />
     <SUITE FILE_PATH="coverage/python$solution__3_.coverage" NAME="solution (3) Coverage Results" MODIFIED="1532448467292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/05.Itertools/2.Combinations" />
   </component>
   <component name="FileEditorManager">
     <splitter split-orientation="horizontal" split-proportion="0.6128093">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/05.Itertools/2.Combinations/solution.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="96">
-                  <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+                <state relative-caret-position="156">
+                  <caret line="13" column="103" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="103" />
+                  <folding>
+                    <element signature="e#109#125#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -119,8 +43,20 @@
           <file leaf-file-name="solution.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/05.Itertools/1.Permutations/solution.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="156">
-                  <caret line="14" column="92" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="92" />
+                <state relative-caret-position="60">
+                  <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="solution.py" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/05.Itertools/3.CombinationsWithReplacement/solution.py">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+                  <folding>
+                    <element signature="e#109#125#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
@@ -128,14 +64,14 @@
         </leaf>
       </split-first>
       <split-second>
-        <leaf>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
           <file leaf-file-name="template.py" pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/template.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="180">
-                  <caret line="15" selection-start-line="15" selection-end-line="15" />
+                <state relative-caret-position="168">
+                  <caret line="14" selection-start-line="14" selection-end-line="14" />
                   <folding>
-                    <element signature="e#107#123#0" expanded="true" />
+                    <element signature="e#107#117#0" expanded="true" />
                   </folding>
                 </state>
               </provider>
@@ -158,10 +94,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/template.py" />
-        <option value="$PROJECT_DIR$/1.BasicDataTypes/5.Tuples/solution.py" />
-        <option value="$PROJECT_DIR$/2.Strings/0.SwapCase/template.py" />
-        <option value="$PROJECT_DIR$/2.Strings/0.SwapCase/solution.py" />
         <option value="$PROJECT_DIR$/2.Strings/solution.py" />
         <option value="$PROJECT_DIR$/2.Strings/1.SplitAndJoin/template.py" />
         <option value="$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution.py" />
@@ -209,6 +141,10 @@
         <option value="$PROJECT_DIR$/2.Strings/13.MergeTheTools/solution1.py" />
         <option value="$PROJECT_DIR$/05.Itertools/2.Combinations/template.py" />
         <option value="$PROJECT_DIR$/05.Itertools/2.Combinations/solution.py" />
+        <option value="$PROJECT_DIR$/template.py" />
+        <option value="$PROJECT_DIR$/05.Itertools/3.CombinationsWithReplacement/template.py" />
+        <option value="$PROJECT_DIR$/05.Itertools/1.Permutations/solution.py" />
+        <option value="$PROJECT_DIR$/05.Itertools/3.CombinationsWithReplacement/solution.py" />
       </list>
     </option>
   </component>
@@ -235,7 +171,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -258,12 +193,13 @@
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="05.Itertools" type="462c0819:PsiDirectoryNode" />
-              <item name="2.Combinations" type="462c0819:PsiDirectoryNode" />
+              <item name="3.CombinationsWithReplacement" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -298,26 +234,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.solution (3)">
-    <configuration name="solution (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/2.Strings/12.TheMinionGame" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.Strings/12.TheMinionGame/solution.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-    </configuration>
+  <component name="RunManager" selected="Python.solution">
     <configuration name="solution (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -351,6 +268,25 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.Itertools/2.Combinations/solution.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <configuration name="solution" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/05.Itertools/3.CombinationsWithReplacement" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/05.Itertools/3.CombinationsWithReplacement/solution.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -395,19 +331,19 @@
       <option name="MODULE_MODE" value="false" />
     </configuration>
     <list>
-      <item itemvalue="Python.solution (1)" />
       <item itemvalue="Python.test (1)" />
       <item itemvalue="Python.solution (2)" />
       <item itemvalue="Python.solution1" />
       <item itemvalue="Python.solution (3)" />
+      <item itemvalue="Python.solution" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.solution" />
         <item itemvalue="Python.solution (3)" />
         <item itemvalue="Python.solution1" />
         <item itemvalue="Python.solution (2)" />
         <item itemvalue="Python.test (1)" />
-        <item itemvalue="Python.solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -425,7 +361,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1530" y="40" width="1549" height="1694" extended-state="0" />
+    <frame x="1529" y="40" width="1550" height="1695" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -433,9 +369,9 @@
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
       <window_info anchor="bottom" id="Python Console" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.3820367" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3817952" />
       <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.104885995" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.10481771" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32921404" />
@@ -445,8 +381,8 @@
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Message" order="0" />
     </layout>
@@ -467,8 +403,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution2.py" />
-    <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution5.py" />
     <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution3.py" />
     <entry file="file://$PROJECT_DIR$/2.Strings/1.SplitAndJoin/solution.py" />
     <entry file="file://$PROJECT_DIR$/2.Strings/2.WhatsYourName/template.py" />
@@ -523,25 +457,45 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/template.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="168">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
           <folding>
-            <element signature="e#107#123#0" expanded="true" />
+            <element signature="e#107#117#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Itertools/3.CombinationsWithReplacement/template.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/05.Itertools/2.Combinations/solution.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="13" column="103" lean-forward="true" selection-start-line="13" selection-start-column="8" selection-end-line="13" selection-end-column="103" />
+          <folding>
+            <element signature="e#109#125#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/05.Itertools/1.Permutations/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="14" column="92" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="92" />
+        <state relative-caret-position="60">
+          <caret line="5" column="3" lean-forward="true" selection-start-line="5" selection-start-column="3" selection-end-line="5" selection-end-column="3" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/05.Itertools/2.Combinations/solution.py">
+    <entry file="file://$PROJECT_DIR$/05.Itertools/3.CombinationsWithReplacement/solution.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+        <state relative-caret-position="204">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#109#125#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
