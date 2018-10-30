@@ -38,3 +38,6 @@ https://docs.python.org/3.7/library/io.html[PyDocs - IO]
 
 https://docs.python.org/3.7/library/itertools.html[PyDocs - Itertools]
 * itertools
+
+https://docs.python.org/3/library/collections.html[PyDocs - Collections]
+* collections

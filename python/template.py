@@ -1,9 +1,6 @@
 #!/usr/bin/env python3.7
 # coding=utf-8
-"""Jerod Gawne, 2018.06.
-
-https://github.com/jerodg/hackerrank
-"""
+"""Jerod Gawne, 2018.10.02 <https://github.com/jerodg>"""
 import sys
 import traceback
 
