@@ -1,9 +1,17 @@
 #!/usr/bin/env python3.7
-from sys import exc_info
+"""Template: Jerod Gawne, 2018.08.17 <https://github.com/jerodg>"""
+from sys import argv, exc_info, exit
 from traceback import print_exception
+from typing import NoReturn
+
+
+def main(*args: argv) -> NoReturn:
+    """Main"""
+    return
+
 
 if __name__ == '__main__':
     try:
-        pass
-    except Exception:
+        main()
+    except Exception as excp:
         print(print_exception(*exc_info()))
