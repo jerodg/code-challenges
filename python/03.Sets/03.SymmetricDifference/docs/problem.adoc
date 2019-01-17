@@ -4,23 +4,26 @@
 :revdate: {docdatetime}
 :src-uri: https://github.com/jerodg/hackerrank
 
-:difficulty:
-:time-complexity:
-:required-knowledge:
-:solution-variability:
-:score:
+:difficulty: easy
+:time-complexity: low
+:required-knowledge: input and output, control flow, data types, sets
+:solution-variability: 3
+:score: 10
 :keywords: python, {required-knowledge}
-:summary:
+:summary: Given __2__ sets of integers, __M__ and __N__, print their symmetric
+difference in ascending order. The term symmetric difference indicates those
+values that exist in either __M__ or __N__ but do not exist in both.
 
 :doctype: article
 :sectanchors:
 :sectlinks:
 :sectnums:
 :toc:
-=
+= 03.Set/03.Symmetric Difference
 {summary}
 
 == Learning
+^ symbol can also be used to compute the symmetric difference of two sets.
 
 == Tutorial
 // todo: tutorial
