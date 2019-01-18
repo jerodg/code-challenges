@@ -5,7 +5,7 @@ from traceback import print_exception
 from typing import NoReturn
 
 
-def main(*args: argv) -> NoReturn:
+def main() -> NoReturn:
     """Main"""
     return
 
