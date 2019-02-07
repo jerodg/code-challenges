@@ -1,0 +1,67 @@
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 07, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge:
+:solution-variability: 3
+:score: 10
+:keywords: python, {required-knowledge}
+:summary: Print the sum of the elements of set __s__ on a single line.
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+= 03.Set/04.SetDiscard,Remove,Pop
+{summary}
+
+Step 1: Store the space separated input of elements in set __s__.
+Step 2: Run a loop __N__ times and store the commands in variable __a__.
+Step 3: Using conditionals, execute the appropriate commands on set __s__.
+Step 4: Print the sum of set __s__.
+
+== Learning
+
+== Tutorial
+// todo: tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+=== Deliverables
+==== Input
+===== Constraints
+==== Output
+===== Constraints
+=== Constraints
+=== Bonus
+=== Breakdown
+
+== Improving the Problem
+// todo: improving the problem
+
+== Improving the Template
+=== Convention
+.Missing
+* shebang
+* encoding
+* doc-comments
+
+=== Extraneous
+N/A
+
+=== Pep8
+* No new-line at end of file
+
+=== Syntax
+N/A
+
+== Improving the Tests
+// todo: improving the tests
+
+== Reference
