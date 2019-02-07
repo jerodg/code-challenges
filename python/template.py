@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.7
 """Template: Jerod Gawne, 2018.08.17 <https://github.com/jerodg>"""
-from sys import argv, exc_info, exit
+from sys import exc_info
 from traceback import print_exception
 from typing import NoReturn
 
