@@ -1,0 +1,73 @@
+:doctitle:
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: December 26, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge: input and output, control flow, data types, sets
+:solution-variability: 2
+:score: 10
+:keywords: python, {required-knowledge}
+:summary: A set is an unordered collection of elements without duplicate entries. When printed, iterated or converted into a sequence, its elements will appear in an arbitrary order
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Learning
+Step 1: Store the set of inputs in the variable distinctHeights.
+
+Step 2: Store the sum of distinctHeights in the variable sumOfDistinctHeights.
+
+Step 3: Store the total number of distinctHeights in the variable totalDistinctHeights.
+
+Step 4: Take the average by dividing the sumOfDistinctHeights with totalDistinctHeights.
+
+Step 5: Print the output.
+
+
+== Tutorial
+// todo: tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+=== Deliverables
+==== Input
+===== Constraints
+==== Output
+===== Constraints
+=== Constraints
+=== Bonus
+=== Breakdown
+
+== Improving the Problem
+// todo: improving the problem
+
+== Improving the Template
+=== Convention
+.Missing
+* shebang
+* encoding
+* doc-comments
+
+=== Extraneous
+N/A
+
+=== Pep8
+* No new-line at end of file
+
+=== Syntax
+N/A
+
+== Improving the Tests
+// todo: improving the tests
+
+== Reference
