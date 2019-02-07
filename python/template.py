@@ -6,7 +6,6 @@ from typing import NoReturn
 
 
 def main() -> NoReturn:
-    """Main"""
     return
 
 
