@@ -1,14 +1,14 @@
 :author: Jerod Gawne
 :email: jerodgawne@gmail.com
-:docdate: June 07, 2018
+:docdate: February 6, 2019
 :revdate: {docdatetime}
 :src-uri: https://github.com/jerodg/hackerrank
 
-:difficulty:
-:time-complexity:
+:difficulty: easy
+:time-complexity: low
 :required-knowledge:
-:solution-variability:
-:score:
+:solution-variability: 1
+:score: 10
 :keywords: python, {required-knowledge}
 :summary:
 
@@ -17,8 +17,12 @@
 :sectlinks:
 :sectnums:
 :toc:
-=
+= 03.Sets/05.Union
 {summary}
+
+Approach is:
+STEP 1: Store the space separated input of roll numbers as sets in variables English and French.
+STEP 2: Print the length of the union from sets English and French.
 
 == Learning
 
