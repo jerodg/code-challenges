@@ -18,7 +18,7 @@
 :sectnums:
 :toc:
 = 03.Sets/12.Strict Superset
-{summary}
+This tool tests whether the set is a proper(strict) superset of the other set like this: set >= otherSet and set != otherSet.
 
 == Learning
 https://www.programiz.com/python-programming/methods/set/issuperset

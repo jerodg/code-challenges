@@ -8,9 +8,10 @@ from typing import NoReturn
 def main() -> NoReturn:
     _ = input()
     n = input().split()
-    a, b = set(input().split()), set(input().split())
+    a = set(input().split())
+    b = set(input().split())
 
-    print(sum([1 for x in n if x in a]) - sum([1 for x in n if x in b]))
+    print(sum([(i in a) - (i in b) for i in n]))
 
 
 if __name__ == '__main__':
