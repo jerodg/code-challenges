@@ -1,14 +1,14 @@
 :author: Jerod Gawne
 :email: jerodgawne@gmail.com
-:docdate: June 07, 2018
+:docdate: February 18, 2019
 :revdate: {docdatetime}
 :src-uri: https://github.com/jerodg/hackerrank
 
-:difficulty:
-:time-complexity:
+:difficulty: medium
+:time-complexity: moderate
 :required-knowledge:
 :solution-variability:
-:score:
+:score: 50
 :keywords: python, {required-knowledge}
 :summary:
 
@@ -17,8 +17,8 @@
 :sectlinks:
 :sectnums:
 :toc:
-=
-{summary}
+= 03.Sets/13.NoIdea
+
 
 == Learning
 
