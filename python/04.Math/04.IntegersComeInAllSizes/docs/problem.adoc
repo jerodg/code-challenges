@@ -6,8 +6,8 @@
 
 :difficulty: easy
 :time-complexity: low
-:required-knowledge: pow
-:solution-variability: 1
+:required-knowledge:
+:solution-variability:
 :score: 10
 :keywords: python, {required-knowledge}
 :summary:
@@ -17,8 +17,9 @@
 :sectlinks:
 :sectnums:
 :toc:
-= 04.Math/03.PowerModPower
-The operator pow(x, y, z) returns __x__ to the power __y__, modulo __z__.
+= 04.Math/04.IntegersComeInAllSizes
+
+We can use the ** tool to compute __a__^__b__ + __c__^__d__.
 
 == Learning
 
