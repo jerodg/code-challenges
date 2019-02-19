@@ -4,11 +4,11 @@
 :revdate: {docdatetime}
 :src-uri: https://github.com/jerodg/hackerrank
 
-:difficulty: easy
+:difficulty: medium
 :time-complexity: low
 :required-knowledge:
 :solution-variability: 2
-:score: 10
+:score: 20
 :keywords: python, {required-knowledge}
 :summary:
 
@@ -17,9 +17,11 @@
 :sectlinks:
 :sectnums:
 :toc:
-= 04.Math/04.IntegersComeInAllSizes
+= 04.Math/05.FindAngleMBC
 
-We can use the ** tool to compute __a__^__b__ + __c__^__d__.
+We can Solve this problem by using a property: ** That a median on the
+hypotenuse divides the right angled triangle in two isoceles triangle.** *
+Means AM=BM=CM * So, ∡MBC = ∡MCB
 
 == Learning
 
