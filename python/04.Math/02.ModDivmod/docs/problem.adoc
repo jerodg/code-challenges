@@ -4,11 +4,11 @@
 :revdate: {docdatetime}
 :src-uri: https://github.com/jerodg/hackerrank
 
-:difficulty:
-:time-complexity:
-:required-knowledge:
-:solution-variability:
-:score:
+:difficulty: easy
+:time-complexity: low
+:required-knowledge: modulo, integer division, divmod
+:solution-variability: 2
+:score: 10
 :keywords: python, {required-knowledge}
 :summary:
 
@@ -17,10 +17,11 @@
 :sectlinks:
 :sectnums:
 :toc:
-=
+= 04.Math/02.ModDivmod
 {summary}
 
 == Learning
+The operator divmod takes two (non-complex) numbers as arguments and returns a pair of numbers consisting of their quotient and remainder when using long division.
 
 == Tutorial
 // todo: tutorial
