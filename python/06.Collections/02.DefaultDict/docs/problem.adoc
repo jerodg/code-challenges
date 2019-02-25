@@ -1,14 +1,14 @@
 :author: Jerod Gawne
 :email: jerodgawne@gmail.com
-:docdate: February 22, 2019
+:docdate: February 25, 2019
 :revdate: {docdatetime}
 :src-uri: https://github.com/jerodg/hackerrank
 
-:difficulty: hard
-:time-complexity: moderate
+:difficulty: easy
+:time-complexity: low
 :required-knowledge:
 :solution-variability:
-:score: 50
+:score: 20
 :keywords: python, {required-knowledge}
 :summary:
 
@@ -17,15 +17,13 @@
 :sectlinks:
 :sectnums:
 :toc:
-= 05.Itertools/06.MaximizeIt
+= 06.Collections/02.DefaultDict
+
 
 == Learning
 
 == Tutorial
-itertools.product(*iterables[, repeat])
-Cartesian product of input iterables.
-
-Learn more about the tool product here: https://docs.python.org/2/library/itertools.html#itertools.product
+// todo: tutorial
 
 == The Problem
 // todo: state as agile story
