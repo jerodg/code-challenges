@@ -1,15 +1,14 @@
 :doctype: article
-:doctitle: 6.Collections/1.NamedTuple
 :author: Jerod Gawne
 :email: jerodgawne@gmail.com
-:docdate: October 12, 2018
+:docdate: February 26, 2019
 :revdate: {docdatetime}
 :src-uri: https://github.com/jerodg/hackerrank
 
-:difficulty: Easy
+:difficulty: easy
 :time-complexity: low
 :required-knowledge: input/output, collections
-:solution-variability: 1
+:solution-variability: 2
 :score: 20
 :keywords: python, {required-knowledge}
 
@@ -17,6 +16,7 @@
 :sectlinks:
 :sectnums:
 :toc:
+= 06.Collections/01.NamedTuple
 
 The first line contains an integer __N__, the total number of students.
 
