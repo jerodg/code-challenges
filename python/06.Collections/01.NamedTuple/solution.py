@@ -1,19 +1,11 @@
 #!/usr/bin/env python3.7
-# coding=utf-8
-"""Jerod Gawne, 2018.10.12 <https://github.com/jerodg>"""
-import collections
+"""Jerod Gawne, 2019.02.26 <https://github.com/jerodg>"""
 import sys
 import traceback
 
 if __name__ == '__main__':
     try:
-        students = input()
-        columns = input().split()
-        # marks = columns.index('MARKS')
-        marks = collections.namedtuple('record', columns)
-        score = 0
-        for _ in range(students):
-
-
+        student, marks = int(input()), input().split().index("MARKS")
+        print(sum([int(input().split()[marks]) for _ in range(student)]) / student)
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))
