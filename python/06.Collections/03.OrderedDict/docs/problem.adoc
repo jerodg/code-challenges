@@ -1,0 +1,62 @@
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: March 04, 2019
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge:
+:solution-variability:
+:score: 20
+:keywords: python, {required-knowledge}
+:summary:
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+= 06.Collections/03.OrderedDict
+{summary}
+
+== Learning
+
+== Tutorial
+// todo: tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+=== Deliverables
+==== Input
+===== Constraints
+==== Output
+===== Constraints
+=== Constraints
+=== Bonus
+=== Breakdown
+
+== Improving the Problem
+// todo: improving the problem
+
+== Improving the Template
+=== Convention
+.Missing
+* shebang
+* encoding
+* doc-comments
+
+=== Extraneous
+N/A
+
+=== Pep8
+* No new-line at end of file
+
+=== Syntax
+N/A
+
+== Improving the Tests
+// todo: improving the tests
+
+== Reference
