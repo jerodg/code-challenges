@@ -4,11 +4,11 @@
 :revdate: {docdatetime}
 :src-uri: https://github.com/jerodg/hackerrank
 
-:difficulty:
-:time-complexity:
+:difficulty: medium
+:time-complexity: low
 :required-knowledge:
 :solution-variability:
-:score:
+:score: 50
 :keywords: python, {required-knowledge}
 :summary:
 
@@ -20,10 +20,11 @@
 :source-highlighter: rouge
 :listing-caption: Listing
 
-=
-{summary}
+= 06.Collections/06.WordOrder
+
 
 == Learning
+You are given __n__ words. Some words may repeat. For each word, output its number of occurrences. The output order should correspond with the input order of appearance of the word. See the sample input/output for clarification.
 
 == Tutorial
 // todo: tutorial
