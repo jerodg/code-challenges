@@ -4,11 +4,11 @@
 :revdate: {docdatetime}
 :src-uri: https://github.com/jerodg/hackerrank
 
-:difficulty: medium
+:difficulty: easy
 :time-complexity: low
-:required-knowledge:
+:required-knowledge: calendar
 :solution-variability: low
-:score: 50
+:score: 10
 :keywords: python, {required-knowledge}
 :summary:
 
@@ -20,11 +20,22 @@
 :source-highlighter: rouge
 :listing-caption: Listing
 
-= 06.Collections/06.WordOrder
-
+=
+{summary}
 
 == Learning
-You are given __n__ words. Some words may repeat. For each word, output its number of occurrences. The output order should correspond with the input order of appearance of the word. See the sample input/output for clarification.
+calendar.weekday(year, month, day)
+This tool returns the day of the week ( is Monday) for year (–...), month (), day ().
+
+
+Learn more about calendars here: https://docs.python.org/2/library/calendar.html
+
+import calendar
+
+day = {0:'MONDAY', 1:'TUESDAY', 2:'WEDNESDAY', 3:'THURSDAY', 4:'FRIDAY', 5:'SATURDAY', 6:'SUNDAY'}
+
+m,d,y = map(int,raw_input().split())
+print day[calendar.weekday(y,m,d)]
 
 == Tutorial
 // todo: tutorial
