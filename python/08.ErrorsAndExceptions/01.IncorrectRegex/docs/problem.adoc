@@ -1,0 +1,93 @@
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: March 07, 2019
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge: regex
+:solution-variability: low
+:score: 20
+:keywords: python, {required-knowledge}
+:summary:
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+:source-highlighter: rouge
+:listing-caption: Listing
+
+=
+{summary}
+You are given a string .
+Your task is to find out whether  is a valid regex or not.
+
+Input Format
+
+The first line contains integer , the number of test cases.
+The next  lines contains the string .
+
+Constraints
+
+
+Output Format
+
+Print "True" or "False" for each test case without quotes.
+
+Sample Input
+
+2
+.*\+
+.*+
+Sample Output
+
+True
+False
+Explanation
+
+.*\+ : Valid regex.
+.*+: Has the error multiple repeat. Hence, it is invalid.
+
+== Learning
+
+== Tutorial
+// todo: tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+=== Deliverables
+==== Input
+===== Constraints
+==== Output
+===== Constraints
+=== Constraints
+=== Bonus
+=== Breakdown
+
+== Improving the Problem
+// todo: improving the problem
+
+== Improving the Template
+=== Convention
+.Missing
+* shebang
+* encoding
+* doc-comments
+
+=== Extraneous
+N/A
+
+=== Pep8
+* No new-line at end of file
+
+=== Syntax
+N/A
+
+== Improving the Tests
+// todo: improving the tests
+
+== Reference
