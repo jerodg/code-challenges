@@ -7,7 +7,7 @@ import os
 # Complete the simpleArraySum function below.
 #
 def simpleArraySum(ar):
-
+    pass
 
 #
 # Write your code here.

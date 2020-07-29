@@ -3,12 +3,16 @@ import math
 
 class Points(object):
     def __init__(self, x, y, z):
+        pass
 
     def __sub__(self, no):
+        pass
 
     def dot(self, no):
+        pass
 
     def cross(self, no):
+        pass
 
     def absolute(self):
         return pow((self.x ** 2 + self.y ** 2 + self.z ** 2), 0.5)
