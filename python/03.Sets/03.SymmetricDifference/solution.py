@@ -1,6 +1,6 @@
 #!/usr/bin/env python3.7
 """Symmetric Difference: Jerod Gawne, 2019.01.17 <https://github.com/jerodg/hackerrank>"""
-from sys import argv, exc_info, exit
+from sys import exc_info
 from traceback import print_exception
 from typing import NoReturn
 

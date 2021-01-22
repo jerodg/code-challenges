@@ -24,6 +24,7 @@
 {summary}
 
 == Improvements
+
 .Convention
 * Improve documentation through use of doc strings
 * Code formatting
@@ -41,4 +42,5 @@
 == Learning
 
 == Reference
+
 https://www.hackerrank.com/challenges/simple-array-sum/[Hackerrank - Simple Array Sum]

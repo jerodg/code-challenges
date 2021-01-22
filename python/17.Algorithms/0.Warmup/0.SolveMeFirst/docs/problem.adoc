@@ -24,6 +24,7 @@
 {summary}
 
 == Improvements
+
 .Convention
 * Improve documentation through use of doc strings
 * Code formatting
@@ -35,8 +36,8 @@
 .Extraneous
 * ar_count variable is unecessary
 * Use of os.environ to output to screen is a bit ridiculous
-** It is required only because there is an input that defines the array length which is also unecessary. We can reduce
-the use of three lines of code by switching to print() and an additional import
+** It is required only because there is an input that defines the array length which is also unecessary.
+We can reduce the use of three lines of code by switching to print() and an additional import
 * No need to define variable for results of function call as they are not used again
 * Unused import: sys
 
@@ -49,4 +50,5 @@ the use of three lines of code by switching to print() and an additional import
 == Learning
 
 == Reference
+
 https://www.hackerrank.com/challenges/solve-me-first/[Hackerrank - Solve Me First]

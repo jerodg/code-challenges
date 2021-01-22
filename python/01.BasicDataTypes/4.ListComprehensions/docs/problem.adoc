@@ -23,13 +23,15 @@
 {summary}
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/datastructures.html#list-comprehensions[PyDocs - Data Structures/List Comprehensions]
 * https://docs.python.org/3.7/tutorial/controlflow.html#the-range-function[PyDocs - Control Flow/The range() Functions]
 
 == Tutorial
 // todo: rewrite
-It is in lexographical order due to the nature of the loops. Spaced out it looks
- somewhat like:
+It is in lexographical order due to the nature of the loops.
+Spaced out it looks somewhat like:
+
 [source,python,linenums]
 for a in range(x+1):
     for b in range(y+1):
@@ -37,27 +39,34 @@ for a in range(x+1):
             if a + b + c != n:
                 print('stuff is here')
 
-We start at [0,0,0]. Then c will increment to get to [0,0,1] When c hits
-[0,0,z], we get [0,1,0] as the next in the loop. This pattern continues and
-gives us the lexographical ordering required of the output.
+We start at [0,0,0].
+Then c will increment to get to [0,0,1] When c hits
+[0,0,z], we get [0,1,0] as the next in the loop.
+This pattern continues and gives us the lexographical ordering required of the output.
 
 == Improving the Template
+
 * Combine inputs/declarations into one line
 
 === Convention
+
 * Missing
 ** shebang
 ** encoding
 ** doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Reference
+
 https://www.hackerrank.com/challenges/list-comprehensions[Hackerrank - List Comprehensions]

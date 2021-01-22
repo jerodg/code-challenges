@@ -19,9 +19,7 @@
 :toc:
 = 04.Math/05.FindAngleMBC
 
-We can Solve this problem by using a property: ** That a median on the
-hypotenuse divides the right angled triangle in two isoceles triangle.** *
-Means AM=BM=CM * So, ∡MBC = ∡MCB
+We can Solve this problem by using a property: ** That a median on the hypotenuse divides the right angled triangle in two isoceles triangle.** * Means AM=BM=CM * So, ∡MBC = ∡MCB
 
 == Learning
 
@@ -31,32 +29,45 @@ Means AM=BM=CM * So, ∡MBC = ∡MCB
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests

@@ -29,32 +29,45 @@ We can use the ** tool to compute __a__^__b__ + __c__^__d__.
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests

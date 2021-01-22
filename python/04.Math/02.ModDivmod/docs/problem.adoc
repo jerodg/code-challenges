@@ -21,6 +21,7 @@
 {summary}
 
 == Learning
+
 The operator divmod takes two (non-complex) numbers as arguments and returns a pair of numbers consisting of their quotient and remainder when using long division.
 
 == Tutorial
@@ -29,32 +30,45 @@ The operator divmod takes two (non-complex) numbers as arguments and returns a p
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests

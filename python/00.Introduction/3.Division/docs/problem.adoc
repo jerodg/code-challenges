@@ -8,7 +8,7 @@
 
 :difficulty: easy
 :time-complexity: low
-:required-knowledge: 
+:required-knowledge:
 :solution-variability:
 :score: 10
 :keywords: python, arithmetic, division, expressions
@@ -30,23 +30,29 @@
 == Improvements
 
 === Convention
+
 * Missing
 ** shebang
 ** encoding
 ** doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/reference/expressions.html[PyDocs - Expressions]
 
 == Reference
+
 https://www.hackerrank.com/challenges/python-division/[Hackerrank - Division]

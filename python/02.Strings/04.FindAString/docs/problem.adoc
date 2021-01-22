@@ -23,6 +23,7 @@
 {summary}
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
 
@@ -31,49 +32,61 @@
 
 == Tutorial
 // todo: tutorial
-In a list comprehension, we slide through bigger string by one position at a
-time with the sliding window of length of smaller string. We can compute the
-sliding count by substracting the length of smaller string from bigger string.
-For each slide, we compare that part of bigger string with our smaller string
-and generate 1 in a list if match found. Sum of all of these 1's in a list will
-give us total number of matches found.
+In a list comprehension, we slide through bigger string by one position at a time with the sliding window of length of smaller string.
+We can compute the sliding count by substracting the length of smaller string from bigger string.
+For each slide, we compare that part of bigger string with our smaller string and generate 1 in a list if match found.
+Sum of all of these 1's in a list will give us total number of matches found.
 
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 * Expecting two blank lines after function
 
 === Syntax
+
 N/A
 
 == Improving the Tests
 // todo: improving the tests
 
 == Reference
+
 * https://www.hackerrank.com/challenges/find-a-string[Hackerrank - Find a String]
 * https://www.hackerrank.com/rsurana?hr_r=1[Hackerrank - Comment]
 * https://stackoverflow.com/a/40317123/4434405[Stackoverflow - Comment]

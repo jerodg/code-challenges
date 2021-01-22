@@ -9,6 +9,7 @@ import os
 def simpleArraySum(ar):
     pass
 
+
 #
 # Write your code here.
 #

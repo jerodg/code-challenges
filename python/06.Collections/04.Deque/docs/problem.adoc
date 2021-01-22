@@ -19,9 +19,10 @@
 :toc:
 = 06.Collections/04.Deque
 
-A deque is a double-ended queue. It can be used to add or remove elements from both ends.
+A deque is a double-ended queue.
+It can be used to add or remove elements from both ends.
 
-Deques support thread safe, memory efficient appends and pops from either side of the deque with approximately the same  performance in either direction.
+Deques support thread safe, memory efficient appends and pops from either side of the deque with approximately the same performance in either direction.
 
 Click on the link to learn more about deque() methods.
 Click on the link to learn more about various approaches to working with deques: Deque Recipes.
@@ -35,32 +36,45 @@ Click on the link to learn more about various approaches to working with deques:
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests

@@ -21,6 +21,7 @@
 {summary}
 
 == Learning
+
 The approach is:
 STEP 1 - Store the space separated input of roll numbers as sets in variables English and French.
 STEP 2 - Print the length of the symmetric difference of sets English and French.
@@ -31,32 +32,45 @@ STEP 2 - Print the length of the symmetric difference of sets English and French
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests

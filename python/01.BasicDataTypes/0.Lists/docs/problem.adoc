@@ -23,6 +23,7 @@
 {summary}
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/library/datatypes.html[PyDocs - Data Types]
 
@@ -31,8 +32,7 @@
 
 == Tutorial
 // todo: improve tutorial
-When we talk about storing multiple values in a container-like data structure,
-the first thing that comes to mind is a list.
+When we talk about storing multiple values in a container-like data structure, the first thing that comes to mind is a list.
 
 .You can initialize a list as
 [source,python,linenums]
@@ -51,15 +51,16 @@ arr = [1,2,3]
 print arr[0]  # result is 1
 print arr[0] + arr[1] + arr[2]  # result is 6
 
-Lists in Python are very versatile. You can add almost anything in a Python
-list.
+Lists in Python are very versatile.
+You can add almost anything in a Python list.
 
-In Python, you can create a list of any objects: strings, integers, or even
-lists. You can even add multiple types in a single list!
+In Python, you can create a list of any objects: strings, integers, or even lists.
+You can even add multiple types in a single list!
 
 Let's look at some of the methods you can use on list.
 
 === append(x)
+
 Adds a single element x to the end of a list.
 
 [source,python,linenums]
@@ -67,89 +68,95 @@ arr.append(9)
 print(arr)  # prints [1, 2, 3, 9]
 
 === extend(L)
+
 Merges another list L to the end.
 
-arr.extend([10,11])
-print arr
-# prints [1, 2, 3, 9, 10, 11]
+arr.extend([10,11]) print arr # prints [1, 2, 3, 9, 10, 11]
 
 === insert(i, x)
+
 Inserts element x at position i.
 
-arr.insert(3,7)
-print arr
-# prints [1, 2, 3, 7, 9, 10, 11]
+arr.insert(3,7) print arr # prints [1, 2, 3, 7, 9, 10, 11]
 
 === remove(x)
+
 Removes the first occurrence of element x.
 
-arr.remove(10)
-arr
-# prints [1, 2, 3, 7, 9, 11]
+arr.remove(10) arr # prints [1, 2, 3, 7, 9, 11]
 
 === pop()
-Removes the last element of a list. If an argument is passed, that index item is popped out.
 
-temp = arr.pop()
-print temp
-# prints 11
+Removes the last element of a list.
+If an argument is passed, that index item is popped out.
+
+temp = arr.pop() print temp # prints 11
 
 === index(x)
-Returns the first index of a value in the list. Throws an error if it's not found.
 
-temp = arr.index(3)
-print temp
-# prints 2
+Returns the first index of a value in the list.
+Throws an error if it's not found.
+
+temp = arr.index(3) print temp # prints 2
 
  ===count(x)
 Counts the number of occurrences of an element x.
 
-temp = arr.count(1)
-print temp
-# prints 1
+temp = arr.count(1) print temp # prints 1
 
 === sort()
+
 Sorts the list.
 
-arr.sort()
-print arr
-# [1, 2, 3, 7, 9]
+arr.sort() print arr # [1, 2, 3, 7, 9]
 
 === reverse()
+
 Reverses the list.
 
-arr.reverse()
-print arr
-# [9, 7, 3, 2, 1]
+arr.reverse() print arr # [9, 7, 3, 2, 1]
 
 == The Problem
 
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
 
 == Improving the Problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Reference
+
 https://www.hackerrank.com/challenges/python-lists

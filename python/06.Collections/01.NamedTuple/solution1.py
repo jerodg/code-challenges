@@ -1,9 +1,9 @@
 #!/usr/bin/env python3.7
 """Jerod Gawne, 2019.02.26 <https://github.com/jerodg>"""
-import sys
-import traceback
 import collections
 import statistics
+import sys
+import traceback
 
 if __name__ == '__main__':
     try:

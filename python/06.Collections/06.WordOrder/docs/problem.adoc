@@ -22,9 +22,13 @@
 
 = 06.Collections/06.WordOrder
 
-
 == Learning
-You are given __n__ words. Some words may repeat. For each word, output its number of occurrences. The output order should correspond with the input order of appearance of the word. See the sample input/output for clarification.
+
+You are given __n__ words.
+Some words may repeat.
+For each word, output its number of occurrences.
+The output order should correspond with the input order of appearance of the word.
+See the sample input/output for clarification.
 
 == Tutorial
 // todo: tutorial
@@ -32,32 +36,45 @@ You are given __n__ words. Some words may repeat. For each word, output its numb
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests

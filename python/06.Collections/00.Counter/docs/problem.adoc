@@ -22,6 +22,7 @@
 {summary}
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3/library/collections.html[PyDocs - Collections]
 
@@ -31,33 +32,47 @@
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 N/A
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 N/A;[
 
 === Syntax
+
 N/A
 
 == Improving the Tests
 // todo: improving the tests
 
 == Reference
+
 * https://www.hackerrank.com/challenges/collections-counter[Hackerrank - Collections Counter]

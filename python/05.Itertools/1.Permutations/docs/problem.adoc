@@ -22,6 +22,7 @@
 {summary}
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/library/itertools.html[PyDocs - Itertools]
 
@@ -31,13 +32,21 @@
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
@@ -45,7 +54,9 @@
 Define lexographic and permutations.
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
@@ -53,16 +64,20 @@ Define lexographic and permutations.
 * if __name__ == '__main__':
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests
 // todo: improving the tests
 
 == Reference
+
 * https://www.hackerrank.com/challenges/itertools-permutations[Hackerrank - Itertools Permutations]

@@ -20,51 +20,64 @@
 = 03.Sets/10.TheCaptainsRoom
 
 == Learning
+
 The approach to solve this problem follows:
-1. Store List: Store the list in a variable. Let roomList be the variable
-storing the list of room numbers.
+1. Store List: Store the list in a variable.
+Let roomList be the variable storing the list of room numbers.
 2. Room Set: In the variable roomSet, store the set of roomList.
-3. Sum Room Set and List: In the variable sumRoomSet and sumRoomList, store the
-summations of roomSet and roomList, respectively.
-4. Multiply K and Subtract: Now, we multiply __K__ with sumRoomSet, subtract the
- sumRoomList from it and then store the result in the variable temp. Therefore,
- temp = the Captain's room number __* (K - 1)__.
-5. Divide by K-1: Divide temp by __(K - 1)__ and store the result in the
-variable answer.
+3. Sum Room Set and List: In the variable sumRoomSet and sumRoomList, store the summations of roomSet and roomList, respectively.
+4. Multiply K and Subtract: Now, we multiply __K__ with sumRoomSet, subtract the sumRoomList from it and then store the result in the variable temp.
+Therefore, temp = the Captain's room number __* (K - 1)__.
+5. Divide by K-1: Divide temp by __(K - 1)__ and store the result in the variable answer.
 6. Output: Print answer.
 
 == Tutorial
-We simply calculate the difference in what the sum would be if there were K elements of all groups. We will have k-1*captains room number left, we simply didve by k-1 to get the answer.
+
+We simply calculate the difference in what the sum would be if there were K elements of all groups.
+We will have k-1*captains room number left, we simply didve by k-1 to get the answer.
 
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests

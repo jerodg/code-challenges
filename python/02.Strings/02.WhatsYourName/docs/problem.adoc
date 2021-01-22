@@ -23,6 +23,7 @@
 {summary}
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
 
@@ -31,33 +32,47 @@
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 * Expecting two blank lines after function
 
 === Syntax
+
 N/A
 
 == Reference
+
 https://www.hackerrank.com/challenges/whats-your-name[Hackerrank - What's Your Name]

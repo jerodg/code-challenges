@@ -1,9 +1,9 @@
 #!/usr/bin/env python3.7
 """Maximize It: Jerod Gawne, 2019.02.22 <https://github.com/jerodg>"""
+from itertools import product
 from sys import exc_info
 from traceback import print_exception
 from typing import NoReturn
-from itertools import product
 
 
 def main() -> NoReturn:

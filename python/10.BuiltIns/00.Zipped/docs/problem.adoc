@@ -31,32 +31,45 @@
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests
@@ -65,10 +78,10 @@ N/A
 == Reference
 
 == Code
-N, X = map(int, raw_input().split())
-list_of_marks = []
+
+N, X = map(int, raw_input().split()) list_of_marks = []
 for subject in xrange(X):
-    list_of_marks += [map(float,raw_input().split())]
+list_of_marks += [map(float,raw_input().split())]
 
 for student_marks in zip(*list_of_marks):
-    print sum(student_marks)/X
+print sum(student_marks)/X
