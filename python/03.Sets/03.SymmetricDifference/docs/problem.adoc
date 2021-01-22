@@ -11,8 +11,8 @@
 :score: 10
 :keywords: python, {required-knowledge}
 :summary: Given __2__ sets of integers, __M__ and __N__, print their symmetric
-difference in ascending order. The term symmetric difference indicates those
-values that exist in either __M__ or __N__ but do not exist in both.
+difference in ascending order.
+The term symmetric difference indicates those values that exist in either __M__ or __N__ but do not exist in both.
 
 :doctype: article
 :sectanchors:
@@ -23,6 +23,7 @@ values that exist in either __M__ or __N__ but do not exist in both.
 {summary}
 
 == Learning
+
 ^ symbol can also be used to compute the symmetric difference of two sets.
 
 == Tutorial
@@ -31,32 +32,45 @@ values that exist in either __M__ or __N__ but do not exist in both.
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests

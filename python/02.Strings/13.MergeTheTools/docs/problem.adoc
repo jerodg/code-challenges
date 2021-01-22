@@ -24,6 +24,7 @@
 Commented: https://www.hackerrank.com/challenges/merge-the-tools/forum/comments/465055[Hackerrank - Comment]
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
 * https://docs.python.org/3.7/library/datatypes.html[PyDocs - Data Types]
@@ -34,22 +35,33 @@ Commented: https://www.hackerrank.com/challenges/merge-the-tools/forum/comments/
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
-It's a bit too theoretical/mathematical/algorithmic. Perhaps consider a more
-information systems style approach. Definitely add more explanation.
+It's a bit too theoretical/mathematical/algorithmic.
+Perhaps consider a more information systems style approach.
+Definitely add more explanation.
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
@@ -57,17 +69,21 @@ information systems style approach. Definitely add more explanation.
 * pass in empty function
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 * Expecting two lines before function declaration
 
 === Syntax
+
 N/A
 
 == Improving the Tests
 // todo: improving the tests
 
 == Reference
+
 https://www.hackerrank.com/challenges/merge-the-tools[Hackerrank - Merge The Tools]

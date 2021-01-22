@@ -28,21 +28,23 @@
 :toc:
 
 {summary}
-== Learning
-* https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
+== Learning * https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
 * https://www.python.org/dev/peps/pep-0008/#indentation[PEP8 - Indentation]
 
 == Tutorial
+
 Loops are control structures that iterate over a range to perform a certain task.
 
 There are two kinds of loops in Python.
 
 A for loop:
+
 [source,python,linenums]
 for i in range(0, 5):
     print i
 
 And a while loop:
+
 [source,python,linenums]
 i = 0
 while i < 5:
@@ -55,20 +57,26 @@ The term range(0,5) returns a list of integers from 0 up to but not including 5
 [0, 1, 2, 3, 4].
 
 == Improvements
+
 === Convention
+
 * Missing
 ** shebang
 ** encoding
 ** doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Reference
+
 * https://www.hackerrank.com/challenges/python-loops[Hackerrank - Loops]

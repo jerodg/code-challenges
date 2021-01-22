@@ -24,9 +24,8 @@
 {summary}
 
 == Learning
-calendar.weekday(year, month, day)
-This tool returns the day of the week ( is Monday) for year (–...), month (), day ().
 
+calendar.weekday(year, month, day) This tool returns the day of the week ( is Monday) for year (–...), month (), day ().
 
 Learn more about calendars here: https://docs.python.org/2/library/calendar.html
 
@@ -34,8 +33,7 @@ import calendar
 
 day = {0:'MONDAY', 1:'TUESDAY', 2:'WEDNESDAY', 3:'THURSDAY', 4:'FRIDAY', 5:'SATURDAY', 6:'SUNDAY'}
 
-m,d,y = map(int,raw_input().split())
-print day[calendar.weekday(y,m,d)]
+m,d,y = map(int,raw_input().split()) print day[calendar.weekday(y,m,d)]
 
 == Tutorial
 // todo: tutorial
@@ -43,32 +41,45 @@ print day[calendar.weekday(y,m,d)]
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests

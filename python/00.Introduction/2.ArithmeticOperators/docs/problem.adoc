@@ -31,27 +31,29 @@
 == Improvements
 
 === Convention
+
 * Missing
 ** shebang
 ** encoding
 ** doc-comments
 
-
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
-
 === Syntax
+
 N/A
 
-
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/reference/expressions.html[PyDocs - Expressions]
 
-
 == Reference
+
 https://www.hackerrank.com/challenges/python-arithmetic-operators[Hackerrank - Arithmetic Operators]

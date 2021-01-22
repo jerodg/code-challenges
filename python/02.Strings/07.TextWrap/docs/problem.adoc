@@ -22,6 +22,7 @@
 {summary}
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
 * https://docs.python.org/3.5/library/textwrap.html[PyDocs - Textwrap]
@@ -33,11 +34,9 @@
 
 == Tutorial
 // todo: rewrite tutorial
-Textwrap
-The textwrap module provides two convenient functions: wrap() and fill().
+Textwrap The textwrap module provides two convenient functions: wrap() and fill().
 
-textwrap.wrap()
-The wrap() function wraps a single paragraph in text (a string) so that every line is width characters long at most.
+textwrap.wrap() The wrap() function wraps a single paragraph in text (a string) so that every line is width characters long at most.
 It returns a list of output lines.
 
 [source,python,linenums]
@@ -66,38 +65,52 @@ string.
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 * Expected two blank lines before function
 
 === Syntax
+
 N/A
 
 == Improving the Tests
 // todo: improving the tests
 
 == Reference
+
 * https://www.hackerrank.com/challenges/text-wrap[Hackerrank - Text Wrap]
 * https://stackoverflow.com/a/13673133/4434405[Stackoverflow - Question]

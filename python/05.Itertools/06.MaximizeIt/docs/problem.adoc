@@ -22,40 +22,53 @@
 == Learning
 
 == Tutorial
-itertools.product(*iterables[, repeat])
-Cartesian product of input iterables.
+
+itertools.product(*iterables[, repeat]) Cartesian product of input iterables.
 
 Learn more about the tool product here: https://docs.python.org/2/library/itertools.html#itertools.product
 
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests

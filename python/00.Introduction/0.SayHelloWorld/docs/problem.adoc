@@ -24,6 +24,7 @@
 {summary}
 
 == Improvements
+
 .Convention
 * Improve documentation through use of doc comments
 * Code formatting
@@ -35,8 +36,8 @@
 .Pep8
 
 .Syntax
-
 == Learning
 
 == Reference
+
 https://www.hackerrank.com/challenges/py-hello-world[Hackerrank - Say Hellow World]

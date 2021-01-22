@@ -7,11 +7,7 @@ Sun 10 May 2015 13:54:36 -0000
 Sat 02 May 2015 19:54:36 +0530
 Fri 01 May 2015 13:54:36 -0000
 """
-import math
 import os
-import random
-import re
-import sys
 from datetime import datetime
 
 tme_fmt = '%a %d %b %Y %H:%M:%S %z'

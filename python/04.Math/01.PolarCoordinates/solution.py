@@ -1,9 +1,9 @@
 #!/usr/bin/env python3.7
 """Polar Coordinates: Jerod Gawne, 2019.02.19 <https://github.com/jerodg>"""
+from cmath import polar
 from sys import exc_info
 from traceback import print_exception
 from typing import NoReturn
-from cmath import polar
 
 
 def main() -> NoReturn:

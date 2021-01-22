@@ -17,12 +17,12 @@
 :sectlinks:
 :sectnums:
 :toc:
-=
-We have seen the applications of union, intersection, difference and symmetric difference operations, but these operations do not make any changes or mutations to the set.
+= We have seen the applications of union, intersection, difference and symmetric difference operations, but these operations do not make any changes or mutations to the set.
 
 == Learning
+
 The approach is:
-STEP 1: Store the elements in set  in variable .
+STEP 1: Store the elements in set in variable .
 STEP 2: Using loops & conditionals, execute the appropriate operations on set .
 STEP 3: Print the sum of .
 
@@ -32,32 +32,45 @@ STEP 3: Print the sum of .
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Improving the Tests

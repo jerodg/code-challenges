@@ -22,45 +22,53 @@
 {summary}
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
 * https://docs.python.org/3.7/library/string.html[PyDocs - Common String Operations]
 
 == Tutorial
 // todo: tutorial
-Python 3
-print(input().title()) will not work because the question is asking to capitalise firse letter of each word keeping in mind that "if it is a letter". Title and Capitalise are different in function as:
+Python 3 print(input().title()) will not work because the question is asking to capitalise firse letter of each word keeping in mind that "if it is a letter".
+Title and Capitalise are different in function as:
 
-'abcd'.title()
-results in 'Abcd' but
+'abcd'.title() results in 'Abcd' but
 
-'12abcd'.title()
-results in '12Abcd'. This is not what we want.
+'12abcd'.title() results in '12Abcd'.
+This is not what we want.
 
 We just want to capitalise first letter of each word, not the first occuring letter of a word.
 Instead, use this:
-s = input()
-for x in s[:].split():
-    s = s.replace(x, x.capitalize())
-print(s)
+s = input() for x in s[:].split():
+s = s.replace(x, x.capitalize()) print(s)
 
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
@@ -68,18 +76,22 @@ print(s)
 * pass in empty function
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 * Expecting two lines before function declaration
 
 === Syntax
+
 N/A
 
 == Improving the Tests
 // todo: improving the tests
 
 == Reference
+
 * https://www.hackerrank.com/challenges/capitalize[Hackerrank - Capitalize]
 * https://www.hackerrank.com/challenges/capitalize/forum/comments/99491[Hackerrank - Comment]

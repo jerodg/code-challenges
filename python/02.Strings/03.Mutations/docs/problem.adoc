@@ -23,6 +23,7 @@
 {summary}
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
 * https://docs.python.org/3.7/library/datatypes.html[PyDocs - Data Types]
@@ -34,38 +35,52 @@
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
 // todo: improving the problem
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
 * doc-comments
 
 === Extraneous
+
 s_new variable is not used again and as such does not need to be declared
 
 === Pep8
+
 * No new-line at end of file
 * Expecting two blank lines after function
 
 === Syntax
+
 N/A
 
 == Improving the Tests
 // todo: improving the tests
 
 == Reference
+
 https://www.hackerrank.com/challenges/python-mutations[Hackerrank - Mutations]
 https://www.tutorialspoint.com/python/python_lists.htm[TutorialsPoint - Lists]

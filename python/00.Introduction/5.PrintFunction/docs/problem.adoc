@@ -23,11 +23,13 @@
 {summary}
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
 * https://docs.python.org/3.7/reference/expressions.html[PyDocs - Expressions]
 
 === Advanced
+
 * https://docs.python.org/3.7/library/functions.html[PyDocs - Built-in Functions]
 
 == Tutorial
@@ -37,6 +39,7 @@ In Python 2, the default print is a simple IO method that doesn't give many opti
 The following two examples will summarize it.
 
 Example 1:
+
 [source,python,linenums]
 var, var1, var2 = 1,2,3
 print var
@@ -45,20 +48,24 @@ print var1, var2
 Prints two lines and, in the second line, _var1_ and _var2_ are separated by a single space.
 
 Example 2:
+
 [source,python,linenums]
 for i in xrange(10):
     print i
 
-Prints each element separated by space on a single line. Removing the comma at the end will print each element on a new line.
+Prints each element separated by space on a single line.
+Removing the comma at the end will print each element on a new line.
 
 Let's import the advanced print_function from the __future__ module.
 
 Its method signature is below:
+
 [source,python,linenums]
 print(*values, sep=' ', end='\n', file=sys.stdout)
 print(value1, value2, value3, sep=' ', end='\n', file=sys.stdout)
 
-Here, values is an array and *values means array is unpacked, you can add values separated by a comma too. The arguments sep, end, and file are optional, but they can prove helpful in formatting output without taking help from a string module.
+Here, values is an array and *values means array is unpacked, you can add values separated by a comma too.
+The arguments sep, end, and file are optional, but they can prove helpful in formatting output without taking help from a string module.
 
 The argument definitions are below:
 sep defines the delimiter between the values.
@@ -68,20 +75,26 @@ file defines the output stream.
 in Python 2 print_function is much faster than the default print
 
 == Improvements
+
 === Convention
+
 * Missing
 ** shebang
 ** encoding
 ** doc-comments
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 No new-line at end of file
 
 === Syntax
+
 N/A
 
 == Reference
+
 https://www.hackerrank.com/challenges/python-print[Hackerrank - Print Function]

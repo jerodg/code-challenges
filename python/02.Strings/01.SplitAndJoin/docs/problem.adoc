@@ -23,6 +23,7 @@
 {summary}
 
 == Learning
+
 * https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
 * https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
 
@@ -34,24 +35,34 @@ https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
 == The Problem
 // todo: state as agile story
 === Objective
+
 === Deliverables
+
 ==== Input
+
 ===== Constraints
+
 ==== Output
+
 ===== Constraints
+
 === Constraints
+
 === Bonus
+
 === Breakdown
 
 == Improving the Problem
+
 Sample Input contains spaces in the code block; these appear to be unintentional.
-While the tests don't account for spaces at the end, code could potentially
-return unacceptable results when copy/pasted with the spaces.
+While the tests don't account for spaces at the end, code could potentially return unacceptable results when copy/pasted with the spaces.
 
 * remove spaces from code block or add .strip() to problem and tutorial
 
 == Improving the Template
+
 === Convention
+
 .Missing
 * shebang
 * encoding
@@ -59,16 +70,20 @@ return unacceptable results when copy/pasted with the spaces.
 * pass in undefined function
 
 === Extraneous
+
 N/A
 
 === Pep8
+
 * No new-line at end of file
 * Expecting two blank lines after function
 
 === Syntax
+
 N/A
 
 == Reference
+
 * https://www.hackerrank.com/challenges/python-string-split-and-join[Hackerrank - String Split and Join]
 * https://www.hackerrank.com/challenges/python-string-split-and-join/forum/comments/155276[Hackerrank - Comment]
 * https://www.hackerrank.com/challenges/python-string-split-and-join/forum/comments/62225[Hackerrank - Commment]
