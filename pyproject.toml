@@ -5,10 +5,10 @@ description = ""
 authors = ["Jerod Gawne <jerodgawne@gmail.com>"]
 
 [tool.poetry.dependencies]
-python = "^3.9"
-devtools = "^0.7.0"
+python = "^3.10"
+devtools = "^0.8.0"
 union = "^0.1.10"
-pytest = "^6.2.5"
+pytest = "^7.1.1"
 
 [tool.poetry.dev-dependencies]
 
