@@ -16,3 +16,21 @@ if __name__ == '__main__':
     filtered_emails = filter_mail(emails)
     filtered_emails.sort()
     print(filtered_emails)
+
+4
+pow 2 3
+cmp 1 2
+join_with coder best the are you ,
+capitalize_first_and_join first second third
+
+6
+1
+1
+2
+2
+3
+3
+1
+
+print('numbers:', numbers)
+print('k:', k)

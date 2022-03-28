@@ -319,7 +319,7 @@ share/python-wheels/
 MANIFEST
 
 # PyInstaller
-#  Usually these files are written by a python script from a 99.Template
+#  Usually these files are written by a python script from a template
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
@@ -461,7 +461,7 @@ venv.bak/
 pip-selfcheck.json
 
 ### Vuejs ###
-# Recommended 99.Template: Node.gitignore
+# Recommended template: Node.gitignore
 
 npm-debug.log
 yarn-error.log
@@ -840,13 +840,67 @@ MigrationBackup/
 
 # End of https://www.gitignore.io/api/vim,node,vuejs,linux,macos,emacs,python,windows,notepadpp,virtualenv,sublimetext,visualstudio,jetbrains+all
 
-# MkDocs
-site/
+# Application Specific
+poetry.lock
 
-# Library
-base_api_client/
+# Version Information
+src/tagg/gitversion.py
+.deploy.json
+*.swp
 
-cache/
-ldap_client_api/
-logs/
-password_safe_api_client/
+# No Databases
+*.sqlite3
+flower
+
+# Python cruft
+*.egg-info
+*py[co]
+__pycache__
+
+# Local Django settings.
+.django_settings_module
+
+# Virtual Environments.
+/ve*
+/.ve*
+/env*
+
+# Exuberant tags.
+.tags*
+
+# JS build shit.
+bower_components/
+.eslintrc.json
+package-lock.json
+package.json
+
+# VisualStudio Code.
+.vscode
+
+# coverage.py files
+.coveragerc
+
+# Silver Searcher ignore file.
+.ignore
+
+# Database archive.
+portal.custom
+portal.pgdump
+
+
+# Documentation
+sphinx/docs
+
+
+# Static and Media Files
+static_root/
+media_root/
+
+
+# LibreCalc temp files
+.~lock*
+*.xls#
+
+# Version
+src/tagg/settings/secrets.py
+src/useful_functions.py
