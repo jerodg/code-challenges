@@ -319,7 +319,7 @@ share/python-wheels/
 MANIFEST
 
 # PyInstaller
-#  Usually these files are written by a python script from a 99.Template
+#  Usually these files are written by a python script from a 01.DetectFloatingPointNumber
 #  before PyInstaller builds the exe, so as to inject date/other infos into it.
 *.manifest
 *.spec
@@ -461,7 +461,7 @@ venv.bak/
 pip-selfcheck.json
 
 ### Vuejs ###
-# Recommended 99.Template: Node.gitignore
+# Recommended 01.DetectFloatingPointNumber: Node.gitignore
 
 npm-debug.log
 yarn-error.log
