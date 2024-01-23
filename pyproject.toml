@@ -1,0 +1,17 @@
+[tool.poetry]
+name = "hackerrank"
+version = "0.1.0"
+description = ""
+authors = ["JerodG <2856163+jerodg@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+
+
+[tool.poetry.group.dev.dependencies]
+black = "^23.12.1"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
