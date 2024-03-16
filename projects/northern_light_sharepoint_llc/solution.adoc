@@ -1,0 +1,200 @@
+:author: Jerod Gawne
+:email: jerodg@pm.me
+:docdate: 21 July 2022
+:revdate: {docdatetime}
+:doctype: book
+:experimental:
+:sectanchors: true
+:sectlinks: true
+:sectnumlevels: 5
+:sectids:
+:sectnums: all
+:toc: left
+:toclevels: 5
+:icons: font
+:imagesdir: ../../../images
+:iconsdir: ../../../icons
+:stylesdir: ../../../styles
+:scriptsdir: ../../../js
+:stylesheet: styles.css
+
+:description: File Comparitor Solution
+:keywords: solution, python, file, comparitor
+
+= {description}
+
+== Explanation
+
+The provided Python code defines a function named `compare_files` that takes four arguments: `file0`, `file1`, `output0`, and `output1`.
+These arguments represent the paths to two input files and two output files, respectively.
+
+The function begins by checking if the input files exist and are accessible.
+This is done using the `os.path.exists` function.
+If either of the input files does not exist or is not accessible, the function raises an `IOError`.
+
+[source,python,linenums]
+----
+if not os.path.exists(file0) or not os.path.exists(file1):
+    raise IOError("One or both input files do not exist or are not accessible.")
+----
+
+Next, the function attempts to open the input files and read their lines into two sets, `set1` and `set2`.
+This is done within a `try` block to handle any `IOError` that might occur during this process.
+
+[source,python,linenums]
+----
+with open(file0) as f0, open(file1) as f1:
+    set1 = set(line for line in f0)
+    set2 = set(line for line in f1)
+----
+
+The function then finds the unique lines in each file by calculating the difference between the two sets.
+The difference between two sets in Python gives the elements present in the first set but not in the second.
+The unique lines are sorted and stored in `out_0` and `out_1`.
+
+[source,python,linenums]
+----
+out_0 = sorted(set1 - set2)
+out_1 = sorted(set2 - set1)
+----
+
+Finally, the function writes the unique lines to the output files.
+This is done by opening each output file in write mode and using the `writelines` method.
+
+[source,python,linenums]
+----
+with open(output0, 'w', newline='\n') as out0:
+    out0.writelines(out_0)
+
+with open(output1, 'w', newline='\n') as out1:
+    out1.writelines(out_1)
+----
+
+The function is then called at the end of the script with specific file paths as arguments.
+
+[source,python,linenums]
+----
+compare_files('./data/input_0.csv', './data/input_1.csv', './data/output1.csv', './data/output2.csv')
+----
+
+In summary, this script is designed to compare two input files and write the unique lines from each file to two separate output files.
+It does this by reading the files into sets, comparing the sets, and writing the unique lines to the output files.
+
+== Advantages & Disadvantages
+
+The `compare_files` method in the provided Python code has several advantages:
+
+1. **Efficiency**: The method uses sets to store the lines from each file.
+Sets in Python are implemented as hash tables, which provide constant time complexity for operations like checking if an item exists in the set.
+This makes the comparison of the two files very efficient.
+
+2. **Simplicity**: The method is straightforward and easy to understand.
+It reads the lines from the input files, compares them using set operations, and writes the unique lines to the output files.
+
+3. **Error Handling**: The method includes error handling for file operations.
+It checks if the input files exist before attempting to open them and uses a `try` block to catch any `IOError` that might occur during the file operations.
+
+However, there are also a few disadvantages:
+
+1. **Memory Usage**: The method reads the entire contents of the input files into memory.
+This could be a problem if the files are very large.
+
+2. **File Locking**: The method does not lock the files while reading or writing.
+This could lead to data corruption if another process modifies the files at the same time.
+
+3. **Limited Flexibility**: The method is specifically designed to compare two files and write the unique lines to two separate output files.
+If you wanted to compare more than two files, or write the output to a different format (like a database or a network socket), you would need to modify the method or write a new one.
+
+== Complexity Analysis
+
+The time and space complexity of the `compare_files` function can be analyzed as follows:
+
+**Time Complexity:**
+
+The time complexity of the function is primarily determined by the operations of reading the files, creating sets from the file lines, and writing the output.
+
+1. Reading the files: This operation has a time complexity of O(n), where n is the total number of lines in the two files.
+This is because each line in each file is read once.
+
+2. Creating sets: The time complexity of creating a set in Python is O(n), where n is the number of elements in the set.
+In this case, n is the number of lines in each file.
+
+3. Writing the output: Writing the output also has a time complexity of O(n), where n is the number of unique lines in each file.
+
+Therefore, the overall time complexity of the function is O(n).
+
+**Space Complexity:**
+
+The space complexity of the function is determined by the space required to store the sets and the output lines.
+
+1. Storing the sets: The space complexity of a set in Python is O(n), where n is the number of elements in the set.
+In this case, n is the number of lines in each file.
+
+2. Storing the output lines: The output lines are stored in lists before being written to the output files.
+The space complexity of a list in Python is also O(n), where n is the number of elements in the list.
+In this case, n is the number of unique lines in each file.
+
+Therefore, the overall space complexity of the function is O(n).
+
+In both cases, n refers to the number of lines in the input files.
+It's important to note that this analysis assumes that all lines in the input files are unique.
+If there are many duplicate lines, the space required to store the sets and output lines could be significantly less.
+
+== Code Review
+
+**Readability (Understandability):**
+The code is quite readable.
+It uses descriptive variable and function names, and is broken down into small, manageable chunks.
+The use of docstrings and inline comments also enhances readability.
+
+**Maintainability:**
+The code is maintainable.
+It is easy to extend and change, with clear separation of concerns.
+However, the function `compare_files` could be broken down into smaller functions to improve maintainability.
+
+**Security:**
+The code does not seem to have any obvious security issues.
+It does not use any insecure functions or practices.
+However, it's important to ensure that the file paths provided to the `compare_files` function are validated and sanitized in the actual application to prevent path traversal attacks.
+
+**Speed and Performance:**
+The code uses sets for comparing lines in the files, which is efficient.
+However, the entire contents of the files are loaded into memory, which could be a problem for very large files.
+A more memory-efficient approach could be used, such as processing the files line by line.
+
+**Documentation:**
+The code is well-documented with a detailed docstring for the `compare_files` function and inline comments explaining the code.
+However, there is no README file or other documentation explaining the overall purpose and usage of the code.
+
+**Reinventing the Wheel:**
+The code does not seem to reinvent the wheel.
+It uses built-in Python features and functions appropriately.
+
+**Reliability:**
+The code includes error handling for file operations, which improves its reliability.
+However, it could be improved by providing more specific error messages and handling potential errors in file writing operations.
+
+**Scalability:**
+The code's scalability is limited by its memory usage.
+As mentioned earlier, the entire contents of the files are loaded into memory, which could be a problem for very large files.
+
+**Reusability:**
+The `compare_files` function is quite specific to its current use case.
+To improve reusability, it could be broken down into smaller, more generic functions, such as a function to read a file into a set, and a function to write a set of lines to a file.
+
+**Patterns:**
+The code adheres to common Python patterns and style guides, such as PEP 8 and Google's Python style guide.
+
+**Test Coverage and Quality:**
+The test coverage seems to be comprehensive, covering various scenarios including happy path, empty files, nonexistent files, large files, and files with various types of content.
+However, the quality of the tests could be improved by using fixtures for setup and teardown, and by checking the actual contents of the output files in the tests.
+
+**Fit for Purpose:**
+The code appears to provide the intended functionality of comparing two files and writing the unique lines to two separate output files.
+
+**Notice What's Missing:**
+The code does not handle the case where the output files cannot be written to, such as when they are in a non-writable directory or when there is not enough disk space.
+
+**Zoom Out:**
+Overall, the chosen solution of using sets to compare the files is appropriate and efficient.
+However, the memory usage could be improved, and the code could be refactored to improve maintainability and reusability.

@@ -1,0 +1,63 @@
+{
+    "stores": [
+        {
+            "name":"Kroger",
+            "inventory": {
+                "oranges": 10,
+                "coconuts": 10,
+                "strawberries": 10
+            }
+        },
+        {
+            "name":"Meijer",
+            "inventory": { 
+                "oranges": 10,
+                "grapes": 10,
+                "pineapples": 10,
+                "strawberries": 10
+            }
+        },
+        {
+            "name":"Store 3",
+            "inventory": { 
+                "apples": 1,
+                "oranges": 10,
+                "bananas": 10,
+                "grapes": 10,
+                "chickens": 10
+            }
+        },
+        {
+            "name":"Whole Foods",
+            "inventory": {
+                "grapes": 10,
+                "pineapples": 10,
+                "organic apples": 10,
+                "coconuts": 10,
+                "strawberries": 10
+            }
+        },
+        {
+            "name":"Kroger 2",
+            "inventory": { 
+                "apples": 8
+            }
+        },
+        {
+            "name":"peach store",
+            "inventory": { 
+                "peaches": 1
+            }
+        },
+        {
+            "name":"CVS",
+            "inventory": {}
+        },
+        {
+            "name":"apples r us",
+            "inventory": { 
+                "apples": 10000000000000
+            }
+        }
+    ]
+}

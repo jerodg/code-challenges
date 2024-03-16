@@ -1,0 +1,14 @@
+This folder contains input files to test your program.
+You may modify these files or add your own - they are purely for debugging.
+
+Each JSON file contains a dictionary with input parameters to your program.
+For example:
+    {
+        "window_string": "X=5 H=10 Y=0 W=20"
+    }
+
+To test your program using the JSON file run:
+    python test_answer.py ./inputs/window_2.json
+
+This calls answer() in answer.py as follows:
+    answer(window_string)

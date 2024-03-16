@@ -1,0 +1,12 @@
+---
+    version: '3.7'
+    services:
+      app:
+        build: .
+        ports:
+          - "5000:5000"
+        volumes:
+          - ./:/app/
+        environment:
+          - ROLLBAR_DISABLE=${ROLLBAR_DISABLE:-1}
+        command: ["./run.sh", "--bind", "0.0.0.0:5000"]

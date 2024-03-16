@@ -1,0 +1,5 @@
+The shopping list can be satisfied by visiting 4 store(s):
+Kroger, Meijer, apples r us, peach store
+Kroger, Whole Foods, apples r us, peach store
+Meijer, Whole Foods, apples r us, peach store
+Store 3, Whole Foods, apples r us, peach store
