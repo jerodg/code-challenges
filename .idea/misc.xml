@@ -10,7 +10,7 @@
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12.1 WSL (Ubuntu): (/home/jerryg/.cache/pypoetry/virtualenvs/hackerrank-TOiZavTq-py3.12/bin/python3.12)" project-jdk-type="Python SDK" />
+  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (hackerrank)" project-jdk-type="Python SDK" />
   <component name="PythonCompatibilityInspectionAdvertiser">
     <option name="version" value="3" />
   </component>
