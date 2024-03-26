@@ -25,7 +25,7 @@ dev-dependencies = [
 allow-direct-references = true
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/python_monograph"]
+packages = ["challenges/"]
 
 [tool.ruff]
 # Exclude a variety of commonly ignored directories.
