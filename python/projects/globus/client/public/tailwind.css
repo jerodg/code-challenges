@@ -9,8 +9,8 @@
  */
 
 html {
-  line-height: 1.15; /* 1 */
-  -webkit-text-size-adjust: 100%; /* 2 */
+    line-height: 1.15; /* 1 */
+    -webkit-text-size-adjust: 100%; /* 2 */
 }
 
 /* Sections
@@ -21,7 +21,7 @@ html {
  */
 
 body {
-  margin: 0;
+    margin: 0;
 }
 
 /**
@@ -29,7 +29,7 @@ body {
  */
 
 main {
-  display: block;
+    display: block;
 }
 
 /**
@@ -38,8 +38,8 @@ main {
  */
 
 h1 {
-  font-size: 2em;
-  margin: 0.67em 0;
+    font-size: 2em;
+    margin: 0.67em 0;
 }
 
 /* Grouping content
@@ -51,9 +51,9 @@ h1 {
  */
 
 hr {
-  box-sizing: content-box; /* 1 */
-  height: 0; /* 1 */
-  overflow: visible; /* 2 */
+    box-sizing: content-box; /* 1 */
+    height: 0; /* 1 */
+    overflow: visible; /* 2 */
 }
 
 /**
@@ -62,8 +62,8 @@ hr {
  */
 
 pre {
-  font-family: monospace, monospace; /* 1 */
-  font-size: 1em; /* 2 */
+    font-family: monospace, monospace; /* 1 */
+    font-size: 1em; /* 2 */
 }
 
 /* Text-level semantics
@@ -74,7 +74,7 @@ pre {
  */
 
 a {
-  background-color: transparent;
+    background-color: transparent;
 }
 
 /**
@@ -83,10 +83,10 @@ a {
  */
 
 abbr[title] {
-  border-bottom: none; /* 1 */
-  text-decoration: underline; /* 2 */
-  -webkit-text-decoration: underline dotted;
-          text-decoration: underline dotted; /* 2 */
+    border-bottom: none; /* 1 */
+    text-decoration: underline; /* 2 */
+    -webkit-text-decoration: underline dotted;
+    text-decoration: underline dotted; /* 2 */
 }
 
 /**
@@ -95,7 +95,7 @@ abbr[title] {
 
 b,
 strong {
-  font-weight: bolder;
+    font-weight: bolder;
 }
 
 /**
@@ -106,8 +106,8 @@ strong {
 code,
 kbd,
 samp {
-  font-family: monospace, monospace; /* 1 */
-  font-size: 1em; /* 2 */
+    font-family: monospace, monospace; /* 1 */
+    font-size: 1em; /* 2 */
 }
 
 /**
@@ -115,7 +115,7 @@ samp {
  */
 
 small {
-  font-size: 80%;
+    font-size: 80%;
 }
 
 /**
@@ -125,18 +125,18 @@ small {
 
 sub,
 sup {
-  font-size: 75%;
-  line-height: 0;
-  position: relative;
-  vertical-align: baseline;
+    font-size: 75%;
+    line-height: 0;
+    position: relative;
+    vertical-align: baseline;
 }
 
 sub {
-  bottom: -0.25em;
+    bottom: -0.25em;
 }
 
 sup {
-  top: -0.5em;
+    top: -0.5em;
 }
 
 /* Embedded content
@@ -147,7 +147,7 @@ sup {
  */
 
 img {
-  border-style: none;
+    border-style: none;
 }
 
 /* Forms
@@ -163,10 +163,10 @@ input,
 optgroup,
 select,
 textarea {
-  font-family: inherit; /* 1 */
-  font-size: 100%; /* 1 */
-  line-height: 1.15; /* 1 */
-  margin: 0; /* 2 */
+    font-family: inherit; /* 1 */
+    font-size: 100%; /* 1 */
+    line-height: 1.15; /* 1 */
+    margin: 0; /* 2 */
 }
 
 /**
@@ -176,7 +176,7 @@ textarea {
 
 button,
 input { /* 1 */
-  overflow: visible;
+    overflow: visible;
 }
 
 /**
@@ -186,7 +186,7 @@ input { /* 1 */
 
 button,
 select { /* 1 */
-  text-transform: none;
+    text-transform: none;
 }
 
 /**
@@ -197,7 +197,7 @@ button,
 [type="button"],
 [type="reset"],
 [type="submit"] {
-  -webkit-appearance: button;
+    -webkit-appearance: button;
 }
 
 /**
@@ -208,8 +208,8 @@ button::-moz-focus-inner,
 [type="button"]::-moz-focus-inner,
 [type="reset"]::-moz-focus-inner,
 [type="submit"]::-moz-focus-inner {
-  border-style: none;
-  padding: 0;
+    border-style: none;
+    padding: 0;
 }
 
 /**
@@ -220,7 +220,7 @@ button:-moz-focusring,
 [type="button"]:-moz-focusring,
 [type="reset"]:-moz-focusring,
 [type="submit"]:-moz-focusring {
-  outline: 1px dotted ButtonText;
+    outline: 1px dotted ButtonText;
 }
 
 /**
@@ -228,7 +228,7 @@ button:-moz-focusring,
  */
 
 fieldset {
-  padding: 0.35em 0.75em 0.625em;
+    padding: 0.35em 0.75em 0.625em;
 }
 
 /**
@@ -239,12 +239,12 @@ fieldset {
  */
 
 legend {
-  box-sizing: border-box; /* 1 */
-  color: inherit; /* 2 */
-  display: table; /* 1 */
-  max-width: 100%; /* 1 */
-  padding: 0; /* 3 */
-  white-space: normal; /* 1 */
+    box-sizing: border-box; /* 1 */
+    color: inherit; /* 2 */
+    display: table; /* 1 */
+    max-width: 100%; /* 1 */
+    padding: 0; /* 3 */
+    white-space: normal; /* 1 */
 }
 
 /**
@@ -252,7 +252,7 @@ legend {
  */
 
 progress {
-  vertical-align: baseline;
+    vertical-align: baseline;
 }
 
 /**
@@ -260,7 +260,7 @@ progress {
  */
 
 textarea {
-  overflow: auto;
+    overflow: auto;
 }
 
 /**
@@ -270,8 +270,8 @@ textarea {
 
 [type="checkbox"],
 [type="radio"] {
-  box-sizing: border-box; /* 1 */
-  padding: 0; /* 2 */
+    box-sizing: border-box; /* 1 */
+    padding: 0; /* 2 */
 }
 
 /**
@@ -280,7 +280,7 @@ textarea {
 
 [type="number"]::-webkit-inner-spin-button,
 [type="number"]::-webkit-outer-spin-button {
-  height: auto;
+    height: auto;
 }
 
 /**
@@ -289,8 +289,8 @@ textarea {
  */
 
 [type="search"] {
-  -webkit-appearance: textfield; /* 1 */
-  outline-offset: -2px; /* 2 */
+    -webkit-appearance: textfield; /* 1 */
+    outline-offset: -2px; /* 2 */
 }
 
 /**
@@ -298,7 +298,7 @@ textarea {
  */
 
 [type="search"]::-webkit-search-decoration {
-  -webkit-appearance: none;
+    -webkit-appearance: none;
 }
 
 /**
@@ -307,8 +307,8 @@ textarea {
  */
 
 ::-webkit-file-upload-button {
-  -webkit-appearance: button; /* 1 */
-  font: inherit; /* 2 */
+    -webkit-appearance: button; /* 1 */
+    font: inherit; /* 2 */
 }
 
 /* Interactive
@@ -319,7 +319,7 @@ textarea {
  */
 
 details {
-  display: block;
+    display: block;
 }
 
 /*
@@ -327,7 +327,7 @@ details {
  */
 
 summary {
-  display: list-item;
+    display: list-item;
 }
 
 /* Misc
@@ -338,7 +338,7 @@ summary {
  */
 
 template {
-  display: none;
+    display: none;
 }
 
 /**
@@ -346,7 +346,7 @@ template {
  */
 
 [hidden] {
-  display: none;
+    display: none;
 }
 
 /**
@@ -372,12 +372,12 @@ hr,
 figure,
 p,
 pre {
-  margin: 0;
+    margin: 0;
 }
 
 button {
-  background-color: transparent;
-  background-image: none;
+    background-color: transparent;
+    background-image: none;
 }
 
 /**
@@ -386,20 +386,20 @@ button {
  */
 
 button:focus {
-  outline: 1px dotted;
-  outline: 5px auto -webkit-focus-ring-color;
+    outline: 1px dotted;
+    outline: 5px auto -webkit-focus-ring-color;
 }
 
 fieldset {
-  margin: 0;
-  padding: 0;
+    margin: 0;
+    padding: 0;
 }
 
 ol,
 ul {
-  list-style: none;
-  margin: 0;
-  padding: 0;
+    list-style: none;
+    margin: 0;
+    padding: 0;
 }
 
 /**
@@ -414,8 +414,8 @@ ul {
  */
 
 html {
-  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 1 */
-  line-height: 1.5; /* 2 */
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji"; /* 1 */
+    line-height: 1.5; /* 2 */
 }
 
 /**
@@ -447,10 +447,10 @@ html {
 *,
 ::before,
 ::after {
-  box-sizing: border-box; /* 1 */
-  border-width: 0; /* 2 */
-  border-style: solid; /* 2 */
-  border-color: #e2e8f0; /* 2 */
+    box-sizing: border-box; /* 1 */
+    border-width: 0; /* 2 */
+    border-style: solid; /* 2 */
+    border-color: #e2e8f0; /* 2 */
 }
 
 /*
@@ -458,7 +458,7 @@ html {
  */
 
 hr {
-  border-top-width: 1px;
+    border-top-width: 1px;
 }
 
 /**
@@ -472,33 +472,33 @@ hr {
  */
 
 img {
-  border-style: solid;
+    border-style: solid;
 }
 
 textarea {
-  resize: vertical;
+    resize: vertical;
 }
 
 input::-moz-placeholder, textarea::-moz-placeholder {
-  color: #a0aec0;
+    color: #a0aec0;
 }
 
 input:-ms-input-placeholder, textarea:-ms-input-placeholder {
-  color: #a0aec0;
+    color: #a0aec0;
 }
 
 input::placeholder,
 textarea::placeholder {
-  color: #a0aec0;
+    color: #a0aec0;
 }
 
 button,
 [role="button"] {
-  cursor: pointer;
+    cursor: pointer;
 }
 
 table {
-  border-collapse: collapse;
+    border-collapse: collapse;
 }
 
 h1,
@@ -507,8 +507,8 @@ h3,
 h4,
 h5,
 h6 {
-  font-size: inherit;
-  font-weight: inherit;
+    font-size: inherit;
+    font-weight: inherit;
 }
 
 /**
@@ -517,8 +517,8 @@ h6 {
  */
 
 a {
-  color: inherit;
-  text-decoration: inherit;
+    color: inherit;
+    text-decoration: inherit;
 }
 
 /**
@@ -534,9 +534,9 @@ input,
 optgroup,
 select,
 textarea {
-  padding: 0;
-  line-height: inherit;
-  color: inherit;
+    padding: 0;
+    line-height: inherit;
+    color: inherit;
 }
 
 /**
@@ -550,7 +550,7 @@ pre,
 code,
 kbd,
 samp {
-  font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    font-family: Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
 /**
@@ -569,8 +569,8 @@ audio,
 iframe,
 embed,
 object {
-  display: block;
-  vertical-align: middle;
+    display: block;
+    vertical-align: middle;
 }
 
 /**
@@ -582,244 +582,244 @@ object {
 
 img,
 video {
-  max-width: 100%;
-  height: auto;
+    max-width: 100%;
+    height: auto;
 }
 
 .container {
-  width: 100%;
+    width: 100%;
 }
 
 @media (min-width: 640px) {
-  .container {
-    max-width: 640px;
-  }
+    .container {
+        max-width: 640px;
+    }
 }
 
 @media (min-width: 768px) {
-  .container {
-    max-width: 768px;
-  }
+    .container {
+        max-width: 768px;
+    }
 }
 
 @media (min-width: 1024px) {
-  .container {
-    max-width: 1024px;
-  }
+    .container {
+        max-width: 1024px;
+    }
 }
 
 @media (min-width: 1280px) {
-  .container {
-    max-width: 1280px;
-  }
+    .container {
+        max-width: 1280px;
+    }
 }
 
 .items-start {
-  align-items: flex-start;
+    align-items: flex-start;
 }
 
 .items-end {
-  align-items: flex-end;
+    align-items: flex-end;
 }
 
 .bg-blue-500 {
-  background-color: #4299e1;
+    background-color: #4299e1;
 }
 
 .hover\:bg-blue-700:hover {
-  background-color: #2b6cb0;
+    background-color: #2b6cb0;
 }
 
 .rounded {
-  border-radius: 0.25rem;
+    border-radius: 0.25rem;
 }
 
 .rounded-full {
-  border-radius: 9999px;
+    border-radius: 9999px;
 }
 
 .flex {
-  display: flex;
+    display: flex;
 }
 
 .table {
-  display: table;
+    display: table;
 }
 
 .flex-col {
-  flex-direction: column;
+    flex-direction: column;
 }
 
 .text-xs {
-  font-size: 0.75rem;
+    font-size: 0.75rem;
 }
 
 .h-5 {
-  height: 1.25rem;
+    height: 1.25rem;
 }
 
 .h-10 {
-  height: 2.5rem;
+    height: 2.5rem;
 }
 
 .h-screen {
-  height: 100vh;
+    height: 100vh;
 }
 
 .my-auto {
-  margin-top: auto;
-  margin-bottom: auto;
+    margin-top: auto;
+    margin-bottom: auto;
 }
 
 .mx-auto {
-  margin-left: auto;
-  margin-right: auto;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .mr-2 {
-  margin-right: 0.5rem;
+    margin-right: 0.5rem;
 }
 
 .mr-3 {
-  margin-right: 0.75rem;
+    margin-right: 0.75rem;
 }
 
 .mb-4 {
-  margin-bottom: 1rem;
+    margin-bottom: 1rem;
 }
 
 .mt-12 {
-  margin-top: 3rem;
+    margin-top: 3rem;
 }
 
 .w-4 {
-  width: 1rem;
+    width: 1rem;
 }
 
 .w-8 {
-  width: 2rem;
+    width: 2rem;
 }
 
 .w-10 {
-  width: 2.5rem;
+    width: 2.5rem;
 }
 
 @media (min-width: 640px) {
-  .sm\:container {
-    width: 100%;
-  }
-
-  @media (min-width: 640px) {
     .sm\:container {
-      max-width: 640px;
+        width: 100%;
     }
-  }
 
-  @media (min-width: 768px) {
-    .sm\:container {
-      max-width: 768px;
+    @media (min-width: 640px) {
+        .sm\:container {
+            max-width: 640px;
+        }
     }
-  }
 
-  @media (min-width: 1024px) {
-    .sm\:container {
-      max-width: 1024px;
+    @media (min-width: 768px) {
+        .sm\:container {
+            max-width: 768px;
+        }
     }
-  }
 
-  @media (min-width: 1280px) {
-    .sm\:container {
-      max-width: 1280px;
+    @media (min-width: 1024px) {
+        .sm\:container {
+            max-width: 1024px;
+        }
     }
-  }
+
+    @media (min-width: 1280px) {
+        .sm\:container {
+            max-width: 1280px;
+        }
+    }
 }
 
 @media (min-width: 768px) {
-  .md\:container {
-    width: 100%;
-  }
-
-  @media (min-width: 640px) {
     .md\:container {
-      max-width: 640px;
+        width: 100%;
     }
-  }
 
-  @media (min-width: 768px) {
-    .md\:container {
-      max-width: 768px;
+    @media (min-width: 640px) {
+        .md\:container {
+            max-width: 640px;
+        }
     }
-  }
 
-  @media (min-width: 1024px) {
-    .md\:container {
-      max-width: 1024px;
+    @media (min-width: 768px) {
+        .md\:container {
+            max-width: 768px;
+        }
     }
-  }
 
-  @media (min-width: 1280px) {
-    .md\:container {
-      max-width: 1280px;
+    @media (min-width: 1024px) {
+        .md\:container {
+            max-width: 1024px;
+        }
     }
-  }
+
+    @media (min-width: 1280px) {
+        .md\:container {
+            max-width: 1280px;
+        }
+    }
 }
 
 @media (min-width: 1024px) {
-  .lg\:container {
-    width: 100%;
-  }
-
-  @media (min-width: 640px) {
     .lg\:container {
-      max-width: 640px;
+        width: 100%;
     }
-  }
 
-  @media (min-width: 768px) {
-    .lg\:container {
-      max-width: 768px;
+    @media (min-width: 640px) {
+        .lg\:container {
+            max-width: 640px;
+        }
     }
-  }
 
-  @media (min-width: 1024px) {
-    .lg\:container {
-      max-width: 1024px;
+    @media (min-width: 768px) {
+        .lg\:container {
+            max-width: 768px;
+        }
     }
-  }
 
-  @media (min-width: 1280px) {
-    .lg\:container {
-      max-width: 1280px;
+    @media (min-width: 1024px) {
+        .lg\:container {
+            max-width: 1024px;
+        }
     }
-  }
+
+    @media (min-width: 1280px) {
+        .lg\:container {
+            max-width: 1280px;
+        }
+    }
 }
 
 @media (min-width: 1280px) {
-  .xl\:container {
-    width: 100%;
-  }
-
-  @media (min-width: 640px) {
     .xl\:container {
-      max-width: 640px;
+        width: 100%;
     }
-  }
 
-  @media (min-width: 768px) {
-    .xl\:container {
-      max-width: 768px;
+    @media (min-width: 640px) {
+        .xl\:container {
+            max-width: 640px;
+        }
     }
-  }
 
-  @media (min-width: 1024px) {
-    .xl\:container {
-      max-width: 1024px;
+    @media (min-width: 768px) {
+        .xl\:container {
+            max-width: 768px;
+        }
     }
-  }
 
-  @media (min-width: 1280px) {
-    .xl\:container {
-      max-width: 1280px;
+    @media (min-width: 1024px) {
+        .xl\:container {
+            max-width: 1024px;
+        }
     }
-  }
+
+    @media (min-width: 1280px) {
+        .xl\:container {
+            max-width: 1280px;
+        }
+    }
 }

@@ -1,6 +1,6 @@
 import pytest
-from werkzeug.test import Client
 from freezegun import freeze_time
+from werkzeug.test import Client
 
 SAMPLE_REQUEST_1 = {
         'loan': {

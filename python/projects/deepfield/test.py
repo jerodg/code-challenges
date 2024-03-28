@@ -3,13 +3,13 @@
 """Jerod Gawne, 2018.07.19
 
 """
-import sys
-import traceback
 import csv
-from collections import Counter
+import itertools
 import operator
 import pprint
-import itertools
+import sys
+import traceback
+from collections import Counter
 
 if __name__ == '__main__':
     try:

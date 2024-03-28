@@ -47,7 +47,6 @@
 4
 ....
 
-
 === Objective
 
 === Deliverables

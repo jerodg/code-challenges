@@ -1,6 +1,7 @@
-from os.path import realpath
-from devtools import  debug
 import numpy as np
+from devtools import debug
+from os.path import realpath
+
 # A simple Python 3 program to find sum
 # of all subsquares of size k x k
 

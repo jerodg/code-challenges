@@ -1,7 +1,7 @@
 
+import argparse
 import sys
 import time
-import argparse
 # from blameless.internal.events import EventStream
 from blameless.solution.monitor import ServiceMonitor
 

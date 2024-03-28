@@ -28,9 +28,9 @@ follow these guidelines:
        in the same folder as `test_answer.py`.
 """
 
-import sys
-import json
 import argparse
+import json
+import sys
 
 
 def main():
@@ -141,4 +141,3 @@ def dump_object_to_file(object, filepath):
 
 if __name__ == '__main__':
     main()
-

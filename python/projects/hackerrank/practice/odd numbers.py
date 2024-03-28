@@ -1,7 +1,7 @@
 #!/bin/python3
 
-import sys
 import os
+import sys
 
 
 # Complete the function below.

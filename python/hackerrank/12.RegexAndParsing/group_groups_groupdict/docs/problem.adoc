@@ -35,13 +35,17 @@ You are given a string `s`
 Your task is to find the first occurrence of an alphanumeric character in `s` (read from left to right) that has consecutive repetitions.
 
 === Input Format
+
 A single line of input containing the string `s`
 
 === Constraints
+
 stem:[1 <= len(s) <= 10^4]
 
 === Output Format
-Print the first occurrence of the repeating character. If there are no repeating characters, print -1
+
+Print the first occurrence of the repeating character.
+If there are no repeating characters, print -1
 
 === Objective
 

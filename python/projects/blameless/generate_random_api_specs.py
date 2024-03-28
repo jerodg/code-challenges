@@ -1,5 +1,5 @@
-import sys
 import random
+import sys
 
 words_fd = open("/usr/share/dict/words", "r")
 all_words = words_fd.readlines()

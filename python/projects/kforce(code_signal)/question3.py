@@ -35,9 +35,9 @@ for row in data:
 
 
 
-import requests
 import mysql.connector
 import pandas as pd
+import requests
 
 data = requests.get('http://127.0.0.1:8081/products').json()
 
@@ -46,4 +46,3 @@ for row in data:
     m = f'and manufacturer {mfg}' if mfg else 'and no manufacturer'
 
     print(f'Product {row["name"]} has price {row["price"]} {m}')
-

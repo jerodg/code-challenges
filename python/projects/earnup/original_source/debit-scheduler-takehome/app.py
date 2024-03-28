@@ -19,9 +19,8 @@ copies or substantial portions of the Software.
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
 import json
-from datetime import timedelta
-
 import pandas as pd
+from datetime import timedelta
 from delorean import parse
 from holidays import country_holidays
 from werkzeug.exceptions import HTTPException, NotFound

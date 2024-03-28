@@ -6,11 +6,11 @@ process.stdin.setEncoding('utf-8');
 let inputString = '';
 let currentLine = 0;
 
-process.stdin.on('data', function(inputStdin) {
+process.stdin.on('data', function (inputStdin) {
     inputString += inputStdin;
 });
 
-process.stdin.on('end', function() {
+process.stdin.on('end', function () {
     inputString = inputString.split('\n');
 
     main();
@@ -35,9 +35,9 @@ function readLine() {
 function countApplesAndOranges(s, t, a, b, apples, oranges) {
     const countInRange = (tree, fruits) => {
         return fruits.filter((fruit) => tree + fruit >= s && tree + fruit <= t).length;
-  };
-  console.log(countInRange(a, apples));
-  console.log(countInRange(b, oranges));
+    };
+    console.log(countInRange(a, apples));
+    console.log(countInRange(b, oranges));
 }
 
 function main() {

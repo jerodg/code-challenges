@@ -1,10 +1,5 @@
+from PIL import (Image, ImageDraw, ImageFont)
 from math import ceil
-
-from PIL import (
-    Image,
-    ImageFont,
-    ImageDraw,
-)
 
 PIL_GRAYSCALE = 'L'
 PIL_WIDTH_INDEX = 0

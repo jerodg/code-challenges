@@ -15,10 +15,10 @@
 
   Please write a function that will translate the input string.
 '''
-import re
-from string import ascii_letters as al
 # from string import is_numeric
 import pytest
+import re
+from string import ascii_letters as al
 
 # bre = re.compile(r'\{(.*)\}')
 bre = re.compile(r'[a-z]\d+\{.*\}')
@@ -78,4 +78,3 @@ def test_aaaaaaaaaa():
 
 
 pytest.main()
-

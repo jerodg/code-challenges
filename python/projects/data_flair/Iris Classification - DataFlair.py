@@ -1,14 +1,11 @@
 
 
+import matplotlib.pyplot as plt
 # DataFlair Iris Classification
 # Import Packages
 import numpy as np
-import matplotlib.pyplot as plt
-import seaborn as sns
 import pandas as pd
-
-
-
+import seaborn as sns
 
 columns = ['Sepal length', 'Sepal width', 'Petal length', 'Petal width', 'Class_labels'] # As per the iris dataset information
 

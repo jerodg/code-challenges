@@ -17,11 +17,13 @@ copies or substantial portions of the Software.
 
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
-from os.path import realpath
-from colored import bg
-from random import randint
 import numpy as np
+from colored import bg
+from os.path import realpath
+from random import randint
 from rich import print as rprint
+
+
 # Python program to find all
 # rectangles filled with 0
 

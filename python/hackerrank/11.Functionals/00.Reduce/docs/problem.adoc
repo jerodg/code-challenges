@@ -24,17 +24,22 @@
 {summary}
 
 == Learning
+
 Given a list of rational numbers,find their product.
 
 *Concept* +
-The `+reduce()+` function applies a function of two arguments cumulatively on a list of objects in succession from left to right to reduce it to one value. Say you have a list, say `+[1,2,3]+` and you have to find its sum.
+The `+reduce()+` function applies a function of two arguments cumulatively on a list of objects in succession from left to right to reduce it to one value.
+Say you have a list, say `+[1,2,3]+` and you have to find its sum.
 
 ....
 >>> reduce(lambda x, y : x + y,[1,2,3])
 6
 ....
 
-You can also define an initial value. If it is specified, the function will assume initial value as the value given, and then reduce. It is equivalent to adding the initial value at the beginning of the list. For example:
+You can also define an initial value.
+If it is specified, the function will assume initial value as the value given, and then reduce.
+It is equivalent to adding the initial value at the beginning of the list.
+For example:
 
 ....
 >>> reduce(lambda x, y : x + y, [1,2,3], -3)
@@ -77,7 +82,6 @@ Print only one line containing the numerator and denominator of the product of t
 *Explanation 0*
 
 Required product is
-
 
 == Tutorial
 // todo: tutorial

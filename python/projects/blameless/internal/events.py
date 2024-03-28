@@ -3,10 +3,10 @@ Events
 """
 import sys
 import uuid
+from blameless.internal.apispec import ApiSpec
+from blameless.internal.dist import UniformChoiceDist, UniformDist
 from datetime import datetime
 from random import Random
-from blameless.internal.dist import UniformChoiceDist, UniformDist
-from blameless.internal.apispec import ApiSpec
 
 
 class AccessLog(object):

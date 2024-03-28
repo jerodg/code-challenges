@@ -3,8 +3,8 @@
  * @param {number} k
  * @return {number}
  */
-let maxSubarrayLength = function(nums, k) {
-     let left = 0;
+let maxSubarrayLength = function (nums, k) {
+    let left = 0;
     let counter = {};
     let max_length = 0;
     for (let right = 0; right < nums.length; right++) {

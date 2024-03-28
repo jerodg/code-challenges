@@ -17,13 +17,13 @@ copies or substantial portions of the Software.
 
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
-from os.path import realpath
-
 import numpy as np
 from devtools import debug
-from rich.console import Console
+from os.path import realpath
 from rich import print
 from rich.color import Color
+from rich.console import Console
+
 c = Console(color_system='256')
 
 

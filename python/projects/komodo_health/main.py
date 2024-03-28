@@ -5,9 +5,9 @@
 
 # use this as an example of a slow performing function
 
+from functools import wraps
 from time import sleep, time
 from typing import List
-from functools import wraps
 
 CACHE = dict()
 
@@ -54,4 +54,3 @@ test_vals = [
 #     print(slow_sum(x))
 
 [print(slow_sum(x)) for x in test_vals]
-

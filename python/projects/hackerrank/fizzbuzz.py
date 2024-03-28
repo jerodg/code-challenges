@@ -4,12 +4,12 @@
 
 https://github.com/jerodg/hackerrank
 """
-import sys
-import traceback
 import math
 import os
 import random
 import re
+import sys
+import traceback
 
 
 def fizzBuzz(n):

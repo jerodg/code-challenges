@@ -2,11 +2,10 @@ import binascii
 import hmac
 import logging
 import time
+from flask import Flask, redirect, send_file, session
 from hashlib import sha1
 from secrets import token_hex
 from urllib.parse import quote, urlencode
-
-from flask import Flask, redirect, send_file, session
 
 log = logging.getLogger(__name__)
 

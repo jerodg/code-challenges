@@ -8,8 +8,6 @@ Return _the length of the *longest* *good* subarray of_ `+nums+`_._
 
 A *subarray* is a contiguous non-empty sequence of elements within an array.
 
-
-
 *Example 1:*
 
 ....
@@ -36,7 +34,6 @@ Output: 4
 Explanation: The longest possible good subarray is [5,5,5,5] since the value 5 occurs 4 times in this subarray.
 It can be shown that there are no good subarrays with length more than 4.
 ....
-
 
 *Constraints:*
 

@@ -16,10 +16,8 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
-from blameless.internal.events import EventStream
 from blameless.internal.apispec import ApiSpec
-from typing import NoReturn
-
+from blameless.internal.events import EventStream
 # It is assumed that you have implemented the functions below:
 #
 # event_stream is of type EventStream (see internal.events.EventStream)
@@ -28,12 +26,10 @@ from typing import NoReturn
 # class must implement mttr(), api_histogram() and incident_details() as described
 # in README.md
 from dataclasses import dataclass, field
-from typing import List, Union, Optional
+from datetime import datetime, datetime as dt, timedelta, timezone
 from pprint import PrettyPrinter, pformat
-from datetime import datetime as dt
-from datetime import timezone
-from datetime import datetime, timedelta
 from time import time
+from typing import List, NoReturn, Optional, Union
 
 
 def totimestamp(dt, epoch=datetime(1970, 1, 1)):
