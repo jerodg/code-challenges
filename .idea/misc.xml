@@ -7,6 +7,7 @@
     <option name="pathToExecutable" value="C:\Apps\Python3.12\Scripts\black.exe" />
     <option name="sdkName" value="Python 3.12.1 WSL (Ubuntu): (/home/jerryg/.cache/pypoetry/virtualenvs/hackerrank-TOiZavTq-py3.12/bin/python3.12)" />
   </component>
+  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
