@@ -1,18 +1,4 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="Black">
-    <option name="cmdArguments" value="-t py38 -t py39 -t py310 -t py311 -t py312 --preview" />
-    <option name="enabledOnReformat" value="true" />
-    <option name="executionMode" value="BINARY" />
-    <option name="pathToExecutable" value="C:\Apps\Python3.12\Scripts\black.exe" />
-    <option name="sdkName" value="Python 3.12.1 WSL (Ubuntu): (/home/jerryg/.cache/pypoetry/virtualenvs/hackerrank-TOiZavTq-py3.12/bin/python3.12)" />
-  </component>
-  <component name="CMakeWorkspace" PROJECT_DIR="$PROJECT_DIR$" />
-  <component name="JavaScriptSettings">
-    <option name="languageLevel" value="ES6" />
-  </component>
-  <component name="ProjectRootManager" version="2" project-jdk-name="Python 3.12 (code-challenges)" project-jdk-type="Python SDK" />
-  <component name="PythonCompatibilityInspectionAdvertiser">
-    <option name="version" value="3" />
-  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="ruby-3.2.3-p157" project-jdk-type="RUBY_SDK" />
 </project>

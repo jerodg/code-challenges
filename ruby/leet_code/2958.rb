@@ -1,21 +1,18 @@
 # @param {Integer[]} nums
 # @param {Integer} k
 # @return {Integer}
-
-# fixme: Not working correctly
 def max_subarray_length(nums, k)
   sum = 0
-  max_len = 0
-  left = 0
-
-  nums.each_with_index do |num, right|
+  max_length = 0
+  hash = { 0 => -1 }
+  nums.each_with_index do |num, index|
     sum += num
-    while sum > k
-      sum -= nums[left]
-      left += 1
+    if hash[sum - k]
+      max_length = [max_length, index - hash[sum - k]].max
+    else
+      hash[sum] = index
     end
-    max_len = [max_len, right - left + 1].max
   end
-
-  max_len
+  max_length = nums.size if (sum <= k)
+  max_length
 end
