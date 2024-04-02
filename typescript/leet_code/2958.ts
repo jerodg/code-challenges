@@ -5,7 +5,7 @@
  */
 function maxSubarrayLength(nums: number[], k: number): number {
     let left: number = 0;
-    let counter: {[key: number]: number} = {};
+    let counter: { [key: number]: number } = {};
     let max_length: number = 0;
     for (let right: number = 0; right < nums.length; right++) {
         let num: number = nums[right];

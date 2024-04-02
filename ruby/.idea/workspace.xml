@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2cc58289-d4e5-4bee-a013-4d1b97c4c98e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c#/leet_code/205.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/c++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/leet_code/205.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/c.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/205.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/205.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/code-challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/205.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/.idea/php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/205.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/205.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/205.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/code_wars/convert_number_to_reversed_array_of_digits/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/code_wars/convert_number_to_reversed_array_of_digits.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
+  <component name="ProjectId" id="2eYPEVdqxylOQBVmqs0sHpxxQhk" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "trunk",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/ruby",
+    "nodejs_package_manager_path": "npm",
+    "ruby.structure.view.model.defaults.configured": "true",
+    "settings.editor.selected.configurable": "settings.sync",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2cc58289-d4e5-4bee-a013-4d1b97c4c98e" name="Changes" comment="" />
+      <created>1712078427644</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712078427644</updated>
+      <workItem from="1712078428721" duration="67000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>

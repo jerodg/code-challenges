@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="ALL" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/indexLayout.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c#/leet_code/205.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/c++.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/leet_code/205.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/c.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/205.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/205.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/code-challenges.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/205.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/kotlin.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/205.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/.idea/php.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/205.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/205.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/.idea/ruby.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/205.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/.idea/JetClient/state.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/.idea/rust.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/leet_code/205.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/.idea/jsLinters/eslint.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/.idea/prettier.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/.idea/typescript.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/tsconfig.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/code_wars/convert_number_to_reversed_array_of_digits/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/code_wars/convert_number_to_reversed_array_of_digits.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/26.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/leet_code/26.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/2958.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/leet_code/2958.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/hackerrank/2d_array_ds.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/hackerrank/2d_array_ds.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/hackerrank/dynamic_array.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/hackerrank/dynamic_array.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/hackerrank/number_line_jumps.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/hackerrank/number_line_jumps.ts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/2958.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/2958.ts" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../Apps/Go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 6
+}]]></component>
+  <component name="ProjectId" id="2eYTajFPA1yFsCQLkZyFcZ39J73" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "git-widget-placeholder": "trunk",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/go",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RunManager">
+    <configuration name="go build 205.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$/leet_code/205.go" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build 205.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-gosdk-2946fb9b3188-155fe4b6e3a0-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-233.15026.17" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VgoProject">
+    <settings-migrated>true</settings-migrated>
+  </component>
+</project>

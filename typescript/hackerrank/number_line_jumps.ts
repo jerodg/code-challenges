@@ -1,6 +1,6 @@
 'use strict';
 
-import {WriteStream, createWriteStream} from "fs";
+import {createWriteStream, WriteStream} from "fs";
 
 process.stdin.resume();
 process.stdin.setEncoding('utf-8');
@@ -42,7 +42,7 @@ function kangaroo(x1: number, v1: number, x2: number, v2: number): string {
         }
     }
     return 'NO';
-  }
+}
 
 function main() {
     const ws: WriteStream = createWriteStream(process.env['OUTPUT_PATH']);

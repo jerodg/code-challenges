@@ -13,5 +13,5 @@ impl Solution {
         }
 
         (i + 1) as i32
-        }
+    }
 }

@@ -1,6 +1,6 @@
 'use strict';
 
-import {WriteStream, createWriteStream} from "fs";
+import {createWriteStream, WriteStream} from "fs";
 
 process.stdin.resume();
 process.stdin.setEncoding('utf-8');
