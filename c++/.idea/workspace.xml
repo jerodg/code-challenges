@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -21,22 +21,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leet_code/205.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/205.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/205.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/205.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/26.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/2958.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/79.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/88.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/leet_code/205.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/leet_code/205.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,10 +49,13 @@
     <option name="majorVersion" value="2023" />
     <option name="minorVersion" value="3.4" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2eYNgM83sPLpCpmeyth9TGqi790" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -72,15 +69,20 @@
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "trunk",
+    "ignore.virus.scanning.warn.message": "true",
     "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/c++",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="c__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c__" TARGET_NAME="c__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c__" RUN_TARGET_NAME="c__">
@@ -98,6 +100,7 @@
       <option name="presentableId" value="Default" />
       <updated>1712077661620</updated>
       <workItem from="1712077662693" duration="192000" />
+      <workItem from="1712160805817" duration="1185000" />
     </task>
     <servers />
   </component>

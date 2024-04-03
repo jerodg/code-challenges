@@ -20,15 +20,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leet_code/26.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/2958.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/79.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/88.c" afterDir="false" />
+    <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
       <change beforePath="$PROJECT_DIR$/../c++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -101,11 +95,25 @@
       <updated>1712077653585</updated>
       <workItem from="1712077654653" duration="208000" />
       <workItem from="1712160398101" duration="230000" />
-      <workItem from="1712160640615" duration="1132000" />
+      <workItem from="1712160640615" duration="1369000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
+      <option name="closed" value="true" />
+      <created>1712162004675</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712162004675</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958" />
   </component>
 </project>
