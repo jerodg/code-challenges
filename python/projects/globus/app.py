@@ -2,10 +2,11 @@ import binascii
 import hmac
 import logging
 import time
-from flask import Flask, redirect, send_file, session
 from hashlib import sha1
 from secrets import token_hex
 from urllib.parse import quote, urlencode
+
+from flask import Flask, redirect, send_file, session
 
 log = logging.getLogger(__name__)
 
@@ -46,8 +47,7 @@ def get_timeline():
 
     reference:
       https://developer.twitter.com/en/docs/authentication/oauth-1-0a/obtaining-user-access-tokens
-    """
-    # TODO: FIll Me In
+    """  # TODO: FIll Me In
 
 
 def parse_tweet(tweet):
@@ -110,22 +110,15 @@ def build_oauth_params(method, url, params):
     `params` is a dictionary of query or form parameters to be sent in the request.
     """
     # construct oauth header parameters
-    oauth_params = {
-        "oauth_consumer_key": app.config["TWITTER_API_KEY"],
-        "oauth_nonce": token_hex(16),
-        "oauth_signature_method": "HMAC-SHA1",
-        "oauth_timestamp": str(int(time.time())),
-        "oauth_version": "1.0",
-        "oauth_token": get_token(),
-    }
+    oauth_params = {"oauth_consumer_key": app.config["TWITTER_API_KEY"], "oauth_nonce": token_hex(16),
+            "oauth_signature_method"    : "HMAC-SHA1", "oauth_timestamp": str(int(time.time())), "oauth_version": "1.0",
+            "oauth_token"               : get_token(), }
 
     # compute the signature from all parameters
     collected_params = {**oauth_params, **params}
     encoded_params = urlencode(sorted(collected_params.items()))
     base_string = "&".join([quote(method), quote(url, safe=""), quote(encoded_params)])
-    key = "&".join(
-        [quote(app.config["TWITTER_API_SECRET"], safe=""), quote(get_secret(), safe="")]
-    )
+    key = "&".join([quote(app.config["TWITTER_API_SECRET"], safe=""), quote(get_secret(), safe="")])
     sig = hmac.new(key.encode("utf8"), base_string.encode("utf8"), sha1)
     sig_str = binascii.b2a_base64(sig.digest(), newline=False).decode("utf-8")
     oauth_params["oauth_signature"] = sig_str

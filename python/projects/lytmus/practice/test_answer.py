@@ -37,9 +37,8 @@ def main():
     # parse the arguments of the `test_answer.py` script
     description = 'Run your answer against a specific test-case input from a JSON file.'
     parser = argparse.ArgumentParser(description)
-    parser.add_argument('test_case_path',
-                        help=('path to the JSON file containing the test-case input,'
-                              ' eg, "inputs/first_last.json"'))
+    parser.add_argument('test_case_path', help=('path to the JSON file containing the test-case input,'
+                                                ' eg, "inputs/first_last.json"'))
     args = parser.parse_args()
 
     # run your answer with the desired test-case
@@ -82,18 +81,18 @@ def input_is_valid(input_dictionary):
 
     # Mapping of required field names to the required type of values for that field for the
     # contents of the input file
-    required_fields = {
-        'name': 'unicode',
-    }
+    required_fields = {'name': 'unicode', }
 
     fields_are_valid = True
     for field_name, value_type in required_fields.items():
         if not input_dictionary.has_key(field_name):
-            print 'Error, input file does not contain the field "%s"' % field_name
+            print
+            'Error, input file does not contain the field "%s"' % field_name
             fields_are_valid = False
         elif type(input_dictionary[field_name]).__name__ != value_type:
-            print 'Error, field "%s" in input file has the type "%s", but the type should be "%s"' % (
-                  field_name, type(input_dictionary[field_name]).__name__, value_type)
+            print
+            'Error, field "%s" in input file has the type "%s", but the type should be "%s"' % (
+                    field_name, type(input_dictionary[field_name]).__name__, value_type)
             fields_are_valid = False
     return fields_are_valid
 
@@ -111,16 +110,19 @@ def load_object_from_file(filepath):
         with open(filepath, 'r') as file:
             dictionary = json.loads(file.read())
     except IOError:
-        print 'Error: could not read file %s.' % filepath
+        print
+        'Error: could not read file %s.' % filepath
         sys.exit(1)
     except ValueError:
-        print 'Error: the file %s does not contain valid JSON.' % filepath
+        print
+        'Error: the file %s does not contain valid JSON.' % filepath
         sys.exit(1)
 
     fields_are_valid = True
     if not dictionary.has_key('name'):
         fields_are_valid = False
-        print 'Error, input JSON file does not have field "name"'
+        print
+        'Error, input JSON file does not have field "name"'
 
     if fields_are_valid:
         return dictionary

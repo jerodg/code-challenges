@@ -49,6 +49,8 @@ def helloWorld(name):
 
 """
 from typing import Optional
+
+
 #
 # # def solution(a, b):
 # #     # print(a, b)
@@ -79,9 +81,11 @@ from typing import Optional
 # # merge_lists([9876, 5432, 1999], [1, 8001])
 #
 class ListNode(object):
-  def __init__(self, x):
-    self.value = x
-    self.next = None
+    def __init__(self, x):
+        self.value = x
+        self.next = None
+
+
 #
 # def solution(l1, l2):
 #     temp = ListNode(None)

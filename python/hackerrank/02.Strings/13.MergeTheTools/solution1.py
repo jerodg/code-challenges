@@ -18,7 +18,7 @@ def merge_the_tools(string, k) -> None:
     :param k: int
     :return: None
     """
-    chunks = [string[x : x + k] for x in range(0, len(string), k)]
+    chunks = [string[x: x + k] for x in range(0, len(string), k)]
     [print("".join(collections.OrderedDict.fromkeys(c).keys())) for c in chunks]
 
 

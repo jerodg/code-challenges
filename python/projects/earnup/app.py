@@ -1,7 +1,8 @@
 import calendar
 import json
-import pandas as pd
 from datetime import timedelta
+
+import pandas as pd
 from delorean import parse
 from holidays import country_holidays
 from werkzeug.exceptions import HTTPException, NotFound
@@ -15,8 +16,7 @@ from werkzeug.wrappers import Request, Response
 class App(object):
 
     def __init__(self):
-        self.url_map = Map([Rule('/', endpoint=''),
-                            Rule('/get_next_debit', endpoint='get_next_debit')])
+        self.url_map = Map([Rule('/', endpoint=''), Rule('/get_next_debit', endpoint='get_next_debit')])
 
     def dispatch_request(self, request):
         adapter = self.url_map.bind_to_environ(request.environ)
@@ -45,8 +45,7 @@ class App(object):
         debug(calendar.month(start.date.year, start.date.month))
 
         # Get a list of dates (up to 5) starting from the debit_start_date forward at debit_day_of_week
-        date_rng = pd.date_range(start=start.date,
-                                 end=start.date + timedelta(weeks=5),
+        date_rng = pd.date_range(start=start.date, end=start.date + timedelta(weeks=5),
                                  freq=f'2W-{body["debit_day_of_week"][:3].upper()}')
 
         # Filter out dates in other months, dates that are US bank holidays (federal), and a date that equals the start date
@@ -55,9 +54,7 @@ class App(object):
 
         debug(date_rng)
 
-        response = {'debit': {
-                'amount': float(f'{(body["monthly_payment_amount"] / len(date_rng)):.2f}'),
-                'date':   str(date_rng[0])}}
+        response = {'debit': {'amount': float(f'{(body["monthly_payment_amount"] / len(date_rng)):.2f}'), 'date': str(date_rng[0])}}
 
         return Response(json.dumps(response), mimetype='application/json')
 

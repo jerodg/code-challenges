@@ -19,10 +19,9 @@ text = 'Gala Games is Hiringggrgergergergerg'.split(' ')
 mx = max(len(e) for e in text)
 res = [f'* {x.ljust(mx, " ")} *' for x in text]
 
-print('*' *  int(mx + 4))
+print('*' * int(mx + 4))
 [print(''.join(x)) for x in res]
 print('*' * int(mx + 4))
-
 
 # ln_txt = len(mx)
 # half = (mx - 2) / 2
@@ -38,6 +37,3 @@ print('*' * int(mx + 4))
 #     cnt = (mx + 4) -
 #     y = ['* ', x, ' ' * cnt, ' *']
 #     res.append(y)
-
-
-

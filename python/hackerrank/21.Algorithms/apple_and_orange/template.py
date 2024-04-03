@@ -1,10 +1,5 @@
 #!/bin/python3
 
-import math
-import os
-import random
-import re
-import sys
 
 #
 # Complete the 'countApplesAndOranges' function below.
@@ -21,6 +16,7 @@ import sys
 def countApplesAndOranges(s, t, a, b, apples, oranges):
     print(sum(s <= a + d <= t for d in apples))
     print(sum(s <= b + d <= t for d in oranges))
+
 
 if __name__ == '__main__':
     first_multiple_input = input().rstrip().split()

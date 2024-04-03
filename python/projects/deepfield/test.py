@@ -4,12 +4,8 @@
 
 """
 import csv
-import itertools
-import operator
-import pprint
 import sys
 import traceback
-from collections import Counter
 
 if __name__ == '__main__':
     try:

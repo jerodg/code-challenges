@@ -18,9 +18,10 @@ copies or substantial portions of the Software.
 
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
-import pytest
 from os.path import realpath
 from pathlib import Path
+
+import pytest
 from requests import post
 
 

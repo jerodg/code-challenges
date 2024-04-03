@@ -1,7 +1,6 @@
-
 import argparse
-import sys
 import time
+
 # from blameless.internal.events import EventStream
 from blameless.solution.monitor import ServiceMonitor
 
@@ -50,41 +49,21 @@ if __name__ == '__main__':
 
                 # print(window.sli)
 
-
-
-
-            # for window in v.windows:
-            #     print(window.events)
+            # for window in v.windows:  #     print(window.events)
 
         # for k, v in sm.specs.items()
 
-        # for k, v in sm.specs.items():
-        #     print(v)
+        # for k, v in sm.specs.items():  #     print(v)
 
-        # for k, v in sm.resources.items():
-        #     print(k, v)
+        # for k, v in sm.resources.items():  #     print(k, v)
 
-
-        # print(sm.get_api_specs())
-        # print(sm.get_api_specs())
-        # print(sm.get_info())
-        # print(*[x.__dict__ for x in sm.get_api_specs()], sep='\n')
-        # print('=' * 80)
-        #
-        # print(*[x.to_dict() for x in sm.get_api_specs()], sep='\n')
-        # print('=' * 80)
-        #
-        # #
-        # for _ in range(0, args.max_events + 1):
-        #     print(sm.generate_event())
+        # print(sm.get_api_specs())  # print(sm.get_api_specs())  # print(sm.get_info())  # print(*[x.__dict__ for x in
+        # sm.get_api_specs()], sep='\n')  # print('=' * 80)  #  # print(*[x.to_dict() for x in sm.get_api_specs()], sep='\n')  #
+        # print('=' * 80)  #  # #  # for _ in range(0, args.max_events + 1):  #     print(sm.generate_event())
 
         # sm.process_events()
 
-        # print('=' * 80)
-        #
-        # [print(k, v) for k, v in sm.events.items()]
+        # print('=' * 80)  #  # [print(k, v) for k, v in sm.events.items()]
 
-    # service_monitor = get_service_monitor(event_stream)
-    # print(service_monitor.mttr())
-    # print(service_monitor.api_histogram())
-    # print(service_monitor.incident_details())
+    # service_monitor = get_service_monitor(event_stream)  # print(service_monitor.mttr())  # print(
+    # service_monitor.api_histogram())  # print(service_monitor.incident_details())

@@ -18,11 +18,8 @@ copies or substantial portions of the Software.
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
 
-import math
 import os
-import random
-import re
-import sys
+
 
 #
 # Complete the 'insertionSort' function below.
@@ -42,6 +39,7 @@ def insertionSort(arr):
             shifts += 1
         arr[j + 1] = key
     return shifts
+
 
 if __name__ == '__main__':
     fptr = open(os.environ['OUTPUT_PATH'], 'w')

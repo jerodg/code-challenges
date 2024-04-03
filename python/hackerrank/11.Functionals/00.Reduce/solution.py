@@ -25,6 +25,7 @@ def product(fracs):
     t = reduce(lambda x, y: Fraction(x.numerator * y.numerator, x.denominator * y.denominator), fracs)
     return t.numerator, t.denominator
 
+
 def main():
     fracs = []
     for _ in range(int(input())):

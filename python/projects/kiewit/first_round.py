@@ -1,27 +1,8 @@
 from itertools import groupby
 
-employees = [
-        {
-                'name':       'Kevin Pozzi',
-                'supervisor': None
-        },
-        {
-                'name':       'Taylor Jamison',
-                'supervisor': 'Kevin Pozzi'
-        },
-        {
-                'name':       'Katie Viola',
-                'supervisor': 'Kevin Pozzi'
-        },
-        {
-                'name':       'Raegan Barker',
-                'supervisor': 'Taylor Jamison'
-        },
-        {
-                'name':       'Casey Corver',
-                'supervisor': 'Katie Viola'
-        },
-]
+employees = [{'name': 'Kevin Pozzi', 'supervisor': None}, {'name': 'Taylor Jamison', 'supervisor': 'Kevin Pozzi'},
+        {'name': 'Katie Viola', 'supervisor': 'Kevin Pozzi'}, {'name': 'Raegan Barker', 'supervisor': 'Taylor Jamison'},
+        {'name': 'Casey Corver', 'supervisor': 'Katie Viola'}, ]
 
 sup = lambda x: x['supervisor']
 sups = set()

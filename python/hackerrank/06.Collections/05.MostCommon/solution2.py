@@ -12,6 +12,7 @@ if __name__ == "__main__":
             def fromkeys(cls, iterable, v=None):
                 pass
 
+
         [print(*c) for c in OrderedCounter(sorted(input())).most_common(3)]
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))

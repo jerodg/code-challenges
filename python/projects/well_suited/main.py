@@ -21,13 +21,8 @@ def fibonacci_number(term_number):
     if term_number > 1:
         return fibonacci_number(term_number - 1) + fibonacci_number(term_number - 2)
 
-    return term_number
-    # if term_number == 1:
-    #     return 1
-    # list_of_fibs = [1]
-    # x = 0
-    # while x < term_number:
-    #     list_of_fibs[x] = list_of_fibs[x] + list_of_fibs[x - 1]
+    return term_number  # if term_number == 1:  #     return 1  # list_of_fibs = [1]  # x = 0  # while x < term_number:  #
+    # list_of_fibs[x] = list_of_fibs[x] + list_of_fibs[x - 1]
 
     # return list_of_fibs[term_number]
 

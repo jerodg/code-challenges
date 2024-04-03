@@ -61,10 +61,8 @@ def satisfy_shopping_list(shopping_list, inventory):
     minimum = min(len(_) for _ in store_permutations)
 
     print("The shopping list can be satisfied by visiting a minimum of {} store(s):".format(minimum))
-    [print(_) for _ in sorted(set(
-        [', '.join(sorted(stores, key=lambda s: s.lower()))
-         for stores in store_permutations
-            if len(stores) <= minimum]))]
+    [print(_) for _ in
+     sorted(set([', '.join(sorted(stores, key=lambda s: s.lower())) for stores in store_permutations if len(stores) <= minimum]))]
 
 
 if __name__ == '__main__':

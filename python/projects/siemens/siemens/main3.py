@@ -1,5 +1,3 @@
-import numpy as np
-from devtools import debug
 from os.path import realpath
 
 # A simple Python 3 program to find sum
@@ -57,8 +55,6 @@ if __name__ == "__main__":
                 row[i] = 1
             elif col == ' ':
                 row[i] = 0
-
-
 
     # arr = np.array(rows, dtype='i4')
     # arr[np.isin(arr, '#')] = 1

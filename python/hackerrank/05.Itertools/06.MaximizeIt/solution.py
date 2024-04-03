@@ -9,7 +9,7 @@ from typing import NoReturn
 def main() -> NoReturn:
     k, m = map(int, input().split())
     n = (list(map(int, input().split()))[1:] for _ in range(k))
-    results = (sum(num**2 for num in numbers) % m for numbers in product(*n))
+    results = (sum(num ** 2 for num in numbers) % m for numbers in product(*n))
     print(max(results))
 
 

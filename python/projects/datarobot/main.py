@@ -18,14 +18,15 @@ copies or substantial portions of the Software.
 
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
+import pickle
+from os.path import realpath
+from typing import NoReturn, Optional, Union
+
 import numpy as np
 import pandas as pd
-import pickle
 from fastapi import FastAPI, Form, Response
-from os.path import realpath
 from sklearn.model_selection import train_test_split
 from sklearn.svm import SVC
-from typing import NoReturn, Optional, Union
 
 from models.input_line import InputLine
 from models.prediction import Prediction

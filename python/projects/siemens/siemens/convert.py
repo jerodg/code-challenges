@@ -1,14 +1,15 @@
-from PIL import (Image, ImageDraw, ImageFont)
 from math import ceil
+
+from PIL import (Image, ImageDraw, ImageFont)
 
 PIL_GRAYSCALE = 'L'
 PIL_WIDTH_INDEX = 0
 PIL_HEIGHT_INDEX = 1
-COMMON_MONO_FONT_FILENAMES = [
-    'DejaVuSansMono.ttf',  # Linux
-    'Consolas Mono.ttf',   # MacOS, I think
-    'Consola.ttf',         # Windows, I think
+COMMON_MONO_FONT_FILENAMES = ['DejaVuSansMono.ttf',  # Linux
+        'Consolas Mono.ttf',  # MacOS, I think
+        'Consola.ttf',  # Windows, I think
 ]
+
 
 def textfile_to_image(textfile_path):
     """Convert text file to a grayscale image.

@@ -18,11 +18,9 @@ def wrap(s, w) -> list:
     :param s: str
     :param w: int
     :return: list
-    """
-    # return [_ for _ in iter(functools.partial(io.StringIO(s).read, w), '')]
+    """  # return [_ for _ in iter(functools.partial(io.StringIO(s).read, w), '')]
 
-    # If you have a file or socket, StringIO wrapper is not needed:
-    # return [l for l in iter(functools.partial(s.read, w), '')]
+    # If you have a file or socket, StringIO wrapper is not needed:  # return [l for l in iter(functools.partial(s.read, w), '')]
 
 
 if __name__ == "__main__":

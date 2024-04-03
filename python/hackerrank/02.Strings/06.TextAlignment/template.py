@@ -21,10 +21,4 @@ for i in range(thickness + 1):
 
 # Bottom Cone
 for i in range(thickness):
-    print(
-        (
-            (c * (thickness - i - 1)).______(thickness)
-            + c
-            + (c * (thickness - i - 1)).______(thickness)
-        ).______(thickness * 6)
-    )
+    print(((c * (thickness - i - 1)).______(thickness) + c + (c * (thickness - i - 1)).______(thickness)).______(thickness * 6))

@@ -17,7 +17,7 @@ def merge_the_tools(string, k) -> None:
     :param k: int
     :return: None
     """
-    chunks = [string[x : x + k] for x in range(0, len(string), k)]
+    chunks = [string[x: x + k] for x in range(0, len(string), k)]
 
     # This only works in Python 3.6+ due to ordered dicts by default
     # It doesn't work with the online interpreter because it doesn't support this

@@ -1,5 +1,4 @@
-candles = [
-        {"t": "2021-07-14T19:31:00Z", "o": 149.38, "h": 149.43, "l": 149.3701, "c": 149.4, "v": 208144},
+candles = [{"t": "2021-07-14T19:31:00Z", "o": 149.38, "h": 149.43, "l": 149.3701, "c": 149.4, "v": 208144},
         {"t": "2021-07-14T19:32:00Z", "o": 149.3989, "h": 149.515, "l": 149.38, "c": 149.48, "v": 275018},
         {"t": "2021-07-14T19:33:00Z", "o": 149.48, "h": 149.52, "l": 149.409, "c": 149.409, "v": 251242},
         {"t": "2021-07-14T19:34:00Z", "o": 149.405, "h": 149.54, "l": 149.4, "c": 149.51, "v": 307084},
@@ -13,8 +12,7 @@ candles = [
         {"t": "2021-07-14T19:42:00Z", "o": 149.405, "h": 149.41, "l": 149.29, "c": 149.3101, "v": 254976},
         {"t": "2021-07-14T19:43:00Z", "o": 149.32, "h": 149.5, "l": 149.19, "c": 149.2, "v": 416948},
         {"t": "2021-07-14T19:44:00Z", "o": 149.1906, "h": 149.2114, "l": 149.17, "c": 149.17, "v": 320980},
-        {"t": "2021-07-14T19:45:00Z", "o": 149.175, "h": 149.47, "l": 149.175, "c": 149.4, "v": 429653},
-]
+        {"t": "2021-07-14T19:45:00Z", "o": 149.175, "h": 149.47, "l": 149.175, "c": 149.4, "v": 429653}, ]
 
 # Example of one entity in the list
 # [
@@ -49,8 +47,6 @@ candles = [
 # create a function that generates n minute candles from these one minute candles. n can be any integer larger than 1. It's okay
 # to generate incomplete intervals
 
-from pprint import pprint
-
 
 def any_minute_candles(candles, interval):
     res = []
@@ -62,12 +58,7 @@ def any_minute_candles(candles, interval):
         vol = sum([x['v'] for x in c])
 
         try:
-            res.append({'t': c[0]['t'],
-                        'o': c[0]['o'],
-                        'h': maxo['h'],
-                        'l': mino['l'],
-                        'c': c[-1]['c'],
-                        'v': vol})
+            res.append({'t': c[0]['t'], 'o': c[0]['o'], 'h': maxo['h'], 'l': mino['l'], 'c': c[-1]['c'], 'v': vol})
         except IndexError:
             break
 

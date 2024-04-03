@@ -9,6 +9,6 @@ import traceback
 
 if __name__ == "__main__":
     try:
-        print(*[num**2 for num in range(n)], sep="\n")
+        print(*[num ** 2 for num in range(n)], sep="\n")
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))

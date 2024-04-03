@@ -17,6 +17,7 @@ copies or substantial portions of the Software.
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
 
+
 def spiral_order(matrix):
     """
 
@@ -49,16 +50,13 @@ def spiral_order(matrix):
             x = cr
             y = cc
         else:
-            di = (di + 1) % (ln if ln % 2 == 0 else ln-1)
+            di = (di + 1) % (ln if ln % 2 == 0 else ln - 1)
             x += dr[di]
             y += dc[di]
     return ans
 
 
 if __name__ == "__main__":
-    a = [[1, 2, 3, 4],
-         [5, 6, 7, 8],
-         [9, 10, 11, 12],
-         [13, 14, 15, 16]]
+    a = [[1, 2, 3, 4], [5, 6, 7, 8], [9, 10, 11, 12], [13, 14, 15, 16]]
 
     print(*spiral_order(a))

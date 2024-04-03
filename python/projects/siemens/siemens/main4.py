@@ -17,10 +17,9 @@ copies or substantial portions of the Software.
 
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
-import numpy as np
-from colored import bg
 from os.path import realpath
-from random import randint
+
+import numpy as np
 from rich import print as rprint
 
 
@@ -174,12 +173,11 @@ rprint(rooms)
 #     # if room.size >= 4:
 #     fp[r[0]:r[2], r[1]:r[3]] = 'r'
 
-    # print('size:', np.size(room))
-    # if np.size(room) >= 4:
-    #     room = '0'
+# print('size:', np.size(room))
+# if np.size(room) >= 4:
+#     room = '0'
 # rprint(fp)
-rprint(rows)
-# for r in rooms:
+rprint(rows)  # for r in rooms:
 #     x = fp[r[0],r[1]:r[2],r[3]]
 #     print(x)
 #

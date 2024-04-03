@@ -7,12 +7,7 @@ from typing import NoReturn
 
 def main() -> NoReturn:
     """Main"""
-    _, a, _, b = (
-        input(),
-        set(map(int, input().split())),
-        input(),
-        set(map(int, input().split())),
-    )
+    _, a, _, b = (input(), set(map(int, input().split())), input(), set(map(int, input().split())),)
     print(*sorted(a.symmetric_difference(b)), sep="\n")
 
 

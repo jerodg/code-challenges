@@ -16,8 +16,6 @@ GNU General Public License for more details.
 You should have received a copy of the GNU General Public License
 along with this program.  If not, see <https://www.gnu.org/licenses/>.
 """
-from blameless.internal.apispec import ApiSpec
-from blameless.internal.events import EventStream
 # It is assumed that you have implemented the functions below:
 #
 # event_stream is of type EventStream (see internal.events.EventStream)
@@ -26,10 +24,11 @@ from blameless.internal.events import EventStream
 # class must implement mttr(), api_histogram() and incident_details() as described
 # in README.md
 from dataclasses import dataclass, field
-from datetime import datetime, datetime as dt, timedelta, timezone
-from pprint import PrettyPrinter, pformat
-from time import time
+from datetime import datetime, datetime as dt
+from pprint import pformat
 from typing import List, NoReturn, Optional, Union
+
+from blameless.internal.events import EventStream
 
 
 def totimestamp(dt, epoch=datetime(1970, 1, 1)):
@@ -75,7 +74,8 @@ class Change(LogEntry):
         commit, author, dts, service = self.value.strip().split('\n')
         self.commit = commit.split(':')[1].strip()
         self.service = service.split(':')[1].strip()
-        self.dts = round((dt.strptime(dts.split('Date:')[1].strip(), '%Y-%m-%d %H:%M:%S.%f') - dt.utcfromtimestamp(0)).total_seconds(), 4)
+        self.dts = round(
+            (dt.strptime(dts.split('Date:')[1].strip(), '%Y-%m-%d %H:%M:%S.%f') - dt.utcfromtimestamp(0)).total_seconds(), 4)
         self.service = service.split(':')[1].strip()
 
 
@@ -106,8 +106,7 @@ class Window:
         try:
             return self.successes / (self.failures + self.successes)
         except ZeroDivisionError:
-            return 1.0
-            # print('error', self.__dict__)
+            return 1.0  # print('error', self.__dict__)
 
 
 @dataclass()
@@ -145,18 +144,10 @@ class EndPoint:
             if win_events:
                 self.windows.append(Window(events=win_events))
 
+            # try:  #     while :  #         event = self.events.pop()  #         # print('event:', event)  #  # except
+            # IndexError:  #     self.windows.append(Window(events=win_events))
 
-
-            # try:
-            #     while :
-            #         event = self.events.pop()
-            #         # print('event:', event)
-            #
-            # except IndexError:
-            #     self.windows.append(Window(events=win_events))
-
-            # print(*win_events, sep='\n')
-            # self.windows.append(Window(events=win_events))
+            # print(*win_events, sep='\n')  # self.windows.append(Window(events=win_events))
 
         # print(*self.windows, sep='\n')
 
@@ -210,7 +201,6 @@ class ServiceMonitor(EventStream):
                 continue
 
             self.specs[key].events.append(event)
-
 
 
 if __name__ == '__main__':

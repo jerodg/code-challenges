@@ -15,10 +15,11 @@
 
   Please write a function that will translate the input string.
 '''
-# from string import is_numeric
-import pytest
 import re
 from string import ascii_letters as al
+
+# from string import is_numeric
+import pytest
 
 # bre = re.compile(r'\{(.*)\}')
 bre = re.compile(r'[a-z]\d+\{.*\}')

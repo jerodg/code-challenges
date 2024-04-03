@@ -19,7 +19,7 @@ def wrap(s, w) -> list:
     :param w: int
     :return: list
     """
-    return [s[i : i + w] for i in range(0, len(s), w)]
+    return [s[i: i + w] for i in range(0, len(s), w)]
 
 
 if __name__ == "__main__":

@@ -17,16 +17,14 @@ copies or substantial portions of the Software.
 
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
+from os.path import realpath
+
 import numpy as np
 from devtools import debug
-from os.path import realpath
 from rich import print
-from rich.color import Color
 from rich.console import Console
 
 c = Console(color_system='256')
-
-
 
 VT = '║'
 
@@ -51,63 +49,32 @@ TL = '╔'
 BR = '╝'
 TR = '╗'
 
-
 # Ideally a machine learning algorithm would work best to automatically classify points
-checks = {
-        'TL': np.array([[' ', ' ', ' '],
-                        [' ', '#', '#'],
-                        [' ', '#', ' ']]),
+checks = {'TL': np.array([[' ', ' ', ' '], [' ', '#', '#'], [' ', '#', ' ']]),
 
-        'TR': np.array([[' ', ' ', ' '],
-                        ['#', '#', ' '],
-                        [' ', '#', ' ']]),
+        'TR'  : np.array([[' ', ' ', ' '], ['#', '#', ' '], [' ', '#', ' ']]),
 
-        'BR': np.array([[' ', '#', ' '],
-                        ['#', '#', ' '],
-                        [' ', ' ', ' ']]),
+        'BR'  : np.array([[' ', '#', ' '], ['#', '#', ' '], [' ', ' ', ' ']]),
 
-        'BL': np.array([[' ', '#', ' '],
-                        [' ', '#', '#'],
-                        [' ', ' ', ' ']]),
+        'BL'  : np.array([[' ', '#', ' '], [' ', '#', '#'], [' ', ' ', ' ']]),
 
-        'VT':   np.array([[' ', '#', ' '],
-                          [' ', '#', ' '],
-                          [' ', '#', ' ']]),  # needs work
-        'VT2':  np.array([[' ', '#', '#'],
-                          [' ', '#', ' '],
-                          [' ', '#', ' ']]),
-        'HR':   np.array([[' ', ' ', ' '],
-                          ['#', '#', '#'],
-                          [' ', ' ', ' ']]),
+        'VT'  : np.array([[' ', '#', ' '], [' ', '#', ' '], [' ', '#', ' ']]),  # needs work
+        'VT2' : np.array([[' ', '#', '#'], [' ', '#', ' '], [' ', '#', ' ']]),
+        'HR'  : np.array([[' ', ' ', ' '], ['#', '#', '#'], [' ', ' ', ' ']]),
 
-        'VTLR': np.array([[' ', '#', ' '],
-                          ['#', '#', ' '],
-                          [' ', '#', ' ']]),
+        'VTLR': np.array([[' ', '#', ' '], ['#', '#', ' '], [' ', '#', ' ']]),
 
-        'VTRR': np.array([[' ', '#', ' '],
-                          [' ', '#', '#'],
-                          [' ', '#', ' ']]),
+        'VTRR': np.array([[' ', '#', ' '], [' ', '#', '#'], [' ', '#', ' ']]),
 
-        'HLCU': np.array([[' ', '#', ' '],
-                          ['#', '#', '#'],
-                          [' ', ' ', ' ']]),
+        'HLCU': np.array([[' ', '#', ' '], ['#', '#', '#'], [' ', ' ', ' ']]),
 
-        'HLCD': np.array([[' ', ' ', ' '],
-                          ['#', '#', '#'],
-                          [' ', '#', ' ']]),
+        'HLCD': np.array([[' ', ' ', ' '], ['#', '#', '#'], [' ', '#', ' ']]),
 
-        'CRS':  np.array([[' ', '#', ' '],
-                          ['#', '#', '#'],
-                          [' ', '#', ' ']]),
+        'CRS' : np.array([[' ', '#', ' '], ['#', '#', '#'], [' ', '#', ' ']]),
 
-        'DRH':  np.array([[' ', ' ', ' '],
-                          ['#', ' ', '#'],
-                          [' ', ' ', ' ']]),
+        'DRH' : np.array([[' ', ' ', ' '], ['#', ' ', '#'], [' ', ' ', ' ']]),
 
-        'DRV':  np.array([[' ', '#', ' '],
-                          [' ', ' ', ' '],
-                          ['#', '#', '#']])
-}
+        'DRV' : np.array([[' ', '#', ' '], [' ', ' ', ' '], ['#', '#', '#']])}
 
 
 def cos_sim_2d(x, y):
@@ -135,10 +102,9 @@ def pre_parse(inpt: np.array) -> np.array:
         for j, col in enumerate(row[1:]):
             print(f'j: {j}, col: "{col}"')
 
-            point = np.array([
-                    [inpt[i - 1][j - 1], inpt[i - 1][j], inpt[i - 1][j + 1]],
-                    [inpt[i][j - 1], inpt[i][j], inpt[i][j + 1]],
-                    [inpt[i + 1][j - 1], inpt[i + 1][j], inpt[i + 1][j + 1]]])
+            point = np.array(
+                    [[inpt[i - 1][j - 1], inpt[i - 1][j], inpt[i - 1][j + 1]], [inpt[i][j - 1], inpt[i][j], inpt[i][j + 1]],
+                            [inpt[i + 1][j - 1], inpt[i + 1][j], inpt[i + 1][j + 1]]])
             debug(point)
             match = next((k for k, v in checks.items() if np.array_equal(point, v)), None)
 
@@ -149,28 +115,27 @@ def pre_parse(inpt: np.array) -> np.array:
                 for k, v in checks.items():
                     print(cos_sim_2d(point, v))
 
-
                 quit()
                 debug(match)
                 debug(globals().get(match))
                 res[i][j] = globals().get(match)
     debug(res)
-                #
-                # if not match:
-                #     # print('Does not match:')
-                #     # debug(point)
-                #     pass
-                # else:
-                #     print('Matches:')
-                #
-                #     # debug(point)
-                #     debug(match)
-                #     debug(point)
-                #     # print(globals().get(match))
-                #     res[x][y] = globals().get(match) or ' '
-                #     # checks[match][x][y]
-                # # print(res)
-                # # quit()
+    #
+    # if not match:
+    #     # print('Does not match:')
+    #     # debug(point)
+    #     pass
+    # else:
+    #     print('Matches:')
+    #
+    #     # debug(point)
+    #     debug(match)
+    #     debug(point)
+    #     # print(globals().get(match))
+    #     res[x][y] = globals().get(match) or ' '
+    #     # checks[match][x][y]
+    # # print(res)
+    # # quit()
 
     [print(''.join(row)) for row in res]
 
@@ -189,18 +154,12 @@ def main():
 
     test = np.array(rows, dtype='i4')
     debug(test)
-    pre_parse(np.ndarray(rows))
-    # print(globals().get('BR'))
+    pre_parse(np.ndarray(rows))  # print(globals().get('BR'))
 
-    # x = np.array([[' ', '#', ' '],
-    #               ['#', '#', ' '],
-    #               [' ', ' ', ' ']])
+    # x = np.array([[' ', '#', ' '],  #               ['#', '#', ' '],  #               [' ', ' ', ' ']])
 
-    # x = np.array([[' ', ' ', ' '],
-    #               ['#', '#', ' '],
-    #               [' ', '#', ' ']])
-    # y = next((v for k, v in checks.items() if np.array_equal(x, v)), None)
-    # print(y)
+    # x = np.array([[' ', ' ', ' '],  #               ['#', '#', ' '],  #               [' ', '#', ' ']])  # y = next((v for k,
+    # v in checks.items() if np.array_equal(x, v)), None)  # print(y)
 
 
 if __name__ == '__main__':

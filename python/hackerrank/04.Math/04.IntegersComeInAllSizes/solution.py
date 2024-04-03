@@ -7,7 +7,7 @@ from typing import NoReturn
 
 def main() -> NoReturn:
     a, b, c, d = (int(input()) for _ in range(4))
-    print(a**b + c**d)
+    print(a ** b + c ** d)
 
 
 if __name__ == "__main__":

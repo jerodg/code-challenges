@@ -22,11 +22,7 @@ from make_db_order import make_db_order  # These are poorly named
 '''
 
 # This is a valid python data structure
-payload = {'name':
-               {'first': 'John',
-                'last': 'Smith'},
-           'token': 'asdl;f8yy34oinasdfp8ioh34ep;nuasf',
-           'user_id': 'a123456'}
+payload = {'name': {'first': 'John', 'last': 'Smith'}, 'token': 'asdl;f8yy34oinasdfp8ioh34ep;nuasf', 'user_id': 'a123456'}
 
 # This is a valid JSON data structure
 """
@@ -59,8 +55,7 @@ def create_order(payload):
     try:
         # unused variable assignment
         # shadows name from outer scope
-        res = check_token_valid(user_token, id)
-        # should we be returning something here?
+        res = check_token_valid(user_token, id)  # should we be returning something here?
     except:  # This is too broad; It should be specified explicitly
         return
 

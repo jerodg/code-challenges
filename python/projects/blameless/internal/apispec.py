@@ -21,6 +21,7 @@ class ApiSpec:
     :param slo: The target SLO for this API (e.g. 0.999)
     :param window: The size of the SLO window in seconds
     """
+
     def __init__(self, seed, name, email, verb, resource, rate, slo, window):
         self.name = name
         self.email = email
@@ -74,7 +75,7 @@ class ApiSpec:
         """
         :return: dictionary representation of the API specification
         """
-        return {'name':   self.name, 'email': self.email, 'verb': self.verb, 'resource': self.resource, 'slo': self.slo,
+        return {'name'  : self.name, 'email': self.email, 'verb': self.verb, 'resource': self.resource, 'slo': self.slo,
                 'window': self.window}
 
     def _get_next_time(self, curr_time):

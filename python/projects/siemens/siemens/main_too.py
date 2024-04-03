@@ -18,8 +18,8 @@ copies or substantial portions of the Software.
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
 # import numpy as np
-from devtools import debug
 from os.path import realpath
+
 from rich.console import Console
 
 c = Console(color_system='256')
@@ -48,59 +48,31 @@ BR = '╝'
 TR = '╗'
 
 # Ideally a machine learning algorithm would work best to automatically classify points
-checks = {
-        'TL':   [[' ', ' ', ' '],
-                 [' ', '#', '#'],
-                 [' ', '#', ' ']],
+checks = {'TL': [[' ', ' ', ' '], [' ', '#', '#'], [' ', '#', ' ']],
 
-        'TR':   [[' ', ' ', ' '],
-                 ['#', '#', ' '],
-                 [' ', '#', ' ']],
+        'TR'  : [[' ', ' ', ' '], ['#', '#', ' '], [' ', '#', ' ']],
 
-        'BR':   [[' ', '#', ' '],
-                 ['#', '#', ' '],
-                 [' ', ' ', ' ']],
+        'BR'  : [[' ', '#', ' '], ['#', '#', ' '], [' ', ' ', ' ']],
 
-        'BL':   [[' ', '#', ' '],
-                 [' ', '#', '#'],
-                 [' ', ' ', ' ']],
+        'BL'  : [[' ', '#', ' '], [' ', '#', '#'], [' ', ' ', ' ']],
 
-        'VT':   [[' ', '#', ' '],
-                 [' ', '#', ' '],
-                 [' ', '#', ' ']],  # needs work
+        'VT'  : [[' ', '#', ' '], [' ', '#', ' '], [' ', '#', ' ']],  # needs work
 
-        'HR':   [[' ', ' ', ' '],
-                 ['#', '#', '#'],
-                 [' ', ' ', ' ']],
+        'HR'  : [[' ', ' ', ' '], ['#', '#', '#'], [' ', ' ', ' ']],
 
-        'VTLR': [[' ', '#', ' '],
-                 ['#', '#', ' '],
-                 [' ', '#', ' ']],
+        'VTLR': [[' ', '#', ' '], ['#', '#', ' '], [' ', '#', ' ']],
 
-        'VTRR': [[' ', '#', ' '],
-                 [' ', '#', '#'],
-                 [' ', '#', ' ']],
+        'VTRR': [[' ', '#', ' '], [' ', '#', '#'], [' ', '#', ' ']],
 
-        'HLCU': [[' ', '#', ' '],
-                 ['#', '#', '#'],
-                 [' ', ' ', ' ']],
+        'HLCU': [[' ', '#', ' '], ['#', '#', '#'], [' ', ' ', ' ']],
 
-        'HLCD': [[' ', ' ', ' '],
-                 ['#', '#', '#'],
-                 [' ', '#', ' ']],
+        'HLCD': [[' ', ' ', ' '], ['#', '#', '#'], [' ', '#', ' ']],
 
-        'CRS':  [[' ', '#', ' '],
-                 ['#', '#', '#'],
-                 [' ', '#', ' ']],
+        'CRS' : [[' ', '#', ' '], ['#', '#', '#'], [' ', '#', ' ']],
 
-        'DRH':  [[' ', ' ', ' '],
-                 ['#', ' ', '#'],
-                 [' ', ' ', ' ']],
+        'DRH' : [[' ', ' ', ' '], ['#', ' ', '#'], [' ', ' ', ' ']],
 
-        'DRV':  [[' ', '#', ' '],
-                 [' ', ' ', ' '],
-                 ['#', '#', '#']]
-}
+        'DRV' : [[' ', '#', ' '], [' ', ' ', ' '], ['#', '#', '#']]}
 
 
 # def cos_sim_2d(x, y):
@@ -181,9 +153,6 @@ def main():
     for i, row in enumerate(rows):
         for j, col in enumerate(row):
 
-
-
-
     chk = {
 
     }
@@ -193,7 +162,7 @@ def main():
         # out = ''
         # for x in v:
         #     out += ''.join(x)
-            # out += '\n'
+        # out += '\n'
         # out = ''.join([''.join(item) for row in v[0] for item in row])
         # print('-'*3)
         # print(out)
@@ -203,39 +172,19 @@ def main():
         # out = ''.join()
         out = ''
         for x in v:
-            out += f'{"".join(x)}\n'
-            # print('x:', x)
-        chk[k] = out
-        # print(out)
+            out += f'{"".join(x)}\n'  # print('x:', x)
+        chk[k] = out  # print(out)
 
-        # debug(chk)
-        # for k, v in chk.items():
-        #     print('-'*3)
-        #     print(v)
-        #     print('-' * 3, '\n')
-        # debug(out)
-    #
-    #     # Pad the floorplan to prevent out of bounds exceptions and make matching easier
-    #     rows.insert(0, [' ' for x in range(len(rows[0]))])
-    #     rows.append([' ' for x in range(len(rows[0]))])
-    #     for row in rows:
-    #         row.insert(0, ' ')
-    #         row.append(' ')
-    #
-    # test = rows)
-    # debug(test)
-    # pre_parse(rows))
-    # print(globals().get('BR'))
+        # debug(chk)  # for k, v in chk.items():  #     print('-'*3)  #     print(v)  #     print('-' * 3, '\n')  # debug(out)  #
+        #     # Pad the floorplan to prevent out of bounds exceptions and make matching easier  #     rows.insert(0,
+        #     [' ' for x in range(len(rows[0]))])  #     rows.append([' ' for x in range(len(rows[0]))])  #     for row in rows:
+        #         row.insert(0, ' ')  #         row.append(' ')  #  # test = rows)  # debug(test)  # pre_parse(rows))  # print(
+        #         globals().get('BR'))
 
-    # x = [[' ', '#', ' '],
-    #               ['#', '#', ' '],
-    #               [' ', ' ', ' ']])
+    # x = [[' ', '#', ' '],  #               ['#', '#', ' '],  #               [' ', ' ', ' ']])
 
-    # x = [[' ', ' ', ' '],
-    #               ['#', '#', ' '],
-    #               [' ', '#', ' ']])
-    # y = next((v for k, v in checks.items() if np.array_equal(x, v)), None)
-    # print(y)
+    # x = [[' ', ' ', ' '],  #               ['#', '#', ' '],  #               [' ', '#', ' ']])  # y = next((v for k,
+    # v in checks.items() if np.array_equal(x, v)), None)  # print(y)
 
 
 if __name__ == '__main__':

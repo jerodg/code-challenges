@@ -19,8 +19,9 @@ copies or substantial portions of the Software.
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
 import json
-import pandas as pd
 from datetime import timedelta
+
+import pandas as pd
 from delorean import parse
 from holidays import country_holidays
 from werkzeug.exceptions import HTTPException, NotFound
@@ -36,8 +37,7 @@ from werkzeug.wrappers import Request, Response
 class App(object):
 
     def __init__(self):
-        self.url_map = Map([Rule('/', endpoint=''),
-                            Rule('/get_next_debit', endpoint='get_next_debit')])
+        self.url_map = Map([Rule('/', endpoint=''), Rule('/get_next_debit', endpoint='get_next_debit')])
 
     def dispatch_request(self, request):
         adapter = self.url_map.bind_to_environ(request.environ)
@@ -63,17 +63,14 @@ class App(object):
         hdays = country_holidays('US', years=start.date.year)
 
         # Get a list of dates (up to 5) starting from the debit_start_date forward at debit_day_of_week
-        date_rng = pd.date_range(start=start.date,
-                                 end=start.date + timedelta(weeks=5),
+        date_rng = pd.date_range(start=start.date, end=start.date + timedelta(weeks=5),
                                  freq=f'2W-{body["debit_day_of_week"][:3].upper()}')
 
         # Filter out dates in other months, dates that are US bank holidays (federal), and a date that equals the start date
         date_rng = [x.date() for x in date_rng if
                     x.month == start.date.month and x.date() not in hdays and not x.date() == start.date]
 
-        response = {'debit': {
-                'amount': float(f'{(body["monthly_payment_amount"] / len(date_rng)):.2f}'),
-                'date':   str(date_rng[0])}}
+        response = {'debit': {'amount': float(f'{(body["monthly_payment_amount"] / len(date_rng)):.2f}'), 'date': str(date_rng[0])}}
 
         return Response(json.dumps(response), mimetype='application/json')
 

@@ -11,6 +11,6 @@ if __name__ == "__main__":
     try:
         string = input()
         position, character = input().split()
-        print(string[:position] + character + string[position + 1 :])
+        print(string[:position] + character + string[position + 1:])
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))

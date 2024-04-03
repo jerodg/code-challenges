@@ -14,6 +14,7 @@ Ann
 - Jim
 """
 from collections import defaultdict
+
 # emps = {}
 # mgrs = {}
 
@@ -27,8 +28,7 @@ res = defaultdict(list)
 for x, y, z in ls:
     res[x].append(v)
 
-print(res)
-#
+print(res)  #
 # for x in ls:
 #     id, name, manager = x.split(':')
 #     # print(id, name, manager)
@@ -56,5 +56,3 @@ print(res)
 # y = max(out.keys())
 # for i in range(y):
 #   print()
-
-

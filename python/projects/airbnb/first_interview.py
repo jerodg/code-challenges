@@ -2,7 +2,8 @@
 
 Input: an array of integers, e.x. [-1, 0, 1, -1, 5, 10, -5]
 
-Output: shuffle (reordered output) the array so that any elements in even indices are no larger than any elements in odd indices. One possible solution for the
+Output: shuffle (reordered output) the array so that any elements in even indices are no larger than any elements in odd indices.
+One possible solution for the
 above example is [-1, 5, -1, 10, 0, 1, -5]
 
 another example:
@@ -34,7 +35,6 @@ for i in range(len(inp)):
     except:
         pass
 
-
 # print('out:',)
 # for i in range(len(inp)):
 #     if i % 2:
@@ -42,8 +42,7 @@ for i in range(len(inp)):
 #     else:
 #         odd.append(inp[i])
 
-print('out:', out)
-# evn.sort()
+print('out:', out)  # evn.sort()
 # odd.sort()
 
 

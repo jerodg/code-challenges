@@ -15,13 +15,7 @@ tme_fmt = "%a %d %b %Y %H:%M:%S %z"
 
 # Complete the time_delta function below.
 def time_delta(t1, t2):
-    return str(
-        int(
-            (
-                datetime.strptime(t1, tme_fmt) - datetime.strptime(t2, tme_fmt)
-            ).total_seconds()
-        )
-    )
+    return str(int((datetime.strptime(t1, tme_fmt) - datetime.strptime(t2, tme_fmt)).total_seconds()))
 
 
 if __name__ == "__main__":

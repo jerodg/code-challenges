@@ -28,10 +28,7 @@ class Rectangle:
         self.valid = True
 
         try:
-            assert (len(parts) == 4 and
-                    parts[0].startswith('H=') and
-                    parts[1].startswith('W=') and
-                    parts[2].startswith('X=') and
+            assert (len(parts) == 4 and parts[0].startswith('H=') and parts[1].startswith('W=') and parts[2].startswith('X=') and
                     parts[3].startswith('Y='))
 
             self.h = int(parts[0][2:])

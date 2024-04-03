@@ -1,5 +1,5 @@
 def digitize(num):
-        # Convert the number to a string
+    # Convert the number to a string
     num_str = str(num)
 
     # Create an empty list

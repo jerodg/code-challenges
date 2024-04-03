@@ -20,7 +20,7 @@ def mutate_string(string, position, character) -> str:
     :param character: str
     :return: str
     """
-    return string[:position] + character + string[position + 1 :]
+    return string[:position] + character + string[position + 1:]
 
 
 if __name__ == "__main__":
