@@ -5,7 +5,9 @@
 using namespace std;
 
 string ltrim(const string &);
+
 string rtrim(const string &);
+
 vector<string> split(const string &);
 
 /*
@@ -15,7 +17,7 @@ vector<string> split(const string &);
  * The function accepts 2D_INTEGER_ARRAY arr as parameter.
  */
 
-int hourglassSum(std::vector<std::vector<int>>& arr) {
+int hourglassSum(std::vector<std::vector<int>> &arr) {
     int maxSum = INT_MIN;
     for (int i = 1; i < 5; i++) {
         for (int j = 1; j < 5; j++) {
@@ -29,8 +31,7 @@ int hourglassSum(std::vector<std::vector<int>>& arr) {
     return maxSum;
 }
 
-int main()
-{
+int main() {
     ofstream fout(getenv("OUTPUT_PATH"));
 
     vector<vector<int>> arr(6);

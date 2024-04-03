@@ -3,7 +3,9 @@
 using namespace std;
 
 string ltrim(const string &);
+
 string rtrim(const string &);
+
 vector<string> split(const string &);
 
 std::string kangaroo(int x1, int v1, int x2, int v2) {
@@ -19,8 +21,7 @@ std::string kangaroo(int x1, int v1, int x2, int v2) {
     }
 }
 
-int main()
-{
+int main() {
     ofstream fout(getenv("OUTPUT_PATH"));
 
     string first_multiple_input_temp;
@@ -49,8 +50,8 @@ string ltrim(const string &str) {
     string s(str);
 
     s.erase(
-        s.begin(),
-        find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
+            s.begin(),
+            find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
     );
 
     return s;
@@ -60,8 +61,8 @@ string rtrim(const string &str) {
     string s(str);
 
     s.erase(
-        find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
-        s.end()
+            find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
+            s.end()
     );
 
     return s;

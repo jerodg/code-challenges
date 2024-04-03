@@ -2,7 +2,7 @@
 #include <string>
 #include <algorithm>
 
-std::vector<int> digitize(unsigned long num)  {
+std::vector<int> digitize(unsigned long num) {
     // Convert the number to a string
     std::string numStr = std::to_string(num);
 

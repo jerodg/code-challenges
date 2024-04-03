@@ -3,7 +3,9 @@
 using namespace std;
 
 string ltrim(const string &);
+
 string rtrim(const string &);
+
 vector<string> split(const string &);
 
 /*
@@ -34,8 +36,7 @@ vector<int> dynamicArray(int n, vector<vector<int>> queries) {
     return result;
 }
 
-int main()
-{
+int main() {
     ofstream fout(getenv("OUTPUT_PATH"));
 
     string first_multiple_input_temp;
