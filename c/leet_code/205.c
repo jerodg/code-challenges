@@ -1,6 +1,6 @@
 #include <stdbool.h>
 
-bool isIsomorphic(const char* s, const char* t) {
+bool isIsomorphic(const char *s, const char *t) {
     char s2t[128] = {0};
     char t2s[128] = {0};
     for (int i = 0; s[i]; i++) {

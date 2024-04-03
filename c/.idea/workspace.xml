@@ -3,9 +3,9 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
-  <component name="CMakePresetLoader"><![CDATA[{
-  "useNewFormat": true
-}]]></component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
   <component name="CMakeReloadState">
     <option name="reloaded" value="true" />
   </component>
@@ -21,28 +21,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../c++/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c++/.idea/c++.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c++/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c++/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c++/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c++/leet_code/205.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/205.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/205.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/205.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/kotlin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/205.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/26.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/2958.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/79.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/88.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,10 +48,13 @@
     <option name="majorVersion" value="2023" />
     <option name="minorVersion" value="3.4" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="2eYNfJyB0dWsHPBjoKe1ETMaQRJ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -79,8 +69,13 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "trunk",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/c",
+    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/c++",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -105,6 +100,8 @@
       <option name="presentableId" value="Default" />
       <updated>1712077653585</updated>
       <workItem from="1712077654653" duration="208000" />
+      <workItem from="1712160398101" duration="230000" />
+      <workItem from="1712160640615" duration="1132000" />
     </task>
     <servers />
   </component>

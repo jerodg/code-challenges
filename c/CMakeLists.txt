@@ -9,4 +9,8 @@ include_directories(hackerrank)
 include_directories(leet_code)
 
 add_executable(c
-        leet_code/205.c)
+        leet_code/205.c
+        leet_code/26.c
+        leet_code/88.c
+        leet_code/2958.c
+        leet_code/79.c)
