@@ -1,12 +1,15 @@
 <?php
-    class Solution {
+
+    class Solution
+    {
 
         /**
          * @param Integer[] $nums
          * @param Integer $k
          * @return Integer
          */
-        function maxSubarrayLength($nums, $k) {
+        function maxSubarrayLength($nums, $k)
+        {
             $left = 0;
             $counter = array();
             $maxLength = 0;

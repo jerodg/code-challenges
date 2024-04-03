@@ -12,7 +12,8 @@
      *  6. INTEGER_ARRAY oranges
      */
 
-    function countApplesAndOranges($s, $t, $a, $b, $apples, $oranges) {
+    function countApplesAndOranges($s, $t, $a, $b, $apples, $oranges)
+    {
         $appleCount = 0;
         $orangeCount = 0;
 

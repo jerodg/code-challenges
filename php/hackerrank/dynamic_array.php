@@ -9,7 +9,8 @@
      *  2. 2D_INTEGER_ARRAY queries
      */
 
-    function dynamicArray($n, $queries) {
+    function dynamicArray($n, $queries)
+    {
         $lastAnswer = 0;
         $seqList = [];
         $result = [];
