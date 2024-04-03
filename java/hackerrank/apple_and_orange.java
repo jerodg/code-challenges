@@ -1,13 +1,9 @@
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
-import java.util.*;
-import java.util.concurrent.*;
-import java.util.function.*;
-import java.util.regex.*;
-import java.util.stream.*;
-import static java.util.stream.Collectors.joining;
+import java.io.BufferedReader;
+import java.io.IOException;
+import java.io.InputStreamReader;
+import java.util.List;
+import java.util.stream.Stream;
+
 import static java.util.stream.Collectors.toList;
 
 class Result {
@@ -25,24 +21,24 @@ class Result {
      */
 
     public static void countApplesAndOranges(int s, int t, int a, int b, List<Integer> apples, List<Integer> oranges) {
-    int numApple = apples.size();
-    int numOrange = oranges.size();
-    int appleCount = 0;
-    int orangeCount = 0;
-    for (int apple=0; apple<numApple; apple++) {
-        int appDist = a + apples.get(apple);
-        if(appDist >= s && appDist <=t) {
-            appleCount++;
+        int numApple = apples.size();
+        int numOrange = oranges.size();
+        int appleCount = 0;
+        int orangeCount = 0;
+        for (int apple = 0; apple < numApple; apple++) {
+            int appDist = a + apples.get(apple);
+            if (appDist >= s && appDist <= t) {
+                appleCount++;
+            }
         }
-    }
-    for (int orange=0; orange<numOrange; orange++) {
-        int orangeDist = b + oranges.get(orange);
-        if(orangeDist >= s && orangeDist <=t) {
-            orangeCount++;
+        for (int orange = 0; orange < numOrange; orange++) {
+            int orangeDist = b + oranges.get(orange);
+            if (orangeDist >= s && orangeDist <= t) {
+                orangeCount++;
+            }
         }
-    }
 
-    System.out.printf("%d%n%d%n", appleCount, orangeCount);
+        System.out.printf("%d%n%d%n", appleCount, orangeCount);
 
     }
 
@@ -71,12 +67,12 @@ public class Solution {
         int n = Integer.parseInt(thirdMultipleInput[1]);
 
         List<Integer> apples = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
-            .map(Integer::parseInt)
-            .collect(toList());
+                .map(Integer::parseInt)
+                .collect(toList());
 
         List<Integer> oranges = Stream.of(bufferedReader.readLine().replaceAll("\\s+$", "").split(" "))
-            .map(Integer::parseInt)
-            .collect(toList());
+                .map(Integer::parseInt)
+                .collect(toList());
 
         Result.countApplesAndOranges(s, t, a, b, apples, oranges);
 
