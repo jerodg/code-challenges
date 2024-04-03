@@ -2,32 +2,49 @@
 # @param {String} word
 # @return {Boolean}
 
-def dfs(board, i, j, word)
-  directions = [[-1, 0], [1, 0], [0, -1], [0, 1]]
-  stack = [[i, j, 0]]
+# fixme: Not completing in the allowed time; need to optimize.
+def exist(board, word)
+  return false if board.empty? || board[0].empty? || word.empty?
 
-  until stack.empty?
-    x, y, index = stack.last
-    if index < word.size && x >= 0 && x < board.size && y >= 0 && y < board[0].size && board[x][y] == word[index]
-      return true if index == word.size - 1
+  @word = word
+  @board = board
+  @row = board.length
+  @col = board[0].length
+  @directions = [[0, 1], [0, -1], [1, 0], [-1, 0]]
 
-      board[x][y] = "."
-      index += 1
-      directions.each { |dx, dy| stack.push([x + dx, y + dy, index]) }
-    else
-      x, y, _ = stack.pop
-      board[x][y] = word[index - 1] if stack.empty? || stack.last[2] != index
+  # Check if the word contains any characters not present in the board
+  char_freq = Hash.new(0)
+  board.each { |row| row.each { |c| char_freq[c] += 1 if ('a'..'z').include?(c) } }
+  return false if word.chars.any? { |c| char_freq[c].zero? }
+
+  first_char = word[0]
+  starting_positions = []
+  @row.times do |r|
+    @col.times do |c|
+      starting_positions << [r, c] if @board[r][c] == first_char
+    end
+  end
+
+  starting_positions.each do |r, c|
+    visited = Set.new
+    if dfs(r, c, 0, visited)
+      return true
     end
   end
 
   false
 end
 
-def exist(board, word)
-  (0...board.length).each do |i|
-    (0...board[0].length).each do |j|
-      return true if dfs(board, i, j, word)
+def dfs(r, c, index, visited)
+  return false if r < 0 || r >= @row || c < 0 || c >= @col || visited.include?([r, c]) || @board[r][c] != @word[index]
+  return true if index == @word.length - 1
+
+  visited.add([r, c])
+  @directions.each do |d|
+    if dfs(r + d[0], c + d[1], index + 1, visited)
+      return true
     end
   end
+  visited.delete([r, c])
   false
 end

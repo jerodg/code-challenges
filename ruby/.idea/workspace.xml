@@ -5,10 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cc58289-d4e5-4bee-a013-4d1b97c4c98e" name="Changes" comment="feat(ruby): add intro solutions&#10;&#10;+ solutions">
-      <change afterPath="$PROJECT_DIR$/leet_code/79.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ruby.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_addition.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_deletion.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_index.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_index_pt2.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_initialization.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_selection.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_hash_addition_deletion_selection.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_hash_each.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_hash_initialization.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/enumerables_any_all_none_find.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/enumerables_collect.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/enumerables_each_with_index.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/enumerables_groupby.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/enumerables_reduce.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/strings_encoding.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/strings_indexing.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/strings_iteration.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/79.rb" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/79.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +79,9 @@
       <workItem from="1712078428721" duration="67000" />
       <workItem from="1712096208729" duration="1619000" />
       <workItem from="1712163612716" duration="160000" />
-      <workItem from="1712163782370" duration="1316000" />
+      <workItem from="1712163782370" duration="2056000" />
+      <workItem from="1712167510973" duration="1456000" />
+      <workItem from="1712169007087" duration="1670000" />
     </task>
     <task id="LOCAL-00001" summary="feat(ruby): add intro solutions&#10;&#10;+ solutions">
       <option name="closed" value="true" />
