@@ -20,18 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/26.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/2958.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/79.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/88.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/leet_code/205.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/leet_code/205.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,11 +89,33 @@
       <option name="presentableId" value="Default" />
       <updated>1712077661620</updated>
       <workItem from="1712077662693" duration="192000" />
-      <workItem from="1712160805817" duration="1185000" />
+      <workItem from="1712160805817" duration="1450000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files">
+      <option name="closed" value="true" />
+      <created>1712162245042</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712162245042</updated>
+    </task>
+    <task id="LOCAL-00002" summary="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files">
+      <option name="closed" value="true" />
+      <created>1712162253626</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712162253626</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files" />
   </component>
 </project>
