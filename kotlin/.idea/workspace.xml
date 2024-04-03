@@ -1,17 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8ac5a88-087f-453f-9bbc-d432e6324ee1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../c++/leet_code/205.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/205.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/205.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/205.ws.kts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/205.java" afterDir="false" />
-    </list>
+    <list default="true" id="e8ac5a88-087f-453f-9bbc-d432e6324ee1" name="Changes" comment="feat(leet_code) add 79&#10;&#10;+ 79&#10;~ formatting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,26 +13,29 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2eYNW8VS6eakV4OWiQLjNjnbpfQ" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "trunk",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/kotlin",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JerryG/Documents/Code-Projects/code-challenges/kotlin&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,10 +45,24 @@
       <option name="presentableId" value="Default" />
       <updated>1712077581061</updated>
       <workItem from="1712077582054" duration="33000" />
+      <workItem from="1712162795729" duration="106000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(leet_code) add 79&#10;&#10;+ 79&#10;~ formatting">
+      <option name="closed" value="true" />
+      <created>1712162897182</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1712162897182</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="feat(leet_code) add 79&#10;&#10;+ 79&#10;~ formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(leet_code) add 79&#10;&#10;+ 79&#10;~ formatting" />
   </component>
 </project>
