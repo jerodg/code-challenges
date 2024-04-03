@@ -4,27 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2cc58289-d4e5-4bee-a013-4d1b97c4c98e" name="Changes" comment="feat(ruby): add intro solutions&#10;&#10;+ solutions">
-      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_addition.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_deletion.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_index.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_index_pt2.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_initialization.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_array_selection.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_hash_addition_deletion_selection.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_hash_each.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_hashes_hash_initialization.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/enumerables_any_all_none_find.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/enumerables_collect.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/enumerables_each_with_index.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/enumerables_groupby.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/enumerables_reduce.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/strings_encoding.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/strings_indexing.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/strings_iteration.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/79.rb" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/79.rb" afterDir="false" />
-    </list>
+    <list default="true" id="2cc58289-d4e5-4bee-a013-4d1b97c4c98e" name="Changes" comment="feat(hackerrank): add solutions&#10;&#10;+ solutions&#10;~ formatting" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -81,7 +61,7 @@
       <workItem from="1712163612716" duration="160000" />
       <workItem from="1712163782370" duration="2056000" />
       <workItem from="1712167510973" duration="1456000" />
-      <workItem from="1712169007087" duration="1670000" />
+      <workItem from="1712169007087" duration="2028000" />
     </task>
     <task id="LOCAL-00001" summary="feat(ruby): add intro solutions&#10;&#10;+ solutions">
       <option name="closed" value="true" />
@@ -91,14 +71,24 @@
       <option name="project" value="LOCAL" />
       <updated>1712097770665</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat(hackerrank): add solutions&#10;&#10;+ solutions&#10;~ formatting">
+      <option name="closed" value="true" />
+      <created>1712170873940</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712170873940</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="feat(ruby): add intro solutions&#10;&#10;+ solutions" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(ruby): add intro solutions&#10;&#10;+ solutions" />
+    <MESSAGE value="feat(hackerrank): add solutions&#10;&#10;+ solutions&#10;~ formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(hackerrank): add solutions&#10;&#10;+ solutions&#10;~ formatting" />
   </component>
 </project>
