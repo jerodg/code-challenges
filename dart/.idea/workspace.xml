@@ -4,41 +4,7 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add dart&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/leet_code/205.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/26.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/2958.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/79.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/88.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/.scalafmt.conf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/205.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/26.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/2958.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/79.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/88.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/.idea/swift.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/1614.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/205.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/26.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/27.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/2958.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/79.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/88.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/notebooks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/.idea/scala_compiler.xml" beforeDir="false" />
-    </list>
+    <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add dart&#10;&#10;+ 27&#10;+ 1614" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

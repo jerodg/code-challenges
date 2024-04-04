@@ -15,4 +15,11 @@ add_executable(c
         leet_code/2958.c
         leet_code/79.c
         leet_code/27.c
-        leet_code/1614.c)
+        leet_code/1614.c
+        code_wars/convert_number_to_reversed_array_of_digits.c
+        hackerrank/introduction_hello_world.c
+        hackerrank/introduction_playing_with_characters.c
+        hackerrank/introduction_sum_and_difference_of_two_numbers.c
+        hackerrank/introduction_functions.c
+        hackerrank/introduction_pointers.c
+        hackerrank/functions_sorting_array_of_strings.c)

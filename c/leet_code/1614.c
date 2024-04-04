@@ -1,13 +1,13 @@
-int maxDepth(char* s) {
+int maxDepth(char *s) {
     int max = 0;
     int depth = 0;
-    for(int i = 0; s[i] != '\0'; i++) {
-        if(s[i] == '(') {
+    for (int i = 0; s[i] != '\0'; i++) {
+        if (s[i] == '(') {
             depth++;
-            if(depth > max) {
+            if (depth > max) {
                 max = depth;
             }
-        } else if(s[i] == ')') {
+        } else if (s[i] == ')') {
             depth--;
         }
     }
