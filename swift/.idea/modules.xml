@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/notebooks.iml" filepath="$PROJECT_DIR$/.idea/notebooks.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/swift.iml" filepath="$PROJECT_DIR$/.idea/swift.iml" />
     </modules>
   </component>
 </project>

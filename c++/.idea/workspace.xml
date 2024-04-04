@@ -20,17 +20,20 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files">
-      <change afterPath="$PROJECT_DIR$/leet_code/1614.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/27.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/1614.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/27.c" afterDir="false" />
+    <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614">
+      <change afterPath="$PROJECT_DIR$/../swift/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/.idea/swift.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/1614.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/26.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/27.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/notebooks.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,11 +69,13 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
+    "com.google.cloudcode.ide_session_index": "20240404_0006",
     "git-widget-placeholder": "trunk",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/c",
+    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/swift",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -81,11 +86,6 @@
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="c__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c__" TARGET_NAME="c__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c__" RUN_TARGET_NAME="c__">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -93,6 +93,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SwiftWorkspaceSettings">
+    <option name="detectedToolchain" value="true" />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="" />
@@ -103,7 +106,11 @@
       <workItem from="1712077662693" duration="192000" />
       <workItem from="1712160805817" duration="1450000" />
       <workItem from="1712247060717" duration="143000" />
-      <workItem from="1712247215593" duration="1019000" />
+      <workItem from="1712247215593" duration="1060000" />
+      <workItem from="1712248447019" duration="363000" />
+      <workItem from="1712248825644" duration="591000" />
+      <workItem from="1712249568930" duration="616000" />
+      <workItem from="1712250869848" duration="182000" />
     </task>
     <task id="LOCAL-00001" summary="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files">
       <option name="closed" value="true" />
@@ -121,15 +128,29 @@
       <option name="project" value="LOCAL" />
       <updated>1712162253626</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614">
+      <option name="closed" value="true" />
+      <created>1712248274213</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1712248274213</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files" />
+    <MESSAGE value="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614" />
   </component>
 </project>
