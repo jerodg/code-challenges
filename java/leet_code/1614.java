@@ -1,12 +1,15 @@
 class Solution {
-    public int removeElement(int[] nums, int val) {
-        int i = 0;
-        for(int j = 0; j < nums.length; j++) {
-            if(nums[j] != val) {
-                nums[i] = nums[j];
-                i++;
+    public int maxDepth(String s) {
+        int maxDepth = 0;
+        int currentDepth = 0;
+        for(int i = 0; i < s.length(); i++) {
+            if(s.charAt(i) == '(') {
+                currentDepth++;
+                maxDepth = Math.max(maxDepth, currentDepth);
+            } else if(s.charAt(i) == ')') {
+                currentDepth--;
             }
         }
-        return i;
+        return maxDepth;
     }
 }

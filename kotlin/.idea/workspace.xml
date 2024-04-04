@@ -4,12 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8ac5a88-087f-453f-9bbc-d432e6324ee1" name="Changes" comment="feat(leet_code) add 79&#10;&#10;+ 79&#10;~ formatting">
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/1614.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/27.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1614.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/27.ws.kts" afterDir="false" />
+    <list default="true" id="e8ac5a88-087f-453f-9bbc-d432e6324ee1" name="Changes" comment="feat(leet_code): add kotlin&#10;&#10;+ 27&#10;+ 1614">
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/libraries/scala_sdk_3_4_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/scala_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1614.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/27.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/leet_code/1614.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/1614.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/.idea/scala.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/.idea/scala.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +23,23 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "jerodg"
+  }
+}]]></component>
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
+  </component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:jerodg/code-challenges.git",
+    "accountId": "b76acd8d-213b-48ae-b66d-1955cad717ff"
+  }
+}]]></component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="2" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -37,10 +56,11 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "trunk",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/java",
+    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/scala",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -50,6 +70,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -62,6 +90,7 @@
       <workItem from="1712162795729" duration="106000" />
       <workItem from="1712242640014" duration="49000" />
       <workItem from="1712242699769" duration="609000" />
+      <workItem from="1712244070994" duration="814000" />
     </task>
     <task id="LOCAL-00001" summary="feat(leet_code) add 79&#10;&#10;+ 79&#10;~ formatting">
       <option name="closed" value="true" />
@@ -71,14 +100,25 @@
       <option name="project" value="LOCAL" />
       <updated>1712162897182</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat(leet_code): add kotlin&#10;&#10;+ 27&#10;+ 1614">
+      <option name="closed" value="true" />
+      <created>1712244311124</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712244311124</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="feat(leet_code) add 79&#10;&#10;+ 79&#10;~ formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(leet_code) add 79&#10;&#10;+ 79&#10;~ formatting" />
+    <MESSAGE value="feat(leet_code): add kotlin&#10;&#10;+ 27&#10;+ 1614" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(leet_code): add kotlin&#10;&#10;+ 27&#10;+ 1614" />
   </component>
 </project>

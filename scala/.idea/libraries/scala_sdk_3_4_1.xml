@@ -1,0 +1,31 @@
+<component name="libraryTable">
+  <library name="scala-sdk-3.4.1" type="Scala">
+    <properties>
+      <language-level>Scala_3_4</language-level>
+      <compiler-classpath>
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala3-compiler_3/jars/scala3-compiler_3-3.4.1.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala3-interfaces/jars/scala3-interfaces-3.4.1.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala3-library_3/jars/scala3-library_3-3.4.1.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.12.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang/tasty-core_3/jars/tasty-core_3-3.4.1.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-lang.modules/scala-asm/bundles/scala-asm-9.6.0-scala-1.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-sbt/compiler-interface/jars/compiler-interface-1.9.6.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.scala-sbt/util-interface/jars/util-interface-1.9.8.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.jline/jline-reader/jars/jline-reader-3.19.0.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.jline/jline-terminal/jars/jline-terminal-3.19.0.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/org.jline/jline-terminal-jna/jars/jline-terminal-jna-3.19.0.jar" />
+        <root url="file://$USER_HOME$/.ivy2/cache/net.java.dev.jna/jna/jars/jna-5.3.1.jar" />
+      </compiler-classpath>
+      <compiler-bridge-binary-jar>file://$USER_HOME$/.ivy2/cache/org.scala-lang/scala3-sbt-bridge/jars/scala3-sbt-bridge-3.4.1.jar</compiler-bridge-binary-jar>
+    </properties>
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala3-library_3/jars/scala3-library_3-3.4.1.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/jars/scala-library-2.13.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala3-library_3/srcs/scala3-library_3-3.4.1-sources.jar!/" />
+      <root url="jar://$USER_HOME$/.ivy2/cache/org.scala-lang/scala-library/srcs/scala-library-2.13.12-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
