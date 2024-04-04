@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add 79&#10;&#10;+ 79&#10;~ formatting">
-      <change afterPath="$PROJECT_DIR$/leet_code/27.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/1614.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/27.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1614.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,17 +70,17 @@
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "com.google.cloudcode.ide_session_index": "20240404_0002",
+    "com.google.cloudcode.ide_session_index": "20240404_0003",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "trunk",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/dart",
+    "last_opened_file_path": "C:/tools/dart-sdk",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "dart.settings"
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable"
   }
 }]]></component>
   <component name="QodanaCloudProjectLink">

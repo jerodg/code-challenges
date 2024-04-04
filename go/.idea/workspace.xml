@@ -4,10 +4,9 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add 79&#10;&#10;+ 79&#10;~ formatting">
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/27.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1614.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/27.go" afterDir="false" />
+    <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add solution&#10;&#10;+ 27&#10;+ 1614">
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1614.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
     "RunOnceActivity.go.migrated.go.modules.settings": "true",
     "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "com.google.cloudcode.ide_session_index": "20240404_0002",
+    "com.google.cloudcode.ide_session_index": "20240404_0004",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "trunk",
     "go.import.settings.migrated": "true",
@@ -133,7 +132,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="feat(leet_code): add 79&#10;&#10;+ 79&#10;~ formatting" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(leet_code): add 79&#10;&#10;+ 79&#10;~ formatting" />
+    <MESSAGE value="feat(leet_code): add solution&#10;&#10;+ 27&#10;+ 1614" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(leet_code): add solution&#10;&#10;+ 27&#10;+ 1614" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>
