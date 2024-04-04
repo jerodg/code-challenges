@@ -3,10 +3,13 @@
  * @param {string} word
  * @return {boolean}
  */
+
 const exist = function (board, word) {
     const m = board.length;
     const n = board[0].length;
-    const visited = new Array(m).fill(0).map(() => new Array(n).fill(false));
+    const visited = new Array(m).fill(0).map(() => {
+        return new Array(n).fill(false);
+    });
     const dfs = (x, y, idx) => {
         if (idx === word.length) {
             return true;

@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dcd7c33b-aac6-4008-8969-681a463aeca7" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../python/qodana.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/code_wars/convert_number_to_reversed_array_of_digits.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/code_wars/convert_number_to_reversed_array_of_digits.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/2d_array_ds.js" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/2d_array_ds.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/386" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/application-51caf676b92825f327b970471862ce26.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/auryc.lib.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/balloon-3b9fd5bdd1771155dee52ae81dad7bee.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/base-4e953f9582ddc0e62ee5b02dbe2520ca.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/bundle-08b87555b0bfbd9ec4ea105b37411cac.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/candidate-5b641c7d9b1a02b48202a6a46f3df7e8.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/candidate-a63b78231c077d0760248dafc8a6c66f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/candidate-core-159850c472a1674e40346ec00fe63fa8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/candidate_libraries-1a34e01cb2bbe9bc20fef148de03ba54.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/candidate_libraries-d36e2904df29e6169c6042f180d6a9fc.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/cdnping-e4dfec54a83d6e6bc9baf3ce741ae25e.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/clike-7e2be6bda0b7053bb24fe350370c71f1.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/clojure-31680df85f7216376b651ed1c587c20d.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/cobol-dfd9c7289ab7f6ed33c0b0c35a7364d8.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/codemirror_basic-8d7ec5b1e48104570a1277dd9cbcfcc0.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/codeshell-6399ee5c34672e68ebed1e261be470bc.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/codeshell_libraries-bc7ab3da116c7806a64df255d7eca1bb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/container.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/erlang-cefdd6e86a4a627606e7e7d40b41bb33.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/ga.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/go-e26ae360eb488438739c63ba2e69c884.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/groovy-8822baf362122b8a69235b8eb0d30d24.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/hackerrank_spinner_64x64-d305605f2d7306772da0f86560bc1286.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/haskell-9285a6940840c29100031247163837e0.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/javascript-0dc440ddeaf7de5aa00b025299cc3dcf.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/mixpanel-2.2.min.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/octave-296feed077375c70ea8c94a7bae4be87.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/perl-a51e45a1e9cedff41047b88d25ddd427.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/php-bf520ecdd80931bc4518212f7092d896.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/python-3511acaca636f8354dcce20e07e5f5a2.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/r-07cb32fd3adbd1bc8bdb79cd8fd6f3df.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/raven-842e0dd9ae7063befec00a4841fc2792.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/react-dom.min-ca73efbc208f4f03871f551b59d40b54.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/react.min-91d5a5df6e3e9fe2d06f8e96f333c039.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/recruit-candidate-44f0b7a7a3c33e3fa767b6767c2a5ed5.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/ruby-fa72f56dd32c4df5fdf4056fabf34b29.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/set-manifest-10810db35a7dbe6fa7c1285c805f4b0b0f0afcce.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/sql-8bcf802017e17887fecb311e0e9c4cc8.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/style-1d65653d49104671163ecae8910737d5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/find the numbers powered by HackerRank_files/vb-20b46c6c4cf4b65dba5e3d420405cfab.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/386" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/application-51caf676b92825f327b970471862ce26.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/auryc.lib.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/balloon-3b9fd5bdd1771155dee52ae81dad7bee.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/base-4e953f9582ddc0e62ee5b02dbe2520ca.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/bundle-08b87555b0bfbd9ec4ea105b37411cac.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/candidate-5b641c7d9b1a02b48202a6a46f3df7e8.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/candidate-a63b78231c077d0760248dafc8a6c66f.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/candidate-core-159850c472a1674e40346ec00fe63fa8.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/candidate_libraries-1a34e01cb2bbe9bc20fef148de03ba54.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/candidate_libraries-d36e2904df29e6169c6042f180d6a9fc.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/cdnping-e4dfec54a83d6e6bc9baf3ce741ae25e.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/clike-7e2be6bda0b7053bb24fe350370c71f1.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/clojure-31680df85f7216376b651ed1c587c20d.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/cobol-dfd9c7289ab7f6ed33c0b0c35a7364d8.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/codemirror_basic-8d7ec5b1e48104570a1277dd9cbcfcc0.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/codeshell-6399ee5c34672e68ebed1e261be470bc.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/codeshell_libraries-bc7ab3da116c7806a64df255d7eca1bb.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/container.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/erlang-cefdd6e86a4a627606e7e7d40b41bb33.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/ga.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/go-e26ae360eb488438739c63ba2e69c884.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/groovy-8822baf362122b8a69235b8eb0d30d24.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/hackerrank_spinner_64x64-d305605f2d7306772da0f86560bc1286.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/haskell-9285a6940840c29100031247163837e0.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/javascript-0dc440ddeaf7de5aa00b025299cc3dcf.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/mixpanel-2.2.min.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/octave-296feed077375c70ea8c94a7bae4be87.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/perl-a51e45a1e9cedff41047b88d25ddd427.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/php-bf520ecdd80931bc4518212f7092d896.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/python-3511acaca636f8354dcce20e07e5f5a2.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/r-07cb32fd3adbd1bc8bdb79cd8fd6f3df.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/raven-842e0dd9ae7063befec00a4841fc2792.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/react-dom.min-ca73efbc208f4f03871f551b59d40b54.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/react.min-91d5a5df6e3e9fe2d06f8e96f333c039.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/recruit-candidate-44f0b7a7a3c33e3fa767b6767c2a5ed5.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/ruby-fa72f56dd32c4df5fdf4056fabf34b29.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/set-manifest-10810db35a7dbe6fa7c1285c805f4b0b0f0afcce.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/sql-8bcf802017e17887fecb311e0e9c4cc8.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/style-1d65653d49104671163ecae8910737d5.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/testcases.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/odd numbers powered by HackerRank_files/vb-20b46c6c4cf4b65dba5e3d420405cfab.js.download" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/test cases find the number.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/hackerrank/practice/test_cases_odd numbers.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/lytmus/practice/.idea/Lytmus.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/lytmus/practice/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/lytmus/practice/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/lytmus/practice/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/lytmus/practice/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/lytmus/practice/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/lytmus/test/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/205.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 1
+}]]></component>
+  <component name="ProjectId" id="2ebatzpDnXo1IrgQze7RhopGdLq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "trunk",
+    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/notebooks"
+  }
+}]]></component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-df623cec81eb-c6172f9078bd-com.jetbrains.pycharm.ds.sharedIndexes.bundled-DS-233.15026.16" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="dcd7c33b-aac6-4008-8969-681a463aeca7" name="Changes" comment="" />
+      <created>1712175949761</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712175949761</updated>
+      <workItem from="1712175950857" duration="261000" />
+    </task>
+    <servers />
+  </component>
+</project>
