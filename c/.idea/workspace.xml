@@ -21,9 +21,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
+      <change afterPath="$PROJECT_DIR$/../c++/leet_code/1614.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/leet_code/27.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1614.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/27.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +43,9 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
@@ -53,30 +63,51 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "trunk",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/c++",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JerryG/Documents/Code-Projects/code-challenges/c&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="QodanaCloudProjectLink">
+    <option name="lastReportId" value="we07q" />
+    <option name="linkedProjectId" value="A6N62" />
+    <option name="linkedProjectName" value="code-challenges" />
+    <option name="organizationId" value="AL5PL" />
+    <option name="userId" value="3BrDx" />
+  </component>
+  <component name="QodanaHighlightedReportService">
+    <option name="cloudReportPersistedInfo">
+      <CloudReportPersistedInfo>
+        <option name="projectId" value="A6N62" />
+        <option name="reportId" value="we07q" />
+      </CloudReportPersistedInfo>
+    </option>
+  </component>
+  <component name="QodanaIsSelectedPersistenceService">
+    <option name="selectedOrLoading" value="true" />
+  </component>
+  <component name="QodanaSettings">
+    <option name="autoLoadCloudReport" value="true" />
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
     <configuration name="c" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c" TARGET_NAME="c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c" RUN_TARGET_NAME="c">
@@ -96,6 +127,7 @@
       <workItem from="1712077654653" duration="208000" />
       <workItem from="1712160398101" duration="230000" />
       <workItem from="1712160640615" duration="1369000" />
+      <workItem from="1712247235128" duration="539000" />
     </task>
     <task id="LOCAL-00001" summary="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
       <option name="closed" value="true" />
@@ -115,5 +147,9 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958" />
     <option name="LAST_COMMIT_MESSAGE" value="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
