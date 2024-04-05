@@ -25,4 +25,5 @@ add_executable(c
         hackerrank/functions_sorting_array_of_strings.c
         hackerrank/functions_permutations_of_strings.c
         hackerrank/functions_variadic.c
-        hackerrank/functions_querying_the_document.c)
+        hackerrank/functions_querying_the_document.c
+        leet_code/1544.c)

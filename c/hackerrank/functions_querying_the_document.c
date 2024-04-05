@@ -5,21 +5,20 @@
 #define MAX_CHARACTERS 1005
 #define MAX_PARAGRAPHS 5
 
-char* kth_word_in_mth_sentence_of_nth_paragraph(char**** document, int k, int m, int n) {
+char *kth_word_in_mth_sentence_of_nth_paragraph(char ****document, int k, int m,
+                                                int n) {
   return *(*(*(document + --n) + --m) + --k);
 }
 
-char** kth_sentence_in_mth_paragraph(char**** document, int k, int m) {
+char **kth_sentence_in_mth_paragraph(char ****document, int k, int m) {
   return *(*(document + --m) + --k);
 }
 
-char*** kth_paragraph(char**** document, int k) {
-  return *(document + --k);
-}
+char ***kth_paragraph(char ****document, int k) { return *(document + --k); }
 
-char ** split(char * s, char delim, int * count) {
-  char ** split_s = NULL;
-  char * part = NULL;
+char **split(char *s, char delim, int *count) {
+  char **split_s = NULL;
+  char *part = NULL;
   unsigned int idx_split_s = 0;
   unsigned int idx_part = 0;
 
@@ -29,21 +28,20 @@ char ** split(char * s, char delim, int * count) {
 
     if (c == delim && idx_part != 0) {
       // mark the end of part string
-      part = realloc(part, sizeof(char*) * (idx_part + 1));
+      part = realloc(part, sizeof(char *) * (idx_part + 1));
       *(part + idx_part) = '\0';
 
       // append part to split_s
-      split_s = realloc(split_s, sizeof(char**) * (idx_split_s + 1));
+      split_s = realloc(split_s, sizeof(char **) * (idx_split_s + 1));
       *(split_s + idx_split_s) = part;
       idx_split_s++;
 
       // clear part string values
       part = NULL;
       idx_part = 0;
-    }
-    else {
+    } else {
       // append character to part
-      part = realloc(part, sizeof(char*) * (idx_part + 1));
+      part = realloc(part, sizeof(char *) * (idx_part + 1));
       *(part + idx_part) = c;
       idx_part++;
     }
@@ -52,11 +50,11 @@ char ** split(char * s, char delim, int * count) {
   // append last part to split_s
   if (idx_part != 0) {
     // mark the end of part string
-    part = realloc(part, sizeof(char*) * (idx_part + 1));
+    part = realloc(part, sizeof(char *) * (idx_part + 1));
     *(part + idx_part) = '\0';
 
     // append part to split_s
-    split_s = realloc(split_s, sizeof(char**) * (idx_split_s + 1));
+    split_s = realloc(split_s, sizeof(char **) * (idx_split_s + 1));
     *(split_s + idx_split_s) = part;
     idx_split_s++;
   }
@@ -66,7 +64,7 @@ char ** split(char * s, char delim, int * count) {
   return split_s;
 }
 
-char **** get_document(char* text) {
+char ****get_document(char *text) {
   int *len_paragraphs = calloc(1, sizeof(int));
   int *len_sentences = calloc(1, sizeof(int));
   int *len_words = calloc(1, sizeof(int));

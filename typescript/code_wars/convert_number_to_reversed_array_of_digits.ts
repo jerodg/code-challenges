@@ -12,4 +12,4 @@ export const digitize = (n: number): number[] => {
     }
 
     return digitList;
-}
+};

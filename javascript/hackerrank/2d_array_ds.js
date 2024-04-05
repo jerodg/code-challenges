@@ -1,19 +1,19 @@
-'use strict';
+"use strict";
 
-const fs = require('fs');
+const fs = require("fs");
 
 process.stdin.resume();
-process.stdin.setEncoding('utf-8');
+process.stdin.setEncoding("utf-8");
 
-let inputString = '';
+let inputString = "";
 let currentLine = 0;
 
-process.stdin.on('data', function (inputStdin) {
+process.stdin.on("data", function (inputStdin) {
     inputString += inputStdin;
 });
 
-process.stdin.on('end', function () {
-    inputString = inputString.split('\n');
+process.stdin.on("end", function () {
+    inputString = inputString.split("\n");
 
     main();
 });
@@ -49,12 +49,12 @@ function main() {
     let arr = Array(6);
 
     for (let i = 0; i < 6; i++) {
-        arr[i] = readLine().replace(/\s+$/g, '').split(' ').map(arrTemp => parseInt(arrTemp, 10));
+        arr[i] = readLine().replace(/\s+$/g, "").split(" ").map(arrTemp => parseInt(arrTemp, 10));
     }
 
     const result = hourglassSum(arr);
 
-    ws.write(result + '\n');
+    ws.write(result + "\n");
 
     ws.end();
 }

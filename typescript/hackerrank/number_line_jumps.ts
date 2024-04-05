@@ -1,21 +1,21 @@
-'use strict';
+"use strict";
 
 import {createWriteStream, WriteStream} from "fs";
 
 process.stdin.resume();
-process.stdin.setEncoding('utf-8');
+process.stdin.setEncoding("utf-8");
 
-let inputString: string = '';
+let inputString: string = "";
 let inputLines: string[] = [];
 let currentLine: number = 0;
 
-process.stdin.on('data', function (inputStdin: string): void {
+process.stdin.on("data", function (inputStdin: string): void {
     inputString += inputStdin;
 });
 
-process.stdin.on('end', function (): void {
-    inputLines = inputString.split('\n');
-    inputString = '';
+process.stdin.on("end", function (): void {
+    inputLines = inputString.split("\n");
+    inputString = "";
 
     main();
 });
@@ -38,16 +38,16 @@ function readLine(): string {
 function kangaroo(x1: number, v1: number, x2: number, v2: number): string {
     if (v1 > v2) {
         if ((x2 - x1) % (v1 - v2) === 0) {
-            return 'YES';
+            return "YES";
         }
     }
-    return 'NO';
+    return "NO";
 }
 
 function main() {
-    const ws: WriteStream = createWriteStream(process.env['OUTPUT_PATH']);
+    const ws: WriteStream = createWriteStream(process.env["OUTPUT_PATH"]);
 
-    const firstMultipleInput: string[] = readLine().replace(/\s+$/g, '').split(' ');
+    const firstMultipleInput: string[] = readLine().replace(/\s+$/g, "").split(" ");
 
     const x1: number = parseInt(firstMultipleInput[0], 10);
 
@@ -59,7 +59,7 @@ function main() {
 
     const result: string = kangaroo(x1, v1, x2, v2);
 
-    ws.write(result + '\n');
+    ws.write(result + "\n");
 
     ws.end();
 }

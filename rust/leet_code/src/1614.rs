@@ -7,10 +7,10 @@ impl Solution {
                 '(' => {
                     depth += 1;
                     max_depth = max_depth.max(depth);
-                },
+                }
                 ')' => {
                     depth -= 1;
-                },
+                }
                 _ => (),
             }
         }

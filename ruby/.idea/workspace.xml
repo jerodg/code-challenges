@@ -5,7 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cc58289-d4e5-4bee-a013-4d1b97c4c98e" name="Changes" comment="feat(leet_code): add solutions&#10;&#10;+ 27&#10;+ 1614">
+      <change afterPath="$PROJECT_DIR$/../c#/leet_code/1544.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/leet_code/1544.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/1544.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1544.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/1544.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/1544.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/google-java-format.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/1544.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/1544.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/1544.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1544.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1544.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/1544.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/hackerrank/functions_querying_the_document.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/hackerrank/functions_querying_the_document.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/code_wars/convert_number_to_reversed_array_of_digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/code_wars/convert_number_to_reversed_array_of_digits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/2d_array_ds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/2d_array_ds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/apple_and_orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/apple_and_orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/dynamic_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/dynamic_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_datatypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_end_of_file.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_end_of_file.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_int_to_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_int_to_string.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_loops_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_loops_I.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_loops_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_loops_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_output_formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_output_formatting.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_static_initializer_block.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_static_initializer_block.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_stdin_and_stdout_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_stdin_and_stdout_II.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/number_line_jumps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/number_line_jumps.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/leet_code/1614.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/1614.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/leet_code/205.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/205.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/leet_code/26.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/26.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/leet_code/27.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/27.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/leet_code/2958.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/2958.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/leet_code/79.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/79.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/leet_code/88.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/88.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php/leet_code/1614.php" beforeDir="false" afterPath="$PROJECT_DIR$/../php/leet_code/1614.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ruby.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/leet_code/1614.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/1614.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/leet_code/26.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/26.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/leet_code/27.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/27.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/leet_code/88.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/88.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +70,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitToolBoxStore">
+    <option name="projectConfigVersion" value="5" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
 }</component>
@@ -33,24 +84,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "trunk",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/ruby",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "ruby.structure.view.model.defaults.configured": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JerryG/Documents/Code-Projects/code-challenges/ruby&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-RM-241.14494.234" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpringUtil" SPRING_PRE_LOADER_OPTION="true" RAKE_SPRING_PRE_LOADER_OPTION="true" RAILS_SPRING_PRE_LOADER_OPTION="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="2cc58289-d4e5-4bee-a013-4d1b97c4c98e" name="Changes" comment="" />
@@ -65,6 +124,8 @@
       <workItem from="1712167510973" duration="1456000" />
       <workItem from="1712169007087" duration="2028000" />
       <workItem from="1712241980634" duration="169000" />
+      <workItem from="1712329016770" duration="68000" />
+      <workItem from="1712329094537" duration="79000" />
     </task>
     <task id="LOCAL-00001" summary="feat(ruby): add intro solutions&#10;&#10;+ solutions">
       <option name="closed" value="true" />

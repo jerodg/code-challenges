@@ -7,7 +7,7 @@ function exist(board: string[][], word: string): boolean {
         if (k === word.length - 1) return true;
 
         let temp = board[i][j];
-        board[i][j] = '';
+        board[i][j] = "";
         if (dfs(i - 1, j, k + 1) || dfs(i + 1, j, k + 1) || dfs(i, j - 1, k + 1) || dfs(i, j + 1, k + 1)) {
             board[i][j] = temp;
             return true;

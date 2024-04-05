@@ -1,21 +1,21 @@
-'use strict';
+"use strict";
 
 import {createWriteStream, WriteStream} from "fs";
 
 process.stdin.resume();
-process.stdin.setEncoding('utf-8');
+process.stdin.setEncoding("utf-8");
 
-let inputString: string = '';
+let inputString: string = "";
 let inputLines: string[] = [];
 let currentLine: number = 0;
 
-process.stdin.on('data', function (inputStdin: string): void {
+process.stdin.on("data", function (inputStdin: string): void {
     inputString += inputStdin;
 });
 
-process.stdin.on('end', function (): void {
-    inputLines = inputString.split('\n');
-    inputString = '';
+process.stdin.on("end", function (): void {
+    inputLines = inputString.split("\n");
+    inputString = "";
 
     main();
 });
@@ -55,9 +55,9 @@ function dynamicArray(n: number, queries: number[][]): number[] {
 }
 
 function main() {
-    const ws: WriteStream = createWriteStream(process.env['OUTPUT_PATH']);
+    const ws: WriteStream = createWriteStream(process.env["OUTPUT_PATH"]);
 
-    const firstMultipleInput: string[] = readLine().replace(/\s+$/g, '').split(' ');
+    const firstMultipleInput: string[] = readLine().replace(/\s+$/g, "").split(" ");
 
     const n: number = parseInt(firstMultipleInput[0], 10);
 
@@ -66,12 +66,12 @@ function main() {
     let queries: number[][] = Array(q);
 
     for (let i: number = 0; i < q; i++) {
-        queries[i] = readLine().replace(/\s+$/g, '').split(' ').map(queriesTemp => parseInt(queriesTemp, 10));
+        queries[i] = readLine().replace(/\s+$/g, "").split(" ").map(queriesTemp => parseInt(queriesTemp, 10));
     }
 
     const result: number[] = dynamicArray(n, queries);
 
-    ws.write(result.join('\n') + '\n');
+    ws.write(result.join("\n") + "\n");
 
     ws.end();
 }

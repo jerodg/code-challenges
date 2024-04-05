@@ -21,27 +21,19 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../swift/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/.idea/swift.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/1614.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/26.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/27.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1544.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/1544.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/1544.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/notebooks.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../notebooks/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/hackerrank/functions_querying_the_document.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/hackerrank/functions_querying_the_document.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ClangdSettings">
-    <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
@@ -70,6 +62,7 @@
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.advertisement.text.overridden": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "com.google.cloudcode.ide_session_index": "20240404_0006",
@@ -86,6 +79,11 @@
   }
 }]]></component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="c__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c__" TARGET_NAME="c__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c__" RUN_TARGET_NAME="c__">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -111,6 +109,7 @@
       <workItem from="1712248825644" duration="591000" />
       <workItem from="1712249568930" duration="616000" />
       <workItem from="1712250869848" duration="182000" />
+      <workItem from="1712326942841" duration="229000" />
     </task>
     <task id="LOCAL-00001" summary="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files">
       <option name="closed" value="true" />
