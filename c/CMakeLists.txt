@@ -22,4 +22,7 @@ add_executable(c
         hackerrank/introduction_sum_and_difference_of_two_numbers.c
         hackerrank/introduction_functions.c
         hackerrank/introduction_pointers.c
-        hackerrank/functions_sorting_array_of_strings.c)
+        hackerrank/functions_sorting_array_of_strings.c
+        hackerrank/functions_permutations_of_strings.c
+        hackerrank/functions_variadic.c
+        hackerrank/functions_querying_the_document.c)

@@ -20,29 +20,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
-      <change afterPath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/functions_sorting_array_of_strings.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/introduction_functions.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/introduction_hello_world.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/introduction_playing_with_characters.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/introduction_pointers.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/introduction_sum_and_difference_of_two_numbers.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/code_wars/convert_number_to_reversed_array_of_digits.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/code_wars/convert_number_to_reversed_array_of_digits.swift" afterDir="false" />
+    <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): hackerrank&#10;&#10;+ introduction">
+      <change afterPath="$PROJECT_DIR$/hackerrank/functions_permutations_of_strings.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/functions_querying_the_document.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/functions_variadic.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1614.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1614.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/27.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/27.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="ClangdSettings">
-    <option name="formatViaClangd" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
@@ -67,26 +55,27 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JerryG/Documents/Code-Projects/code-challenges/c&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.advertisement.text.overridden": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "trunk",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/jet_brains.kdbx",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="QodanaCloudProjectLink">
     <option name="lastReportId" value="we07q" />
     <option name="linkedProjectId" value="A6N62" />
@@ -109,11 +98,6 @@
     <option name="autoLoadCloudReport" value="true" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="c" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c" TARGET_NAME="c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c" RUN_TARGET_NAME="c">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -136,7 +120,11 @@
       <workItem from="1712160640615" duration="1369000" />
       <workItem from="1712247235128" duration="539000" />
       <workItem from="1712255368801" duration="1022000" />
-      <workItem from="1712257189122" duration="512000" />
+      <workItem from="1712257189122" duration="667000" />
+      <workItem from="1712287111254" duration="150000" />
+      <workItem from="1712287271483" duration="1169000" />
+      <workItem from="1712288456934" duration="220000" />
+      <workItem from="1712288684111" duration="1266000" />
     </task>
     <task id="LOCAL-00001" summary="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
       <option name="closed" value="true" />
@@ -146,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712162004675</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="feat(C): hackerrank&#10;&#10;+ introduction">
+      <option name="closed" value="true" />
+      <created>1712257744680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1712257744680</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -160,7 +156,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958" />
+    <MESSAGE value="feat(C): hackerrank&#10;&#10;+ introduction" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(C): hackerrank&#10;&#10;+ introduction" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
