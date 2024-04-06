@@ -20,29 +20,17 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): hackerrank&#10;&#10;+ functions">
-      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_strings_digit_frequency.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/arrays_and_strings_dynamic_array.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/functions_calculate_the_nth_term.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/functions_students_marks_sums.c" afterDir="false" />
+    <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): hackerrank&#10;&#10;+ arrays_and_strings">
+      <change afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_bitwise_operators.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_conditional_statements.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_for_loop.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_printing_pattern_using_loops.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_sum_of_digits_of_a_five_digit_number.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/structs_and_enums_post_transition.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hackerrank/structs_and_enums_small_triangles_large_triangles.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.c" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/functions_permutations_of_strings.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/functions_permutations_of_strings.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/functions_sorting_array_of_strings.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/functions_sorting_array_of_strings.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/functions_variadic.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/functions_variadic.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/introduction_functions.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/introduction_functions.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/introduction_hello_world.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/introduction_hello_world.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/introduction_playing_with_characters.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/introduction_playing_with_characters.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/introduction_pointers.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/introduction_pointers.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/introduction_sum_and_difference_of_two_numbers.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/introduction_sum_and_difference_of_two_numbers.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1614.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1614.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/205.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/205.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/26.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/26.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/27.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/27.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/2958.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2958.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/79.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/79.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/88.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/88.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/arrays_and_strings_dynamic_array.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/arrays_and_strings_dynamic_array.c" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,6 +103,11 @@
     <option name="autoLoadCloudReport" value="true" />
   </component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="c" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c" TARGET_NAME="c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c" RUN_TARGET_NAME="c">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -144,7 +137,8 @@
       <workItem from="1712288684111" duration="1585000" />
       <workItem from="1712326714070" duration="457000" />
       <workItem from="1712366785236" duration="1599000" />
-      <workItem from="1712368398476" duration="367000" />
+      <workItem from="1712368398476" duration="706000" />
+      <workItem from="1712419229920" duration="1805000" />
     </task>
     <task id="LOCAL-00001" summary="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
       <option name="closed" value="true" />
@@ -170,7 +164,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712290239715</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat(C): hackerrank&#10;&#10;+ arrays_and_strings">
+      <option name="closed" value="true" />
+      <created>1712369077395</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1712369077395</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -186,7 +188,8 @@
     <MESSAGE value="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958" />
     <MESSAGE value="feat(C): hackerrank&#10;&#10;+ introduction" />
     <MESSAGE value="feat(C): hackerrank&#10;&#10;+ functions" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(C): hackerrank&#10;&#10;+ functions" />
+    <MESSAGE value="feat(C): hackerrank&#10;&#10;+ arrays_and_strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(C): hackerrank&#10;&#10;+ arrays_and_strings" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

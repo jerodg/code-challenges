@@ -30,4 +30,11 @@ add_executable(c
         hackerrank/functions_calculate_the_nth_term.c
         hackerrank/functions_students_marks_sums.c
         hackerrank/arrays_and_strings_digit_frequency.c
-        hackerrank/arrays_and_strings_dynamic_array.c)
+        hackerrank/arrays_and_strings_dynamic_array.c
+        hackerrank/conditionals_and_loops_conditional_statements.c
+        hackerrank/conditionals_and_loops_for_loop.c
+        hackerrank/conditionals_and_loops_sum_of_digits_of_a_five_digit_number.c
+        hackerrank/conditionals_and_loops_bitwise_operators.c
+        hackerrank/conditionals_and_loops_printing_pattern_using_loops.c
+        hackerrank/structs_and_enums_small_triangles_large_triangles.c
+        hackerrank/structs_and_enums_post_transition.c)

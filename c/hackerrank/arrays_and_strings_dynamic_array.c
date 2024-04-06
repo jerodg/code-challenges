@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 
+// fixme: this is not working (segmentation fault)
 /*
  * This stores the total number of books in each shelf.
  */
