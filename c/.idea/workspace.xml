@@ -20,18 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): hackerrank&#10;&#10;+ arrays_and_strings">
-      <change afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_bitwise_operators.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_conditional_statements.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_for_loop.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_printing_pattern_using_loops.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_sum_of_digits_of_a_five_digit_number.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/structs_and_enums_post_transition.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hackerrank/structs_and_enums_small_triangles_large_triangles.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/arrays_and_strings_dynamic_array.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/arrays_and_strings_dynamic_array.c" afterDir="false" />
-    </list>
+    <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): hackerrank&#10;&#10;+ conditionals_and_loops" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -138,7 +127,7 @@
       <workItem from="1712326714070" duration="457000" />
       <workItem from="1712366785236" duration="1599000" />
       <workItem from="1712368398476" duration="706000" />
-      <workItem from="1712419229920" duration="1805000" />
+      <workItem from="1712419229920" duration="1903000" />
     </task>
     <task id="LOCAL-00001" summary="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
       <option name="closed" value="true" />
@@ -172,7 +161,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712369077395</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="feat(C): hackerrank&#10;&#10;+ conditionals_and_loops">
+      <option name="closed" value="true" />
+      <created>1712421131701</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1712421131701</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -189,7 +186,8 @@
     <MESSAGE value="feat(C): hackerrank&#10;&#10;+ introduction" />
     <MESSAGE value="feat(C): hackerrank&#10;&#10;+ functions" />
     <MESSAGE value="feat(C): hackerrank&#10;&#10;+ arrays_and_strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(C): hackerrank&#10;&#10;+ arrays_and_strings" />
+    <MESSAGE value="feat(C): hackerrank&#10;&#10;+ conditionals_and_loops" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(C): hackerrank&#10;&#10;+ conditionals_and_loops" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
