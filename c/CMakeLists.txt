@@ -37,4 +37,5 @@ add_executable(c
         hackerrank/conditionals_and_loops_bitwise_operators.c
         hackerrank/conditionals_and_loops_printing_pattern_using_loops.c
         hackerrank/structs_and_enums_small_triangles_large_triangles.c
-        hackerrank/structs_and_enums_post_transition.c)
+        hackerrank/structs_and_enums_post_transition.c
+        leet_code/1249.c)

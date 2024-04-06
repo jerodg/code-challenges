@@ -1,9 +1,10 @@
 # * Search through an embedded dict
 
 config = {"schema": {"types": [{"name": "string", "indexed": False, "docValues": True},
-        {"name": "text_general", "indexed": True, "docValues": False}, {"name": "text_f", "indexed": True, "docValues": True}],
-        "fields"            : [{"name": "text1", "type": "text_general"}, {"name": "text2", "type": "string"},
-                {"name": "address", "type": "text_general"}, {"name": "zipcode", "type": "text_f"}]}}
+                               {"name": "text_general", "indexed": True, "docValues": False},
+                               {"name": "text_f", "indexed": True, "docValues": True}],
+                     "fields": [{"name": "text1", "type": "text_general"}, {"name": "text2", "type": "string"},
+                                {"name": "address", "type": "text_general"}, {"name": "zipcode", "type": "text_f"}]}}
 
 
 def find(key, value):

@@ -75,7 +75,7 @@ class Change(LogEntry):
         self.commit = commit.split(':')[1].strip()
         self.service = service.split(':')[1].strip()
         self.dts = round(
-            (dt.strptime(dts.split('Date:')[1].strip(), '%Y-%m-%d %H:%M:%S.%f') - dt.utcfromtimestamp(0)).total_seconds(), 4)
+                (dt.strptime(dts.split('Date:')[1].strip(), '%Y-%m-%d %H:%M:%S.%f') - dt.utcfromtimestamp(0)).total_seconds(), 4)
         self.service = service.split(':')[1].strip()
 
 
@@ -144,7 +144,7 @@ class EndPoint:
             if win_events:
                 self.windows.append(Window(events=win_events))
 
-            # try:  #     while :  #         event = self.events.pop()  #         # print('event:', event)  #  # except
+            # try:  #     while :  #         event = self.events.pop()  #         # print('event:', event)  #  # except  #
             # IndexError:  #     self.windows.append(Window(events=win_events))
 
             # print(*win_events, sep='\n')  # self.windows.append(Window(events=win_events))

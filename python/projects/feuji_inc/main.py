@@ -28,8 +28,7 @@ res = defaultdict(list)
 for x, y, z in ls:
     res[x].append(v)
 
-print(res)  #
-# for x in ls:
+print(res)  #  # for x in ls:
 #     id, name, manager = x.split(':')
 #     # print(id, name, manager)
 #     emps[int(id.lstrip())] = (name, int(manager))

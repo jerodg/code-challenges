@@ -11,6 +11,6 @@ if __name__ == "__main__":
     try:
         ls = []
         [getattr(ls, s[0])(*map(int, s[1:])) if hasattr(ls, s[0]) else print(ls) for s in
-                [input().split() for _ in range(int(input()))]]
+         [input().split() for _ in range(int(input()))]]
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))

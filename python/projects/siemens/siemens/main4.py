@@ -177,8 +177,7 @@ rprint(rooms)
 # if np.size(room) >= 4:
 #     room = '0'
 # rprint(fp)
-rprint(rows)  # for r in rooms:
-#     x = fp[r[0],r[1]:r[2],r[3]]
+rprint(rows)  # for r in rooms:  #     x = fp[r[0],r[1]:r[2],r[3]]
 #     print(x)
 #
 # for x in fp:

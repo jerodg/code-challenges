@@ -110,9 +110,9 @@ def build_oauth_params(method, url, params):
     `params` is a dictionary of query or form parameters to be sent in the request.
     """
     # construct oauth header parameters
-    oauth_params = {"oauth_consumer_key": app.config["TWITTER_API_KEY"], "oauth_nonce": token_hex(16),
-            "oauth_signature_method"    : "HMAC-SHA1", "oauth_timestamp": str(int(time.time())), "oauth_version": "1.0",
-            "oauth_token"               : get_token(), }
+    oauth_params = {"oauth_consumer_key"    : app.config["TWITTER_API_KEY"], "oauth_nonce": token_hex(16),
+                    "oauth_signature_method": "HMAC-SHA1", "oauth_timestamp": str(int(time.time())), "oauth_version": "1.0",
+                    "oauth_token"           : get_token(), }
 
     # compute the signature from all parameters
     collected_params = {**oauth_params, **params}

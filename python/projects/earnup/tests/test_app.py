@@ -3,17 +3,18 @@ from freezegun import freeze_time
 from werkzeug.test import Client
 
 SAMPLE_REQUEST_1 = {'loan': {'monthly_payment_amount': 750, 'payment_due_day': 28, 'schedule_type': 'biweekly',
-        'debit_start_date'                           : '2021-05-07', 'debit_day_of_week': 'friday'}}
+                             'debit_start_date'      : '2021-05-07', 'debit_day_of_week': 'friday'}}
 
 SAMPLE_RESPONSE_1 = [{'today': '2021-05-07', 'amount': 375, 'date': '2021-05-21'},
-        {'today': '2021-05-20', 'amount': 375, 'date': '2021-05-21'}, {'today': '2021-05-23', 'amount': 375, 'date': '2021-06-04'},
-        {'today': '2021-06-14', 'amount': 375, 'date': '2021-06-18'}]
+                     {'today': '2021-05-20', 'amount': 375, 'date': '2021-05-21'},
+                     {'today': '2021-05-23', 'amount': 375, 'date': '2021-06-04'},
+                     {'today': '2021-06-14', 'amount': 375, 'date': '2021-06-18'}]
 
 SAMPLE_RESPONSE_1 = [{'debit': {'amount': 750.0, 'date': '2021-05-21'}}]
 
 SAMPLE_REQUEST_2 = {
         'loan': {'monthly_payment_amount': 990, 'payment_due_day': 1, 'schedule_type': 'biweekly', 'debit_start_date': '2021-05-03',
-                'debit_day_of_week'      : 'monday'}}
+                 'debit_day_of_week'     : 'monday'}}
 
 # SAMPLE_RESPONSE_2 = [
 #         {

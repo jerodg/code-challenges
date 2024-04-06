@@ -42,8 +42,7 @@ for i in range(len(inp)):
 #     else:
 #         odd.append(inp[i])
 
-print('out:', out)  # evn.sort()
-# odd.sort()
+print('out:', out)  # evn.sort()  # odd.sort()
 
 
 # # test

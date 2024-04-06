@@ -5,55 +5,47 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cc58289-d4e5-4bee-a013-4d1b97c4c98e" name="Changes" comment="feat(leet_code): add solutions&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../c#/leet_code/1544.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c++/leet_code/1544.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/1544.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1544.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/1544.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/1544.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/.idea/google-java-format.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/1544.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/1544.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/leet_code/1544.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1544.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1544.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/1544.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c#/leet_code/1249.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/leet_code/1544.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/1249.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1249.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/1249.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/1249.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/1249.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/1249.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/1249.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1249.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1249.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/1249.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/hackerrank/functions_querying_the_document.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/hackerrank/functions_querying_the_document.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/code_wars/convert_number_to_reversed_array_of_digits.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/code_wars/convert_number_to_reversed_array_of_digits.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/2d_array_ds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/2d_array_ds.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/apple_and_orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/apple_and_orange.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/dynamic_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/dynamic_array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_datatypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_datatypes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_end_of_file.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_end_of_file.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_int_to_string.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_int_to_string.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_loops_I.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_loops_I.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_loops_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_loops_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_output_formatting.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_output_formatting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_static_initializer_block.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_static_initializer_block.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/java_stdin_and_stdout_II.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/java_stdin_and_stdout_II.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/hackerrank/number_line_jumps.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/number_line_jumps.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/leet_code/1614.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/1614.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/leet_code/205.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/205.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/leet_code/26.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/26.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/leet_code/27.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/27.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/leet_code/2958.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/2958.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/leet_code/79.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/79.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/leet_code/88.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/88.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../php/leet_code/1614.php" beforeDir="false" afterPath="$PROJECT_DIR$/../php/leet_code/1614.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ruby.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../php/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/01.BasicDataTypes/0.Lists/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/hackerrank/01.BasicDataTypes/0.Lists/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/airbnb/first_interview.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/airbnb/first_interview.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/blameless/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/blameless/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/blameless/solution/monitor.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/blameless/solution/monitor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/earnup/original_source/debit-scheduler-takehome/tests/test_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/earnup/original_source/debit-scheduler-takehome/tests/test_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/earnup/tests/test_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/earnup/tests/test_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/eat_club/test.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/eat_club/test.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/feuji_inc/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/feuji_inc/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/globus/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/globus/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/heartex/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/heartex/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/kiewit/first_round.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/kiewit/first_round.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/search_stax/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/search_stax/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/siemens/siemens/convert.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/siemens/siemens/convert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/siemens/siemens/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/siemens/siemens/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/siemens/siemens/main4.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/siemens/siemens/main4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/siemens/siemens/main_too.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/siemens/siemens/main_too.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/projects/well_suited/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/projects/well_suited/main.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/1614.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/1614.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/26.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/26.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/27.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/27.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/88.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/88.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,6 +80,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/JerryG/Documents/Code-Projects/code-challenges/ruby&quot;,
@@ -97,7 +90,7 @@
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.qodana&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -126,6 +119,9 @@
       <workItem from="1712241980634" duration="169000" />
       <workItem from="1712329016770" duration="68000" />
       <workItem from="1712329094537" duration="79000" />
+      <workItem from="1712424837134" duration="73000" />
+      <workItem from="1712424920500" duration="232000" />
+      <workItem from="1712425163698" duration="104000" />
     </task>
     <task id="LOCAL-00001" summary="feat(ruby): add intro solutions&#10;&#10;+ solutions">
       <option name="closed" value="true" />

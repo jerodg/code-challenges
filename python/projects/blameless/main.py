@@ -57,7 +57,7 @@ if __name__ == '__main__':
 
         # for k, v in sm.resources.items():  #     print(k, v)
 
-        # print(sm.get_api_specs())  # print(sm.get_api_specs())  # print(sm.get_info())  # print(*[x.__dict__ for x in
+        # print(sm.get_api_specs())  # print(sm.get_api_specs())  # print(sm.get_info())  # print(*[x.__dict__ for x in  #
         # sm.get_api_specs()], sep='\n')  # print('=' * 80)  #  # print(*[x.to_dict() for x in sm.get_api_specs()], sep='\n')  #
         # print('=' * 80)  #  # #  # for _ in range(0, args.max_events + 1):  #     print(sm.generate_event())
 
@@ -65,5 +65,5 @@ if __name__ == '__main__':
 
         # print('=' * 80)  #  # [print(k, v) for k, v in sm.events.items()]
 
-    # service_monitor = get_service_monitor(event_stream)  # print(service_monitor.mttr())  # print(
+    # service_monitor = get_service_monitor(event_stream)  # print(service_monitor.mttr())  # print(  #
     # service_monitor.api_histogram())  # print(service_monitor.incident_details())
