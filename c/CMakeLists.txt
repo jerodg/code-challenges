@@ -26,4 +26,8 @@ add_executable(c
         hackerrank/functions_permutations_of_strings.c
         hackerrank/functions_variadic.c
         hackerrank/functions_querying_the_document.c
-        leet_code/1544.c)
+        leet_code/1544.c
+        hackerrank/functions_calculate_the_nth_term.c
+        hackerrank/functions_students_marks_sums.c
+        hackerrank/arrays_and_strings_digit_frequency.c
+        hackerrank/arrays_and_strings_dynamic_array.c)
