@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html lang="">
+<head>
+    <meta charset="utf-8">
+    <title>Button</title>
+</head>
+<body>
+    <button id="btn" onclick="increment()">0</button>
+    <script>
+        function increment() {
+            var btn = document.getElementById('btn');
+            btn.innerHTML = parseInt(btn.innerHTML) + 1;
+        }
+    </script>
+</body>
+</html>

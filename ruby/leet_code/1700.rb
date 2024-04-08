@@ -2,15 +2,17 @@
 # @param {Integer[]} sandwiches
 # @return {Integer}
 def count_students(students, sandwiches)
-  students_count = students.group_by(&:itself).transform_values(&:count)
-  sandwiches_count = sandwiches.group_by(&:itself).transform_values(&:count)
-  students_count.each do |key, value|
-    if sandwiches_count[key].nil?
-      return value
-    end
-    if value > sandwiches_count[key]
-      return sandwiches_count[key]
+  students_queue = students.dup
+  sandwiches_stack = sandwiches.dup
+
+  while !sandwiches_stack.empty? && students_queue.include?(sandwiches_stack.first)
+    if students_queue.first == sandwiches_stack.first
+      students_queue.shift
+      sandwiches_stack.shift
+    else
+      students_queue.rotate!
     end
   end
-  return 0
+
+  students_queue.size
 end
