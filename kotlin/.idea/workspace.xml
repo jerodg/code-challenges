@@ -5,17 +5,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8ac5a88-087f-453f-9bbc-d432e6324ee1" name="Changes" comment="feat(leet_code): add kotlin&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../c++/leet_code/678.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/678.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/678.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/678.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/678.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/678.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/678.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/1700.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1700.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/1700.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1700.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/1700.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/indexLayout.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/.idea/.idea.c#.dir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/code_wars/convert_number_to_reversed_array_of_digits.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/hackerrank/2d_array_ds.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/hackerrank/apple_and_orange.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/hackerrank/dynamic_array.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/hackerrank/number_line_jumps.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/leet_code/1249.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/leet_code/1544.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/leet_code/1614.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/leet_code/205.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/leet_code/26.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/leet_code/27.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/leet_code/2958.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/leet_code/678.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/leet_code/79.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c#/leet_code/88.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/.idea/c++.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/code_wars/convert_number_to_reversed_array_of_digits.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/hackerrank/2d_array_ds.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/hackerrank/apple_and_orange.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/hackerrank/dynamic_array.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/hackerrank/number_line_jumps.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/hackerrank/problem_solving_basic_skills_certification/parallel_processing.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/leet_code/1544.c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/leet_code/1544.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/leet_code/1614.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/leet_code/205.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/leet_code/26.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/leet_code/27.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/leet_code/2958.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/leet_code/678.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/leet_code/79.cpp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/leet_code/88.cpp" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -99,6 +137,7 @@
       <workItem from="1712424038707" duration="37000" />
       <workItem from="1712424118172" duration="46000" />
       <workItem from="1712502476913" duration="126000" />
+      <workItem from="1712597111014" duration="64000" />
     </task>
     <task id="LOCAL-00001" summary="feat(leet_code) add 79&#10;&#10;+ 79&#10;~ formatting">
       <option name="closed" value="true" />

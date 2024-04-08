@@ -21,13 +21,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/leet_code/678.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/678.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/678.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1700.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/1700.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/1700.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1544.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,6 +113,8 @@
       <workItem from="1712426989055" duration="891000" />
       <workItem from="1712501896981" duration="30000" />
       <workItem from="1712501936659" duration="172000" />
+      <workItem from="1712595695863" duration="132000" />
+      <workItem from="1712595836990" duration="971000" />
     </task>
     <task id="LOCAL-00001" summary="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files">
       <option name="closed" value="true" />

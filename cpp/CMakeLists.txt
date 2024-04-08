@@ -21,8 +21,8 @@ add_executable(c__
         leet_code/79.cpp
         leet_code/1614.cpp
         leet_code/27.cpp
-        leet_code/1544.c
         leet_code/1544.cpp
         hackerrank/problem_solving_basic_skills_certification/parallel_processing.cpp
         leet_code/678.cpp
+        leet_code/1700.cpp
 )

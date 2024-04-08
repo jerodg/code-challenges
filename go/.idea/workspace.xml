@@ -5,15 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add solution&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../c++/leet_code/678.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/678.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/678.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/678.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/678.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c++/leet_code/1700.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/1700.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1700.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1700.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/1700.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c++/leet_code/1544.c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
