@@ -21,13 +21,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): hackerrank&#10;&#10;+ conditionals_and_loops">
-      <change afterPath="$PROJECT_DIR$/../c++/leet_code/1700.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1700.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/1700.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c++/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c++/leet_code/1544.c" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/2073.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2073.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/2073.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/2073.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/2073.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/2073.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/2958.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/2958.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/678.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/678.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,7 +77,7 @@
     &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JerryG/Documents/Code-Projects/code-challenges/c++&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/JerryG/Documents/Code-Projects/code-challenges/cpp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -139,6 +148,8 @@
       <workItem from="1712423616017" duration="208000" />
       <workItem from="1712501987825" duration="120000" />
       <workItem from="1712596563410" duration="247000" />
+      <workItem from="1712680806662" duration="901000" />
+      <workItem from="1712681724901" duration="298000" />
     </task>
     <task id="LOCAL-00001" summary="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
       <option name="closed" value="true" />

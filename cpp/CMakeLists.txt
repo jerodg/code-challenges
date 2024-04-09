@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.27)
-project(c__)
+project(cpp)
 
-set(CMAKE_CXX_STANDARD 14)
+set(CMAKE_CXX_STANDARD 23)
 
 include_directories(.)
 include_directories(code_wars)
@@ -25,4 +25,5 @@ add_executable(c__
         hackerrank/problem_solving_basic_skills_certification/parallel_processing.cpp
         leet_code/678.cpp
         leet_code/1700.cpp
+        leet_code/2073.cpp
 )

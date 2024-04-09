@@ -1,3 +1,5 @@
+import 'dart:math';
+
 class Solution {
   bool checkValidString(String s) {
     int low = 0, high = 0;

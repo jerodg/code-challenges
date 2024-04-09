@@ -1,7 +1,7 @@
 cmake_minimum_required(VERSION 3.27)
 project(c C)
 
-set(CMAKE_C_STANDARD 11)
+set(CMAKE_C_STANDARD 14)
 
 include_directories(.)
 include_directories(code_wars)
@@ -39,4 +39,6 @@ add_executable(c
         hackerrank/structs_and_enums_small_triangles_large_triangles.c
         hackerrank/structs_and_enums_post_transition.c
         leet_code/1249.c
-        leet_code/678.c)
+        leet_code/678.c
+        leet_code/1700.c
+        leet_code/2073.c)
