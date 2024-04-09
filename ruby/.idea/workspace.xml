@@ -5,9 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cc58289-d4e5-4bee-a013-4d1b97c4c98e" name="Changes" comment="feat(leet_code): add solutions&#10;&#10;+ 1700">
-      <change afterPath="$PROJECT_DIR$/.idea/git_toolbox_prj.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/2073.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/2073.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/2073.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/2073.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/2073.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/2073.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1700.rb" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1700.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,6 +93,8 @@
       <workItem from="1712425163698" duration="104000" />
       <workItem from="1712503436498" duration="85000" />
       <workItem from="1712598023422" duration="899000" />
+      <workItem from="1712701679450" duration="50000" />
+      <workItem from="1712701738775" duration="377000" />
     </task>
     <task id="LOCAL-00001" summary="feat(ruby): add intro solutions&#10;&#10;+ solutions">
       <option name="closed" value="true" />
