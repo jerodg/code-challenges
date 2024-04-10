@@ -5,25 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cc58289-d4e5-4bee-a013-4d1b97c4c98e" name="Changes" comment="feat(leet_code): add solutions&#10;&#10;+ 1700">
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/950.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/950.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/950.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/950.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/950.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/950.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/950.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/950.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/950.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/950.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bash/code_wars/keep_up_the_hoop.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/code_wars/keep_up_the_hoop.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/code_wars/keep_up_the_hoop.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/code_wars/keep_up_the_hoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/code_wars/keep_up_the_hoop.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/code_wars/keep_up_the_hoop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/code_wars/keep_up_the_hoop.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,6 +94,7 @@
       <workItem from="1712701738775" duration="377000" />
       <workItem from="1712755561496" duration="23000" />
       <workItem from="1712759470279" duration="97000" />
+      <workItem from="1712767741258" duration="72000" />
     </task>
     <task id="LOCAL-00001" summary="feat(ruby): add intro solutions&#10;&#10;+ solutions">
       <option name="closed" value="true" />
