@@ -21,14 +21,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/2073.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/2073.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/2073.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/2073.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/2073.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/2073.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/950.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/950.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/950.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/950.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/950.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/950.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/950.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/950.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/950.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/950.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/leet_code/src/950.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/950.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/950.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/950.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -79,11 +91,16 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="c__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="c__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="c__">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -120,7 +137,12 @@
       <workItem from="1712680871890" duration="242000" />
       <workItem from="1712681120344" duration="592000" />
       <workItem from="1712681721566" duration="416000" />
-      <workItem from="1712701958871" duration="1000" />
+      <workItem from="1712701958871" duration="764000" />
+      <workItem from="1712753136288" duration="641000" />
+      <workItem from="1712754803647" duration="574000" />
+      <workItem from="1712755392858" duration="362000" />
+      <workItem from="1712755956428" duration="50000" />
+      <workItem from="1712757575263" duration="2619000" />
     </task>
     <task id="LOCAL-00001" summary="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files">
       <option name="closed" value="true" />

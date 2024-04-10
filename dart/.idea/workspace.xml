@@ -5,18 +5,17 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add dart&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2073.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/2073.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/2073.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/leet_code/2073.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/2073.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/950.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/950.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/950.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/950.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/950.swift" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/2958.dart" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2958.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/678.dart" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/678.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,12 +42,12 @@
     &quot;assignee&quot;: &quot;jerodg&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:jerodg/code-challenges.git",
-    "accountId": "c8f60be3-c260-4dfa-b0fb-7ff5f0c39734"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:jerodg/code-challenges.git&quot;,
+    &quot;accountId&quot;: &quot;c8f60be3-c260-4dfa-b0fb-7ff5f0c39734&quot;
   }
-}]]></component>
+}</component>
   <component name="GoVcsConfiguration">
     <option name="GO_FMT" value="false" />
   </component>

@@ -1,7 +1,7 @@
-cmake_minimum_required(VERSION 3.27)
+cmake_minimum_required(VERSION 3.29)
 project(cpp)
 
-set(CMAKE_CXX_STANDARD 23)
+set(CMAKE_CXX_STANDARD 26)
 
 include_directories(.)
 include_directories(code_wars)
@@ -26,4 +26,5 @@ add_executable(c__
         leet_code/678.cpp
         leet_code/1700.cpp
         leet_code/2073.cpp
+        leet_code/950.cpp
 )

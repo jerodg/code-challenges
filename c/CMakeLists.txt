@@ -1,7 +1,7 @@
-cmake_minimum_required(VERSION 3.27)
+cmake_minimum_required(VERSION 3.29)
 project(c C)
 
-set(CMAKE_C_STANDARD 14)
+set(CMAKE_C_STANDARD 23)
 
 include_directories(.)
 include_directories(code_wars)
@@ -41,4 +41,9 @@ add_executable(c
         leet_code/1249.c
         leet_code/678.c
         leet_code/1700.c
-        leet_code/2073.c)
+        leet_code/2073.c
+        leet_code/950.c
+        leet_code/950.c
+        leet_code/950.c
+        leet_code/950.c
+        leet_code/950.c)
