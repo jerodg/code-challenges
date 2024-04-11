@@ -19,14 +19,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): hackerrank&#10;&#10;+ conditionals_and_loops">
-      <change afterPath="$PROJECT_DIR$/leet_code/950.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/950.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/402.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/402.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/402.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +38,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jerodg&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:jerodg/code-challenges.git&quot;,
+    &quot;accountId&quot;: &quot;ec403144-7b51-4507-987e-16c0880be75d&quot;
+  }
+}</component>
   <component name="ProblemsViewState">
     <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
   </component>
@@ -77,7 +86,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -87,17 +96,6 @@
     <option name="linkedProjectName" value="code-challenges" />
     <option name="organizationId" value="AL5PL" />
     <option name="userId" value="3BrDx" />
-  </component>
-  <component name="QodanaHighlightedReportService">
-    <option name="cloudReportPersistedInfo">
-      <CloudReportPersistedInfo>
-        <option name="projectId" value="A6N62" />
-        <option name="reportId" value="we07q" />
-      </CloudReportPersistedInfo>
-    </option>
-  </component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
   </component>
   <component name="QodanaSettings">
     <option name="autoLoadCloudReport" value="true" />
@@ -134,6 +132,12 @@
       <workItem from="1712681724901" duration="412000" />
       <workItem from="1712755477757" duration="1625000" />
       <workItem from="1712757129062" duration="423000" />
+      <workItem from="1712767002016" duration="654000" />
+      <workItem from="1712844692628" duration="79000" />
+      <workItem from="1712844780962" duration="37000" />
+      <workItem from="1712845481180" duration="165000" />
+      <workItem from="1712846271883" duration="591000" />
+      <workItem from="1712847129682" duration="972000" />
     </task>
     <task id="LOCAL-00001" summary="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
       <option name="closed" value="true" />

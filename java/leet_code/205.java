@@ -1,11 +1,11 @@
 class Solution {
-  public boolean isIsomorphic(String s, String t) {
+  public boolean isIsomorphic(final String s, final String t) {
     if (s.length() != t.length()) return false;
-    HashMap<Character, Character> map = new HashMap<>();
-    HashSet<Character> set = new HashSet<>();
+    final HashMap<Character, Character> map = new HashMap<>();
+    final HashSet<Character> set = new HashSet<>();
     for (int i = 0; i < s.length(); i++) {
-      char c1 = s.charAt(i);
-      char c2 = t.charAt(i);
+      final char c1 = s.charAt(i);
+      final char c2 = t.charAt(i);
       if (map.containsKey(c1)) {
         if (map.get(c1) != c2) return false;
       } else {

@@ -2,7 +2,8 @@
  * The HelpAlex class provides a method to determine the feedback message for Alex based on the
  * number of hoops.
  */
-public class HelpAlex {
+public enum HelpAlex {
+  ;
 
   /**
    * This method returns a feedback message for Alex based on the number of hoops.
@@ -12,8 +13,8 @@ public class HelpAlex {
    *     move on to tricks. If the number of hoops is less than 10, the message encourages Alex to
    *     keep trying.
    */
-  public static String hoopCount(int n) {
-    if (n >= 10) {
+  public static String hoopCount(final int n) {
+    if (10 <= n) {
       return "Great, now move on to tricks";
     } else {
       return "Keep at it until you get it";

@@ -2,13 +2,13 @@ import java.util.Scanner;
 
 public class Solution {
 
-  public static void main(String[] args) {
-    Scanner scan = new Scanner(System.in);
-    int i = scan.nextInt();
-    double d = scan.nextDouble();
+  public static void main(final String[] args) {
+    final Scanner scan = new Scanner(System.in, java.nio.charset.StandardCharsets.UTF_8);
+    final int i = scan.nextInt();
+    final double d = scan.nextDouble();
     // Consume the newline character
     scan.nextLine();
-    String s = scan.nextLine();
+    final String s = scan.nextLine();
     scan.close();
 
     System.out.println("String: " + s);

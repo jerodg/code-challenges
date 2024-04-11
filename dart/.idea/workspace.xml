@@ -5,17 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add dart&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/950.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/950.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/950.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/950.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/950.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/402.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/402.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/402.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/402.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/402.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

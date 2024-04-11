@@ -1,14 +1,14 @@
 class Solution {
-  public String makeGood(String s) {
-    Stack<Character> stack = new Stack<>();
-    for (char c : s.toCharArray()) {
-      if (!stack.isEmpty() && Math.abs(stack.peek() - c) == 32) {
+  public String makeGood(final String s) {
+    final Stack<Character> stack = new Stack<>();
+    for (final char c : s.toCharArray()) {
+      if (!stack.isEmpty() && 32 == Math.abs(stack.peek() - c)) {
         stack.pop();
       } else {
         stack.push(c);
       }
     }
-    StringBuilder sb = new StringBuilder();
+    final StringBuilder sb = new StringBuilder();
     while (!stack.isEmpty()) {
       sb.append(stack.pop());
     }

@@ -10,9 +10,7 @@
     <option name="reloaded" value="true" />
   </component>
   <component name="CMakeRunConfigurationManager">
-    <generated>
-      <config projectName="cpp" targetName="c__" />
-    </generated>
+    <generated />
   </component>
   <component name="CMakeSettings">
     <configurations>
@@ -21,28 +19,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/950.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/950.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/950.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/950.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/950.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/950.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/950.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/950.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/950.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/950.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/leet_code/src/950.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/950.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/950.swift" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/950.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/402.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/402.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/402.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/402.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/402.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/402.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,11 +37,25 @@
   </component>
   <component name="ClangdSettings">
     <option name="completeInNamespacesByDefault" value="true" />
+    <option name="indexerShowProgress" value="true" />
+    <option name="indexerStaticOnly" value="false" />
   </component>
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jerodg&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:jerodg/code-challenges.git&quot;,
+    &quot;accountId&quot;: &quot;ec403144-7b51-4507-987e-16c0880be75d&quot;
+  }
+}</component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2023" />
@@ -95,18 +95,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="c__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="c__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="c__">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SwiftWorkspaceSettings">
     <option name="detectedToolchain" value="true" />
@@ -143,6 +131,11 @@
       <workItem from="1712755392858" duration="362000" />
       <workItem from="1712755956428" duration="50000" />
       <workItem from="1712757575263" duration="2619000" />
+      <workItem from="1712845629726" duration="274000" />
+      <workItem from="1712846287055" duration="643000" />
+      <workItem from="1712847126796" duration="451000" />
+      <workItem from="1712847601514" duration="530000" />
+      <workItem from="1712848896232" duration="474000" />
     </task>
     <task id="LOCAL-00001" summary="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files">
       <option name="closed" value="true" />

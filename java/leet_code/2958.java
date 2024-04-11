@@ -1,15 +1,15 @@
 import java.util.HashMap;
 
 class Solution {
-  public int maxSubarrayLength(int[] nums, int k) {
+  public int maxSubarrayLength(final int[] nums, final int k) {
     int left = 0;
-    HashMap<Integer, Integer> counter = new HashMap<>();
+    final HashMap<Integer, Integer> counter = new HashMap<>();
     int max_length = 0;
     for (int right = 0; right < nums.length; right++) {
       counter.put(nums[right], counter.getOrDefault(nums[right], 0) + 1);
       while (counter.get(nums[right]) > k) {
         counter.put(nums[left], counter.get(nums[left]) - 1);
-        if (counter.get(nums[left]) == 0) {
+        if (0 == counter.get(nums[left])) {
           counter.remove(nums[left]);
         }
         left++;
