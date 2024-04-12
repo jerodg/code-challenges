@@ -1,50 +1,52 @@
+/** The `Solution` object contains methods to solve the trapping rain water problem.
+  */
 object Solution {
-  def dfs(
-      board: Array[Array[Char]],
-      word: String,
-      i: Int,
-      j: Int,
-      k: Int
-  ): Boolean = {
-    if (k == word.length) return true
-    if (
-      i < 0 || i >= board.length || j < 0 || j >= board(0).length || board(i)(
-        j
-      ) != word(k)
-    ) return false
-    val tmp = board(i)(j)
-    board(i)(j) = ' '
-    val res = dfs(board, word, i - 1, j, k + 1) || dfs(
-      board,
-      word,
-      i + 1,
-      j,
-      k + 1
-    ) || dfs(board, word, i, j - 1, k + 1) || dfs(board, word, i, j + 1, k + 1)
-    board(i)(j) = tmp
-    res
-  }
 
-  def exist(board: Array[Array[Char]], word: String): Boolean = {
-    val m = board.length
-    val n = board(0).length
-    val visited = Array.fill(m, n)(false)
-    def dfs(i: Int, j: Int, k: Int): Boolean = {
-      if (k == word.length) return true
-      if (
-        i < 0 || i >= m || j < 0 || j >= n || visited(i)(j) || board(i)(
-          j
-        ) != word(k)
-      ) return false
-      visited(i)(j) = true
-      val res = dfs(i - 1, j, k + 1) || dfs(i + 1, j, k + 1) || dfs(
-        i,
-        j - 1,
-        k + 1
-      ) || dfs(i, j + 1, k + 1)
-      visited(i)(j) = false
-      res
+  /** This method calculates the total amount of water that can be trapped between the bars.
+    *
+    * @param height An array of integers where each integer represents the height of a bar.
+    * @return The total amount of water that can be trapped.
+    */
+  def trap(height: Array[Int]): Int = {
+    // If the height array is empty, return 0
+    if (height.isEmpty) 0
+    else {
+      var left = 0
+      var right = height.length - 1
+      var leftMax = height(left)
+      var rightMax = height(right)
+      var trappedWater = 0
+
+      // Iterate until the left pointer is less than the right pointer
+      while (left < right) {
+        // If the height of the bar on the left is less than the height of the bar on the right
+        if (height(left) < height(right)) {
+          // If the height of the bar on the left is greater than or equal to the maximum height on the left
+          if (height(left) >= leftMax) {
+            // Update the maximum height on the left
+            leftMax = height(left)
+          } else {
+            // Add the difference between the maximum height on the left and the height of the bar on the left to the trappedWater
+            trappedWater += leftMax - height(left)
+          }
+          // Move the left pointer to the right
+          left += 1
+        } else {
+          // If the height of the bar on the right is greater than or equal to the maximum height on the right
+          if (height(right) >= rightMax) {
+            // Update the maximum height on the right
+            rightMax = height(right)
+          } else {
+            // Add the difference between the maximum height on the right and the height of the bar on the right to the trappedWater
+            trappedWater += rightMax - height(right)
+          }
+          // Move the right pointer to the left
+          right -= 1
+        }
+      }
+
+      // Return the trappedWater
+      trappedWater
     }
-    (0 until m).exists(i => (0 until n).exists(j => dfs(i, j, 0)))
   }
 }

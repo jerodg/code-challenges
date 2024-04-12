@@ -1,17 +1,17 @@
-'use strict';
+"use strict";
 
 process.stdin.resume();
-process.stdin.setEncoding('utf-8');
+process.stdin.setEncoding("utf-8");
 
-let inputString = '';
+let inputString = "";
 let currentLine = 0;
 
-process.stdin.on('data', inputStdin => {
+process.stdin.on("data", inputStdin => {
     inputString += inputStdin;
 });
 
-process.stdin.on('end', _ => {
-    inputString = inputString.trim().split('\n').map(string => {
+process.stdin.on("end", _ => {
+    inputString = inputString.trim().split("\n").map(string => {
         return string.trim();
     });
 
@@ -30,25 +30,25 @@ function getDayName(dateString) {
     const day = date.getDay();
     switch (day) {
         case 0:
-            dayName = 'Sunday';
+            dayName = "Sunday";
             break;
         case 1:
-            dayName = 'Monday';
+            dayName = "Monday";
             break;
         case 2:
-            dayName = 'Tuesday';
+            dayName = "Tuesday";
             break;
         case 3:
-            dayName = 'Wednesday';
+            dayName = "Wednesday";
             break;
         case 4:
-            dayName = 'Thursday';
+            dayName = "Thursday";
             break;
         case 5:
-            dayName = 'Friday';
+            dayName = "Friday";
             break;
         case 6:
-            dayName = 'Saturday';
+            dayName = "Saturday";
             break;
     }
     return dayName;

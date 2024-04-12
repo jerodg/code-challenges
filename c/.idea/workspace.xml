@@ -19,11 +19,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): hackerrank&#10;&#10;+ conditionals_and_loops">
-      <change afterPath="$PROJECT_DIR$/leet_code/402.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/402.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/402.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/42.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/42.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/42.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/42.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/42.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/leet_code/79.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/79.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -138,6 +141,7 @@
       <workItem from="1712845481180" duration="165000" />
       <workItem from="1712846271883" duration="591000" />
       <workItem from="1712847129682" duration="972000" />
+      <workItem from="1712938837152" duration="116000" />
     </task>
     <task id="LOCAL-00001" summary="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
       <option name="closed" value="true" />
