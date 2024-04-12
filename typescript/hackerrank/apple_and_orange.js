@@ -1,4 +1,3 @@
-"use strict";
 process.stdin.resume();
 process.stdin.setEncoding("utf-8");
 var inputString = "";
@@ -15,20 +14,24 @@ process.stdin.on("end", function () {
 function readLine() {
     return inputLines[currentLine++];
 }
-/*
- * Complete the 'countApplesAndOranges' function below.
- *
- * The function accepts following parameters:
- *  1. INTEGER s
- *  2. INTEGER t
- *  3. INTEGER a
- *  4. INTEGER b
- *  5. INTEGER_ARRAY apples
- *  6. INTEGER_ARRAY oranges
+/**
+ * @fileoverview This module contains a solution for the "Apple and Orange" problem from HackerRank.
+ * The problem is solved by calculating the positions of the apples and oranges and checking if they fall within the house's
+ *     location.
+ */
+/**
+ * Function to count the number of apples and oranges that fall on Sam's house.
+ * @param {number} s - The start point of Sam's house.
+ * @param {number} t - The end point of Sam's house.
+ * @param {number} a - The location of the apple tree.
+ * @param {number} b - The location of the orange tree.
+ * @param {number[]} apples - The distances at which each apple falls from the tree.
+ * @param {number[]} oranges - The distances at which each orange falls from the tree.
  */
 function countApplesAndOranges(s, t, a, b, apples, oranges) {
     var appleCount = 0;
     var orangeCount = 0;
+    // Calculate the position of each apple and check if it falls on the house
     for (var i = 0; i < apples.length; i++) {
         var apple = apples[i];
         var applePosition = a + apple;
@@ -36,6 +39,7 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
             appleCount++;
         }
     }
+    // Calculate the position of each orange and check if it falls on the house
     for (var i = 0; i < oranges.length; i++) {
         var orange = oranges[i];
         var orangePosition = b + orange;
@@ -43,6 +47,7 @@ function countApplesAndOranges(s, t, a, b, apples, oranges) {
             orangeCount++;
         }
     }
+    // Print the number of apples and oranges that fall on the house
     console.log(appleCount);
     console.log(orangeCount);
 }

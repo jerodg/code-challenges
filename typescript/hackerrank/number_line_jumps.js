@@ -1,6 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var fs_1 = require("fs");
+/**
+ * @fileoverview This module contains a solution for the "Number Line Jumps" problem from HackerRank.
+ * The problem is solved by checking if the kangaroos meet on a jump.
+ */
 process.stdin.resume();
 process.stdin.setEncoding("utf-8");
 var inputString = "";
@@ -14,27 +18,31 @@ process.stdin.on("end", function () {
     inputString = "";
     main();
 });
+/**
+ * Reads a line from the input.
+ * @return {string} The next line from the input.
+ */
 function readLine() {
     return inputLines[currentLine++];
 }
-/*
- * Complete the 'kangaroo' function below.
- *
- * The function is expected to return a STRING.
- * The function accepts following parameters:
- *  1. INTEGER x1
- *  2. INTEGER v1
- *  3. INTEGER x2
- *  4. INTEGER v2
+/**
+ * Determines if the two kangaroos meet on a jump.
+ * @param {number} x1 - The starting position of the first kangaroo.
+ * @param {number} v1 - The jump distance of the first kangaroo.
+ * @param {number} x2 - The starting position of the second kangaroo.
+ * @param {number} v2 - The jump distance of the second kangaroo.
+ * @return {string} "YES" if the kangaroos meet on a jump, "NO" otherwise.
  */
 function kangaroo(x1, v1, x2, v2) {
-    if (v1 > v2) {
-        if ((x2 - x1) % (v1 - v2) === 0) {
-            return "YES";
-        }
+    // If the first kangaroo jumps farther and the difference in starting positions is divisible by the difference in jump distances
+    if (v1 > v2 && (x2 - x1) % (v1 - v2) === 0) {
+        return "YES";
     }
     return "NO";
 }
+/**
+ * Main function that reads the input and writes the output.
+ */
 function main() {
     var ws = (0, fs_1.createWriteStream)(process.env["OUTPUT_PATH"]);
     var firstMultipleInput = readLine().replace(/\s+$/g, "").split(" ");

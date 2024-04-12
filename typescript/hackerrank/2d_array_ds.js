@@ -1,6 +1,10 @@
 "use strict";
 Object.defineProperty(exports, "__esModule", { value: true });
 var fs_1 = require("fs");
+/**
+ * @fileoverview This module contains a solution for the "2D Array - DS" problem from HackerRank.
+ * The problem is solved using a nested loop to iterate over the 2D array.
+ */
 process.stdin.resume();
 process.stdin.setEncoding("utf-8");
 var inputString = "";
@@ -17,20 +21,24 @@ process.stdin.on("end", function () {
 function readLine() {
     return inputLines[currentLine++];
 }
-/*
- * Complete the 'hourglassSum' function below.
- *
- * The function is expected to return an INTEGER.
- * The function accepts 2D_INTEGER_ARRAY arr as parameter.
+/**
+ * Function to calculate the maximum hourglass sum in a 2D array.
+ * @param {number[][]} arr - The 2D array.
+ * @return {number} The maximum hourglass sum.
  */
 function hourglassSum(arr) {
     var maxSum = -63;
+    // Iterate over the rows of the array
     for (var i = 0; i < 4; i++) {
+        // Iterate over the columns of the array
         for (var j = 0; j < 4; j++) {
+            // Calculate the sum of the current hourglass
             var sum = arr[i][j] + arr[i][j + 1] + arr[i][j + 2] + arr[i + 1][j + 1] + arr[i + 2][j] + arr[i + 2][j + 1] + arr[i + 2][j + 2];
+            // Update the maximum sum if the current sum is greater
             maxSum = Math.max(maxSum, sum);
         }
     }
+    // Return the maximum hourglass sum
     return maxSum;
 }
 function main() {

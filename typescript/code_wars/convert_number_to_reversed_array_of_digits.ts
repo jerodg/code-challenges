@@ -1,3 +1,12 @@
+/**
+ * @fileoverview This module contains a function that converts a number to a reversed array of its digits.
+ */
+
+/**
+ * Function to convert a number to a reversed array of its digits.
+ * @param {number} n - The number to be converted.
+ * @return {number[]} The reversed array of digits.
+ */
 export const digitize = (n: number): number[] => {
     // Convert the number to a string
     let numStr: string = n.toString();
@@ -11,5 +20,6 @@ export const digitize = (n: number): number[] => {
         digitList.push(parseInt(numStr[i]));
     }
 
+    // Return the reversed array of digits
     return digitList;
 };
