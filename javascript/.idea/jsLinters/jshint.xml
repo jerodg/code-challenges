@@ -2,7 +2,7 @@
 <project version="4">
   <component name="JSHintConfiguration" version="2.13.6" use-config-file="false">
     <option asi="false" />
-    <option bitwise="true" />
+    <option bitwise="false" />
     <option boss="false" />
     <option browser="true" />
     <option browserify="true" />
@@ -13,12 +13,13 @@
     <option devel="true" />
     <option dojo="true" />
     <option elision="true" />
-    <option enforceall="true" />
+    <option enforceall="false" />
     <option eqeqeq="true" />
     <option eqnull="false" />
     <option es3="false" />
     <option es5="false" />
-    <option esnext="true" />
+    <option esnext="false" />
+    <option esversion="2023" />
     <option evil="false" />
     <option expr="false" />
     <option forin="true" />
@@ -34,11 +35,12 @@
     <option lastsemic="false" />
     <option latedef="false" />
     <option laxbreak="false" />
-    <option laxcomma="false" />
+    <option laxcomma="true" />
     <option loopfunc="false" />
     <option maxerr="50" />
+    <option maxlen="132" />
     <option mocha="true" />
-    <option module="true" />
+    <option module="false" />
     <option mootools="true" />
     <option moz="false" />
     <option multistr="false" />
@@ -76,7 +78,7 @@
     <option unused="false" />
     <option validthis="false" />
     <option varstmt="true" />
-    <option white="false" />
+    <option white="true" />
     <option withstmt="false" />
     <option worker="true" />
     <option wsh="true" />

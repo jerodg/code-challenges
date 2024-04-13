@@ -1,15 +1,15 @@
-"use strict";
-
 process.stdin.resume();
 process.stdin.setEncoding("utf-8");
 
 let inputString = "";
 let currentLine = 0;
 
+// Event listener for data input
 process.stdin.on("data", inputStdin => {
     inputString += inputStdin;
 });
 
+// Event listener for end of data input
 process.stdin.on("end", _ => {
     inputString = inputString.trim().split("\n").map(string => {
         return string.trim();
@@ -18,16 +18,27 @@ process.stdin.on("end", _ => {
     main();
 });
 
+/**
+ * Function to read a line of input
+ *
+ * @returns {string} - A line of input
+ */
 function readLine() {
     return inputString[currentLine++];
 }
 
-// The days of the week are: "Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"
+/**
+ * Function to get the day of the week for a given date
+ *
+ * @param {string} dateString - The date in string format.
+ * @returns {string} - The day of the week.
+ */
 function getDayName(dateString) {
     let dayName;
-    // Write your code here
     const date = new Date(dateString);
     const day = date.getDay();
+
+    // Determine the day of the week based on the day number
     switch (day) {
         case 0:
             dayName = "Sunday";
@@ -54,10 +65,13 @@ function getDayName(dateString) {
     return dayName;
 }
 
-
+/**
+ * The main function to execute the program
+ */
 function main() {
-    const d = +(readLine());
+    const d = +readLine();
 
+    // Loop through the number of dates to be processed
     for (let i = 0; i < d; i++) {
         const date = readLine();
 

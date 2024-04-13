@@ -19,15 +19,55 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/42.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/42.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/42.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/42.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/42.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/42.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/85.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/85.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/85.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/79.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/79.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/.idea/jsLinters/jshint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/.idea/jsLinters/jshint.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/code_wars/convert_number_to_reversed_array_of_digits.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/code_wars/convert_number_to_reversed_array_of_digits.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/code_wars/keep_up_the_hoop.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/code_wars/keep_up_the_hoop.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arithmetic_operators.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arithmetic_operators.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arrays.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arrays.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arrow_functions.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arrow_functions.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_binary_calculator/js/binaryCalculator.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_binary_calculator/js/binaryCalculator.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_bitwise_operations.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_bitwise_operations.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_classes.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_classes.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_conditional_statements_if_else.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_conditional_statements_if_else.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_conditional_statements_switch.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_conditional_statements_switch.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_count_objects.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_count_objects.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_create_a_button/js/button.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_create_a_button/js/button.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_create_a_rectangle_object.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_create_a_rectangle_object.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_dates.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_dates.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_functions.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_functions.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_inheritance.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_inheritance.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_let_and_const.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_let_and_const.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_loops.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_loops.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_I.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_I.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_II.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_II.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_III.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_III.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_template_literals.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_template_literals.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_throw.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_throw.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_try_catch_finally.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_try_catch_finally.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/2d_array_ds.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/2d_array_ds.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/apple_and_orange.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/apple_and_orange.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/dynamic_array.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/dynamic_array.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/number_line_jumps.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/number_line_jumps.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/1249.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/1249.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/205.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/205.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/26.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/26.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/27.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/27.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/402.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/402.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/678.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/678.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/79.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/79.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/88.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/88.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/950.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/950.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../swift/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swift/.idea/vcs.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,29 +111,37 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240404_0006&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JerryG/Documents/Code-Projects/code-challenges/cpp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.advertisement.text.overridden": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.cloudcode.ide_session_index": "20240404_0006",
+    "git-widget-placeholder": "trunk",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/JerryG/Documents/Code-Projects/code-challenges/cpp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
+  <component name="RunManager">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+      </method>
+    </configuration>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SwiftWorkspaceSettings">
     <option name="detectedToolchain" value="true" />
@@ -136,6 +184,7 @@
       <workItem from="1712847601514" duration="530000" />
       <workItem from="1712848896232" duration="474000" />
       <workItem from="1712938961015" duration="135000" />
+      <workItem from="1713020255759" duration="341000" />
     </task>
     <task id="LOCAL-00001" summary="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files">
       <option name="closed" value="true" />

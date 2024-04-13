@@ -21,9 +21,9 @@ let deckRevealedIncreasing = function (deck) {
     let response = [];
 
     // While the input array is not empty:
-    while (deck.length > 0) {
+    while (0 < deck.length) {
         // If the response array has more than one element, move the last element to the front.
-        if (response.length > 1) {
+        if (1 < response.length) {
             response.unshift(response.pop());
         }
         // Add the first element of the input array to the front of the response array.
