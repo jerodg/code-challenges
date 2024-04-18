@@ -321,7 +321,6 @@
     <inspection_tool class="FunctionWithInconsistentReturnsJS" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="FunctionWithMultipleLoopsJS" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="FunctionWithMultipleReturnPointsJS" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="GroovySynchronizedMethod" enabled="false" level="WARNING" enabled_by_default="false" />
     <inspection_tool class="Guava" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="HardCodedStringLiteral" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="ignoreForAssertStatements" value="true" />
@@ -740,7 +739,6 @@
     <inspection_tool class="SimplifiableAnnotation" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="SimplifiableEqualsExpression" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="SingleCharacterStartsWith" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="SingleClassImport" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="Singleton" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="SleepWhileHoldingLock" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="SocketResource" enabled="true" level="WARNING" enabled_by_default="true">
