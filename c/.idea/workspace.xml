@@ -21,17 +21,54 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): hackerrank&#10;&#10;+ conditionals_and_loops">
-      <change afterPath="$PROJECT_DIR$/leet_code/988.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/988.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/988.swift" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/463.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/463.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/leet_code/src/463.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../swift/leet_code/463.swift" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/functions_students_marks_sums.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/functions_students_marks_sums.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.c" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/keep_up_the_hoop.c" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/keep_up_the_hoop.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/arrays_and_strings_digit_frequency.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/arrays_and_strings_digit_frequency.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/arrays_and_strings_dynamic_array.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/arrays_and_strings_dynamic_array.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_bitwise_operators.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_bitwise_operators.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_conditional_statements.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_conditional_statements.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_for_loop.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_for_loop.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_printing_pattern_using_loops.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_printing_pattern_using_loops.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_sum_of_digits_of_a_five_digit_number.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/conditionals_and_loops_sum_of_digits_of_a_five_digit_number.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/functions_calculate_the_nth_term.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/functions_calculate_the_nth_term.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/functions_permutations_of_strings.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/functions_permutations_of_strings.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/functions_querying_the_document.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/functions_querying_the_document.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/functions_sorting_array_of_strings.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/functions_sorting_array_of_strings.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/functions_variadic.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/functions_variadic.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/introduction_functions.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/introduction_functions.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/introduction_hello_world.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/introduction_hello_world.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/introduction_playing_with_characters.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/introduction_playing_with_characters.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/introduction_pointers.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/introduction_pointers.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/introduction_sum_and_difference_of_two_numbers.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/introduction_sum_and_difference_of_two_numbers.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/structs_and_enums_post_transition.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/structs_and_enums_post_transition.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/structs_and_enums_small_triangles_large_triangles.c" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/structs_and_enums_small_triangles_large_triangles.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1249.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1249.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1544.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1544.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1614.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1614.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1700.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1700.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/205.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/205.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/2073.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2073.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/26.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/26.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/27.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/27.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/2958.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2958.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/402.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/402.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/42.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/42.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/678.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/678.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/79.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/79.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/85.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/85.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/88.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/88.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/950.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/950.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/988.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/988.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swift/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swift/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/Cargo.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,7 +128,7 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "trunk",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/home/jerryg/Projects/code-challenges/swift",
+    "last_opened_file_path": "F:/projects/code-challenges/cpp",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -111,10 +148,46 @@
   <component name="QodanaSettings">
     <option name="autoLoadCloudReport" value="true" />
   </component>
+  <component name="RdControllerToolWindowsLayoutState" isNewUi="true">
+    <layout>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Commit_Guest" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info id="DFA" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14898989" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Packages" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Vcpkg" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Find" />
+      <window_info anchor="bottom" id="clangd" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info active="true" anchor="bottom" id="Problems View" order="2" visible="true" weight="0.32980865" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="CMake" order="5" />
+      <window_info anchor="right" id="make" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Python Console" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.25" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Meson" order="5" />
+    </layout>
+  </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
     <configuration name="c" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c" TARGET_NAME="c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c" RUN_TARGET_NAME="c">
@@ -167,6 +240,9 @@
       <workItem from="1713378957458" duration="593000" />
       <workItem from="1713391946078" duration="732000" />
       <workItem from="1713392699885" duration="1527000" />
+      <workItem from="1713471114239" duration="27000" />
+      <workItem from="1713471166399" duration="233000" />
+      <workItem from="1713486506871" duration="945000" />
     </task>
     <task id="LOCAL-00001" summary="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
       <option name="closed" value="true" />

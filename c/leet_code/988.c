@@ -1,4 +1,4 @@
-void reverseInPlace(char* s, int len) {
+void reverseInPlace(char *s, int len) {
     int i = 0, j = len - 1;
     while (i < j) {
         char temp = s[i];
@@ -9,11 +9,11 @@ void reverseInPlace(char* s, int len) {
     }
 }
 
-void Finder(struct TreeNode* root, char* path, int depth, char** smallest) {
+void Finder(struct TreeNode *root, char *path, int depth, char **smallest) {
     if (root == NULL) {
         return;
     }
-    path[depth] = root->val+ 'a';
+    path[depth] = root->val + 'a';
 
     if (!root->left && !root->right) {
         path[depth + 1] = '\0';
@@ -30,8 +30,8 @@ void Finder(struct TreeNode* root, char* path, int depth, char** smallest) {
     Finder(root->right, path, depth + 1, smallest);
 }
 
-char* smallestFromLeaf(struct TreeNode* root) {
-    char* smallest = NULL;
+char *smallestFromLeaf(struct TreeNode *root) {
+    char *smallest = NULL;
     char path[1000];
 
     Finder(root, path, 0, &smallest);

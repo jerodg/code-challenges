@@ -1,4 +1,5 @@
 #include <stdlib.h>
+
 /**
  * Function to calculate the maximal rectangle in a matrix.
  * The matrix is represented as a 2D array of characters where '1' represents a filled cell and '0' represents an empty cell.
@@ -9,16 +10,16 @@
  * @param colSize: A pointer to the number of columns in the matrix.
  * @return The area of the maximal rectangle.
  */
-int maximalRectangle(char** matrix, int rowSize, int* colSize) {
+int maximalRectangle(char **matrix, int rowSize, int *colSize) {
     // If the matrix is empty, return 0
     if (rowSize == 0 || *colSize == 0) {
         return 0;
     }
 
     // Allocate memory for height, left, and right arrays
-    int* height = (int*)malloc(sizeof(int) * (*colSize));
-    int* left = (int*)malloc(sizeof(int) * (*colSize));
-    int* right = (int*)malloc(sizeof(int) * (*colSize));
+    int *height = (int *) malloc(sizeof(int) * (*colSize));
+    int *left = (int *) malloc(sizeof(int) * (*colSize));
+    int *right = (int *) malloc(sizeof(int) * (*colSize));
     int count = 0;
 
     // Initialize height, left, and right arrays
