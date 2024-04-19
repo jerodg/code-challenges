@@ -5,27 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add dart&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/code_wars/bin_to_decimal.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/clock.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/convert_boolean_to_string.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/convert_string_to_number.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/count_the_digit.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/even_or_odd.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/grade_book.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/hello_world.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/hex_to_decimal.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/is_it_a_palindrome.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/keep_hydrated.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/make_upper_case.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/opposite_number.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/return_negative.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/simple_multiplication.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/string_repeat.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/sum_of_odd_numbers.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/code_wars/you_cant_code_under_pressure_1.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dart.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/200.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/200.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/200.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/200.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/go.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,12 +47,12 @@
     &quot;assignee&quot;: &quot;jerodg&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:jerodg/code-challenges.git&quot;,
-    &quot;accountId&quot;: &quot;c8f60be3-c260-4dfa-b0fb-7ff5f0c39734&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:jerodg/code-challenges.git",
+    "accountId": "bc4c829b-14c6-45f7-ba23-05d63f58ad08"
   }
-}</component>
+}]]></component>
   <component name="GoVcsConfiguration">
     <option name="GO_FMT" value="false" />
   </component>
@@ -75,32 +70,32 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ACTIVE_CLOUD_PROJECT_ACCOUNT&quot;: &quot;jerry.gawayne@gmail.com&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_ID&quot;: &quot;gen-lang-client-0404274542&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_NAME&quot;: &quot;Generative Language Client&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_NUMBER&quot;: &quot;897483491935&quot;,
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240404_0004&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JerryG/Documents/Code-Projects/code-challenges/dart&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "jerry.gawayne@gmail.com",
+    "ACTIVE_CLOUD_PROJECT_ID": "gen-lang-client-0404274542",
+    "ACTIVE_CLOUD_PROJECT_NAME": "Generative Language Client",
+    "ACTIVE_CLOUD_PROJECT_NUMBER": "897483491935",
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "com.google.cloudcode.ide_session_index": "20240404_0004",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "trunk",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/projects/code-challenges/dart",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "dart.settings"
   }
-}</component>
+}]]></component>
   <component name="QodanaCloudProjectLink">
     <option name="lastReportId" value="we07q" />
     <option name="linkedProjectId" value="A6N62" />

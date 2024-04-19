@@ -5,56 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add solution&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../c/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/85.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/.idea/editor.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/85.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/85.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../swift/leet_code/85.swift" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/200.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/200.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/200.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/200.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/200.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/.idea/jsLinters/jshint.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/.idea/jsLinters/jshint.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/code_wars/convert_number_to_reversed_array_of_digits.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/code_wars/convert_number_to_reversed_array_of_digits.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/code_wars/keep_up_the_hoop.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/code_wars/keep_up_the_hoop.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arithmetic_operators.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arithmetic_operators.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arrays.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arrays.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arrow_functions.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_arrow_functions.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_binary_calculator/js/binaryCalculator.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_binary_calculator/js/binaryCalculator.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_bitwise_operations.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_bitwise_operations.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_classes.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_classes.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_conditional_statements_if_else.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_conditional_statements_if_else.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_conditional_statements_switch.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_conditional_statements_switch.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_count_objects.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_count_objects.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_create_a_button/js/button.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_create_a_button/js/button.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_create_a_rectangle_object.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_create_a_rectangle_object.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_dates.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_dates.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_functions.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_functions.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_inheritance.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_inheritance.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_let_and_const.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_let_and_const.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_loops.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_loops.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_I.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_I.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_II.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_II.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_III.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_regular_expressions_III.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_template_literals.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_template_literals.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_throw.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_throw.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_try_catch_finally.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/10_days_of_js_try_catch_finally.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/2d_array_ds.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/2d_array_ds.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/apple_and_orange.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/apple_and_orange.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/dynamic_array.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/dynamic_array.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/hackerrank/number_line_jumps.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/hackerrank/number_line_jumps.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/1249.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/1249.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/205.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/205.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/26.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/26.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/27.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/27.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/402.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/402.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/678.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/678.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/79.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/79.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/88.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/88.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/leet_code/950.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/leet_code/950.mjs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../swift/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../swift/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/go.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,10 +37,11 @@
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="false" />
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../Apps/Go" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../SDK/go" />
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -105,59 +72,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ACTIVE_CLOUD_PROJECT_ACCOUNT&quot;: &quot;jerry.gawayne@gmail.com&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_ID&quot;: &quot;gen-lang-client-0404274542&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_NAME&quot;: &quot;Generative Language Client&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_NUMBER&quot;: &quot;897483491935&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240404_0006&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/JerryG/Documents/Code-Projects/code-challenges/dart&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "jerry.gawayne@gmail.com",
+    "ACTIVE_CLOUD_PROJECT_ID": "gen-lang-client-0404274542",
+    "ACTIVE_CLOUD_PROJECT_NAME": "Generative Language Client",
+    "ACTIVE_CLOUD_PROJECT_NUMBER": "897483491935",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "com.google.cloudcode.ide_session_index": "20240404_0006",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "trunk",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "F:/projects/code-challenges/dart",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing",
+    "typescript.add.unambiguous.imports.on.the.fly": "true"
   }
-}</component>
-  <component name="QodanaCloudProjectLink">
-    <option name="lastReportId" value="we07q" />
-    <option name="linkedProjectId" value="A6N62" />
-    <option name="linkedProjectName" value="code-challenges" />
-    <option name="organizationId" value="AL5PL" />
-    <option name="userId" value="3BrDx" />
-  </component>
-  <component name="QodanaHighlightedReportService">
-    <option name="cloudReportPersistedInfo">
-      <CloudReportPersistedInfo>
-        <option name="projectId" value="A6N62" />
-        <option name="reportId" value="we07q" />
-      </CloudReportPersistedInfo>
-    </option>
-  </component>
-  <component name="QodanaIsSelectedPersistenceService">
-    <option name="selectedOrLoading" value="true" />
-  </component>
+}]]></component>
   <component name="RunManager">
+    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="FILE" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration name="go build 205.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go" />
       <working_directory value="$PROJECT_DIR$" />
       <kind value="FILE" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/leet_code/205.go" />
+      <method v="2" />
+    </configuration>
+    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
+      <module name="go" />
+      <working_directory value="$PROJECT_DIR$" />
+      <go_parameters value="-i" />
+      <kind value="DIRECTORY" />
+      <directory value="$PROJECT_DIR$" />
+      <filePath value="$PROJECT_DIR$" />
+      <framework value="gotest" />
       <method v="2" />
     </configuration>
     <recent_temporary>
