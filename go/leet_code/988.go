@@ -78,10 +78,8 @@ func travel(node *TreeNode, s string) {
 func smallestFromLeaf(root *TreeNode) string {
 	// Reset the result
 	result = ""
-
 	// Call the helper function to traverse the tree and find the smallest string
 	travel(root, "")
-
 	// Return the result
 	return result
 }
