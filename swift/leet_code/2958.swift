@@ -3,7 +3,7 @@ class Solution {
         var left = 0
         var counter = [Int: Int]()
         var max_length = 0
-        for right in 0..<nums.count {
+        for right in 0 ..< nums.count {
             counter[nums[right], default: 0] += 1
             while counter[nums[right], default: 0] > k {
                 counter[nums[left], default: 0] -= 1

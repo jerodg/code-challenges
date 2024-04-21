@@ -3,9 +3,7 @@ name = "code-challenges"
 version = "0.4.0"
 description = "Code Challenges"
 authors = [{ name = "JerodG", email = "2856163+jerodg@users.noreply.github.com" }]
-dependencies = [
-    "ruff-lsp>=0.0.53",
-]
+dependencies = []
 readme = "README.md"
 requires-python = ">= 3.12"
 
@@ -20,7 +18,7 @@ dev-dependencies = [
     "pytest-benchmark>=4.0.0",
     "pytest-cov>=4.1.0",
     "ruff>=0.3.1",
-    "ruff-lsp>=0.0.53",
+    "ruff-lsp>=0.0.53"
 ]
 
 [tool.hatch.metadata]

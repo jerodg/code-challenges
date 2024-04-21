@@ -17,8 +17,8 @@ class Solution {
         let cols = board[0].count
         var visited = Array(repeating: Array(repeating: false, count: cols), count: rows)
         let word = Array(word)
-        for i in 0..<rows {
-            for j in 0..<cols {
+        for i in 0 ..< rows {
+            for j in 0 ..< cols {
                 if dfs(board, i, j, word, 0, &visited) {
                     return true
                 }

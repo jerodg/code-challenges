@@ -1,4 +1,4 @@
-func digitize(_ num:Int) -> [Int] {
+func digitize(_ num: Int) -> [Int] {
     var number = num
     var digits: [Int] = []
 

@@ -29,13 +29,13 @@ struct Solution {
     @_optimize(speed)
     func smallestFromLeaf(_ root: TreeNode?, _ suffix: String = "") -> String {
         // If the root is nil, return an empty string
-        guard let root = root else { return "" }
+        guard let root else { return "" }
 
         // Convert the node value to a character and append the suffix
         let current = String(UnicodeScalar(UInt8(97 + root.val))) + suffix
 
         // If the node is a leaf, return the current string
-        if root.left == nil && root.right == nil {
+        if root.left == nil, root.right == nil {
             return current
         }
 
@@ -45,7 +45,7 @@ struct Solution {
 
         // Return the smallest string between the left and right children
         // If one of them is nil, return the other
-        if let left = left, let right = right {
+        if let left, let right {
             return left < right ? left : right
         } else if left == nil {
             return right ?? ""

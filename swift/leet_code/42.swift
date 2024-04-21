@@ -26,18 +26,18 @@ class Solution {
         var result = 0 // Resultant trapped water
 
         // Loop until the two pointers meet
-        while (lp < rp ) {
-            if (height[lp] <= height[rp]) {
-                if (height[lp] >= leftMax) {
+        while lp < rp {
+            if height[lp] <= height[rp] {
+                if height[lp] >= leftMax {
                     leftMax = height[lp] // Update the left maximum
-                }else {
+                } else {
                     result += leftMax - height[lp] // Calculate the trapped water
                 }
                 lp += 1 // Move the left pointer
-            }else {
-                if (height[rp] >= rightMax) {
+            } else {
+                if height[rp] >= rightMax {
                     rightMax = height[rp] // Update the right maximum
-                }else {
+                } else {
                     result += rightMax - height[rp] // Calculate the trapped water
                 }
                 rp -= 1 // Move the right pointer

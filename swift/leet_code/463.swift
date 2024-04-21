@@ -33,18 +33,18 @@ class Solution {
 
         var perimeter = 0
 
-        for i in 0..<rows {
-            for j in 0..<columns {
+        for i in 0 ..< rows {
+            for j in 0 ..< columns {
                 if grid[i][j] == 1 {
                     perimeter += 4
 
                     // Check the cell below
-                    if i < rows - 1 && grid[i+1][j] == 1 {
+                    if i < rows - 1, grid[i + 1][j] == 1 {
                         perimeter -= 2
                     }
 
                     // Check the cell to the right
-                    if j < columns - 1 && grid[i][j+1] == 1 {
+                    if j < columns - 1, grid[i][j + 1] == 1 {
                         perimeter -= 2
                     }
                 }

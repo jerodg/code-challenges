@@ -6,9 +6,9 @@ class Solution {
                 stack.append(c)
             } else {
                 let last = stack.last!
-                if last.isLowercase && last.uppercased() == String(c) {
+                if last.isLowercase, last.uppercased() == String(c) {
                     stack.removeLast()
-                } else if last.isUppercase && last.lowercased() == String(c) {
+                } else if last.isUppercase, last.lowercased() == String(c) {
                     stack.removeLast()
                 } else {
                     stack.append(c)

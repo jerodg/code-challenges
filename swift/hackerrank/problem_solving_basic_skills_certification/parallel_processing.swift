@@ -16,7 +16,7 @@ func minTime(files: [Int], numCores: Int, limit: Int) -> Int {
     var time = 0
     var cores = 0
     var i = 0
-    while cores < numCores && i < files.count {
+    while cores < numCores, i < files.count {
         if files[i] > limit {
             time += files[i] / limit + 1
             cores += 1
@@ -38,7 +38,7 @@ else { fatalError("Bad input") }
 
 var files = [Int]()
 
-for _ in 1...filesCount {
+for _ in 1 ... filesCount {
     guard let filesItem = Int((readLine()?.trimmingCharacters(in: .whitespacesAndNewlines))!)
     else { fatalError("Bad input") }
 

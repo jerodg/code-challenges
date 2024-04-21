@@ -5,8 +5,7 @@ class Solution {
         let count = tickets.count
 
         while tickets[k] != 0 {
-
-            for i in 0..<count {
+            for i in 0 ..< count {
                 if tickets[i] != 0 {
                     tickets[i] -= 1
                     result += 1

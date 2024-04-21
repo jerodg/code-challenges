@@ -18,8 +18,8 @@ class Solution {
         var heightAtColums = [Int: Int]()
 
         // Iterate over the matrix to calculate the height of '1's at each column
-        for row in 0..<matrix.count {
-            for column in 0..<matrix[row].count {
+        for row in 0 ..< matrix.count {
+            for column in 0 ..< matrix[row].count {
                 let height = matrix[row][column]
                 if height == "1" {
                     heightAtColums[column] = (heightAtColums[column] ?? 0) + 1
