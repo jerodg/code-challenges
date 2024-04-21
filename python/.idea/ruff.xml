@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="RuffConfigService">
-    <option name="globalRuffExecutablePath" value="c:\apps\python3.11\scripts\ruff.exe" />
-    <option name="projectRuffExecutablePath" value="C:\Users\JerryG\Documents\Code-Projects\code-challenges\python\.venv\Scripts\ruff.exe" />
+    <option name="globalRuffExecutablePath" value="D:\code-challenges\python\.venv\Scripts\ruff.exe" />
+    <option name="globalRuffLspExecutablePath" value="D:\code-challenges\python\.venv\Scripts\ruff-lsp.exe" />
+    <option name="projectRuffExecutablePath" value="D:\code-challenges\python\.venv\Scripts\ruff.exe" />
+    <option name="projectRuffLspExecutablePath" value="D:\code-challenges\python\.venv\Scripts\ruff-lsp.exe" />
+    <option name="runRuffOnSave" value="true" />
+    <option name="useRuffLsp" value="true" />
   </component>
 </project>

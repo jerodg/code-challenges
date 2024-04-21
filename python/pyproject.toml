@@ -4,6 +4,7 @@ version = "0.4.0"
 description = "Code Challenges"
 authors = [{ name = "JerodG", email = "2856163+jerodg@users.noreply.github.com" }]
 dependencies = [
+    "ruff-lsp>=0.0.53",
 ]
 readme = "README.md"
 requires-python = ">= 3.12"

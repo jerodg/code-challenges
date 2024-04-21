@@ -19,10 +19,6 @@ class Solution {
   /// print(count);  // Outputs: 3
   /// ```
   int numIslands(List<List<String>> grid) {
-    if (grid == null) {
-      throw ArgumentError('Grid must not be null');
-    }
-
     int count = 0;
     List<List<bool>> visited = List.generate(
         grid.length, (_) => List.generate(grid[0].length, (_) => false));

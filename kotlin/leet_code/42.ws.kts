@@ -1,11 +1,28 @@
 /**
- * Solution class for LeetCode problem 42: Trapping Rain Water.
+ * This Kotlin module provides a solution for the LeetCode problem 42: Trapping Rain Water.
+ * The solution calculates the total area of trapped rain water given the heights of bars.
+ *
+ * @module leet_code/42.ws.kts
+ */
+
+/**
+ * Solution class provides methods to calculate the total area of trapped rain water.
  */
 class Solution {
+
     /**
-     * Function to calculate the total area of trapped rain water.
-     * @param height an integer array representing the height of bars.
-     * @return totalArea the total area of trapped rain water.
+     * This function calculates the total area of trapped rain water given the heights of bars.
+     *
+     * @param height An integer array representing the height of bars.
+     * @return The total area of trapped rain water.
+     *
+     * @throws IllegalArgumentException If the input array is null.
+     *
+     * Example usage:
+     * val solution = Solution()
+     * val height = intArrayOf(0,1,0,2,1,0,1,3,2,1,2,1)
+     * val totalArea = solution.trap(height)
+     * // totalArea will be 6
      */
     fun trap(height: IntArray): Int {
         // Initialize total area of trapped rain water

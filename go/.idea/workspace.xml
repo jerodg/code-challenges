@@ -5,22 +5,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add solution&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/200.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/200.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/200.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/200.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/200.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1992.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/463.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/623.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/988.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/1992.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/463.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/623.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/1992.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/623.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/1992.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/200.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/463.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/623.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/988.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/kotlinc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/.idea/scala_compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1992.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/463.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/623.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dart/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/go.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/go.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/200.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/200.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/26.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/26.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/27.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/27.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/leet_code/1700.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/1700.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/leet_code/26.ws.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/leet_code/26.ws.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/leet_code/27.ws.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/leet_code/27.ws.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/leet_code/42.ws.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/leet_code/42.ws.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/leet_code/79.ws.kts" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/leet_code/79.ws.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/JetClient/state.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/git_toolbox_prj.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/rust.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/rust.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/Cargo.toml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/code_wars/src/convert_number_to_reversed_array_of_digits.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/code_wars/convert_number_to_reversed_array_of_digits.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/hackerrank/src/2d_array_ds.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/hackerrank/2d_array_ds.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/hackerrank/src/apple_and_orange.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/hackerrank/apple_and_orange.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/hackerrank/src/dynamic_array.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/hackerrank/dynamic_array.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/hackerrank/src/number_line_jumps.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/hackerrank/number_line_jumps.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/1249.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/1249.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/1544.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/1544.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/1614.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/1614.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/1700.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/1700.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/205.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/205.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/2073.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/2073.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/26.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/26.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/27.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/27.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/2958.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/2958.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/402.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/402.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/42.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/42.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/463.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1992.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/678.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/678.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/79.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/79.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/85.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/85.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/88.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/88.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/leet_code/src/950.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/950.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/leet_code/26.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/26.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../scala/leet_code/27.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/27.scala" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,7 +89,7 @@
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="false" />
   </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../SDK/go" />
+  <component name="GOROOT" url="file://C:/Program Files/Go" />
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -49,12 +101,15 @@
     &quot;assignee&quot;: &quot;jerodg&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:jerodg/code-challenges.git&quot;,
-    &quot;accountId&quot;: &quot;c8f60be3-c260-4dfa-b0fb-7ff5f0c39734&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:jerodg/code-challenges.git",
+    "accountId": "bc4c829b-14c6-45f7-ba23-05d63f58ad08"
   }
-}</component>
+}]]></component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
   <component name="GoVcsConfiguration">
     <option name="GO_FMT" value="false" />
   </component>
@@ -87,16 +142,17 @@
     "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
     "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
     "com.google.cloudcode.ide_session_index": "20240404_0006",
+    "configurable..is.expanded": "true",
     "dart.analysis.tool.window.visible": "false",
     "git-widget-placeholder": "trunk",
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "F:/projects/code-challenges/dart",
+    "last_opened_file_path": "C:/Users/JerryG/AppData/Local/flutter/bin",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "preferences.editor.code.editing",
+    "settings.editor.selected.configurable": "Errors",
     "typescript.add.unambiguous.imports.on.the.fly": "true"
   }
 }]]></component>
