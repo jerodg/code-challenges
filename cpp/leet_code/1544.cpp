@@ -1,8 +1,13 @@
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
+#include <stack>
+#include <string>
+
 class Solution {
 public:
-  string minRemoveToMakeValid(string s) {
+  std::string minRemoveToMakeValid(std::string s) {
     int len = s.length();
-    stack<int> stack;
+    std::stack<int> stack;
     for (int i = 0; i < len; i++) {
       if (s[i] == '(') {
         stack.push(i);
@@ -18,7 +23,7 @@ public:
       s[stack.top()] = '*';
       stack.pop();
     }
-    string result = "";
+    std::string result = "";
     for (int i = 0; i < len; i++) {
       if (s[i] != '*') {
         result.push_back(s[i]);

@@ -1,3 +1,5 @@
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
 #include <vector>  // Include for vector
 #include <stack>   // Include for stack
 #include <algorithm>  // Include for max function

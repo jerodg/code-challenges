@@ -5,7 +5,8 @@
  * This file contains the implementation of a TreeNode structure which represents a node in a binary tree and a Solution class
  * which provides methods to manipulate the binary tree.
  */
-
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
 #include <cstddef> // For nullptr
 
 /**

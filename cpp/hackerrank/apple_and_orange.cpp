@@ -1,3 +1,5 @@
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -23,9 +25,8 @@ vector<string> split(const string &);
 void countApplesAndOranges(int s, int t, int a, int b, vector<int> apples, vector<int> oranges) {
     cout << count_if(begin(apples), end(apples),
                      [=](const int &ad) { return a + ad >= s && a + ad <= t; }) << endl
-         << count_if(begin(oranges), end(oranges),
-                     [=](const int &od) { return b + od >= s && b + od <= t; }) << endl;
-
+            << count_if(begin(oranges), end(oranges),
+                        [=](const int &od) { return b + od >= s && b + od <= t; }) << endl;
 }
 
 int main() {
@@ -91,8 +92,8 @@ string ltrim(const string &str) {
     string s(str);
 
     s.erase(
-            s.begin(),
-            find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
+        s.begin(),
+        find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
     );
 
     return s;
@@ -102,8 +103,8 @@ string rtrim(const string &str) {
     string s(str);
 
     s.erase(
-            find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
-            s.end()
+        find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
+        s.end()
     );
 
     return s;

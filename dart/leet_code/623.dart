@@ -1,64 +1,73 @@
-/// Dart core library for fundamental classes.
-import 'dart:core';
-
-/// Module for adding a row of nodes at a given depth in a binary tree.
+/// Dart implementation of the LeetCode problem 623: Add One Row to Tree.
 ///
-/// This module provides a `Solution` class that can be used to add a row of nodes at a given depth in a binary tree.
-/// The original nodes at each depth d are moved to depth d+1.
-/// The new nodes are inserted between the original nodes and their parents.
-/// You may assume the tree's depth is at most d-1.
+/// This module contains a class `Solution` with a method `addOneRow`.
+/// The `addOneRow` method takes in three parameters:
+/// - `root`: A TreeNode object representing the root of the tree.
+/// - `val`: An integer representing the value to be added to the new row.
+/// - `depth`: An integer representing the depth at which the new row should be added.
+///
+/// The method returns a TreeNode object representing the root of the tree after adding the new row.
+///
+/// Error Handling:
+/// - This method assumes that the input parameters are well-formed, i.e., `root` is a TreeNode object, `val` is an integer, and `depth` is a positive integer.
+/// - If the input parameters are not well-formed, the behavior of the method is undefined.
 
 class TreeNode {
-  /// The value of the node.
   int val;
-
-  /// The left child of the node.
   TreeNode? left;
-
-  /// The right child of the node.
   TreeNode? right;
 
-  /// Constructs a new `TreeNode`.
+  /// Constructor for the TreeNode class.
   ///
   /// @param val The value of the node.
-  /// @param left The left child of the node. Defaults to null.
-  /// @param right The right child of the node. Defaults to null.
-  TreeNode(this.val, {this.left, this.right});
+  /// @param left The left child of the node.
+  /// @param right The right child of the node.
+  TreeNode([this.val = 0, this.left, this.right]);
 }
 
 class Solution {
-  /// Adds a row of nodes at a given depth in a binary tree.
+  /// Adds a new row to the tree at the specified depth.
   ///
-  /// This method uses a recursive approach to traverse the tree and add a row of nodes at the given depth.
+  /// The method uses a stack to perform a depth-first search (DFS) on the tree from the root node.
+  /// If the specified depth is reached, a new row is added to the tree.
   ///
   /// @param root The root of the tree.
-  /// @param val The value of the new nodes.
-  /// @param depth The depth at which to insert the new row of nodes.
-  /// @return The root of the tree after adding the new row of nodes.
-  ///
-  /// Example usage:
-  /// ```
-  /// var solution = Solution();
-  /// var newRoot = solution.addOneRow(root, 1, 2);
-  /// ```
+  /// @param val The value to be added to the new row.
+  /// @param depth The depth at which the new row should be added.
+  /// @return A TreeNode object representing the root of the tree after adding the new row.
   TreeNode? addOneRow(TreeNode? root, int val, int depth) {
-    // If root is null, return null
-    if (root == null) return root;
+    // If the specified depth is 1, add a new root to the tree.
+    if (depth == 1) return TreeNode(val, root, null);
 
-    // If depth is 1, create a new TreeNode with root as left child
-    if (depth == 1) return TreeNode(val, root);
+    int cur = 1;
+    List<TreeNode> stack = [root!];
 
-    // If depth is 2, add new nodes as children of root
-    if (depth == 2) {
-      root.left = TreeNode(val, root.left, null);
-      root.right = TreeNode(val, null, root.right);
-    } else {
-      // If depth is more than 2, recursively add a row of nodes at the given depth in the left and right subtrees
-      addOneRow(root.left, val, depth - 1);
-      addOneRow(root.right, val, depth - 1);
+    // Perform DFS on the tree until the specified depth is reached.
+    while (stack.isNotEmpty && cur < depth - 1) {
+      cur++;
+      final len = stack.length;
+      for (int i = 0; i < len; i++) {
+        var temp = stack.removeAt(0);
+
+        // If the current node has a left child, add it to the stack.
+        if (temp.left != null) stack.add(temp.left!);
+
+        // If the current node has a right child, add it to the stack.
+        if (temp.right != null) stack.add(temp.right!);
+      }
     }
 
-    // Return the root of the tree
+    // Add a new row to the tree at the specified depth.
+    final len = stack.length;
+    for (int i = 0; i < len; i++) {
+      var temp = stack.removeAt(0);
+      var l = temp.left;
+      var r = temp.right;
+      temp.left = TreeNode(val, l, null);
+      temp.right = TreeNode(val, null, r);
+    }
+
+    // Return the root of the tree after adding the new row.
     return root;
   }
 }

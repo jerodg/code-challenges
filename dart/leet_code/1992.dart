@@ -1,9 +1,20 @@
-// Dart core library for fundamental classes.
+/// Dart core library for fundamental classes.
 import 'dart:core';
 
-/// The `Solution` class provides a method to find all farmlands in a 2D grid map.
-/// A farmland is a group of '1's connected four-directionally (horizontal or vertical).
-/// You may assume all four edges of the grid are all surrounded by land.
+/// Dart implementation of the LeetCode problem 1992: Find All Groups of Farmland.
+///
+/// This module contains a class `Solution` with a method `findFarmland`.
+/// The `findFarmland` method takes in one parameter:
+/// - `land`: A 2D grid map of '1's (farmland) and '0's (non-farmland).
+///
+/// The method returns a list of farmlands. Each farmland is represented by a list of four integers [x1, y1, x2, y2],
+/// where (x1, y1) is the top-left corner of the farmland and (x2, y2) is the bottom-right corner.
+///
+/// Error Handling:
+/// - This method assumes that the input parameter is well-formed, i.e., `land` is a 2D grid map of '1's and '0's.
+/// - If the input parameter is not well-formed, the behavior of the method is undefined.
+/// - Throws an `ArgumentError` if the grid is null.
+
 class Solution {
   /// Finds all farmlands in a 2D grid map.
   ///
@@ -13,8 +24,6 @@ class Solution {
   /// @param land A 2D grid map of '1's (farmland) and '0's (non-farmland).
   /// @return A list of farmlands. Each farmland is represented by a list of four integers [x1, y1, x2, y2],
   /// where (x1, y1) is the top-left corner of the farmland and (x2, y2) is the bottom-right corner.
-  ///
-  /// Throws an `ArgumentError` if the grid is null.
   ///
   /// Example usage:
   /// ```

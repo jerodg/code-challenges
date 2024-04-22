@@ -1,14 +1,24 @@
-// Importing dart:math library to use the max function.
+/// Dart implementation of the LeetCode problem 85: Maximal Rectangle.
+///
+/// This module contains a class `Solution` with a method `maximalRectangle`.
+/// The `maximalRectangle` method takes in one parameter:
+/// - `matrix`: A 2D list of strings representing the binary matrix.
+///
+/// The method returns an integer representing the area of the maximal rectangle in the binary matrix.
+///
+/// Error Handling:
+/// - This method assumes that the input parameter is well-formed, i.e., `matrix` is a 2D list of strings.
+/// - If the input parameter is not well-formed, the behavior of the method is undefined.
+
 import 'dart:math';
 
-/// This class provides a solution for finding the maximal rectangle in a binary matrix.
 class Solution {
-  /// This function finds the maximal rectangle in a binary matrix.
+  /// Finds the maximal rectangle in a binary matrix.
   ///
-  /// The function uses dynamic programming to calculate the maximal width at each point in the matrix.
+  /// This method uses dynamic programming to calculate the maximal width at each point in the matrix.
   /// Then it calculates the maximal area using the calculated widths.
   ///
-  /// @param matrix The binary matrix represented as a list of lists of strings.
+  /// @param matrix The binary matrix.
   /// @return The area of the maximal rectangle.
   int maximalRectangle(List<List<String>> matrix) {
     // If the matrix is empty, return 0.

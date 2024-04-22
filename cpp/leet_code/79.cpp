@@ -1,6 +1,11 @@
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
+#include <string>
+#include <vector>
+
 class Solution {
 public:
-    bool dfs(vector <vector<char>> &board, int i, int j, string &word, int idx, vector <vector<bool>> &visited) {
+    bool dfs(std::vector <std::vector<char>> &board, int i, int j, std::string &word, int idx, std::vector <std::vector<bool>> &visited) {
         if (idx == word.size()) {
             return true;
         }
@@ -14,10 +19,10 @@ public:
         return ans;
     }
 
-    bool exist(vector <vector<char>> &board, string word) {
+    bool exist(std::vector <std::vector<char>> &board, std::string word) {
         int n = board.size();
         int m = board[0].size();
-        vector <vector<bool>> visited(n, vector<bool>(m, false));
+        std::vector <std::vector<bool>> visited(n, std::vector<bool>(m, false));
         for (int i = 0; i < n; ++i) {
             for (int j = 0; j < m; ++j) {
                 bool ans = dfs(board, i, j, word, 0, visited);

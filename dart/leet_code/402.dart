@@ -1,6 +1,18 @@
-/// The `Solution` class provides a method to remove k digits from a given number to form the smallest possible number.
+/// Dart implementation of the LeetCode problem 402: Remove K Digits.
+///
+/// This module contains a class `Solution` with a method `removeKdigits`.
+/// The `removeKdigits` method takes in two parameters:
+/// - `num`: A string representing the input number.
+/// - `k`: An integer representing the number of digits to remove.
+///
+/// The method returns a string representing the smallest possible number after removing `k` digits from the input number.
+///
+/// Error Handling:
+/// - This method assumes that the input parameters are well-formed, i.e., `num` is a string and `k` is an integer.
+/// - If the input parameters are not well-formed, the behavior of the method is undefined.
+
 class Solution {
-  /// Removes k digits from the input number to form the smallest possible number.
+  /// Removes `k` digits from the input number to form the smallest possible number.
   ///
   /// This method uses a stack to keep track of the digits. It iterates over each digit in the input number.
   /// If the current digit is less than the top of the stack, it pops the stack until it finds a smaller digit or the stack is empty.
@@ -10,7 +22,7 @@ class Solution {
   ///
   /// @param num The input number as a string.
   /// @param k The number of digits to remove.
-  /// @return The smallest possible number after removing k digits.
+  /// @return The smallest possible number after removing `k` digits.
   String removeKdigits(String num, int k) {
     // If the number of digits to remove is equal to the length of the number, return '0'.
     if (num.length == k) return '0';

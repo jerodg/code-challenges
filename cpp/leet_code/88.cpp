@@ -1,8 +1,12 @@
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
+#include <vector>
+
 class Solution {
 public:
-    void merge(vector<int> &nums1, int m, vector<int> &nums2, int n) {
+    void merge(std::vector<int> &nums1, int m, std::vector<int> &nums2, int n) {
         int i = 0, j = 0;
-        vector<int> result;
+        std::vector<int> result;
         while (i < m && j < n) {
             if (nums1[i] < nums2[j]) {
                 result.push_back(nums1[i]);

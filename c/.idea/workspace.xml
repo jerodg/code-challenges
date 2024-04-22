@@ -21,40 +21,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): hackerrank&#10;&#10;+ conditionals_and_loops">
-      <change afterPath="$PROJECT_DIR$/leet_code/1971.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1992.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/623.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/623.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/1992.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/200.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/463.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/623.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/1971.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/1992.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/200.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/463.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/623.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/988.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1249.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1971.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1992.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/200.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/463.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/623.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/1971.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/463.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/623.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1971.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1992.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/200.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/463.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/623.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/988.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/950.c" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/950.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/ruff.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/eslint.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php/leet_code/2073.php" beforeDir="false" afterPath="$PROJECT_DIR$/../php/leet_code/2073.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/leet_code/79.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/leet_code/79.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,29 +89,29 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cf.advertisement.text.overridden": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "git-widget-placeholder": "trunk",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/home/jerryg/projects/code-challenges/cpp",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jerryg/projects/code-challenges/cpp&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="QodanaCloudProjectLink">
     <option name="lastReportId" value="we07q" />
     <option name="linkedProjectId" value="A6N62" />
@@ -171,11 +159,6 @@
     </layout>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="c" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="c" TARGET_NAME="c" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="c" RUN_TARGET_NAME="c">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -232,6 +215,7 @@
       <workItem from="1713543235077" duration="1348000" />
       <workItem from="1713712418638" duration="42000" />
       <workItem from="1713712466285" duration="1844000" />
+      <workItem from="1713751591508" duration="421000" />
     </task>
     <task id="LOCAL-00001" summary="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
       <option name="closed" value="true" />

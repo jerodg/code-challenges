@@ -4,7 +4,8 @@
  *
  * This file contains the implementation of a Solution class which provides a method to find farmland in a given land matrix.
  */
-
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
 #include <ios> // For std::ios_base::sync_with_stdio
 #include <iostream> // For std::cin.tie
 #include <vector> // For std::vector

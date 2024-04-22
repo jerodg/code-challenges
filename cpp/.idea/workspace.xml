@@ -21,42 +21,82 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/1971.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/1992.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/623.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1971.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1992.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/623.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/1992.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/200.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/463.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/623.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/1971.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/1992.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/200.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/463.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/623.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/988.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1249.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1971.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1992.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/200.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/463.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/623.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1971.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/1971.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/1971.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/463.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/623.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1971.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1992.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/200.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/463.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/623.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/988.rb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/leet_code/950.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/leet_code/950.c" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/git_toolbox_prj.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/python.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/ruff.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/.idea/jsLibraryMappings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/.idea/jsLibraryMappings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/.idea/prettier.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/.idea/prettier.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/eslint.config.mjs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/2d_array_ds.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/2d_array_ds.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/apple_and_orange.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/apple_and_orange.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/dynamic_array.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/dynamic_array.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/number_line_jumps.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/number_line_jumps.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/problem_solving_basic_skills_certification/parallel_processing.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/problem_solving_basic_skills_certification/parallel_processing.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1544.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1544.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1614.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1614.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1700.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1700.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1971.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1971.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1992.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1992.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/200.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/200.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/205.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/205.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/2073.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2073.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/26.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/26.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/27.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/27.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/2958.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2958.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/402.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/402.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/42.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/42.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/463.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/463.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/623.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/623.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/678.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/678.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/79.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/79.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/85.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/85.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/88.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/88.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/950.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/950.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/988.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/988.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/leet_code/2073.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/leet_code/2073.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/libraries/Dart_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1249.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1249.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1544.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1544.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1614.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1614.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1700.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1700.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1992.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1992.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/200.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/200.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/205.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/205.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/2073.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/2073.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/26.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/26.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/27.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/27.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/2958.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/2958.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/402.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/402.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/42.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/42.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/463.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/463.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/623.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/623.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/678.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/678.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/79.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/79.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/85.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/85.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/88.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/88.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/950.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/950.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/988.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/988.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php/leet_code/2073.php" beforeDir="false" afterPath="$PROJECT_DIR$/../php/leet_code/2073.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/leet_code/79.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/leet_code/79.rb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,6 +125,14 @@
     &quot;accountId&quot;: &quot;6e662130-190a-4ed4-b156-8ecb026d9968&quot;
   }
 }</component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///home/jerryg/projects/code-challenges/cpp/leet_code/200.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/jerryg/projects/code-challenges/cpp/leet_code/200.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/jerryg/projects/code-challenges/cpp/leet_code/200.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/jerryg/projects/code-challenges/cpp/leet_code/200.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/jerryg/projects/code-challenges/cpp/leet_code/200.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///home/jerryg/projects/code-challenges/cpp/leet_code/200.cpp" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="ProjectApplicationVersion">
     <option name="ide" value="CLion" />
     <option name="majorVersion" value="2023" />
@@ -101,38 +149,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.RadMigrateCodeStyle": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "cf.advertisement.text.overridden": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "com.google.cloudcode.ide_session_index": "20240404_0006",
-    "git-widget-placeholder": "trunk",
-    "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/home/jerryg/projects/code-challenges/swift",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.stylelint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.stylelint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "CppOtherInlayHintsOptions",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240404_0006&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/jerryg/projects/code-challenges/swift&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.appearance&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="c__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="c__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="c__">
       <method v="2">
         <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
@@ -188,6 +231,9 @@
       <workItem from="1713487126718" duration="809000" />
       <workItem from="1713543254836" duration="1035000" />
       <workItem from="1713714060780" duration="1591000" />
+      <workItem from="1713751076580" duration="320000" />
+      <workItem from="1713759281543" duration="1763000" />
+      <workItem from="1713761091196" duration="1000" />
     </task>
     <task id="LOCAL-00001" summary="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files">
       <option name="closed" value="true" />

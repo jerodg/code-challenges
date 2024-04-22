@@ -4,7 +4,8 @@
  *
  * This file contains the implementation of a Solution class which provides a method to check if there is a valid path in a graph.
  */
-
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
 #include <iosfwd> // For std::ios::sync_with_stdio
 #include <iostream> // For std::cin.tie and std::cout.tie
 #include <vector> // For std::vector

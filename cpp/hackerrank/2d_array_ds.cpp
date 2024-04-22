@@ -1,3 +1,5 @@
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
 #include <bits/stdc++.h>
 #include <vector>
 #include <algorithm>
@@ -17,7 +19,7 @@ vector<string> split(const string &);
  * The function accepts 2D_INTEGER_ARRAY arr as parameter.
  */
 
-int hourglassSum(std::vector<std::vector<int>> &arr) {
+int hourglassSum(std::vector<std::vector<int> > &arr) {
     int maxSum = INT_MIN;
     for (int i = 1; i < 5; i++) {
         for (int j = 1; j < 5; j++) {
@@ -34,7 +36,7 @@ int hourglassSum(std::vector<std::vector<int>> &arr) {
 int main() {
     ofstream fout(getenv("OUTPUT_PATH"));
 
-    vector<vector<int>> arr(6);
+    vector<vector<int> > arr(6);
 
     for (int i = 0; i < 6; i++) {
         arr[i].resize(6);
@@ -64,8 +66,8 @@ string ltrim(const string &str) {
     string s(str);
 
     s.erase(
-            s.begin(),
-            find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
+        s.begin(),
+        find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
     );
 
     return s;
@@ -75,8 +77,8 @@ string rtrim(const string &str) {
     string s(str);
 
     s.erase(
-            find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
-            s.end()
+        find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
+        s.end()
     );
 
     return s;

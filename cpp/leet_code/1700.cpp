@@ -1,6 +1,10 @@
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
+#include <vector>
+
 class Solution {
 public:
-  int countStudents(vector<int>& students, vector<int>& sandwiches) {
+  int countStudents(std::vector<int>& students, std::vector<int>& sandwiches) {
     int count[2] = {0, 0};
     for (int i = 0; i < students.size(); i++) {
       count[students[i]]++;

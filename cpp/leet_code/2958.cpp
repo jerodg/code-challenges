@@ -1,10 +1,13 @@
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
 #include <unordered_map>
 #include <algorithm>
+#include <vector>
 
 
 class Solution {
 public:
-    int maxSubarrayLength(vector<int> &nums, int k) {
+    int maxSubarrayLength(std::vector<int> &nums, int k) {
         int left = 0;
         std::unordered_map<int, int> counter;
         int max_length = 0;

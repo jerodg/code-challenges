@@ -1,8 +1,11 @@
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
 #include <bits/stdc++.h>
 
 using namespace std;
 
 string ltrim(const string &);
+
 string rtrim(const string &);
 
 /*
@@ -16,11 +19,11 @@ string rtrim(const string &);
  */
 
 long minTime(vector<int> files, int numCores, int limit) {
-  priority_queue<int, vector<int>, greater<>> pq;
+  priority_queue<int, vector<int>, greater<> > pq;
   for (int i = 0; i < numCores; i++) {
     pq.push(0);
   }
-  for (int file : files) {
+  for (int file: files) {
     int time = pq.top();
     pq.pop();
     time += file;
@@ -85,8 +88,8 @@ string rtrim(const string &str) {
   string s(str);
 
   s.erase(
-      find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
-      s.end());
+    find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
+    s.end());
 
   return s;
 }

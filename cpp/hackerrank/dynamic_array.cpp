@@ -1,3 +1,5 @@
+// Optimizing the code for speed and unrolling loops for efficiency.
+#pragma GCC optimize("O3,unroll-loops")
 #include <bits/stdc++.h>
 
 using namespace std;
@@ -17,8 +19,8 @@ vector<string> split(const string &);
  *  2. 2D_INTEGER_ARRAY queries
  */
 
-vector<int> dynamicArray(int n, vector<vector<int>> queries) {
-    vector<vector<int>> seqList(n);
+vector<int> dynamicArray(int n, vector<vector<int> > queries) {
+    vector<vector<int> > seqList(n);
     vector<int> result;
     int lastAnswer = 0;
     for (int i = 0; i < queries.size(); i++) {
@@ -48,7 +50,7 @@ int main() {
 
     int q = stoi(first_multiple_input[1]);
 
-    vector<vector<int>> queries(q);
+    vector<vector<int> > queries(q);
 
     for (int i = 0; i < q; i++) {
         queries[i].resize(3);
@@ -86,8 +88,8 @@ string ltrim(const string &str) {
     string s(str);
 
     s.erase(
-            s.begin(),
-            find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
+        s.begin(),
+        find_if(s.begin(), s.end(), not1(ptr_fun<int, int>(isspace)))
     );
 
     return s;
@@ -97,8 +99,8 @@ string rtrim(const string &str) {
     string s(str);
 
     s.erase(
-            find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
-            s.end()
+        find_if(s.rbegin(), s.rend(), not1(ptr_fun<int, int>(isspace))).base(),
+        s.end()
     );
 
     return s;
