@@ -4,10 +4,11 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         x, y, z, n = (int(input()), int(input()), int(input()), int(input()))
 

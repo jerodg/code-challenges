@@ -51,7 +51,7 @@ class Solution:
             TreeNode(4, TreeNode(1, TreeNode(2, TreeNode(3), TreeNode(1)), None), TreeNode(1, None, TreeNode(6, None, TreeNode(5))))
         """
         if depth < 1:
-            raise ValueError("Depth must be greater than 0.")
+            raise ValueError('Depth must be greater than 0.')
 
         def dfs(root, val, depth):
             """Performs a depth-first search on the tree and adds new nodes at the specified depth."""

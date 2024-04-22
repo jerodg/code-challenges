@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
@@ -22,11 +23,11 @@ def count_substring(string, sub_string) -> int:
     count = 0
     while sub_string in string:
         count += 1
-        string = string[string.find(sub_string) + 1:]
+        string = string[string.find(sub_string) + 1 :]
     return count
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         string = input().strip()
         sub_string = input().strip()

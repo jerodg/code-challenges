@@ -4,11 +4,12 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
-        print("".join([i.lower() if i.isupper() else i.upper() for i in input()]))
+        print(''.join([i.lower() if i.isupper() else i.upper() for i in input()]))
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))

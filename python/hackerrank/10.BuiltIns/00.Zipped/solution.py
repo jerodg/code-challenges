@@ -12,5 +12,5 @@ def main():
     [print(sum(i) / len(i)) for i in zip(*sheet)]
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
@@ -35,10 +36,10 @@ def main():
     alice = map(int, input().split())
     bob = map(int, input().split())
 
-    print(" ".join(map(str, score(alice, bob))))
+    print(' '.join(map(str, score(alice, bob))))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         main()
     except Exception:

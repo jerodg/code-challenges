@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import string
 import sys
 import traceback
@@ -29,13 +30,13 @@ def print_rangoli(size):
 
     ls = []
     for i in range(size):
-        s = "-".join(alpha[i:size])
-        ls.append((s[::-1] + s[1:]).center(4 * size - 3, "-"))
+        s = '-'.join(alpha[i:size])
+        ls.append((s[::-1] + s[1:]).center(4 * size - 3, '-'))
 
-    print(*(ls[:0:-1] + ls), sep="\n")
+    print(*(ls[:0:-1] + ls), sep='\n')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         print_rangoli(int(input()))
     except Exception:

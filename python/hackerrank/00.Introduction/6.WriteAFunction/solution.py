@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
@@ -19,7 +20,7 @@ def is_leap(year) -> int:
     return year % 4 == 0 and year % 100 != 0 or year % 400 == 0
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         print(is_leap(int(input())))
     except Exception:

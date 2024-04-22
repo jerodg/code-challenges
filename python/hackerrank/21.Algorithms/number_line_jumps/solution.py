@@ -23,13 +23,13 @@ import os
 
 def kangaroo(x1, v1, x2, v2):
     if v1 <= v2:
-        return "NO"
+        return 'NO'
 
     jumps_to_meet = (x2 - x1) / (v1 - v2)
     if jumps_to_meet.is_integer() and jumps_to_meet >= 0:
-        return "YES"
+        return 'YES'
     else:
-        return "NO"
+        return 'NO'
 
 
 if __name__ == '__main__':

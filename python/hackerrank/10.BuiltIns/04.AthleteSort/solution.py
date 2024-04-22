@@ -2,11 +2,12 @@
 """
 Athlete Sort Jerod Gawne, 2021.01.22 <https://github.com/jerodg/hackerrank>
 """
+
 from operator import itemgetter
 
 
 def main():
-    lines, fields = input().split(" ")
+    lines, fields = input().split(' ')
 
     entries = []
     for x in range(int(lines)):
@@ -19,5 +20,5 @@ def main():
     [print(*e) for e in entries]
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

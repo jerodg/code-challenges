@@ -28,6 +28,7 @@ import os
 # The function accepts INTEGER_ARRAY arr as parameter.
 #
 
+
 def insertionSort(arr):
     shifts = 0
     for i in range(1, len(arr)):

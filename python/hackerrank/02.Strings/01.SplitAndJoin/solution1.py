@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
@@ -18,10 +19,10 @@ def split_and_join(line) -> str:
     :param line: str
     :return: str
     """
-    return "-".join(line.split(" "))
+    return '-'.join(line.split(' '))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         print(split_and_join(input()))
     except Exception:

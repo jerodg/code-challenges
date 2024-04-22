@@ -8,7 +8,7 @@ def main():
     print(len(set({input().strip() for _ in range(int(input()))})))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         main()
     except Exception:

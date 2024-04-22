@@ -1,11 +1,12 @@
 #!/usr/bin/env python3.7
 # coding=utf-8
 """Jerod Gawne, 2018.10.10 <https://github.com/jerodg>"""
+
 import collections
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         _, inventory = input(), collections.Counter(list(map(int, input().split())))
         balance = 0

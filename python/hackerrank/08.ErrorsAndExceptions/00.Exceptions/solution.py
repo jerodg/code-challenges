@@ -10,9 +10,9 @@ def main():
             k, m = map(int, input().split())
             print(k // m)
         # except Exception as excp:
-        except BaseException as bexcp:
-            print(f"Error Code: {excp}")
+        except BaseException:
+            print(f'Error Code: {excp}')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

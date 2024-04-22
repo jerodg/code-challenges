@@ -1,5 +1,6 @@
 #!/usr/bin/env python3.7
 """03.Sets/09.Mutations: Jerod Gawne, 2019.02.12 <https://github.com/jerodg>"""
+
 from sys import exc_info
 from traceback import print_exception
 from typing import NoReturn
@@ -16,8 +17,8 @@ def main() -> NoReturn:
     print(sum(map(int, a)))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         main()
-    except Exception as excp:
+    except Exception:
         print(print_exception(*exc_info()))

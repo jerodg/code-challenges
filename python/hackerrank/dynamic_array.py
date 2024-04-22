@@ -12,6 +12,7 @@ import os
 #  2. 2D_INTEGER_ARRAY queries
 #
 
+
 def dynamicArray(n, queries):
     lastAnswer = 0
     seqList = [[] for _ in range(n)]

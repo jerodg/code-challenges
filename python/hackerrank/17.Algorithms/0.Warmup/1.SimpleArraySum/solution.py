@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
@@ -16,7 +17,7 @@ def main():
     print(sum(map(int, input().split())))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         main()
     except Exception:

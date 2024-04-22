@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
@@ -20,10 +21,10 @@ def mutate_string(string, position, character) -> str:
     :param character: str
     :return: str
     """
-    return "".join([character if i == position else string[i] for i in range(len(string))])
+    return ''.join([character if i == position else string[i] for i in range(len(string))])
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         s = input()
         i, c = input().split()

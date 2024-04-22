@@ -1,9 +1,10 @@
 #!/usr/bin/env python3.7
 """Word Order: Jerod Gawne, 2019.03.07 <https://github.com/jerodg/hackerrank>"""
+
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         d = {}
         for i in range(int(input())):

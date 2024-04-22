@@ -17,10 +17,11 @@ The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
+
 from re import compile, sub
 
-re_and = compile(r"(?<=\s)&{2}(?=\s)")
-re_or = compile(r"(?<=\s)\|{2}(?=\s)")
+re_and = compile(r'(?<=\s)&{2}(?=\s)')
+re_or = compile(r'(?<=\s)\|{2}(?=\s)')
 
 
 def main():
@@ -29,12 +30,12 @@ def main():
     lines = []
     for j in range(i):
         line = input()
-        x = sub(re_and, "and", line)
-        y = sub(re_or, "or", x)
+        x = sub(re_and, 'and', line)
+        y = sub(re_or, 'or', x)
         lines.append(y)
 
-    print(*lines, sep="\n")
+    print(*lines, sep='\n')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

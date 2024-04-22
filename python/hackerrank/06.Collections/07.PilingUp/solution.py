@@ -2,6 +2,7 @@
 """
 Piling Up: Jerod Gawne, 2020.02.03 <https://github.com/jerodg/hackerrank>
 """
+
 from collections import deque
 
 
@@ -10,10 +11,10 @@ def main():
         input()  # Discard length of list
         side_lengths = deque(map(int, input().strip().split()))
         if max(side_lengths) not in (side_lengths[0], side_lengths[-1]):
-            print("No")
+            print('No')
         else:
-            print("Yes")
+            print('Yes')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

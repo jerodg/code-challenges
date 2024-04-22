@@ -9,5 +9,5 @@ def main():
     print(all(i > 0 for i in ls) and any(((str(x))[::-1] == str(x) for x in ls)))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

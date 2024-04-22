@@ -18,8 +18,8 @@ copies or substantial portions of the Software.
 You should have received a copy of the SSPL along with this program.
 If not, see <https://www.mongodb.com/licensing/server-side-public-license>."""
 
-regex_integer_in_range = r"^[1-9][0-9]{5}$"
-regex_alternating_repetitive_digit_pair = r"(\d)(?=\d\1)"
+regex_integer_in_range = r'^[1-9][0-9]{5}$'
+regex_alternating_repetitive_digit_pair = r'(\d)(?=\d\1)'
 
 import re
 
@@ -32,5 +32,5 @@ def main():
     pass
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

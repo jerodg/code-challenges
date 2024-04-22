@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
@@ -23,10 +24,10 @@ def wrap(s, w) -> list:
     # If you have a file or socket, StringIO wrapper is not needed:  # return [l for l in iter(functools.partial(s.read, w), '')]
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         string, max_width = input(), int(input())
         result = wrap(string, max_width)
-        print(*wrap(string, max_width), sep="\n")
+        print(*wrap(string, max_width), sep='\n')
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))

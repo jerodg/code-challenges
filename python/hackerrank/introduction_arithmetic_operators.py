@@ -1,3 +1,3 @@
-if __name__ == "__main__":
+if __name__ == '__main__':
     a, b = int(input()), int(input())
     print((a + b), (a - b), (a * b), sep='\n')

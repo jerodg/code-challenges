@@ -10,13 +10,14 @@ import os
 # The function accepts 2D_INTEGER_ARRAY arr as parameter.
 #
 
+
 def hourglassSum(arr):
     max_sum = float('-inf')
     for i in range(1, 5):
         for j in range(1, 5):
-            top = sum(arr[i - 1][j - 1:j + 2])
+            top = sum(arr[i - 1][j - 1 : j + 2])
             mid = arr[i][j]
-            bottom = sum(arr[i + 1][j - 1:j + 2])
+            bottom = sum(arr[i + 1][j - 1 : j + 2])
             hourglass_sum = top + mid + bottom
             max_sum = max(max_sum, hourglass_sum)
     return max_sum

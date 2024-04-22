@@ -7,11 +7,12 @@ https://github.com/jerodg/hackerrank
 Doesn't really flow well with the online interpreter
 as the main code is locked and is expecting the function to return.
 """
+
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
-        print(*input().split(), sep="-")
+        print(*input().split(), sep='-')
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))

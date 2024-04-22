@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
@@ -19,10 +20,10 @@ def print_full_name(first, last) -> None:
     :param last: str
     :return: None
     """
-    print("Hello {} {}! You just delved into hackerrank.".format(first, last))
+    print('Hello {} {}! You just delved into hackerrank.'.format(first, last))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         print_full_name(input(), input())
     except Exception:

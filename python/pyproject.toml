@@ -57,6 +57,7 @@ exclude = [
     "site-packages",
     "venv",
     ".idea",
+    ".venv"
 ]
 
 line-length = 132

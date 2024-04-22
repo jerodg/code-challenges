@@ -4,13 +4,14 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         thickness = int(input())  # This must be an odd number
-        c = "H"
+        c = 'H'
 
         # Top Cone
         for i in range(thickness):
@@ -30,7 +31,8 @@ if __name__ == "__main__":
 
         # Bottom Cone
         for i in range(thickness):
-            print(((c * (thickness - i - 1)).rjust(thickness) + c + (c * (thickness - i - 1)).ljust(thickness)).rjust(
-                    thickness * 6))
+            print(
+                ((c * (thickness - i - 1)).rjust(thickness) + c + (c * (thickness - i - 1)).ljust(thickness)).rjust(thickness * 6)
+            )
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))

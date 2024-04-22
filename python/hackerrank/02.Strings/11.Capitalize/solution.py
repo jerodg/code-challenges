@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
@@ -22,10 +23,10 @@ def capitalize(string) -> str:
     :param string: str
     :return: str
     """
-    return " ".join((word.capitalize() for word in string.split(" ")))
+    return ' '.join((word.capitalize() for word in string.split(' ')))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         capitalize(input())
     except Exception:

@@ -4,11 +4,12 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import itertools
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         print(*((len(list(c)), int(k)) for k, c in itertools.groupby(input())))
     except Exception:

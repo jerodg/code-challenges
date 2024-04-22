@@ -4,10 +4,11 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         input()  # Only needed to pass tests
         print(sorted(set(map(int, input().split())))[-2])

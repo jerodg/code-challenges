@@ -12,6 +12,7 @@ import os
 #  2. 2D_INTEGER_ARRAY queries
 #
 
+
 def findSum(numbers, queries) -> list[int]:
     n = len(numbers)
     arr = [0] * (n + 1)

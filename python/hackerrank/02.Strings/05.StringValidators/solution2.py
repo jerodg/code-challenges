@@ -4,10 +4,11 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         s = input()
         print(any(c.isalnum() for c in s))
@@ -15,6 +16,6 @@ if __name__ == "__main__":
         print(any(c.isdigit() for c in s))
         print(any(c.islower() for c in s))
         print(any(c.isupper() for c in s))
-        print("\n")
+        print('\n')
     except Exception:
         print(traceback.print_exception(*sys.exc_info()))

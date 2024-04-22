@@ -20,84 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/leet_code/1249.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1971.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1992.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/200.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/463.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/623.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1971.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/1971.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/1971.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/463.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/623.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1971.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1992.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/200.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/463.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/623.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/988.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/leet_code/950.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/leet_code/950.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/2d_array_ds.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/2d_array_ds.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/apple_and_orange.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/apple_and_orange.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/dynamic_array.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/dynamic_array.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/number_line_jumps.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/number_line_jumps.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/problem_solving_basic_skills_certification/parallel_processing.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/problem_solving_basic_skills_certification/parallel_processing.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1544.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1544.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1614.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1614.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1700.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1700.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1971.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1971.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1992.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1992.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/200.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/200.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/205.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/205.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/2073.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2073.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/26.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/26.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/27.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/27.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/2958.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2958.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/402.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/402.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/42.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/42.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/463.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/463.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/623.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/623.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/678.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/678.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/79.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/79.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/85.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/85.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/88.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/88.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/950.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/950.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/988.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/988.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csharp/leet_code/2073.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/leet_code/2073.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/libraries/Dart_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1249.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1249.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1544.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1544.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1614.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1614.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1700.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1700.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1992.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1992.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/200.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/200.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/205.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/205.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/2073.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/2073.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/26.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/26.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/27.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/27.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/2958.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/2958.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/402.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/402.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/42.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/42.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/463.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/463.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/623.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/623.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/678.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/678.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/79.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/79.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/85.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/85.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/88.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/88.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/950.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/950.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/leet_code/988.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/988.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../php/leet_code/2073.php" beforeDir="false" afterPath="$PROJECT_DIR$/../php/leet_code/2073.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/leet_code/79.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/leet_code/79.rb" afterDir="false" />
-    </list>
+    <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(leet_code): add missing lang solutions&#10;&#10;+ c&#10;+ c++&#10;+ dart&#10;+ c#&#10;+ java&#10;+ go&#10;+ swift" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -233,7 +156,7 @@
       <workItem from="1713714060780" duration="1591000" />
       <workItem from="1713751076580" duration="320000" />
       <workItem from="1713759281543" duration="1763000" />
-      <workItem from="1713761091196" duration="1000" />
+      <workItem from="1713761091196" duration="87000" />
     </task>
     <task id="LOCAL-00001" summary="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files">
       <option name="closed" value="true" />
@@ -259,7 +182,15 @@
       <option name="project" value="LOCAL" />
       <updated>1712248274213</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="feat(leet_code): add missing lang solutions&#10;&#10;+ c&#10;+ c++&#10;+ dart&#10;+ c#&#10;+ java&#10;+ go&#10;+ swift">
+      <option name="closed" value="true" />
+      <created>1713761166298</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713761166298</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -274,7 +205,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="feat(c++): add leetcode 79&#10;&#10;+ 79&#10;~ format files" />
     <MESSAGE value="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(c++): add leetcode&#10;&#10;+ 27&#10;+ 1614" />
+    <MESSAGE value="feat(leet_code): add missing lang solutions&#10;&#10;+ c&#10;+ c++&#10;+ dart&#10;+ c#&#10;+ java&#10;+ go&#10;+ swift" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(leet_code): add missing lang solutions&#10;&#10;+ c&#10;+ c++&#10;+ dart&#10;+ c#&#10;+ java&#10;+ go&#10;+ swift" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

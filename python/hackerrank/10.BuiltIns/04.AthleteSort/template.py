@@ -1,6 +1,6 @@
 #!/bin/python3
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     nm = input().split()
 
     n = int(nm[0])

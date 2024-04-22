@@ -16,14 +16,15 @@ class Solution:
         temp = board[i][j]
 
         # Mark the character as visited
-        board[i][j] = "."
+        board[i][j] = '.'
 
         # Check if the word exists in the board
-        if (self.dfs(board, i + 1, j, word, index + 1) or self.dfs(board, i - 1, j, word, index + 1) or self.dfs(board, i, j + 1,
-                                                                                                                 word,
-                                                                                                                 index + 1) or
-                self.dfs(
-                board, i, j - 1, word, index + 1)):
+        if (
+            self.dfs(board, i + 1, j, word, index + 1)
+            or self.dfs(board, i - 1, j, word, index + 1)
+            or self.dfs(board, i, j + 1, word, index + 1)
+            or self.dfs(board, i, j - 1, word, index + 1)
+        ):
             return True
 
         # Restore the character in the board

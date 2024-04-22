@@ -15,8 +15,8 @@ def main():
         while i < l - 1 and lst[i] <= lst[i + 1]:
             i += 1
 
-        print("Yes" if i == l - 1 else "No")
+        print('Yes' if i == l - 1 else 'No')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

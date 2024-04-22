@@ -4,11 +4,12 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import itertools
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         a = list(map(int, input().split()))
         b = list(map(int, input().split()))

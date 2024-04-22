@@ -13,7 +13,7 @@ def main():
     print(len(s))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         main()
     except Exception:

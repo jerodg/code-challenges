@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import re
 import sys
 import traceback
@@ -20,10 +21,10 @@ def count_substring(string, sub_string) -> int:
     :param sub_string: str
     :return: int
     """
-    return sum(1 for _ in re.finditer(f"(?={re.escape(sub_string)})", string))
+    return sum(1 for _ in re.finditer(f'(?={re.escape(sub_string)})', string))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         string = input().strip()
         sub_string = input().strip()

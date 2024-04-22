@@ -1,10 +1,11 @@
-from typing import Optional, List
 from dataclasses import dataclass
+from typing import Optional, List
 
 
 @dataclass
 class TreeNode:
     """Definition for a binary tree node."""
+
     val: int = 0
     left: 'TreeNode' = None
     right: 'TreeNode' = None

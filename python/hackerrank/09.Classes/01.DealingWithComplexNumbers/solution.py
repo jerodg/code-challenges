@@ -21,7 +21,7 @@ class Complex(complex):
         return Complex(complex.__abs__(self))
 
     def __str__(self):
-        return f"{self.real:04.2f}{self.imag + 0:+04.2f}i"
+        return f'{self.real:04.2f}{self.imag + 0:+04.2f}i'
 
 
 def main():
@@ -29,8 +29,8 @@ def main():
     d = map(float, input().split())
     x = Complex(*c)
     y = Complex(*d)
-    print(*map(str, [x + y, x - y, x * y, x / y, x.mod(), y.mod()]), sep="\n")
+    print(*map(str, [x + y, x - y, x * y, x / y, x.mod(), y.mod()]), sep='\n')
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

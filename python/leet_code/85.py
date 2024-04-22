@@ -2,6 +2,7 @@ import json
 import sys
 from typing import List
 
+
 def find_maximal_rectangle(matrix: List[List[str]]) -> int:
     """
     This function finds the maximal rectangle in a binary matrix.
@@ -13,7 +14,9 @@ def find_maximal_rectangle(matrix: List[List[str]]) -> int:
         int: The area of the maximal rectangle.
 
     Examples:
-        >>> find_maximal_rectangle([['1', '0', '1', '0', '0'], ['1', '0', '1', '1', '1'], ['1', '1', '1', '1', '1'], ['1', '0', '0', '1', '0']])
+        >>> find_maximal_rectangle(
+        ...     [['1', '0', '1', '0', '0'], ['1', '0', '1', '1', '1'], ['1', '1', '1', '1', '1'], ['1', '0', '0', '1', '0']]
+        ... )
         6
         >>> find_maximal_rectangle([['0']])
         0

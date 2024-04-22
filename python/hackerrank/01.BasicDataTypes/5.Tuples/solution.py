@@ -4,10 +4,11 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         n = int(input())  # only required for automated tests (online interpreter)
         print(hash(tuple(map(int, input().split()))))

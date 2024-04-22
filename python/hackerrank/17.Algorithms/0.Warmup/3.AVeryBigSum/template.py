@@ -8,8 +8,8 @@ def aVeryBigSum(ar):
     pass
 
 
-if __name__ == "__main__":
-    fptr = open(os.environ["OUTPUT_PATH"], "w")
+if __name__ == '__main__':
+    fptr = open(os.environ['OUTPUT_PATH'], 'w')
 
     ar_count = int(input())
 
@@ -17,6 +17,6 @@ if __name__ == "__main__":
 
     result = aVeryBigSum(ar)
 
-    fptr.write(str(result) + "\n")
+    fptr.write(str(result) + '\n')
 
     fptr.close()

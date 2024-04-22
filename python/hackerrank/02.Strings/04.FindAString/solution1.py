@@ -4,6 +4,7 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import re
 import sys
 import traceback
@@ -25,10 +26,10 @@ def count_substring(string, sub_string) -> int:
 
     This loads the entire list into memory
     """
-    return len(re.findall(f"(?={re.escape(sub_string)})", string))
+    return len(re.findall(f'(?={re.escape(sub_string)})', string))
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         string = input().strip()
         sub_string = input().strip()

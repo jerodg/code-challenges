@@ -2,6 +2,7 @@
 """
 Incorrect Regex Jerod Gawne, 2020.02.16 <https://github.com/jerodg/hackerrank>
 """
+
 import re
 
 
@@ -14,5 +15,5 @@ def main():
             print(False)
 
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     main()

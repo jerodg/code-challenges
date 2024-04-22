@@ -4,11 +4,12 @@
 
 https://github.com/jerodg/hackerrank
 """
+
 import itertools
 import sys
 import traceback
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         N = int(input())
         S = input().split()
@@ -19,7 +20,7 @@ if __name__ == "__main__":
 
         for c in itertools.combinations(S, K):
             den += 1
-            num += "a" in c
+            num += 'a' in c
 
         print(float(num) / den)
     except Exception:

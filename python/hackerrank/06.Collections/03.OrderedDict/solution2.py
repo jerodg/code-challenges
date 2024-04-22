@@ -1,10 +1,11 @@
 #!/usr/bin/env python3.7
 """Jerod Gawne, 2019.03.04 <https://github.com/jerodg>"""
+
 import sys
 import traceback
 from collections import OrderedDict
 
-if __name__ == "__main__":
+if __name__ == '__main__':
     try:
         n = int(input())
         d = OrderedDict()
