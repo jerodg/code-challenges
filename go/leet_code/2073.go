@@ -7,9 +7,9 @@ func timeRequiredToBuy(tickets []int, k int) int {
 		if i == k {
 			result += c
 		} else if i < k {
-			result += min(c, n)
+			result += minimum(c, n)
 		} else {
-			result += min(c-1, n)
+			result += minimum(c-1, n)
 		}
 	}
 	return result

@@ -45,7 +45,7 @@ func travel(node *TreeNode, s string) {
 		if result == "" {
 			result = s
 		} else {
-			result = min(result, s)
+			result = minimum(result, s)
 		}
 		return
 	}

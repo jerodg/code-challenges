@@ -5,31 +5,32 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add solution&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1249.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1971.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1992.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/200.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/463.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/623.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1971.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/1971.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/463.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/623.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1971.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1992.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/200.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/463.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/623.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/988.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/leet_code/950.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/leet_code/950.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csharp/leet_code/2073.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/leet_code/2073.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/2370.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/2370.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../php/leet_code/2073.php" beforeDir="false" afterPath="$PROJECT_DIR$/../php/leet_code/2073.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/leet_code/79.rb" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/leet_code/79.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/2073.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2073.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/988.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/988.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/ruff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/ruff.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/docs/problem.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/docs/problem.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/hackerrank/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/template.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/tests/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/2370.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/tests/input/input00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/tests/output/output00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/200.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/200.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/26.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/27.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/42.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/79.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/79.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/85.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/85.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/88.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/88.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +47,7 @@
   <component name="FormatOnSaveOptions">
     <option name="myRunOnSave" value="false" />
   </component>
-  <component name="GOROOT" url="file:///opt/go-1.22" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../sdks/go" />
   <component name="Git.Settings">
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -61,9 +62,12 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;git@github.com:jerodg/code-challenges.git&quot;,
-    &quot;accountId&quot;: &quot;c8f60be3-c260-4dfa-b0fb-7ff5f0c39734&quot;
+    &quot;accountId&quot;: &quot;f9687dbd-9409-4bfe-8822-c9c2252efd69&quot;
   }
 }</component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
   <component name="GoVcsConfiguration">
     <option name="GO_FMT" value="false" />
   </component>
@@ -81,34 +85,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ACTIVE_CLOUD_PROJECT_ACCOUNT&quot;: &quot;jerry.gawayne@gmail.com&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_ID&quot;: &quot;gen-lang-client-0404274542&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_NAME&quot;: &quot;Generative Language Client&quot;,
-    &quot;ACTIVE_CLOUD_PROJECT_NUMBER&quot;: &quot;897483491935&quot;,
-    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
-    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240404_0006&quot;,
-    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
-    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
-    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/jerryg/projects/code-challenges/go&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;typescript.add.unambiguous.imports.on.the.fly&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "jerry.gawayne@gmail.com",
+    "ACTIVE_CLOUD_PROJECT_ID": "gen-lang-client-0404274542",
+    "ACTIVE_CLOUD_PROJECT_NAME": "Generative Language Client",
+    "ACTIVE_CLOUD_PROJECT_NUMBER": "897483491935",
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "DefaultGoTemplateProperty": "Go File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.go.formatter.settings.were.checked": "true",
+    "RunOnceActivity.go.migrated.go.modules.settings": "true",
+    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
+    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
+    "com.google.cloudcode.ide_session_index": "20240404_0006",
+    "dart.analysis.tool.window.visible": "false",
+    "git-widget-placeholder": "trunk",
+    "go.import.settings.migrated": "true",
+    "go.sdk.automatically.set": "true",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/devdrive/projects/code-challenges/go",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "Errors",
+    "typescript.add.unambiguous.imports.on.the.fly": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
       <module name="go" />
@@ -147,7 +151,6 @@
     <attachedChunks>
       <set>
         <option value="bundled-gosdk-33c477a475b1-b97fc8a1e17c-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.14494.238" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-GO-241.14494.238" />
       </set>
     </attachedChunks>
   </component>

@@ -5,11 +5,33 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c581ba4-f445-4951-8203-f7e7203665a9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/leet_code/2370.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/ruff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/ruff.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/docs/problem.adoc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/docs/problem.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/solution.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/hackerrank/loops.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/template.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/tests/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/2370.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/tests/input/input00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/tests/output/output00.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/solution.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/template.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/200.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/200.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/26.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/27.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/42.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/42.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/79.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/79.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/85.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/85.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/leet_code/88.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/88.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/pyproject.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
-    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="true" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
@@ -40,17 +62,20 @@
     &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/devdrive/projects/code-challenges/rust&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
+    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
     &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
+    &quot;org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2370.rs&quot;: &quot;true&quot;,
     &quot;org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/1992.rs&quot;: &quot;true&quot;,
     &quot;org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/623.rs&quot;: &quot;true&quot;,
     &quot;org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/988.rs&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.tools.Pieces&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
