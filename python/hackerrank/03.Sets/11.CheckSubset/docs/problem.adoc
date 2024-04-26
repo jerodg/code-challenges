@@ -1,0 +1,77 @@
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: February 15, 2019
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge:
+:solution-variability: 5
+:score: 10
+:keywords: python, {required-knowledge}
+:summary:
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+= 03.Sets/11.CheckSubset
+
+You are given two sets, __A__ and __B__.
+Your job is to find whether set __A__ is a subset of set __B__.
+
+== Learning
+
+== Tutorial
+// todo: tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+
+=== Deliverables
+
+==== Input
+
+===== Constraints
+
+==== Output
+
+===== Constraints
+
+=== Constraints
+
+=== Bonus
+
+=== Breakdown
+
+== Improving the Problem
+// todo: improving the problem
+
+== Improving the Template
+
+=== Convention
+
+.Missing
+* shebang
+* encoding
+* doc-comments
+
+=== Extraneous
+
+N/A
+
+=== Pep8
+
+* No new-line at end of file
+
+=== Syntax
+
+N/A
+
+== Improving the Tests
+// todo: improving the tests
+
+== Reference

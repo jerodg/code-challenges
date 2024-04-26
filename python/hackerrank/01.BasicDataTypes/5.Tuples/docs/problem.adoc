@@ -1,0 +1,114 @@
+:doctitle: 1.BasicDataTypes/5.Tuples
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 18, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge: data structures, tuples, hash, built-ins
+:advanced-knowledge:
+:solution-variability: 1
+:score: 10
+:keywords: python, {required-knowledge}, {advanced-knowledge}
+:summary: Given an integer, _N_, and _N_ space-separated integers as input, create a tuple, _T_ , of those _N_ integers. Then compute and print the result of _hash(T)_.
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Learning
+
+* https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* https://docs.python.org/3.7/tutorial/datastructures.html[PyDocs - Data Structures]
+* https://docs.python.org/3.7/library/stdtypes.html[PyDocs - Built-in Types]
+* https://docs.python.org/3.7/library/functions.html[PyDocs - Built-in Functions]
+
+== Tutorial
+// todo: improve tutorial
+
+Tuples are data structures that look a lot like lists.
+Unlike lists, tuples are immutable (meaning that they cannot be modified once created).
+This restricts their use because we cannot add, remove, or assign values; however, it gives us an advantage in space and time complexities.
+
+.A common tuple use is the swapping of _2_ numbers
+[source,python,linenums]
+a, b = b, a
+
+Here is a tuple, and it assigns itself the values of _b_ _a_.
+
+TIP: Another awesome use of tuples is as keys in a dictionary.
+In other words, tuples are hashable.
+
+== The Problem
+// todo: state as agile story
+=== Objective
+
+=== Deliverables
+
+==== Input
+
+===== Constraints
+
+==== Output
+
+===== Constraints
+
+=== Constraints
+
+=== Bonus
+
+=== Breakdown
+// todo: improve breakdown
+We need to read the first line of input to get it out of the way (it can be used to write a parser for the next line, but it isn't useful) n = raw_input() Read in the second line -- this is just a single string ex. '1 2 3 4' input_line = raw_input() Split the string by whitespace into a list input_list = input_line.split() Note: This is a list of strings ex. ['1', '2', '3', '4'] But we want a list of integers ex. [1, 2, 3, 4]
+We need to convert the list elements from strings to ints
+[Simple] Option 1 (since we know the number of elements, n):
+for i in xrange(n):
+input_list[i] = int(input_list[i])
+[Simple] Option 2 (if we are ignoring the first input line for some reason):
+for i in xrange(len(input_list)):
+input_list[i] = int(input_list[i])
+[More Advanced] Option 3:
+input_list = map(int, input_list)
+[More Advanced] Option 4 (List composition):
+input_list = [int(x) for x in input_list]
+Now input_list looks like this: [1, 2, 3, 4]
+
+We need to convert our list of ints to a tuple of ints (as a list is not hashable, but a tuple is)
+
+t = tuple(input_list) print the result print hash(t) Other Optimizations (Not necessary for credit here):
+If the first input line == '0' then bail, there isn't anything interesting to parse Call strip() on the input to remove trailing and leading whitespace.
+raw_input().strip()
+
+== Improving the Problem
+
+== Improving the Template
+
+=== Convention
+
+.Missing
+* shebang
+* encoding
+* doc-comments
+
+=== Extraneous
+
+N/A
+
+=== Pep8
+
+* No new-line at end of file
+
+=== Syntax
+
+N/A
+
+== Reference
+
+https://www.hackerrank.com/challenges/python-tuples/[Hackerrank - Tuples]
+https://www.hackerrank.com/challenges/python-tuples/forum/comments/140481[Hackerrank - Comment]

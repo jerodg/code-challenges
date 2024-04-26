@@ -1,0 +1,97 @@
+:doctitle: 2.Strings/11.Capitalize
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 28, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity:
+:required-knowledge: input and output, control flow, common string operations
+:solution-variability: 1
+:score: 20
+:keywords: python, {required-knowledge}
+:summary: You are asked to ensure that the first and last names of people begin with a capital letter in their passports. For example, alison heck should be capitalised correctly as Alison Heck.
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Learning
+
+* https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
+* https://docs.python.org/3.7/library/string.html[PyDocs - Common String Operations]
+
+== Tutorial
+// todo: tutorial
+Python 3 print(input().title()) will not work because the question is asking to capitalise firse letter of each word keeping in mind that "if it is a letter".
+Title and Capitalise are different in function as:
+
+'abcd'.title() results in 'Abcd' but
+
+'12abcd'.title() results in '12Abcd'.
+This is not what we want.
+
+We just want to capitalise first letter of each word, not the first occuring letter of a word.
+Instead, use this:
+s = input() for x in s[:].split():
+s = s.replace(x, x.capitalize()) print(s)
+
+== The Problem
+// todo: state as agile story
+=== Objective
+
+=== Deliverables
+
+==== Input
+
+===== Constraints
+
+==== Output
+
+===== Constraints
+
+=== Constraints
+
+=== Bonus
+
+=== Breakdown
+
+== Improving the Problem
+// todo: improving the problem
+
+== Improving the Template
+
+=== Convention
+
+.Missing
+* shebang
+* encoding
+* doc-comments
+* pass in empty function
+
+=== Extraneous
+
+N/A
+
+=== Pep8
+
+* No new-line at end of file
+* Expecting two lines before function declaration
+
+=== Syntax
+
+N/A
+
+== Improving the Tests
+// todo: improving the tests
+
+== Reference
+
+* https://www.hackerrank.com/challenges/capitalize[Hackerrank - Capitalize]
+* https://www.hackerrank.com/challenges/capitalize/forum/comments/99491[Hackerrank - Comment]

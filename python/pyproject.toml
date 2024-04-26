@@ -1,0 +1,79 @@
+[project]
+name = "python-code-challenges"
+version = "0.4.0"
+description = "Code Challenges"
+readme = "README.md"
+license-files = { paths = ["../LICENSE.adoc"] }
+requires-python = ">= 3.12"
+authors = [{ name = "JerodG", email = "2856163+jerodg@users.noreply.github.com" }]
+dependencies = [
+    "ruff>=0.4.2",
+    "ruff-lsp>=0.0.53",
+]
+
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+
+[tool.rye]
+managed = true
+dev-dependencies = [
+    "pytest>=8.0.2",
+    "pytest-benchmark>=4.0.0",
+    "pytest-cov>=4.1.0",
+]
+
+
+[[tool.rye.sources]]
+name = "default"
+url = "https://pypi.org/simple/"
+
+
+[tool.hatch.metadata]
+allow-direct-references = true
+
+
+[tool.hatch.build.targets.wheel]
+packages = ["code_wars/", "hackerrank/", "leetcode/"]
+
+
+[tool.ruff]
+fix = true
+line-length = 120
+indent-width = 4
+target-version = "py312"
+include = ["*.py"]
+respect-gitignore = true
+
+
+[tool.ruff.lint]
+# Enable Pyflakes (`F`) and a subset of the pycodestyle (`E`)  codes by default.
+# Unlike Flake8, Ruff doesn't enable pycodestyle warnings (`W`) or
+# McCabe complexity (`C901`) by default.
+select = ["E4", "E7", "E9", "F", "W", "C901", "C"]
+ignore = []
+preview = true
+task-tags = ["TODO", "FIXME"]
+# Allow fix for all enabled rules (when `--fix`) is provided.
+fixable = ["ALL"]
+unfixable = []
+# Allow unused variables when underscore-prefixed.
+dummy-variable-rgx = "^(_+|(_+[a-zA-Z0-9_]*[a-zA-Z0-9]+?))$"
+
+
+[tool.ruff.format]
+quote-style = "single"
+indent-style = "space"
+skip-magic-trailing-comma = true
+line-ending = "lf"
+docstring-code-format = true
+docstring-code-line-length = 100
+
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q"
+testpaths = ["tests"]
+markers = ["random: marks tests as random (deselect with '-m \"not random\"')"]

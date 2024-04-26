@@ -1,0 +1,84 @@
+:doctitle: 2.Strings/9.StringFormatting
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: June 28, 2018
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge: input and output, control flow, common string operations
+:solution-variability: 1
+:score: 10
+:keywords: python, {required-knowledge}
+:summary: Given an integer, _n_ , print the following values for each integer _i_ from 1 to _n_
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+
+{summary}
+
+== Learning
+
+* https://docs.python.org/3.7/tutorial/inputoutput.html[PyDocs - Input and Output]
+* https://docs.python.org/3.7/tutorial/controlflow.html[PyDocs - Control Flow]
+* https://docs.python.org/3.7/library/string.html[PyDocs - Common String Operations]
+
+== Tutorial
+// todo: tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+
+=== Deliverables
+
+==== Input
+
+===== Constraints
+
+==== Output
+
+===== Constraints
+
+=== Constraints
+
+=== Bonus
+
+=== Breakdown
+
+== Improving the Problem
+// todo: improving the problem
+
+== Improving the Template
+
+=== Convention
+
+.Missing
+* shebang
+* encoding
+* doc-comments
+* pass in empty function
+
+=== Extraneous
+
+N/A
+
+=== Pep8
+
+* No new-line at end of file
+* Expecting two lines before function declaration
+
+=== Syntax
+
+N/A
+
+== Improving the Tests
+// todo: improving the tests
+
+== Reference
+
+* https://www.hackerrank.com/challenges/python-string-formatting[Hackerrank - String Formatting]

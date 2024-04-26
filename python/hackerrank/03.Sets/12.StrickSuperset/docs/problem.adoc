@@ -1,0 +1,78 @@
+:author: Jerod Gawne
+:email: jerodgawne@gmail.com
+:docdate: February 18, 2019
+:revdate: {docdatetime}
+:src-uri: https://github.com/jerodg/hackerrank
+
+:difficulty: easy
+:time-complexity: low
+:required-knowledge:
+:solution-variability: 2
+:score: 10
+:keywords: python, {required-knowledge}
+:summary:
+
+:doctype: article
+:sectanchors:
+:sectlinks:
+:sectnums:
+:toc:
+= 03.Sets/12.Strict Superset
+This tool tests whether the set is a proper(strict) superset of the other set like this: set >= otherSet and set != otherSet.
+
+== Learning
+
+https://www.programiz.com/python-programming/methods/set/issuperset
+https://docs.python.org/3/library/stdtypes.html
+
+== Tutorial
+// todo: tutorial
+
+== The Problem
+// todo: state as agile story
+=== Objective
+
+=== Deliverables
+
+==== Input
+
+===== Constraints
+
+==== Output
+
+===== Constraints
+
+=== Constraints
+
+=== Bonus
+
+=== Breakdown
+
+== Improving the Problem
+// todo: improving the problem
+
+== Improving the Template
+
+=== Convention
+
+.Missing
+* shebang
+* encoding
+* doc-comments
+
+=== Extraneous
+
+N/A
+
+=== Pep8
+
+* No new-line at end of file
+
+=== Syntax
+
+N/A
+
+== Improving the Tests
+// todo: improving the tests
+
+== Reference
