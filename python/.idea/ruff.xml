@@ -3,8 +3,8 @@
   <component name="RuffConfigService">
     <option name="globalRuffExecutablePath" value="$PROJECT_DIR$/.venv/bin/ruff" />
     <option name="globalRuffLspExecutablePath" value="$PROJECT_DIR$/.venv/bin/ruff-lsp" />
-    <option name="projectRuffExecutablePath" value="D:\code-challenges\python\.venv\Scripts\ruff.exe" />
-    <option name="projectRuffLspExecutablePath" value="D:\code-challenges\python\.venv\Scripts\ruff-lsp.exe" />
+    <option name="projectRuffExecutablePath" value="$PROJECT_DIR$/.venv/bin/ruff" />
+    <option name="projectRuffLspExecutablePath" value="$PROJECT_DIR$/.venv/bin/ruff-lsp" />
     <option name="useRuffFormat" value="true" />
     <option name="useRuffLsp" value="true" />
   </component>
