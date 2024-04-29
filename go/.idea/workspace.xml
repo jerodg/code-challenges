@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add solution&#10;&#10;+ 27&#10;+ 1614">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/leet_code/2370.go" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/2370.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -31,6 +32,13 @@
       <change beforePath="$PROJECT_DIR$/../python/leet_code/88.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/88.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/pyproject.toml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/../c/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/ruff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/ruff.xml" afterDir="false" />
+>>>>>>> 1f78a4c (update)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +70,11 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;git@github.com:jerodg/code-challenges.git&quot;,
+<<<<<<< HEAD
     &quot;accountId&quot;: &quot;f9687dbd-9409-4bfe-8822-c9c2252efd69&quot;
+=======
+    &quot;accountId&quot;: &quot;bc4c829b-14c6-45f7-ba23-05d63f58ad08&quot;
+>>>>>>> 1f78a4c (update)
   }
 }</component>
   <component name="GoLibraries">
@@ -105,11 +117,19 @@
     "go.import.settings.migrated": "true",
     "go.sdk.automatically.set": "true",
     "ignore.virus.scanning.warn.message": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "/devdrive/projects/code-challenges/go",
     "node.js.detected.package.eslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "Errors",
+=======
+    "last_opened_file_path": "D:/Wtf-is-grpc/grpc-server",
+    "node.js.detected.package.eslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "settings.sync",
+>>>>>>> 1f78a4c (update)
     "typescript.add.unambiguous.imports.on.the.fly": "true"
   }
 }]]></component>

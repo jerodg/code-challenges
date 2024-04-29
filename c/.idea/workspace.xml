@@ -21,6 +21,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b8249b02-29f5-4dbd-8d0b-0e3a37f06258" name="Changes" comment="feat(C): hackerrank&#10;&#10;+ conditionals_and_loops">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/leet_code/2370.c" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2370.cpp" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../javascript/leet_code/2370.mjs" afterDir="false" />
@@ -713,6 +714,12 @@
       <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../license.adoc" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+=======
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/ruff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/ruff.xml" afterDir="false" />
+>>>>>>> 1f78a4c (update)
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -727,6 +734,7 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
   &quot;lastFilter&quot;: {
@@ -772,13 +780,21 @@
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "trunk",
     "ignore.virus.scanning.warn.message": "true",
+<<<<<<< HEAD
     "last_opened_file_path": "/devdrive/projects/code-challenges/cpp",
+=======
+    "last_opened_file_path": "D:/code-challenges/c",
+>>>>>>> 1f78a4c (update)
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+<<<<<<< HEAD
     "settings.editor.selected.configurable": "trusted.hosts",
+=======
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
+>>>>>>> 1f78a4c (update)
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -886,6 +902,8 @@
       <workItem from="1713712418638" duration="42000" />
       <workItem from="1713712466285" duration="1844000" />
       <workItem from="1713751591508" duration="421000" />
+      <workItem from="1713783187256" duration="42000" />
+      <workItem from="1713783235835" duration="56000" />
     </task>
     <task id="LOCAL-00001" summary="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958">
       <option name="closed" value="true" />
@@ -940,6 +958,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
     <MESSAGE value="feat(C): add leetcode challenges&#10;&#10;+ 26&#10;+ 79&#10;+ 88&#10;~ formatted 205&#10;+ 2958" />
     <MESSAGE value="feat(C): hackerrank&#10;&#10;+ introduction" />
     <MESSAGE value="feat(C): hackerrank&#10;&#10;+ functions" />
