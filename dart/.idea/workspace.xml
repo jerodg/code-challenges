@@ -4,24 +4,37 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-<<<<<<< HEAD
-    <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add 2370&#10;&#10;+ c&#10;+ cpp&#10;+ csharp&#10;+ dart&#10;+ go&#10;+ java&#10;+ javascript&#10;+ kotlin&#10;+ php&#10;+ python&#10;+ ruby&#10;+ rust&#10;+ scala&#10;+ typescript">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../license.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-=======
-    <list default="true" id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add dart&#10;&#10;+ 27&#10;+ 1614">
-      <change beforePath="$PROJECT_DIR$/../c/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="6b0a51fe-4e55-4392-8069-fb7148a0517b" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/1289.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/1915.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/2441.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1289.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1915.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2441.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1289.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1915.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/2441.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/1289.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/1915.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/2441.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/1915.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/1289.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/1915.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/ruff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/ruff.xml" afterDir="false" />
->>>>>>> 1f78a4c (update)
+      <change beforePath="$PROJECT_DIR$/../python/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/src/leet_code/2370.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/2370.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,16 +44,9 @@
   <component name="ClangdSettings">
     <option name="formatViaClangd" value="false" />
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="Go File" />
-        <option value="Dart File" />
-      </list>
-    </option>
-  </component>
-  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../../../../Apps/Go" />
+  <component name="GOROOT" url="file://$PROJECT_DIR$/../../../sdks/go" />
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="UPDATE_TYPE" value="REBASE" />
@@ -54,16 +60,19 @@
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
     &quot;url&quot;: &quot;git@github.com:jerodg/code-challenges.git&quot;,
-    &quot;accountId&quot;: &quot;c872ca7c-3bd6-4f8a-a9b2-cff96cee3a90&quot;
+    &quot;accountId&quot;: &quot;f9687dbd-9409-4bfe-8822-c9c2252efd69&quot;
   }
 }</component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="true" />
+  </component>
   <component name="GoVcsConfiguration">
     <option name="GO_FMT" value="false" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
-  <component name="ProjectId" id="2eYTajFPA1yFsCQLkZyFcZ39J73" />
+  <component name="ProjectId" id="2fmWscXeJBKaEeswfMZFTHfirZh" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -71,97 +80,57 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ACTIVE_CLOUD_PROJECT_ACCOUNT": "jerry.gawayne@gmail.com",
-    "ACTIVE_CLOUD_PROJECT_ID": "gen-lang-client-0404274542",
-    "ACTIVE_CLOUD_PROJECT_NAME": "Generative Language Client",
-    "ACTIVE_CLOUD_PROJECT_NUMBER": "897483491935",
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "RunOnceActivity.readMode.enableVisualFormatting": "true",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "com.google.cloudcode.ide_session_index": "20240404_0004",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "trunk",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/devdrive/projects/grpc-watchdog",
-    "node.js.detected.package.eslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "advanced.settings",
-    "show.migrate.to.gradle.popup": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Dart Command Line App.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/devdrive/projects/code-challenges/dart&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.sourceCode&quot;,
+    &quot;show.migrate.to.gradle.popup&quot;: &quot;false&quot;
   }
-}]]></component>
-  <component name="QodanaCloudProjectLink">
-    <option name="lastReportId" value="we07q" />
-    <option name="linkedProjectId" value="A6N62" />
-    <option name="linkedProjectName" value="code-challenges" />
-    <option name="organizationId" value="AL5PL" />
-    <option name="userId" value="3BrDx" />
+}</component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application" nameIsGenerated="true">
+      <option name="filePath" value="$PROJECT_DIR$/leet_code/26.dart" />
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-gosdk-33c477a475b1-b97fc8a1e17c-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.14494.238" />
-        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-GO-241.14494.238" />
+        <option value="bundled-gosdk-33c477a475b1-e0158606a674-org.jetbrains.plugins.go.sharedIndexes.bundled-GO-241.15989.157" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
-  <component name="SvnConfiguration">
-    <configuration>C:\Users\JerryG\AppData\Roaming\Subversion</configuration>
-  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="2f18030b-7f30-472b-b358-637738ed6db8" name="Changes" comment="feat(leet_code): add dart&#10;&#10;+ 27&#10;+ 1614" />
-      <created>1713557032723</created>
+      <changelist id="6b0a51fe-4e55-4392-8069-fb7148a0517b" name="Changes" comment="" />
+      <created>1714407008082</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1713557032723</updated>
+      <updated>1714407008082</updated>
     </task>
-    <task id="LOCAL-00001" summary="feat(leet_code): add 2370&#10;&#10;+ c&#10;+ cpp&#10;+ csharp&#10;+ dart&#10;+ go&#10;+ java&#10;+ javascript&#10;+ kotlin&#10;+ php&#10;+ python&#10;+ ruby&#10;+ rust&#10;+ scala&#10;+ typescript">
-      <option name="closed" value="true" />
-      <created>1714161205184</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1714161205184</updated>
-    </task>
-    <task id="LOCAL-00002" summary="feat(leet_code): add 2370&#10;&#10;+ c&#10;+ cpp&#10;+ csharp&#10;+ dart&#10;+ go&#10;+ java&#10;+ javascript&#10;+ kotlin&#10;+ php&#10;+ python&#10;+ ruby&#10;+ rust&#10;+ scala&#10;+ typescript">
-      <option name="closed" value="true" />
-      <created>1714161453884</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1714161453884</updated>
-    </task>
-    <option name="localTasksCounter" value="3" />
     <servers />
-  </component>
-  <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
-    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
-    <MESSAGE value="feat(leet_code): add 79&#10;&#10;+ 79&#10;~ formatting" />
-    <MESSAGE value="feat(leet_code): add dart&#10;&#10;+ 27&#10;+ 1614" />
-    <MESSAGE value="feat(leet_code): add 2370&#10;&#10;+ c&#10;+ cpp&#10;+ csharp&#10;+ dart&#10;+ go&#10;+ java&#10;+ javascript&#10;+ kotlin&#10;+ php&#10;+ python&#10;+ ruby&#10;+ rust&#10;+ scala&#10;+ typescript" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(leet_code): add 2370&#10;&#10;+ c&#10;+ cpp&#10;+ csharp&#10;+ dart&#10;+ go&#10;+ java&#10;+ javascript&#10;+ kotlin&#10;+ php&#10;+ python&#10;+ ruby&#10;+ rust&#10;+ scala&#10;+ typescript" />
   </component>
   <component name="VgoProject">
+    <integration-enabled>false</integration-enabled>
     <settings-migrated>true</settings-migrated>
   </component>
 </project>

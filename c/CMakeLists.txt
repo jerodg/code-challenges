@@ -49,4 +49,8 @@ add_executable(c
         leet_code/1971.c
         leet_code/1992.c
         leet_code/623.c
-        leet_code/2370.c)
+        leet_code/2370.c
+        leet_code/2441.c
+        leet_code/1915.c
+        leet_code/1289.c
+        leet_code/165.c)

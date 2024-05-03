@@ -5,29 +5,74 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c581ba4-f445-4951-8203-f7e7203665a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/leet_code/2370.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/1289.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/1915.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/2441.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1289.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1915.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2441.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1289.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/165.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1915.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/2441.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1289.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1915.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/2441.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/1289.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/1915.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../go/leet_code/2441.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/1289.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/1915.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/2441.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/1289.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/165.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/1915.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/2441.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/1289.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/165.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/1915.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/2441.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/1289.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/165.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/1915.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/2441.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1289.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/165.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1915.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/2441.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/1289.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/165.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/1915.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/2441.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1289.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/165.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1915.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/2441.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../go/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/ruff.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/ruff.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/docs/problem.adoc" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/docs/problem.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/solution.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/solution1.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/hackerrank/loops.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/template.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/tests/.gitkeep" beforeDir="false" afterPath="$PROJECT_DIR$/../java/leet_code/2370.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/tests/input/input00.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/hackerrank/00.Introduction/4.Loops/tests/output/output00.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/solution.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/solution.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/template.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/hackerrank/02.Strings/06.TextAlignment/template.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/leet_code/200.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/200.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/leet_code/26.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/26.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/leet_code/27.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/27.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/leet_code/42.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/42.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/leet_code/79.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/79.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/leet_code/85.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/85.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/leet_code/88.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/leet_code/88.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../php/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../python/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/pyproject.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/.idea/ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/ruby.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leet_code/2370.rs" beforeDir="false" afterPath="$PROJECT_DIR$/src/leet_code/2370.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,11 +80,24 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="ROOT_SYNC" value="SYNC" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;jerodg&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:jerodg/code-challenges.git&quot;,
+    &quot;accountId&quot;: &quot;3766aa40-49eb-47aa-8764-a51965694e1a&quot;
+  }
+}</component>
   <component name="MacroExpansionManager">
     <option name="directoryName" value="nxtx61j7" />
   </component>
@@ -55,30 +113,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/devdrive/projects/code-challenges/rust&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
-    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
-    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2370.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/1992.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/623.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/988.rs&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.tools.Pieces&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "git-widget-placeholder": "trunk",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/devdrive/projects/code-challenges/rust",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/1289.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/165.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/1915.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2370.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2441.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/1992.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/623.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/988.rs": "true",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RsExternalLinterProjectSettings">
     <option name="runOnTheFly" value="true" />
   </component>

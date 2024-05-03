@@ -13,3 +13,11 @@ A
 leet_code/2073.cs,7/5/756b82a1381fd311386059c17e8f99674ca24f0f
 A
 leet_code/2370.cs,b/3/b3baab1091ad60d5ab4f1b03cb15c3425b93ca98
+A
+leet_code/2441.cs,8/8/883a0a3696e172844c2cb79ae51a88cb6252c146
+A
+leet_code/1289.cs,e/f/ef01027d4b1c5c8ffb8b5fa16f050fdd2b0650e2
+A
+leet_code/1915.cs,b/2/b20c5056ac657978cfe6dd0904f2ebc613a7a046
+@
+leet_code/165.cs,4/c/4c85216ec67665d9b30419192749cbbdb55dc36d

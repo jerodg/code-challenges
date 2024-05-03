@@ -1,9 +1,30 @@
 //! # LeetCode Problem 2370
 //!
-//! This module contains the solution for LeetCode problem 2370. The problem is about finding the longest ideal string.
-//! The function `longest_ideal_string` takes a string and an integer as input and returns the length of the longest ideal string.
-//! An ideal string is defined as a string where the difference between the ASCII values of any two characters is less than or equal to `k`.
+//! This module contains the solution for LeetCode problem 2370. The problem is about finding the
+//! longest ideal string. The function `longest_ideal_string` takes a string and an integer as input
+//! and returns the length of the longest ideal string. An ideal string is defined as a string where
+//! the difference between the ASCII values of any two characters is less than or equal to `k`.
 //! The function uses dynamic programming to solve the problem.
+//!
+//! The time and space complexity for the provided Rust code are as follows:
+//!
+//! Time Complexity:
+//! - Best Case: O(n), where n is the length of the string `s`. This is because even in the best
+//! case, the function needs to iterate over each character in the string at least once.
+//!
+//! - Average Case: O(n), where n is the length of the string `s`. The function iterates over
+//! each character in the string exactly once. The operations inside the loop (calculating the range
+//! of characters, finding the maximum length of the ideal string within the range, and updating the
+//! memoization array) all take constant time.
+//!
+//! - Worst Case: O(n), where n is the length of the string `s`. Even in the worst case, the
+//! function still needs to iterate over each character in the string once. The operations inside
+//! the loop do not change based on the input, so they always take constant time.
+//!
+//! Space Complexity:
+//! The space complexity of the function is O(1). This is because the size of the memoization
+//! array is fixed at 26, which corresponds to the number of lowercase English letters. The size of
+//! the array does not depend on the size of the input string `s`, so the space complexity is constant.
 
 impl Solution {
     /// Finds the length of the longest ideal string.

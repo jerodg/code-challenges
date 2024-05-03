@@ -76,13 +76,10 @@ exclude = [
 
 line-length = 120
 fix = true
-line-length = 120
 indent-width = 4
 target-version = "py312"
 include = ["*.py"]
 respect-gitignore = true
-
-
 
 
 
