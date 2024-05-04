@@ -13,11 +13,13 @@ const isIsomorphic = function (s, t) {
 
     // Iterate over the characters in the strings
     for (let i = 0; i < s.length; i++) {
-        // If the current character in s is already mapped to a character in t and it is not the same as the current character in t
+        // If the current character in s is already mapped to a character in t and it is not the same as the current
+        // character in t
         if (sMap.has(s[i]) && sMap.get(s[i]) !== t[i]) {
             return false;
         }
-        // If the current character in t is already mapped to a character in s and it is not the same as the current character in s
+        // If the current character in t is already mapped to a character in s and it is not the same as the current
+        // character in s
         if (tMap.has(t[i]) && tMap.get(t[i]) !== s[i]) {
             return false;
         }

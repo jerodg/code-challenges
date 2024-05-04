@@ -14,7 +14,9 @@ let countStudents = function (students, sandwiches) {
     students.forEach((student) => count[student]++);
     for (let sandwich of sandwiches) {
         // If there are no students that prefer the current type of sandwich, break the loop
-        if (0 === count[sandwich]) {break;}
+        if (0 === count[sandwich]) {
+            break;
+        }
         // Decrease the count of the current type of student
         count[sandwich]--;
     }

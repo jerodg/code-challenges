@@ -28,13 +28,14 @@ function readLine() {
 }
 
 /**
- * Function to create a regular expression that matches a string that starts with Mr., Mrs., Ms., Dr., or Er., followed by one or
- * more letters
+ * Function to create a regular expression that matches a string that starts with Mr., Mrs., Ms., Dr., or Er., followed
+ * by one or more letters
  *
  * @returns {RegExp} - The regular expression
  */
 function regexVar() {
-    // The regular expression matches a string that starts with Mr., Mrs., Ms., Dr., or Er., followed by one or more letters
+    // The regular expression matches a string that starts with Mr., Mrs., Ms., Dr., or Er., followed by one or more
+    // letters
     return /^(Mr|Mrs|Ms|Dr|Er)(\.)([a-zA-Z])+$/;
 }
 

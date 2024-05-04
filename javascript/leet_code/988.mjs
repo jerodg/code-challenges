@@ -1,6 +1,7 @@
 /**
- * @fileoverview This module provides solutions to various LeetCode problems. It includes functions for manipulating binary trees,
- * checking the validity of strings with parentheses and asterisks, and rearranging arrays in a specific order.
+ * @fileoverview This module provides solutions to various LeetCode problems. It includes functions for manipulating
+ *     binary trees, checking the validity of strings with parentheses and asterisks, and rearranging arrays in a
+ *     specific order.
  *
  * @module leet_code/988
  */
@@ -20,8 +21,9 @@ function TreeNode(val, left, right) {
 }
 
 /**
- * This function finds the smallest string (in lexicographical order) that starts from a leaf of a binary tree and ends at the root.
- * The characters of the string are mapped from the values of the nodes (0 maps to 'a', 1 maps to 'b', etc.).
+ * This function finds the smallest string (in lexicographical order) that starts from a leaf of a binary tree and ends
+ * at the root. The characters of the string are mapped from the values of the nodes (0 maps to 'a', 1 maps to 'b',
+ * etc.).
  *
  * @param {TreeNode} root - The root node of the binary tree.
  * @returns {string} - The smallest string that starts from a leaf and ends at the root.

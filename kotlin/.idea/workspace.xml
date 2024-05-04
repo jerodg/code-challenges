@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8ac5a88-087f-453f-9bbc-d432e6324ee1" name="Changes" comment="feat(leet_code): add kotlin&#10;&#10;+ 27&#10;+ 1614">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e8ac5a88-087f-453f-9bbc-d432e6324ee1" name="Changes" comment="feat(leet_code): add kotlin&#10;&#10;+ 881&#10;~ documentation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -124,7 +122,8 @@
     <option name="CHECK_NEW_TODO" value="false" />
     <MESSAGE value="feat(leet_code) add 79&#10;&#10;+ 79&#10;~ formatting" />
     <MESSAGE value="feat(leet_code): add kotlin&#10;&#10;+ 27&#10;+ 1614" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(leet_code): add kotlin&#10;&#10;+ 27&#10;+ 1614" />
+    <MESSAGE value="feat(leet_code): add kotlin&#10;&#10;+ 881&#10;~ documentation" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(leet_code): add kotlin&#10;&#10;+ 881&#10;~ documentation" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

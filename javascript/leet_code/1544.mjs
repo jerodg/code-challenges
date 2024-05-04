@@ -38,8 +38,8 @@ let minRemoveToMakeValid = function (s) {
 };
 
 /**
- * Transforms the input string by removing all instances of two adjacent characters that are the same letter, one lowercase and one
- * uppercase.
+ * Transforms the input string by removing all instances of two adjacent characters that are the same letter, one
+ * lowercase and one uppercase.
  * @param {string} s - The input string.
  * @return {string} - The transformed string.
  */
@@ -51,7 +51,8 @@ let makeGood = function (s) {
             stack.push(s[i]);
         } else {
             let top = stack[stack.length - 1];
-            // If the top character of the stack and the current character are the same letter but different case, pop the stack
+            // If the top character of the stack and the current character are the same letter but different case, pop
+            // the stack
             if (top.toLowerCase() === s[i].toLowerCase() && top !== s[i]) {
                 stack.pop();
             } else {

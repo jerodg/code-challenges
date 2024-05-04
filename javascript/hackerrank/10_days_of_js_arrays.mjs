@@ -44,7 +44,8 @@ function getSecondLargest(nums) {
             secondLargest = largest;
             largest = nums[i];
         }
-        // If the current number is smaller than the largest but larger than the second largest, update the second largest
+            // If the current number is smaller than the largest but larger than the second largest, update the second
+        // largest
         else if (nums[i] > secondLargest && nums[i] < largest) {
             secondLargest = nums[i];
         }

@@ -1,5 +1,6 @@
 /**
- * @fileoverview This module provides a function to calculate the maximum length of a subarray with at most K distinct elements.
+ * @fileoverview This module provides a function to calculate the maximum length of a subarray with at most K distinct
+ *     elements.
  */
 
 /**

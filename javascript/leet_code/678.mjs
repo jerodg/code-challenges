@@ -23,7 +23,9 @@ let checkValidString = function (s) {
         right += ")" === s[i] ? -1 : 1;
 
         // If the right counter is negative, the string is not valid
-        if (0 > right) {break;}
+        if (0 > right) {
+            break;
+        }
 
         // Reset the left counter to 0 if it is negative
         left = Math.max(left, 0);

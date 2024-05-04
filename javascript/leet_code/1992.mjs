@@ -5,8 +5,9 @@
  * Finds all farmlands in a 2D grid.
  * The grid is represented as a 2D array where 0 represents water and 1 represents farmland.
  * A farmland is formed by connecting adjacent lands horizontally or vertically.
- * The function returns a list of all farmlands, where each farmland is represented by a list of four integers [row, col, bottomRow, bottomCol],
- * where (row, col) is the top-left corner of the farmland, and (bottomRow, bottomCol) is the bottom-right corner of the farmland.
+ * The function returns a list of all farmlands, where each farmland is represented by a list of four integers [row,
+ * col, bottomRow, bottomCol], where (row, col) is the top-left corner of the farmland, and (bottomRow, bottomCol) is
+ * the bottom-right corner of the farmland.
  *
  * @param {number[][]} land - The 2D grid representation of the map.
  * @return {number[][]} A list of all farmlands.

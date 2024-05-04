@@ -11,7 +11,8 @@
  *
  * @param {string} ver1 - The first version string to compare. It should be in the format 'x.y.z'.
  * @param {string} ver2 - The second version string to compare. It should be in the format 'x.y.z'.
- * @returns {number} - Returns 0 if the versions are equal, -1 if ver1 is less than ver2, and 1 if ver1 is greater than ver2.
+ * @returns {number} - Returns 0 if the versions are equal, -1 if ver1 is less than ver2, and 1 if ver1 is greater than
+ *     ver2.
  */
 const compareVersion = function (ver1, ver2) {
     // Split the version strings into arrays of integers

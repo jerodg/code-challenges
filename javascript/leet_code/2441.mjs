@@ -8,7 +8,8 @@
  * Finds the maximum absolute value of an integer in an array that also contains its negative counterpart.
  *
  * @param {number[]} nums - The input array of numbers.
- * @returns {number} - The maximum absolute value of an integer in the array that also contains its negative counterpart. If no such number exists, it returns -1.
+ * @returns {number} - The maximum absolute value of an integer in the array that also contains its negative
+ *     counterpart. If no such number exists, it returns -1.
  */
 const findMaxK = function (nums) {
     // Initialize the largest absolute value found so far to -1
