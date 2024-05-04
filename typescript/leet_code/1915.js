@@ -8,7 +8,8 @@
  * A wonderful string is a string where at most one letter appears an odd number of times.
  * This function uses a bitmask to keep track of the parity of the count of each letter in the word.
  * It iterates over the word, updating the bitmask and the count of each bitmask encountered.
- * It then iterates over the counts of each bitmask, adding to the result the count of the current bitmask and the counts of the bitmasks that differ from the current bitmask by one bit.
+ * It then iterates over the counts of each bitmask, adding to the result the count of the current bitmask and the
+ * counts of the bitmasks that differ from the current bitmask by one bit.
  *
  * @param {string} word - The word to search. It is expected to be a string of lowercase English letters.
  * @returns {number} The number of wonderful substrings in the word.

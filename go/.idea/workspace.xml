@@ -5,87 +5,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c91c8925-c709-4304-ae26-1c9061d65646" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/1289.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/165.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/1915.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/2441.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1289.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/165.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1915.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2441.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1289.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/165.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1915.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/2441.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1289.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1915.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/2441.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1289.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/165.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1915.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/2441.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/1289.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/1915.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/2441.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/1289.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/165.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/1915.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/2441.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/1289.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/165.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/1915.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/2441.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/1289.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/165.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/1915.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/2441.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/leet_code/1289.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/leet_code/165.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/leet_code/1915.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/leet_code/2441.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/leet_code/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1289.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/165.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1915.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/2441.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/1289.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/165.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/1915.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/2441.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1289.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/165.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1915.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/2441.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/1289.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/165.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/1915.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/2441.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/881.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../php/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../php/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/.idea/python.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/ruby.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust/src/leet_code/2370.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/2370.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.go" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/2d_array_ds.go" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/2d_array_ds.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/apple_and_orange.go" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/apple_and_orange.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/dynamic_array.go" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/dynamic_array.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hackerrank/number_line_jumps.go" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/number_line_jumps.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1249.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1249.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1544.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1544.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1614.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1614.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/1700.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1700.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/205.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/205.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/26.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/26.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/678.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/678.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/79.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/79.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/88.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/88.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/950.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/950.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/165.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/165.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/1915.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/1915.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/2370.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/2370.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/2441.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/2441.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,6 +42,7 @@
   <component name="GOROOT" url="file://$PROJECT_DIR$/../../../sdks/go" />
   <component name="Git.Settings">
     <option name="PREVIEW_PUSH_PROTECTED_ONLY" value="true" />
+    <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
@@ -152,7 +93,7 @@
     "go.sdk.automatically.set": "true",
     "last_opened_file_path": "/devdrive/projects/code-challenges/dart",
     "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "preferences.pluginManager"
+    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
   }
 }]]></component>
   <component name="SharedIndexes">

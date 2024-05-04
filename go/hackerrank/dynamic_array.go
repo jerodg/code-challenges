@@ -1,3 +1,6 @@
+// Package main provides a solution to the problem of creating a dynamic array.
+//
+// This particular file provides a solution to the problem from HackerRank.
 package main
 
 import (
@@ -9,15 +12,21 @@ import (
 	"strings"
 )
 
-/*
- * Complete the 'dynamicArray' function below.
- *
- * The function is expected to return an INTEGER_ARRAY.
- * The function accepts following parameters:
- *  1. INTEGER n
- *  2. 2D_INTEGER_ARRAY queries
- */
-
+// dynamicArray creates a dynamic array and performs queries on it.
+//
+// It accepts two parameters:
+// - n: an integer representing the number of empty sequences to initialize.
+// - queries: a 2D array of integers representing the queries to perform.
+//
+// The function returns a slice of integers representing the results of each type 2 query.
+//
+// The function initializes n empty sequences and performs each query in order. If the query is of type 1,
+// it appends a value to a sequence. If the query is of type 2, it appends the result of the query to the result slice.
+//
+// Time complexity analysis:
+// - Best-case: O(q), when all queries are of type 1.
+// - Worst-case: O(q), when all queries are of type 2.
+// - Average-case: O(q), as we always have to perform each query.
 func dynamicArray(n int32, queries [][]int32) []int32 {
 
 	var seqList [][]int32
@@ -101,6 +110,7 @@ func main() {
 	writer.Flush()
 }
 
+// readLine reads a line from the provided reader and returns it as a string.
 func readLine(reader *bufio.Reader) string {
 	str, _, err := reader.ReadLine()
 	if err == io.EOF {
@@ -110,6 +120,7 @@ func readLine(reader *bufio.Reader) string {
 	return strings.TrimRight(string(str), "\r\n")
 }
 
+// checkError checks if the provided error is nil. If it's not, it panics with the error.
 func checkError(err error) {
 	if err != nil {
 		panic(err)

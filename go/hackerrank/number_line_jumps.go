@@ -1,3 +1,6 @@
+// Package main provides a solution to the problem of determining if two kangaroos on a number line can land at the same spot.
+//
+// This particular file provides a solution to the problem from HackerRank.
 package main
 
 import (
@@ -9,17 +12,22 @@ import (
 	"strings"
 )
 
-/*
- * Complete the 'kangaroo' function below.
- *
- * The function is expected to return a STRING.
- * The function accepts following parameters:
- *  1. INTEGER x1
- *  2. INTEGER v1
- *  3. INTEGER x2
- *  4. INTEGER v2
- */
-
+// kangaroo determines if two kangaroos on a number line can land at the same spot.
+//
+// It accepts four parameters:
+// - x1: an integer representing the starting position of the first kangaroo.
+// - v1: an integer representing the jump distance of the first kangaroo.
+// - x2: an integer representing the starting position of the second kangaroo.
+// - v2: an integer representing the jump distance of the second kangaroo.
+//
+// The function returns a string "YES" if the two kangaroos can land at the same spot, and "NO" otherwise.
+//
+// The function calculates if the difference in the start positions and jump distances can result in the kangaroos landing at the same spot.
+//
+// Time complexity analysis:
+// - Best-case: O(1), as the calculation is done in constant time.
+// - Worst-case: O(1), as the calculation is done in constant time.
+// - Average-case: O(1), as the calculation is done in constant time.
 func kangaroo(x1 int32, v1 int32, x2 int32, v2 int32) string {
 	if v1 == v2 {
 		if x1 == x2 {
@@ -31,7 +39,6 @@ func kangaroo(x1 int32, v1 int32, x2 int32, v2 int32) string {
 		return "YES"
 	}
 	return "NO"
-
 }
 
 func main() {
@@ -69,6 +76,7 @@ func main() {
 	writer.Flush()
 }
 
+// readLine reads a line from the provided reader and returns it as a string.
 func readLine(reader *bufio.Reader) string {
 	str, _, err := reader.ReadLine()
 	if err == io.EOF {
@@ -78,6 +86,7 @@ func readLine(reader *bufio.Reader) string {
 	return strings.TrimRight(string(str), "\r\n")
 }
 
+// checkError checks if the provided error is nil. If it's not, it panics with the error.
 func checkError(err error) {
 	if err != nil {
 		panic(err)

@@ -5,13 +5,18 @@
 /**
  * Compares two version numbers.
  *
- * This function iterates over the characters of the version numbers, parsing the revisions (numbers separated by dots).
- * It compares each pair of revisions. If a revision is missing in one of the version numbers, it is considered to be zero.
- * The comparison stops as soon as a pair of revisions is found where one is greater than the other, or if both version numbers have been fully parsed.
+ * This function iterates over the characters of the version numbers, parsing the revisions (numbers separated by
+ * dots).
+ * It compares each pair of revisions. If a revision is missing in one of the version numbers, it is considered to be
+ * zero. The comparison stops as soon as a pair of revisions is found where one is greater than the other, or if both
+ * version numbers have been fully parsed.
  *
- * @param {string} version1 - The first version number to compare. It is expected to be a string of digits separated by dots.
- * @param {string} version2 - The second version number to compare. It is expected to be a string of digits separated by dots.
- * @returns {number} 1 if version1 is greater than version2, -1 if version1 is less than version2, or 0 if they are equal.
+ * @param {string} version1 - The first version number to compare. It is expected to be a string of digits separated by
+ *     dots.
+ * @param {string} version2 - The second version number to compare. It is expected to be a string of digits separated
+ *     by dots.
+ * @returns {number} 1 if version1 is greater than version2, -1 if version1 is less than version2, or 0 if they are
+ *     equal.
  *
  * @throws {TypeError} If the inputs are not strings of digits separated by dots.
  */

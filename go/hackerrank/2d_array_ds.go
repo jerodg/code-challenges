@@ -1,3 +1,6 @@
+// Package main provides a solution to the problem of calculating the maximum sum of hourglass in a 2D array.
+//
+// This particular file provides a solution to the problem from HackerRank.
 package main
 
 import (
@@ -10,6 +13,20 @@ import (
 	"strings"
 )
 
+// hourglassSum calculates the maximum sum of hourglass in a 2D array.
+//
+// It accepts one parameter:
+// - arr: a 2D array of integers.
+//
+// The function returns an integer representing the maximum sum of hourglass in the array.
+//
+// The function iterates over the array, calculating the sum of hourglass for each element and keeping track
+// of the maximum sum found.
+//
+// Time complexity analysis:
+// - Best-case: O(n^2), when the array has only one element.
+// - Worst-case: O(n^2), when the array is full.
+// - Average-case: O(n^2), as we always have to iterate over each element of the array.
 func hourglassSum(arr [][]int32) int32 {
 	maxSum := int32(math.MinInt32)
 	for i := 1; i < 5; i++ {
@@ -32,7 +49,12 @@ func main() {
 	stdout, err := os.Create(os.Getenv("OUTPUT_PATH"))
 	checkError(err)
 
-	defer stdout.Close()
+	defer func(stdout *os.File) {
+		err := stdout.Close()
+		if err != nil {
+			panic(err)
+		}
+	}(stdout)
 
 	writer := bufio.NewWriterSize(stdout, 16*1024*1024)
 
@@ -59,9 +81,13 @@ func main() {
 
 	fmt.Fprintf(writer, "%d\n", result)
 
-	writer.Flush()
+	err = writer.Flush()
+	if err != nil {
+		return
+	}
 }
 
+// readLine reads a line from the provided reader and returns it as a string.
 func readLine(reader *bufio.Reader) string {
 	str, _, err := reader.ReadLine()
 	if err == io.EOF {
@@ -71,6 +97,7 @@ func readLine(reader *bufio.Reader) string {
 	return strings.TrimRight(string(str), "\r\n")
 }
 
+// checkError checks if the provided error is nil. If it's not, it panics with the error.
 func checkError(err error) {
 	if err != nil {
 		panic(err)

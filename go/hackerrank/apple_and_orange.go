@@ -1,3 +1,6 @@
+// Package main provides a solution to the problem of counting apples and oranges falling within a certain range.
+//
+// This particular file provides a solution to the problem from HackerRank.
 package main
 
 import (
@@ -9,18 +12,26 @@ import (
 	"strings"
 )
 
-/*
- * Complete the 'countApplesAndOranges' function below.
- *
- * The function accepts following parameters:
- *  1. INTEGER s
- *  2. INTEGER t
- *  3. INTEGER a
- *  4. INTEGER b
- *  5. INTEGER_ARRAY apples
- *  6. INTEGER_ARRAY oranges
- */
-
+// countApplesAndOranges counts the number of apples and oranges that fall on Sam's house.
+//
+// It accepts six parameters:
+// - s: an integer representing the start point of Sam's house location.
+// - t: an integer representing the end point of Sam's house location.
+// - a: an integer representing the location of the Apple tree.
+// - b: an integer representing the location of the Orange tree.
+// - apples: a slice of integers representing the distances at which each apple falls from tree a.
+// - oranges: a slice of integers representing the distances at which each orange falls from tree b.
+//
+// The function does not return a value. It prints two integers to stdout: the first line contains the number of apples
+// that fall on Sam's house, and the second line contains the number of oranges.
+//
+// The function iterates over the distances at which each apple and orange falls, and increments a counter if the fruit
+// falls on Sam's house.
+//
+// Time complexity analysis:
+// - Best-case: O(n + m), when all fruits fall on Sam's house.
+// - Worst-case: O(n + m), when no fruits fall on Sam's house.
+// - Average-case: O(n + m), as we always have to check each fruit.
 func countApplesAndOranges(s int32, t int32, a int32, b int32, apples []int32, oranges []int32) {
 	appleCount := 0
 	orangeCount := 0
@@ -99,6 +110,7 @@ func main() {
 	countApplesAndOranges(s, t, a, b, apples, oranges)
 }
 
+// readLine reads a line from the provided reader and returns it as a string.
 func readLine(reader *bufio.Reader) string {
 	str, _, err := reader.ReadLine()
 	if err == io.EOF {
@@ -108,6 +120,7 @@ func readLine(reader *bufio.Reader) string {
 	return strings.TrimRight(string(str), "\r\n")
 }
 
+// checkError checks if the provided error is nil. If it's not, it panics with the error.
 func checkError(err error) {
 	if err != nil {
 		panic(err)
