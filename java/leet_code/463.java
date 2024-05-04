@@ -1,5 +1,3 @@
-import java.util.*;
-
 /**
  * This class provides a solution for calculating the perimeter of an island in a 2D grid.
  * An island is defined as a group of '1's in the grid. Each group of '1's is surrounded by '0's.
@@ -11,6 +9,7 @@ class Solution {
      * Calculates the perimeter of an island in the given 2D grid.
      *
      * @param grid The 2D grid representing the land. '1's represent island and '0's represent water.
+     *
      * @return An integer representing the total perimeter of the island.
      */
     public int islandPerimeter(int[][] grid) {

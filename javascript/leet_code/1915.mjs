@@ -1,9 +1,9 @@
 /**
  * @fileoverview This module provides a function to count the number of 'wonderful' substrings in a word.
  * A 'wonderful' substring is defined as a substring where no more than one character appears an odd number of times.
- * The function uses a bitmask to keep track of the parity of the character counts and a frequency array to store the number of times each bitmask value has been encountered.
+ * The function uses a bitmask to keep track of the parity of the character counts and a frequency array to
+ * store the number of times each bitmask value has been encountered.
  */
-
 /**
  * Counts the number of 'wonderful' substrings in a word.
  *

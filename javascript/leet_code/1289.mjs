@@ -1,10 +1,10 @@
 /**
  * @fileoverview This module provides a function to calculate the minimum falling path sum in a matrix.
- * A falling path starts at any element in the first row and chooses the element in the next row that is either directly below or diagonally left/right.
+ * A falling path starts at any element in the first row and chooses the element in the next row that is
+ * either directly below or diagonally left/right.
  * Specifically, the index difference between two consecutive rows' elements is at most one.
  * This function uses dynamic programming to keep track of the minimum sum of the falling path up to each element.
  */
-
 /**
  * Calculates the minimum falling path sum in a matrix.
  *

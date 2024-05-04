@@ -1,51 +1,46 @@
-import scala.annotation.tailrec
+/** This module defines a binary tree and a solution to find the smallest string starting from the leaf of the tree.
+  * Each node in the tree contains a value which is an integer between 0 and 25, inclusive, representing the letters 'a' to 'z'.
+  * The smallest string is the lexicographically smallest string that starts at any leaf of this tree and ends at its root.
+  */
 
-/**
-  * This object contains a solution for finding the smallest string starting from leaf of a binary tree.
-  * The characters of the string are formed by the values of the nodes, where a value of 0 corresponds to 'a', 1 corresponds to 'b', and so on.
+/** Class representing a node in a binary tree.
+  *
+  * @constructor create a new tree node with a value, left child, and right child.
+  * @param _value the value of the node, an integer between 0 and 25, inclusive, representing the letters 'a' to 'z'.
+  * @param _left the left child of the node, another TreeNode instance or null if there is no left child.
+  * @param _right the right child of the node, another TreeNode instance or null if there is no right child.
+  */
+class TreeNode(
+    _value: Int = 0,
+    _left: TreeNode = null,
+    _right: TreeNode = null
+) {
+  var value: Int = _value
+  var left: TreeNode = _left
+  var right: TreeNode = _right
+}
+
+/** Object containing the solution to find the smallest string starting from the leaf of the tree.
   */
 object Solution {
 
-  /**
-    * Definition for a binary tree node.
-    * @param _value The value of the node, default is 0.
-    * @param _left The left child of the node, default is null.
-    * @param _right The right child of the node, default is null.
+  /** Function to find the smallest string starting from the leaf of the tree.
+    *
+    * @param root the root of the tree, a TreeNode instance.
+    * @param prevMin the smallest string found so far, a string.
+    * @return the smallest string starting from the leaf of the tree and ending at its root.
     */
-  class TreeNode(_value: Int = 0, _left: TreeNode = null, _right: TreeNode = null) {
-    var value: Int = _value
-    var left: TreeNode = _left
-    var right: TreeNode = _right
-  }
-
-  /**
-    * Finds the smallest string starting from leaf of a binary tree.
-    * @param root The root node of the binary tree.
-    * @return The smallest string starting from leaf.
-    */
-  def smallestFromLeaf(root: TreeNode): String = {
-
-    /**
-      * Performs a depth-first search on the binary tree.
-      * @param node The current node.
-      * @param path The path from root to the current node.
-      * @return The smallest string starting from leaf of the subtree rooted at the current node.
-      */
-    @tailrec
-    def dfs(node: TreeNode, path: List[Char]): List[Char] = {
-      if (node == null) return Nil
-      // If the node is a leaf, return the string formed by the path from root to this leaf.
-      if (node.left == null && node.right == null) return (node.value + 'a').toChar :: path
-      val left: List[Char] = dfs(node.left, (node.value + 'a').toChar :: path)
-      val right: List[Char] = dfs(node.right, (node.value + 'a').toChar :: path)
-      // If one of the subtrees is empty, return the string from the other subtree.
-      // Otherwise, return the smaller string.
-      if (left.isEmpty) right
-      else if (right.isEmpty) left
-      else if (left.mkString < right.mkString) left
-      else right
+  def smallestFromLeaf(root: TreeNode, prevMin: String = ""): String = {
+    val nextMin: String = (root.value + 'a').toChar +: prevMin
+    (root.left, root.right) match {
+      case (null, null)  => nextMin
+      case (left, null)  => smallestFromLeaf(left, nextMin)
+      case (null, right) => smallestFromLeaf(right, nextMin)
+      case (left, right) =>
+        Ordering.String.min(
+          smallestFromLeaf(left, nextMin),
+          smallestFromLeaf(right, nextMin)
+        )
     }
-
-    dfs(root, Nil).mkString
   }
 }

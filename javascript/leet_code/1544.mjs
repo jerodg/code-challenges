@@ -1,8 +1,6 @@
 /**
  * @fileoverview This module provides functions to manipulate strings.
- * @author jerodg
  */
-
 /**
  * Removes the minimum number of parentheses to make the input string valid.
  * @param {string} s - The input string.

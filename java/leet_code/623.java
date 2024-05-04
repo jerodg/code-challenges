@@ -11,9 +11,10 @@ class Solution {
     /**
      * Adds a row of nodes with a given value at a specified depth in the binary tree.
      *
-     * @param root The root node of the binary tree.
-     * @param val The value for the new row of nodes.
+     * @param root  The root node of the binary tree.
+     * @param val   The value for the new row of nodes.
      * @param depth The depth at which to add the new row of nodes.
+     *
      * @return The root node of the binary tree after adding the new row of nodes.
      */
     public TreeNode addOneRow(TreeNode root, int val, int depth) {
@@ -27,9 +28,9 @@ class Solution {
     /**
      * Recursive helper method to add a row of nodes at a specified depth in the binary tree.
      *
-     * @param root The current node in the binary tree.
-     * @param val The value for the new row of nodes.
-     * @param depth The depth at which to add the new row of nodes.
+     * @param root         The current node in the binary tree.
+     * @param val          The value for the new row of nodes.
+     * @param depth        The depth at which to add the new row of nodes.
      * @param currentDepth The current depth in the binary tree.
      */
     private void helper(TreeNode root, int val, int depth, int currentDepth) {

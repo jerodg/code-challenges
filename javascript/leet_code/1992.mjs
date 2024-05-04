@@ -1,7 +1,6 @@
 /**
  * @fileoverview This module provides a function to find all farmlands in a 2D grid.
  */
-
 /**
  * Finds all farmlands in a 2D grid.
  * The grid is represented as a 2D array where 0 represents water and 1 represents farmland.

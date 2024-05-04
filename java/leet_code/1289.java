@@ -21,7 +21,7 @@ class Solution {
      * This method calculates the minimum falling path sum for a given row in the grid.
      * It uses recursion and dynamic programming to solve the problem.
      *
-     * @param row The row in the grid to start the calculation from. It is expected to be an integer.
+     * @param row  The row in the grid to start the calculation from. It is expected to be an integer.
      * @param grid The input grid. It is expected to be a non-null 2D integer array.
      *
      * @return A Triplet object containing the minimum sum, the second minimum sum, and the index of the minimum sum.
@@ -62,9 +62,9 @@ class Triplet {
     /**
      * This constructor initializes a new Triplet object with the given values.
      *
-     * @param minSum The minimum sum. It is expected to be an integer.
+     * @param minSum       The minimum sum. It is expected to be an integer.
      * @param secondMinSum The second minimum sum. It is expected to be an integer.
-     * @param minSumIndex The index of the minimum sum. It is expected to be an integer.
+     * @param minSumIndex  The index of the minimum sum. It is expected to be an integer.
      */
     Triplet(int minSum, int secondMinSum, int minSumIndex) {
         this.minSum = minSum;

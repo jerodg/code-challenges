@@ -11,7 +11,7 @@ class Solution {
      * @param nums The input array. It is expected to be a non-null integer array.
      *
      * @return The maximum positive integer that also exists as a negative integer in the array.
-     * If no such integer exists, it returns -1. The return type is an integer.
+     *         If no such integer exists, it returns -1. The return type is an integer.
      */
     public static int findMaxK(final int[] nums) {
         // An array used as a hashmap to store the negative integers from the input array

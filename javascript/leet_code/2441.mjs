@@ -1,9 +1,9 @@
 /**
- * @fileoverview This module provides a function to find the maximum absolute value of an integer in an array that also contains its negative counterpart.
- * The function uses a Set to store the numbers and then checks for each number if its negative counterpart is in the Set.
- * If it is, it updates the maximum absolute value found so far.
+ * @fileoverview This module provides a function to find the maximum absolute value of an integer in an array
+ * that also contains its negative counterpart.
+ * The function uses a Set to store the numbers and then checks for each number if its negative counterpart
+ * is in the Set. If it is, it updates the maximum absolute value found so far.
  */
-
 /**
  * Finds the maximum absolute value of an integer in an array that also contains its negative counterpart.
  *

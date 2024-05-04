@@ -22,7 +22,9 @@ class Solution {
      * Counts the number of islands in the given 2D grid map.
      *
      * @param grid the 2D grid map of '1's (land) and '0's (water)
+     *
      * @return the number of islands
+     *
      * @throws NullPointerException if grid is null
      */
     public int numIslands(final char[][] grid) {

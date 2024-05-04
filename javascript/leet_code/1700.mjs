@@ -1,8 +1,6 @@
 /**
  * @fileoverview This module provides a function to count the number of students that cannot eat a sandwich.
- * @author jerodg
  */
-
 /**
  * Counts the number of students that cannot eat a sandwich.
  * @param {number[]} students - An array where students[i] is the preference of the ith student.

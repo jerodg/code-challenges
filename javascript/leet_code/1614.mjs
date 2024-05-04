@@ -1,8 +1,6 @@
 /**
  * @fileoverview This module provides a function to calculate the maximum depth of valid parentheses in a string.
- * @author jerodg
  */
-
 /**
  * Calculates the maximum depth of valid parentheses in a string.
  * @param {string} s - The input string.

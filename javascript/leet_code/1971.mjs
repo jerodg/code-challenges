@@ -3,7 +3,6 @@
  * The graph is represented as a list of edges, and nodes are represented as integers.
  * The function uses a depth-first search strategy to traverse the graph.
  */
-
 /**
  * Determines if there is a valid path between the source and destination nodes in a graph.
  *

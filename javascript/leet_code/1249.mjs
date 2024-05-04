@@ -1,7 +1,3 @@
-/**
- * @param {string} s
- * @return {string}
- */
 let minRemoveToMakeValid = function (s) {
     let stack = [];
     let remove = [];

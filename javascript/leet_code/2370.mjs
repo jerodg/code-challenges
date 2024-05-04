@@ -5,7 +5,6 @@
  *
  * @module leet_code/2370
  */
-
 /**
  * Calculates the longest ideal string.
  *

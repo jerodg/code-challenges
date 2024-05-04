@@ -1,8 +1,6 @@
 /**
  * @fileoverview This module provides a function to calculate the time required to buy tickets.
- * @author jerodg
  */
-
 /**
  * Calculates the time required to buy tickets.
  * @param {number[]} tickets - An array where tickets[i] is the number of tickets the ith person wants to buy.
