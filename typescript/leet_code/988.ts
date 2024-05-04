@@ -1,5 +1,6 @@
 /**
- * @fileoverview This module provides a class to represent a tree node and a function to find the smallest string starting from leaf.
+ * @fileoverview This module provides a class to represent a tree node and a function to find the smallest string
+ *     starting from leaf.
  * @module leet_code/988
  */
 

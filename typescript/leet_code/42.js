@@ -22,21 +22,18 @@ function trap(height) {
             if (height[left] > leftMax) {
                 // Update the maximum height on the left
                 leftMax = height[left];
-            }
-            else {
+            } else {
                 // Add the difference between the maximum height and the current height to the result
                 result += leftMax - height[left];
             }
             // Move the left pointer to the right
             left++;
-        }
-        else {
+        } else {
             // If the right side is shorter or equal
             if (height[right] > rightMax) {
                 // Update the maximum height on the right
                 rightMax = height[right];
-            }
-            else {
+            } else {
                 // Add the difference between the maximum height and the current height to the result
                 result += rightMax - height[right];
             }

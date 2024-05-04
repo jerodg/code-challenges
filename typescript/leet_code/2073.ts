@@ -1,6 +1,6 @@
 /**
- * @fileoverview This module contains a solution for a problem where you need to calculate the time required to buy a specific
- *     ticket. The problem is solved by using a while loop to simulate the process of buying tickets.
+ * @fileoverview This module contains a solution for a problem where you need to calculate the time required to buy a
+ *     specific ticket. The problem is solved by using a while loop to simulate the process of buying tickets.
  */
 
 /**
@@ -8,8 +8,8 @@
  * The function iterates over the tickets array and uses a while loop to simulate the process of buying tickets.
  * It calculates the time required to buy the kth ticket.
  *
- * @param {number[]} tickets - The tickets available, represented as an array of numbers where each number represents the time
- *     required to buy the ticket.
+ * @param {number[]} tickets - The tickets available, represented as an array of numbers where each number represents
+ *     the time required to buy the ticket.
  * @param {number} k - The index of the ticket to buy.
  * @returns {number} The time required to buy the kth ticket.
  */
@@ -25,8 +25,8 @@ function timeRequiredToBuy(tickets: number[], k: number): number {
         // Add the total number of tickets to the total time required
         seconds += tickets.length;
 
-        // Update the tickets array by reducing the time required to buy each ticket by 1 and removing the tickets that have been
-        // bought
+        // Update the tickets array by reducing the time required to buy each ticket by 1 and removing the tickets that
+        // have been bought
         tickets = tickets.reduce((newArr: number[], currentValue, currentIndex) => {
             if (--currentValue !== 0) {
                 newArr.push(currentValue);

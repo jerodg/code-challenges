@@ -1,7 +1,7 @@
 /**
- * @fileoverview This module contains a solution for the "Maximum Nesting Depth of the Parentheses" problem from LeetCode.
- * The problem is solved by using a counter to keep track of the current depth of the parentheses and another counter to keep track
- *     of the maximum depth.
+ * @fileoverview This module contains a solution for the "Maximum Nesting Depth of the Parentheses" problem from
+ *     LeetCode. The problem is solved by using a counter to keep track of the current depth of the parentheses and
+ *     another counter to keep track of the maximum depth.
  */
 /**
  * Function to calculate the maximum depth of valid parentheses in a string.

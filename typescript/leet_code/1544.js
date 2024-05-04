@@ -20,16 +20,14 @@ function makeGood(s) {
         // If the stack is empty, push the current character to the stack
         if (stack.length === 0) {
             stack.push(s[i]);
-        }
-        else {
+        } else {
             // Get the top of the stack
             var top_1 = stack[stack.length - 1];
             // If the top of the stack and the current character are the same letter but different case
             if (top_1.toLowerCase() === s[i].toLowerCase() && top_1 !== s[i]) {
                 // Pop the stack
                 stack.pop();
-            }
-            else {
+            } else {
                 // Otherwise, push the current character to the stack
                 stack.push(s[i]);
             }

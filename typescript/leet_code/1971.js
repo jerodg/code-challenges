@@ -57,14 +57,12 @@ function validPath(n, edges, source, destination) {
         // The logic is the same as above
         if (sourceHm[pair[0]]) {
             sourceHm[pair[1]] = true;
-        }
-        else if (sourceHm[pair[1]]) {
+        } else if (sourceHm[pair[1]]) {
             sourceHm[pair[0]] = true;
         }
         if (destHm[pair[0]]) {
             destHm[pair[1]] = true;
-        }
-        else if (destHm[pair[1]]) {
+        } else if (destHm[pair[1]]) {
             destHm[pair[0]] = true;
         }
         return sourceHm[pair[0]] && destHm[pair[0]];

@@ -2,7 +2,7 @@
 /**
  * @fileoverview This module contains a function that converts a number to a reversed array of its digits.
  */
-Object.defineProperty(exports, "__esModule", { value: true });
+Object.defineProperty(exports, "__esModule", {value: true});
 exports.digitize = void 0;
 /**
  * Function to convert a number to a reversed array of its digits.

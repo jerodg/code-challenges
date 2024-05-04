@@ -29,7 +29,8 @@ function checkValidString(s) {
             }
         }
         else {
-            // If the current character is "*", decrement the lower bound (if it's greater than 0) and increment the upper bound
+            // If the current character is "*", decrement the lower bound (if it's greater than 0) and increment the
+            // upper bound
             low = Math.max(low - 1, 0);
             high++;
         }

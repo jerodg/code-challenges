@@ -3,8 +3,9 @@
  * @fileoverview This module contains a function that determines the level of proficiency in hula hooping.
  * It takes a number as an argument which represents the number of hoops a user can spin.
  */
-Object.defineProperty(exports, "__esModule", { value: true });
+Object.defineProperty(exports, "__esModule", {value: true});
 exports.hoopCount = void 0;
+
 /**
  * The hoopCount function determines the level of proficiency in hula hooping.
  * It takes a number as an argument which represents the number of hoops a user can spin.
@@ -23,4 +24,5 @@ function hoopCount(n) {
     // If the user can spin less than 10 hoops, return a message encouraging the user to keep practicing
     return "Keep at it until you get it";
 }
+
 exports.hoopCount = hoopCount;

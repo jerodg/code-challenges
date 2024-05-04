@@ -11,6 +11,7 @@
 function exist(board, word) {
     var n = board.length;
     var m = board[0].length;
+
     /**
      * Helper function to perform depth-first search on the grid.
      * @param {number} i - The current row in the grid.
@@ -38,6 +39,7 @@ function exist(board, word) {
         board[i][j] = temp;
         return false;
     }
+
     // Iterate over each position in the grid
     for (var i = 0; i < n; i++) {
         for (var j = 0; j < m; j++) {

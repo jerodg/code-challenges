@@ -34,7 +34,8 @@ function readLine() {
  * @return {string} "YES" if the kangaroos meet on a jump, "NO" otherwise.
  */
 function kangaroo(x1, v1, x2, v2) {
-    // If the first kangaroo jumps farther and the difference in starting positions is divisible by the difference in jump distances
+    // If the first kangaroo jumps farther and the difference in starting positions is divisible by the difference in
+    // jump distances
     if (v1 > v2 && (x2 - x1) % (v1 - v2) === 0) {
         return "YES";
     }

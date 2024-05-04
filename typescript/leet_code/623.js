@@ -38,7 +38,8 @@ function addOneRow(root, val, depth) {
 }
 /**
  * Helper function to traverse the binary tree and add a new row at the specified depth.
- * The function recursively traverses the tree and when it reaches the specified depth, it adds a new node to the left and right of the current node.
+ * The function recursively traverses the tree and when it reaches the specified depth, it adds a new node to the left
+ * and right of the current node.
  *
  * @param {TreeNode | null} node - The current node.
  * @param {number} val - The value for the new row.

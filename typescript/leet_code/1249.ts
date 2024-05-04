@@ -1,6 +1,6 @@
 /**
- * @fileoverview This module contains a solution for the "Minimum Remove to Make Valid Parentheses" problem from LeetCode.
- * The problem is solved by using a stack to keep track of the indices of the open parentheses.
+ * @fileoverview This module contains a solution for the "Minimum Remove to Make Valid Parentheses" problem from
+ *     LeetCode. The problem is solved by using a stack to keep track of the indices of the open parentheses.
  */
 
 /**

@@ -5,9 +5,10 @@
 
 /**
  * Calculates the maximal rectangle in a binary matrix.
- * The function uses dynamic programming to calculate the maximum height, left, and right boundary for each cell in the matrix.
- * The maximum area of the rectangle is then calculated as the height times the difference between the right and left boundaries.
- * This is done for each cell in the matrix, and the maximum area is updated if a larger area is found.
+ * The function uses dynamic programming to calculate the maximum height, left, and right boundary for each cell in the
+ * matrix. The maximum area of the rectangle is then calculated as the height times the difference between the right
+ * and left boundaries. This is done for each cell in the matrix, and the maximum area is updated if a larger area is
+ * found.
  * @param {string[][]} matrix - The input binary matrix.
  * @return {number} The area of the maximal rectangle.
  */

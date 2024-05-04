@@ -24,8 +24,7 @@ function merge(nums1, m, nums2, n) {
             nums1[k] = nums1[i];
             // Move the pointer in nums1 to the left
             i--;
-        }
-        else {
+        } else {
             // Move the current element in nums2 to the end
             nums1[k] = nums2[j];
             // Move the pointer in nums2 to the left

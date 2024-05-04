@@ -53,7 +53,8 @@ function dynamicArray(n: number, queries: number[][]): number[] {
         if (queryType === 1) {
             seqList[seqIndex].push(y);
         }
-        // If the query type is 2, find the y-th element of the seqIndex-th sequence, update lastAnswer and append it to the result
+        // If the query type is 2, find the y-th element of the seqIndex-th sequence, update lastAnswer and append it
+        // to the result
         else if (queryType === 2) {
             let seq: number[] = seqList[seqIndex];
             lastAnswer = seq[y % seq.length];

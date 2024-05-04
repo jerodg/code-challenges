@@ -1,15 +1,15 @@
 /**
- * @fileoverview This module contains a solution for a problem where you need to find the maximum length of a subarray with at most
- *     K distinct elements. The problem is solved by using a sliding window approach and a counter to keep track of the number of
- *     occurrences of each element in the subarray.
+ * @fileoverview This module contains a solution for a problem where you need to find the maximum length of a subarray
+ *     with at most K distinct elements. The problem is solved by using a sliding window approach and a counter to keep
+ *     track of the number of occurrences of each element in the subarray.
  */
 
 /**
  * Function to calculate the maximum length of a subarray with at most K distinct elements.
  * The function iterates over the nums array and uses a sliding window approach to find the subarray.
  * It uses a counter to keep track of the number of occurrences of each element in the subarray.
- * If the number of occurrences of an element exceeds K, it shrinks the window from the left until the condition is satisfied again.
- * It keeps track of the maximum length of the subarray during the process.
+ * If the number of occurrences of an element exceeds K, it shrinks the window from the left until the condition is
+ * satisfied again. It keeps track of the maximum length of the subarray during the process.
  *
  * @param {number[]} nums - The input array of numbers.
  * @param {number} k - The maximum number of distinct elements in the subarray.

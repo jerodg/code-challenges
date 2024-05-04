@@ -22,8 +22,8 @@ function readLine(): string {
 
 /**
  * @fileoverview This module contains a solution for the "Apple and Orange" problem from HackerRank.
- * The problem is solved by calculating the positions of the apples and oranges and checking if they fall within the house's
- *     location.
+ * The problem is solved by calculating the positions of the apples and oranges and checking if they fall within the
+ *     house's location.
  */
 
 /**

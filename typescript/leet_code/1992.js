@@ -7,7 +7,8 @@
  * The function uses a depth-first search approach to traverse the land matrix.
  *
  * @param {number[][]} land - The land matrix where 0 represents water and 1 represents farmland.
- * @returns {number[][]} - The coordinates of the farmland in the format [top-left-x, top-left-y, bottom-right-x, bottom-right-y].
+ * @returns {number[][]} - The coordinates of the farmland in the format [top-left-x, top-left-y, bottom-right-x,
+ *     bottom-right-y].
  * @throws {Error} - Throws an error if the input parameter is not valid.
  */
 function findFarmland(land) {

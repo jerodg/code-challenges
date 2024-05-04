@@ -16,7 +16,9 @@ function deckRevealedIncreasing(deck) {
     // Initialize the result array
     var result = [];
     // Sort the deck in increasing order
-    deck.sort(function (a, b) { return a - b; });
+    deck.sort(function (a, b) {
+        return a - b;
+    });
     // While the deck is not empty
     while (deck.length) {
         // If the result array is not empty, move the last card in the result array to the front

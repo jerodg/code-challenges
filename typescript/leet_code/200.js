@@ -23,6 +23,7 @@ function dfs(grid, i, j) {
     dfs(grid, i, j - 1);
     dfs(grid, i - 1, j);
 }
+
 /**
  * Function to count the number of islands in a grid.
  * An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically.

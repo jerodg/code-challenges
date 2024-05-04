@@ -1,7 +1,8 @@
 /**
  * @fileoverview This module provides a function to calculate the longest ideal string.
  * The function takes a string and a number as input and returns the length of the longest ideal string.
- * An ideal string is defined as a string where the ASCII difference between any two characters is less than or equal to k.
+ * An ideal string is defined as a string where the ASCII difference between any two characters is less than or equal
+ *     to k.
  */
 
 /**
@@ -30,14 +31,16 @@ function longestIdealString(s: string, k: number): number {
         const code = s.charCodeAt(i) - codeA;
         let best = 0;
 
-        // Find the longest ideal string ending with a character whose ASCII code is within k of the current character's ASCII code.
+        // Find the longest ideal string ending with a character whose ASCII code is within k of the current
+        // character's ASCII code.
         for (let j = Math.max(code - k, 0), m = Math.min(code + k, 25); j <= m; j++) {
             if (dp[j] > best) {
                 best = dp[j];
             }
         }
 
-        // If the longest ideal string found is longer than the current longest ideal string ending with the current character, update it.
+        // If the longest ideal string found is longer than the current longest ideal string ending with the current
+        // character, update it.
         if (best >= dp[code]) {
             dp[code] = best + 1;
             if (best >= max) {

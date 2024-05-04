@@ -22,8 +22,7 @@ function isIsomorphic(s, t) {
             // If the current character in s is not mapped to the current character in t
             if (map.get(s[i]) !== t[i])
                 return false;
-        }
-        else {
+        } else {
             // If the current character in t has been mapped to
             if (set.has(t[i]))
                 return false;

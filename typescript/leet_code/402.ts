@@ -15,7 +15,8 @@ function removeKdigits(num: string, k: number): string {
 
     // Iterate over each digit in the number
     for (let n of num) {
-        // While stack is not empty and top of stack is greater than current digit and removed digits count is less than k
+        // While stack is not empty and top of stack is greater than current digit and removed digits count is less
+        // than k
         while (stk.length && n < stk[stk.length - 1] && rem < k) {
             // Remove the top of stack
             stk.pop();
