@@ -1,5 +1,3 @@
-import kotlin.Char
-
 /**
  * Represents a node in a binary tree.
  * Each node has a value and two children: left and right.

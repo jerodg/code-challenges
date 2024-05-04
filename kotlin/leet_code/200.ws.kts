@@ -5,8 +5,6 @@
  * @module leet_code/200.ws.kts
  */
 
-import kotlin.Array // Array is a built-in Kotlin class, no need to import
-
 /**
  * Solution class for the "Number of Islands" problem.
  */

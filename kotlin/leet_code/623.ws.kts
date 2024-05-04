@@ -1,4 +1,4 @@
-import java.util.LinkedList
+import java.util.*
 
 /**
  * This module provides a solution for the LeetCode problem #623, "Add One Row to Tree".

@@ -6,8 +6,6 @@
  * @module leet_code/26.ws.kts
  */
 
-import kotlin.math.max
-
 /**
  * Solution class provides methods to remove duplicates from a sorted array.
  */

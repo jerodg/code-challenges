@@ -22,9 +22,9 @@ class Solution {
         val n: Int = matrix[0].size
 
         // Initialize arrays to keep track of the height, left, and right boundaries of the maximal rectangle
-        val height = IntArray(n) {0}
-        val left = IntArray(n) {0}
-        val right = IntArray(n) {n}
+        val height = IntArray(n) { 0 }
+        val left = IntArray(n) { 0 }
+        val right = IntArray(n) { n }
 
         // Initialize the maximal area to 0
         var maxArea = 0
@@ -44,12 +44,12 @@ class Solution {
                     left[j] = max(left[j], curLeft)
                 else {
                     left[j] = 0
-                    curLeft = j+1
+                    curLeft = j + 1
                 }
             }
 
             // Update the right array
-            for (j in n-1 downTo 0) {
+            for (j in n - 1 downTo 0) {
                 if (matrix[i][j] == '1')
                     right[j] = min(right[j], curRight)
                 else {

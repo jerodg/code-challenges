@@ -6,8 +6,6 @@
  * @module leet_code/1992.ws.kts
  */
 
-import kotlin.Pair // Importing Pair class from Kotlin standard library
-
 /**
  * Solution class provides methods to find farmland in a given 2D array.
  */
