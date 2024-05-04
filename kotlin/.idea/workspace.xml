@@ -5,43 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8ac5a88-087f-453f-9bbc-d432e6324ee1" name="Changes" comment="feat(leet_code): add kotlin&#10;&#10;+ 27&#10;+ 1614">
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/1289.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/1915.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/2441.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1289.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1915.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2441.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1289.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1915.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/2441.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/1289.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/1915.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/2441.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/1289.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/1915.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/2441.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1289.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/165.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1915.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/2441.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/leet_code/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/1289.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/1915.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/../python/pyproject.toml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust/src/leet_code/2370.rs" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/src/leet_code/2370.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/2d_array_ds.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/2d_array_ds.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/apple_and_orange.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/apple_and_orange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/hackerrank/dynamic_array.java" beforeDir="false" afterPath="$PROJECT_DIR$/../java/hackerrank/dynamic_array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -88,13 +55,13 @@
     "git-widget-placeholder": "trunk",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/devdrive/projects/code-challenges/scala",
+    "last_opened_file_path": "/devdrive/projects/code-challenges/java",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "editing.templates",
+    "settings.editor.selected.configurable": "com.github.copilot.settings.ApplicationConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
