@@ -1,16 +1,18 @@
-/** This module provides a solution to the problem of making a string valid by removing the minimum number of parentheses.
-  * A string is valid if and only if:
-  * - It is the empty string, or
-  * - It can be written as AB (A concatenated with B), where A and B are valid strings, or
-  * - It can be written as (A), where A is a valid string.
-  * The function `minRemoveToMakeValid` is the main function in this module.
+/** This module provides a solution to the problem of making a string valid by removing the minimum number of
+  * parentheses. A string is valid if and only if:
+  *   - It is the empty string, or
+  *   - It can be written as AB (A concatenated with B), where A and B are valid strings, or
+  *   - It can be written as (A), where A is a valid string. The function `minRemoveToMakeValid` is the main function in
+  *     this module.
   */
 object Solution {
 
   /** Function to make a string valid by removing the minimum number of parentheses.
     *
-    * @param s a String representing the input string to be processed.
-    * @return a String representing the processed string that is valid.
+    * @param s
+    *   a String representing the input string to be processed.
+    * @return
+    *   a String representing the processed string that is valid.
     */
   def minRemoveToMakeValid(s: String): String = {
     // Initialize a mutable stack to keep track of the indices of the open parentheses

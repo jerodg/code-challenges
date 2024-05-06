@@ -1,14 +1,16 @@
-/** This module provides a solution to the problem of making a string "good" by removing all instances of bad characters.
-  * A string is "good" if it doesn't have two adjacent characters that are the same, but one is uppercase and the other is lowercase.
-  * The function `makeGood` is the main function in this module.
+/** This module provides a solution to the problem of making a string "good" by removing all instances of bad
+  * characters. A string is "good" if it doesn't have two adjacent characters that are the same, but one is uppercase
+  * and the other is lowercase. The function `makeGood` is the main function in this module.
   */
 object Solution {
 
-  /** Function to make a string "good" by removing all instances of bad characters.
-    * A string is "good" if it doesn't have two adjacent characters that are the same, but one is uppercase and the other is lowercase.
+  /** Function to make a string "good" by removing all instances of bad characters. A string is "good" if it doesn't
+    * have two adjacent characters that are the same, but one is uppercase and the other is lowercase.
     *
-    * @param s a String representing the input string to be processed.
-    * @return a String representing the processed string that is "good".
+    * @param s
+    *   a String representing the input string to be processed.
+    * @return
+    *   a String representing the processed string that is "good".
     */
   def makeGood(s: String): String = {
     // Initialize a mutable stack to keep track of the characters in the string

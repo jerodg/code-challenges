@@ -1,16 +1,18 @@
-/** This object represents a solution for finding the number of 'wonderful' substrings in a word.
-  * A 'wonderful' substring is defined as a substring where at most one character appears an odd number of times.
+/** This object represents a solution for finding the number of 'wonderful' substrings in a word. A 'wonderful'
+  * substring is defined as a substring where at most one character appears an odd number of times.
   */
 object Solution {
 
   /** Finds the number of 'wonderful' substrings in a word.
     *
-    * This method iterates over the word, updating a prefix sum array and a count array.
-    * It uses bitwise operations to keep track of the characters that appear an odd number of times in the current substring.
-    * It then counts the number of 'wonderful' substrings that end at the current position.
+    * This method iterates over the word, updating a prefix sum array and a count array. It uses bitwise operations to
+    * keep track of the characters that appear an odd number of times in the current substring. It then counts the
+    * number of 'wonderful' substrings that end at the current position.
     *
-    * @param word The input word. It should be a string consisting of lowercase English letters.
-    * @return The number of 'wonderful' substrings in the word. It returns a long integer.
+    * @param word
+    *   The input word. It should be a string consisting of lowercase English letters.
+    * @return
+    *   The number of 'wonderful' substrings in the word. It returns a long integer.
     */
   def wonderfulSubstrings(word: String): Long = {
     // The length of the word

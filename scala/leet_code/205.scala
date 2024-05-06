@@ -1,16 +1,19 @@
-/** This module checks if two given strings are isomorphic.
-  * Two strings are isomorphic if the characters in one string can be replaced to get the other string.
-  * All occurrences of a character must be replaced with another character while preserving the order of characters.
-  * No two characters may map to the same character, but a character may map to itself.
-  * The function `isIsomorphic` is the main function in this module.
+/** This module checks if two given strings are isomorphic. Two strings are isomorphic if the characters in one string
+  * can be replaced to get the other string. All occurrences of a character must be replaced with another character
+  * while preserving the order of characters. No two characters may map to the same character, but a character may map
+  * to itself. The function `isIsomorphic` is the main function in this module.
   */
 object Solution {
 
   /** Function to check if two given strings are isomorphic.
     *
-    * @param s a String representing the first input string to be checked.
-    * @param t a String representing the second input string to be checked.
-    * @return a Boolean value indicating whether the two input strings are isomorphic. Returns true if the strings are isomorphic, false otherwise.
+    * @param s
+    *   a String representing the first input string to be checked.
+    * @param t
+    *   a String representing the second input string to be checked.
+    * @return
+    *   a Boolean value indicating whether the two input strings are isomorphic. Returns true if the strings are
+    *   isomorphic, false otherwise.
     */
   def isIsomorphic(s: String, t: String): Boolean = {
     // Initialize a mutable map to keep track of the character mappings

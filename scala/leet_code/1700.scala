@@ -1,18 +1,21 @@
-/**
-  * This module provides a solution to the problem of counting the number of students that cannot eat lunch.
-  * The students are in a queue and each student either prefers a square sandwich (represented by 0) or a circular sandwich (represented by 1).
-  * The sandwiches are in a stack and the sandwich on top of the stack is the one that will be given out next.
-  * The students will leave the queue if they get their preferred sandwich, otherwise they will go to the end of the queue.
-  * The function `countStudents` is the main function in this module.
+/** This module provides a solution to the problem of counting the number of students that cannot eat lunch. The
+  * students are in a queue and each student either prefers a square sandwich (represented by 0) or a circular sandwich
+  * (represented by 1). The sandwiches are in a stack and the sandwich on top of the stack is the one that will be given
+  * out next. The students will leave the queue if they get their preferred sandwich, otherwise they will go to the end
+  * of the queue. The function `countStudents` is the main function in this module.
   */
 object Solution {
 
-  /**
-    * Function to count the number of students that cannot eat lunch.
+  /** Function to count the number of students that cannot eat lunch.
     *
-    * @param students an Array[Int] representing the students in the queue. Each student is represented by an integer that indicates their preferred sandwich (0 for square, 1 for circular).
-    * @param sandwiches an Array[Int] representing the sandwiches in the stack. Each sandwich is represented by an integer (0 for square, 1 for circular).
-    * @return an Int representing the number of students that cannot eat lunch.
+    * @param students
+    *   an Array[Int] representing the students in the queue. Each student is represented by an integer that indicates
+    *   their preferred sandwich (0 for square, 1 for circular).
+    * @param sandwiches
+    *   an Array[Int] representing the sandwiches in the stack. Each sandwich is represented by an integer (0 for
+    *   square, 1 for circular).
+    * @return
+    *   an Int representing the number of students that cannot eat lunch.
     */
   def countStudents(students: Array[Int], sandwiches: Array[Int]): Int = {
     // Initialize a mutable buffer from the students array to represent the queue of students

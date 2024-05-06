@@ -13,34 +13,33 @@
  *     that likes type 0 sandwiches and 1 represents a student that likes type 1 sandwiches.
  * @param {number[]} sandwiches - The sandwiches, represented as an array of numbers where 0 represents a type 0
  *     sandwich and 1 represents a type 1 sandwich.
- * @returns {number} The number of students who are unable to eat lunch.
+ * @return {number} The number of students who are unable to eat lunch.
  */
 function countStudents(students, sandwiches) {
-    // Initialize the total number of students, the pointer to the current sandwich, and the counter for unsuccessful
-    // attempts to eat a sandwich
-    var totalStudents = students.length;
-    var sandwichPointer = 0;
-    var unsuccessfulAttempts = 0;
-    // While there are students in line and the number of unsuccessful attempts is less than the total number of
-    // students
-    while (students.length > 0 && unsuccessfulAttempts < totalStudents) {
-        // Get the student at the front of the line
-        var student = students.shift();
-        // If the student likes the sandwich at the front of the line
-        if (student === sandwiches[sandwichPointer]) {
-            // The student eats the sandwich and leaves the line, and the pointer to the current sandwich is incremented
-            sandwichPointer++;
-            // The counter for unsuccessful attempts is reset
-            unsuccessfulAttempts = 0;
-        }
-        else {
-            // If the student does not like the sandwich at the front of the line, the student goes to the back of the
-            // line
-            students.push(student);
-            // The counter for unsuccessful attempts is incremented
-            unsuccessfulAttempts++;
-        }
+  // Initialize the total number of students, the pointer to the current sandwich, and the counter for unsuccessful
+  // attempts to eat a sandwich
+  const totalStudents = students.length;
+  let sandwichPointer = 0;
+  let unsuccessfulAttempts = 0;
+  // While there are students in line and the number of unsuccessful attempts is less than the total number of
+  // students
+  while (students.length > 0 && unsuccessfulAttempts < totalStudents) {
+    // Get the student at the front of the line
+    const student = students.shift();
+    // If the student likes the sandwich at the front of the line
+    if (student === sandwiches[sandwichPointer]) {
+      // The student eats the sandwich and leaves the line, and the pointer to the current sandwich is incremented
+      sandwichPointer++;
+      // The counter for unsuccessful attempts is reset
+      unsuccessfulAttempts = 0;
+    } else {
+      // If the student does not like the sandwich at the front of the line, the student goes to the back of the
+      // line
+      students.push(student);
+      // The counter for unsuccessful attempts is incremented
+      unsuccessfulAttempts++;
     }
-    // Return the number of students who are unable to eat lunch
-    return students.length;
+  }
+  // Return the number of students who are unable to eat lunch
+  return students.length;
 }

@@ -1,19 +1,22 @@
 /** This module checks if a given string is valid based on the following rules:
-  * - Each '(' must have a corresponding ')'.
-  * - Each ')' must have a corresponding '('.
-  * - '*' can be treated as a single right parenthesis ')', or a single left parenthesis '(', or an empty string.
-  * The function `checkValidString` is the main function in this module.
+  *   - Each '(' must have a corresponding ')'.
+  *   - Each ')' must have a corresponding '('.
+  *   - '*' can be treated as a single right parenthesis ')', or a single left parenthesis '(', or an empty string. The
+  *     function `checkValidString` is the main function in this module.
   */
 object Solution {
 
   /** Function to check if a given string is valid based on the rules defined above.
     *
-    * @param s a String representing the input string to be checked.
-    * @return a Boolean value indicating whether the input string is valid. Returns true if the string is valid, false otherwise.
+    * @param s
+    *   a String representing the input string to be checked.
+    * @return
+    *   a Boolean value indicating whether the input string is valid. Returns true if the string is valid, false
+    *   otherwise.
     */
   def checkValidString(s: String): Boolean = {
     // Initialize two counters to keep track of the balance of parentheses
-    var low = 0
+    var low  = 0
     var high = 0
 
     // Use a breakable loop to iterate over the characters in the string

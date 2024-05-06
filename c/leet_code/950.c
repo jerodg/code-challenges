@@ -25,7 +25,7 @@ struct list {
 typedef struct list List;
 
 // Function prototypes
-void quickSort(int *, int, int);
+void quick_sort(int *, int, int);
 
 void pushFront(List **, List **, int);
 
@@ -44,7 +44,7 @@ int *listNodeToArray(const List *, int);
 int *deckRevealedIncreasing(int *deck, const int deckSize, int *returnSize) {
     List *deckList = NULL, *tail = NULL;
 
-    quickSort(deck, 0, deckSize - 1);
+    quick_sort(deck, 0, deckSize - 1);
     pushFront(&deckList, &tail, deck[deckSize - 1]);
 
     for (int i = deckSize - 2; i >= 0; i--) {
@@ -66,14 +66,14 @@ int *deckRevealedIncreasing(int *deck, const int deckSize, int *returnSize) {
  * @param low The starting index of the portion of the array to be sorted.
  * @param high The ending index of the portion of the array to be sorted.
  */
-void quickSort(int array[], const int low, const int high) {
+void quick_sort(int array[], const int low, const int high) {
     int partition(int [], int, int);
 
     if (low < high) {
         int pi = partition(array, low, high);
 
-        quickSort(array, low, pi - 1);
-        quickSort(array, pi + 1, high);
+        quick_sort(array, low, pi - 1);
+        quick_sort(array, pi + 1, high);
     }
 }
 

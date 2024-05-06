@@ -10,29 +10,31 @@
  * @param {number[]} tickets - The tickets available, represented as an array of numbers where each number represents
  *     the time required to buy the ticket.
  * @param {number} k - The index of the ticket to buy.
- * @returns {number} The time required to buy the kth ticket.
+ * @return {number} The time required to buy the kth ticket.
  */
 function timeRequiredToBuy(tickets, k) {
-    // Initialize the total time required and the number of tickets needed to buy
-    var seconds = 0;
-    var ticketNeedToBuy = tickets[k];
-    // Calculate the number of tickets that can be bought faster than the kth ticket
-    var gap = tickets.filter(function (item, index) { return index < k && item < tickets[k]; }).length;
+  // Initialize the total time required and the number of tickets needed to buy
+  let seconds = 0;
+  let ticketNeedToBuy = tickets[k];
+  // Calculate the number of tickets that can be bought faster than the kth ticket
+  const gap = tickets.filter(function(item, index) {
+    return index < k && item < tickets[k];
+  }).length;
     // While there are tickets needed to buy
-    while (ticketNeedToBuy > 1) {
-        // Add the total number of tickets to the total time required
-        seconds += tickets.length;
-        // Update the tickets array by reducing the time required to buy each ticket by 1 and removing the tickets that
-        // have been bought
-        tickets = tickets.reduce(function (newArr, currentValue, currentIndex) {
-            if (--currentValue !== 0) {
-                newArr.push(currentValue);
-            }
-            return newArr;
-        }, []);
-        // Decrement the number of tickets needed to buy
-        ticketNeedToBuy--;
-    }
-    // Return the total time required plus the time required to buy the kth ticket
-    return seconds + k - gap + 1;
+  while (ticketNeedToBuy > 1) {
+    // Add the total number of tickets to the total time required
+    seconds += tickets.length;
+    // Update the tickets array by reducing the time required to buy each ticket by 1 and removing the tickets that
+    // have been bought
+    tickets = tickets.reduce(function(newArr, currentValue, currentIndex) {
+      if (--currentValue !== 0) {
+        newArr.push(currentValue);
+      }
+      return newArr;
+    }, []);
+    // Decrement the number of tickets needed to buy
+    ticketNeedToBuy--;
+  }
+  // Return the total time required plus the time required to buy the kth ticket
+  return seconds + k - gap + 1;
 }

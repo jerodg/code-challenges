@@ -2,8 +2,8 @@ import scala.collection.mutable
 
 object Solution {
   def maxSubarrayLength(nums: Array[Int], k: Int): Int = {
-    var left = 0
-    val counter = mutable.HashMap[Int, Int]()
+    var left       = 0
+    val counter    = mutable.HashMap[Int, Int]()
     var max_length = 0
     for (right <- nums.indices) {
       counter.put(nums(right), counter.getOrElse(nums(right), 0) + 1)

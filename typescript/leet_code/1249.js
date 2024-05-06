@@ -9,36 +9,34 @@
  * After iterating over the string, it removes any remaining open parentheses.
  *
  * @param {string} s - The input string.
- * @returns {string} The string after removing the minimum number of parentheses to make it valid.
+ * @return {string} The string after removing the minimum number of parentheses to make it valid.
  */
 function minRemoveToMakeValid(s) {
-    // Initialize the stack
-    var stack = [];
-    // Convert the string to an array of characters for easy manipulation
-    var sArr = s.split("");
-    // Iterate over the characters in the string
-    for (var i = 0; i < sArr.length; i++) {
-        // If the current character is an open parenthesis
-        if (sArr[i] === "(") {
-            // Push the index of the open parenthesis to the stack
-            stack.push(i);
-        }
-        else if (sArr[i] === ")") {
-            // If the current character is a close parenthesis
-            if (stack.length > 0) {
-                // If the stack is not empty, pop the index of the last open parenthesis from the stack
-                stack.pop();
-            }
-            else {
-                // If the stack is empty, remove the close parenthesis
-                sArr[i] = "";
-            }
-        }
+  // Initialize the stack
+  const stack = [];
+  // Convert the string to an array of characters for easy manipulation
+  const sArr = s.split('');
+  // Iterate over the characters in the string
+  for (var i = 0; i < sArr.length; i++) {
+    // If the current character is an open parenthesis
+    if (sArr[i] === '(') {
+      // Push the index of the open parenthesis to the stack
+      stack.push(i);
+    } else if (sArr[i] === ')') {
+      // If the current character is a close parenthesis
+      if (stack.length > 0) {
+        // If the stack is not empty, pop the index of the last open parenthesis from the stack
+        stack.pop();
+      } else {
+        // If the stack is empty, remove the close parenthesis
+        sArr[i] = '';
+      }
     }
-    // Remove any remaining open parentheses
-    for (var i = 0; i < stack.length; i++) {
-        sArr[stack[i]] = "";
-    }
-    // Join the array of characters back into a string and return it
-    return sArr.join("");
+  }
+  // Remove any remaining open parentheses
+  for (var i = 0; i < stack.length; i++) {
+    sArr[stack[i]] = '';
+  }
+  // Join the array of characters back into a string and return it
+  return sArr.join('');
 }

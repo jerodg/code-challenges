@@ -4,28 +4,25 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c91c8925-c709-4304-ae26-1c9061d65646" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leet_code/881.go" afterDir="false" />
+    <list default="true" id="c91c8925-c709-4304-ae26-1c9061d65646" name="Changes" comment="feat(leet_code): add 881&#10;&#10;+ 881&#10;~ improve documentation&#10;~ formatting">
+      <change afterPath="$PROJECT_DIR$/../c/.clang-format" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/881.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2487.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/881.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/881.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/2487.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/leet_code/26.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/leet_code/26.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/leet_code/950.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/leet_code/950.c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.go" beforeDir="false" afterPath="$PROJECT_DIR$/code_wars/convert_number_to_reversed_array_of_digits.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/2d_array_ds.go" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/2d_array_ds.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/apple_and_orange.go" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/apple_and_orange.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/dynamic_array.go" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/dynamic_array.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hackerrank/number_line_jumps.go" beforeDir="false" afterPath="$PROJECT_DIR$/hackerrank/number_line_jumps.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1249.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1249.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1544.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1544.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1614.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1614.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/1700.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/1700.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/205.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/205.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/26.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/26.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/678.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/678.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/79.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/79.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/88.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/88.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/950.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/950.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/165.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/165.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/1915.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/1915.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/2370.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/2370.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/2441.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/2441.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/2370.go" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2370.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,26 +73,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "code.cleanup.on.save": "true",
-    "configurable..is.expanded": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "trunk",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "/devdrive/projects/code-challenges/dart",
-    "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "reference.settingsdialog.IDE.editor.colors.Color Scheme Font"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;configurable..is.expanded&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/devdrive/projects/code-challenges/dart&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;reference.settingsdialog.IDE.editor.colors.Color Scheme Font&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -108,6 +105,8 @@
     <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />
+    <MESSAGE value="feat(leet_code): add 881&#10;&#10;+ 881&#10;~ improve documentation&#10;~ formatting" />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(leet_code): add 881&#10;&#10;+ 881&#10;~ improve documentation&#10;~ formatting" />
   </component>
   <component name="VgoProject">
     <settings-migrated>true</settings-migrated>

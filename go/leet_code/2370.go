@@ -31,8 +31,10 @@ func minimum(a, b int) int {
 	return b
 }
 
-// longestIdealString is a function that takes a string and an integer as parameters and returns the length of the longest ideal string.
-// An ideal string is defined as a string where the difference between the ASCII values of any two characters is less than or equal to k.
+// longestIdealString is a function that takes a string and an integer as parameters and returns the
+// length of the longest ideal string.
+// An ideal string is defined as a string where the difference between the ASCII values of any two
+// characters is less than or equal to k.
 //
 // Parameters:
 // s: The input string.

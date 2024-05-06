@@ -4,17 +4,19 @@ object Solution {
 
   /** This method calculates the total amount of water that can be trapped between the bars.
     *
-    * @param height An array of integers where each integer represents the height of a bar.
-    * @return The total amount of water that can be trapped.
+    * @param height
+    *   An array of integers where each integer represents the height of a bar.
+    * @return
+    *   The total amount of water that can be trapped.
     */
   def trap(height: Array[Int]): Int = {
     // If the height array is empty, return 0
     if (height.isEmpty) 0
     else {
-      var left = 0
-      var right = height.length - 1
-      var leftMax = height(left)
-      var rightMax = height(right)
+      var left         = 0
+      var right        = height.length - 1
+      var leftMax      = height(left)
+      var rightMax     = height(right)
       var trappedWater = 0
 
       // Iterate until the left pointer is less than the right pointer

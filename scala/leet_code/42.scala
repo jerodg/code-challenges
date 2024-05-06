@@ -1,22 +1,23 @@
-/** This module provides a solution to the problem of trapping rain water.
-  * Given an array of integers representing an elevation map where the width of each bar is 1,
-  * compute how much water it can trap after raining.
+/** This module provides a solution to the problem of trapping rain water. Given an array of integers representing an
+  * elevation map where the width of each bar is 1, compute how much water it can trap after raining.
   */
 object Solution {
 
   /** Function to calculate the total amount of water that can be trapped between the bars.
     *
-    * @param height an Array[Int] representing the heights of the bars.
-    * @return an Int representing the total amount of water that can be trapped.
+    * @param height
+    *   an Array[Int] representing the heights of the bars.
+    * @return
+    *   an Int representing the total amount of water that can be trapped.
     */
   def trap(height: Array[Int]): Int = {
     // If the height array is empty, return 0
     if (height.isEmpty) 0
     else {
-      var left = 0
-      var right = height.length - 1
-      var leftMax = 0
-      var rightMax = 0
+      var left         = 0
+      var right        = height.length - 1
+      var leftMax      = 0
+      var rightMax     = 0
       var trappedWater = 0
 
       // Iterate until the left pointer is less than the right pointer

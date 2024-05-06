@@ -1,23 +1,31 @@
-/** This module provides a solution to the problem of determining the minimum number of rescue boats required to save people.
-  * Each person has a weight, and each boat can carry a maximum weight. The goal is to minimize the number of boats used.
+/** This module provides a solution to the problem of determining the minimum number of rescue boats required to save
+  * people. Each person has a weight, and each boat can carry a maximum weight. The goal is to minimize the number of
+  * boats used.
   */
 
 object Solution {
 
   /** Function to calculate the minimum number of rescue boats required.
     *
-    * @param people an array of integers representing the weights of the people.
-    * @param limit an integer representing the maximum weight a boat can carry.
-    * @return the minimum number of boats required to save all people.
+    * @param people
+    *   an array of integers representing the weights of the people.
+    * @param limit
+    *   an integer representing the maximum weight a boat can carry.
+    * @return
+    *   the minimum number of boats required to save all people.
     */
   def numRescueBoats(people: Array[Int], limit: Int): Int = {
 
     /** Recursive function to calculate the number of boats required.
       *
-      * @param max an integer representing the index of the heaviest person not yet assigned to a boat.
-      * @param min an integer representing the index of the lightest person not yet assigned to a boat.
-      * @param boats an integer representing the number of boats used so far.
-      * @return the number of boats required to save all people.
+      * @param max
+      *   an integer representing the index of the heaviest person not yet assigned to a boat.
+      * @param min
+      *   an integer representing the index of the lightest person not yet assigned to a boat.
+      * @param boats
+      *   an integer representing the number of boats used so far.
+      * @return
+      *   the number of boats required to save all people.
       */
     @annotation.tailrec
     def plusOneBoat(max: Int, min: Int, boats: Int): Int =

@@ -1,14 +1,14 @@
-/**
-  * This module provides a solution to the problem of converting a number to a reversed array of digits.
-  * The function `digitize` is the main function in this module.
+/** This module provides a solution to the problem of converting a number to a reversed array of digits. The function
+  * `digitize` is the main function in this module.
   */
 object Solution {
 
-  /**
-    * Function to convert a number to a reversed array of digits.
+  /** Function to convert a number to a reversed array of digits.
     *
-    * @param n a Long representing the input number to be processed.
-    * @return a Seq[Int] representing the reversed array of digits.
+    * @param n
+    *   a Long representing the input number to be processed.
+    * @return
+    *   a Seq[Int] representing the reversed array of digits.
     */
   def digitize(n: Long): Seq[Int] = {
     // Initialize a variable to keep track of the current number

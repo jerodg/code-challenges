@@ -6,8 +6,12 @@
       <option name="JD_INDENT_ON_CONTINUATION" value="true" />
     </JavaCodeStyleSettings>
     <ScalaCodeStyleSettings>
+      <option name="addImportMostCloseToReference" value="true" />
+      <option name="SCALAFMT_REFORMAT_ON_FILES_SAVE" value="true" />
       <option name="FORMATTER" value="1" />
+      <option name="MULTILINE_STRING_ALIGN_DANGLING_CLOSING_QUOTES" value="true" />
       <option name="MULTILINE_STRING_CLOSING_QUOTES_ON_NEW_LINE" value="true" />
+      <option name="REFORMAT_ON_COMPILE" value="true" />
     </ScalaCodeStyleSettings>
     <codeStyleSettings language="JAVA">
       <option name="WRAP_COMMENTS" value="true" />
