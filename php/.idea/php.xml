@@ -8,7 +8,21 @@
   </component>
   <component name="PHPCodeSnifferOptionsConfiguration">
     <option name="highlightLevel" value="WARNING" />
+    <option name="showSniffs" value="true" />
     <option name="transferred" value="true" />
+  </component>
+  <component name="PhpCodeSniffer">
+    <phpcs_settings>
+      <PhpCSConfiguration beautifier_path="/usr/bin/phpcbf" standards="MySource;PEAR;PSR1;PSR12;PSR2;Squiz;Zend" tool_path="/usr/bin/phpcs" />
+    </phpcs_settings>
+  </component>
+  <component name="PhpExternalFormatter">
+    <option name="externalFormatter" value="PHP_CBF" />
+  </component>
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.3" />
   <component name="PhpStanOptionsConfiguration">

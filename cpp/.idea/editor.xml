@@ -102,5 +102,9 @@
     <option name="/Default/Environment/InlayHints/CppTypeConversionHintsOptions/ShowForStandardConversions/@EntryValue" value="true" type="bool" />
     <option name="/Default/CodeStyle/CodeFormatting/CppClangFormat/ExecutableToUse/@EntryValue" value="Custom" type="string" />
     <option name="/Default/CodeStyle/CodeFormatting/CppClangFormat/ExternalClangFormatPath/@EntryValue" value="/usr/bin/clang-format" type="string" />
+    <option name="/Default/CodeEditing/CppDocumentationComment/UseLiveTemplate/@EntryValue" />
+    <option name="/Default/CodeEditing/CppDocumentationComment/AddBriefTag/@EntryValue" value="true" type="bool" />
+    <option name="/Default/CodeStyle/CppSortIncludes/CaseSensitive/@EntryValue" value="true" type="bool" />
+    <option name="/Default/CodeStyle/CppSortIncludes/GroupByRootDirectory/@EntryValue" value="true" type="bool" />
   </component>
 </project>

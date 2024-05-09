@@ -5,17 +5,40 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c581ba4-f445-4951-8203-f7e7203665a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../c/.clang-format" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/881.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/881.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/leet_code/26.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/leet_code/26.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/leet_code/950.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/leet_code/950.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/2487.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/2816.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/881.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/2487.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/2816.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/leet_code/881.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/2487.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/2816.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/881.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/2487.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/2816.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/881.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/2487.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/2816.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/881.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../php/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php/.idea/php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../php/.idea/php.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../php/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../php/.idea/php.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,10 +100,13 @@
     "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/1915.rs": "true",
     "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2370.rs": "true",
     "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2441.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2487.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2816.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/881.rs": "true",
     "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/1992.rs": "true",
     "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/623.rs": "true",
     "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/988.rs": "true",
-    "settings.editor.selected.configurable": "advanced.settings",
+    "settings.editor.selected.configurable": "language.rust.rustfmt",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -91,6 +117,7 @@
     <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
   </component>
   <component name="RustfmtProjectSettings">
+    <option name="channel" value="stable" />
     <option name="useRustfmt" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />

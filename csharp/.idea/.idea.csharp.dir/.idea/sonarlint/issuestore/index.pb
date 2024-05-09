@@ -21,3 +21,9 @@ A
 leet_code/1915.cs,b/2/b20c5056ac657978cfe6dd0904f2ebc613a7a046
 @
 leet_code/165.cs,4/c/4c85216ec67665d9b30419192749cbbdb55dc36d
+A
+leet_code/2816.cs,4/4/44ba72807b565994edf70df25bcbbaf3760af32d
+A
+leet_code/2487.cs,9/a/9ac7f6cc8f7f3e5cee14ab1e54a4962495119722
+@
+leet_code/881.cs,6/5/65bc5c66f2dad0e9d8b102f8807196290358b0ce

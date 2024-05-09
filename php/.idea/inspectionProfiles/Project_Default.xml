@@ -138,11 +138,9 @@
     <inspection_tool class="JSUnfilteredForInLoop" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="JSXSyntaxUsed" enabled="true" level="ERROR" enabled_by_default="true" />
     <inspection_tool class="LabeledStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="LaravelPintValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="LongInheritanceChainInspection" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="MagicNumberJS" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="MessDetectorValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="MultipleReturnStatementsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="NegatedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="NegatedIfStatementJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -159,7 +157,6 @@
     <inspection_tool class="OverlyComplexBooleanExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="ParametersPerFunctionJS" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="PhpAccessStaticViaInstanceInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-    <inspection_tool class="PhpCSFixerValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="PhpCSValidationInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="PhpClassHasTooManyDeclaredMembersInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="PhpComplexClassInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -185,7 +182,6 @@
     <inspection_tool class="PhpNonCanonicalElementsOrderInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="PhpOverridingMethodVisibilityInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="PhpSeparateElseIfInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-    <inspection_tool class="PhpStanGlobal" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="PhpStaticAsDynamicMethodCallInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="PhpTooManyParametersInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="PhpTraditionalSyntaxArrayLiteralInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
@@ -199,7 +195,6 @@
     <inspection_tool class="PostCssNesting" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="ProblematicWhitespace" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="PropertyCanBeStaticInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
-    <inspection_tool class="PsalmGlobal" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
     <inspection_tool class="QodanaSanity" enabled="true" level="ERROR" enabled_by_default="true" />
     <inspection_tool class="RegExpAnonymousGroup" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="ReplaceAssignmentWithOperatorAssignmentJS" enabled="true" level="WARNING" enabled_by_default="true" />

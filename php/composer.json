@@ -1,0 +1,17 @@
+{
+    "name": "jerodg/php",
+    "description": "PHP Code Challenges",
+    "license": "SSPL",
+    "autoload": {
+        "psr-4": {
+            "Jerodg\\Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "JerodG",
+            "email": "2856163+jerodg@users.noreply.github.com"
+        }
+    ],
+    "require": {}
+}

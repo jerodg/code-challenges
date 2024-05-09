@@ -26,6 +26,7 @@
     <inspection_tool class="CppEnforceIfStatementBraces" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="CppEnforceTypeAliasCodeStyle" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="CppEnforceWhileStatementBraces" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="CppInconsistentNaming" enabled="true" level="HINT" enabled_by_default="true" />
     <inspection_tool class="CppLocalVariableWithNonTrivialDtorIsNeverUsed" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="CppRemoveRedundantBraces" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="CppTabsAreDisallowed" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -44,6 +45,7 @@
     <inspection_tool class="DocumentWriteJS" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="DtsUnitName" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="DuplicateConditionJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="DuplicatedCode" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
     <inspection_tool class="DynamicallyGeneratedCodeJS" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="ES6TopLevelAwaitExpression" enabled="true" level="ERROR" enabled_by_default="true" />
     <inspection_tool class="EmptyCatchBlockJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -92,7 +94,7 @@
     </inspection_tool>
     <inspection_tool class="LongLine" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="MagicNumberJS" enabled="true" level="WARNING" enabled_by_default="true" />
-    <inspection_tool class="Misra" enabled="false" level="WARNING" enabled_by_default="false">
+    <inspection_tool class="Misra" enabled="true" level="WARNING" enabled_by_default="true">
       <option name="myMisraCPPChecks" value="clion-misra-cpp2023-*" />
     </inspection_tool>
     <inspection_tool class="NegatedConditionalExpressionJS" enabled="true" level="WARNING" enabled_by_default="true" />
@@ -155,6 +157,7 @@
       </option>
     </inspection_tool>
     <inspection_tool class="ReuseOfLocalVariableJS" enabled="true" level="WARNING" enabled_by_default="true" />
+    <inspection_tool class="SpellCheckingInspection" enabled="false" level="TYPO" enabled_by_default="false" />
     <inspection_tool class="SqlGotoInspection" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="SqlMissingColumnAliasesInspection" enabled="true" level="WARNING" enabled_by_default="true" />
     <inspection_tool class="SqlNamedArgumentsInspection" enabled="true" level="WARNING" enabled_by_default="true" />
