@@ -5,85 +5,34 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e8ac5a88-087f-453f-9bbc-d432e6324ee1" name="Changes" comment="feat(leet_code): add kotlin&#10;&#10;+ 881&#10;~ documentation">
-      <change afterPath="$PROJECT_DIR$/../c/.clang-format" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/2487.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/881.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2487.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/881.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/2487.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/881.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../go/leet_code/2487.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/2487.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../javascript/leet_code/2487.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/2487.ws.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/2487.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/eslint.config.mjs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../typescript/leet_code/2487.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/2816.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/3075.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/786.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/786.ws.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/2816.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/3075.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/786.scala" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/leet_code/26.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/leet_code/26.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/leet_code/950.c" beforeDir="false" afterPath="$PROJECT_DIR$/../c/leet_code/950.c" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/leet_code/2370.go" beforeDir="false" afterPath="$PROJECT_DIR$/../go/leet_code/2370.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../javascript/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../javascript/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlin.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlin.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/kotlinc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/.idea/codeStyles/Project.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/.scalafmt.conf" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/.scalafmt.conf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/code_wars/convert_number_to_reversed_array_of_digits.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/code_wars/convert_number_to_reversed_array_of_digits.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/code_wars/keep_up_the_hoop.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/code_wars/keep_up_the_hoop.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/1249.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/1249.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/1289.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/1289.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/1544.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/1544.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/1614.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/1614.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/165.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/165.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/1700.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/1700.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/1915.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/1915.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/1971.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/1971.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/1992.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/1992.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/200.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/200.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/205.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/205.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/2073.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/2073.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/2370.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/2370.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/2441.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/2441.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/26.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/26.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/27.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/27.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/2958.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/2958.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/402.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/402.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/42.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/42.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/463.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/463.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/623.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/623.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/678.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/678.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/79.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/79.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/85.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/85.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/88.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/88.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/881.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/881.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/950.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/950.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../scala/leet_code/988.scala" beforeDir="false" afterPath="$PROJECT_DIR$/../scala/leet_code/988.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/hackerrank/apple_and_orange.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/hackerrank/apple_and_orange.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/hackerrank/dynamic_array.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/hackerrank/dynamic_array.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/hackerrank/dynamic_array.ts" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/hackerrank/dynamic_array.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/hackerrank/number_line_jumps.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/hackerrank/number_line_jumps.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/1249.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/1249.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/1614.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/1614.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/1700.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/1700.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/2073.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/2073.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/623.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/623.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/678.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/678.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/85.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/85.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/leet_code/988.js" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/leet_code/988.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../typescript/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../typescript/package.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Script" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
@@ -103,6 +52,24 @@
     &quot;accountId&quot;: &quot;5274e075-0d23-4f3b-975a-16c891443613&quot;
   }
 }</component>
+  <component name="KotlinScriptingSettings" supportWarning="false">
+    <scriptDefinition className="org.jetbrains.kotlin.idea.gradleJava.scripting.ErrorGradleScriptDefinition.LegacyDefinition" definitionName="Default Kotlin Gradle Script">
+      <order>0</order>
+      <autoReloadConfigurations>true</autoReloadConfigurations>
+    </scriptDefinition>
+    <scriptDefinition className="org.jetbrains.kotlin.mainKts.MainKtsScript" definitionName="MainKtsScript">
+      <order>1</order>
+      <autoReloadConfigurations>true</autoReloadConfigurations>
+    </scriptDefinition>
+    <scriptDefinition className="kotlin.script.templates.standard.ScriptTemplateWithBindings" definitionName="Script definition for extension scripts and IDE console">
+      <order>2</order>
+      <autoReloadConfigurations>true</autoReloadConfigurations>
+    </scriptDefinition>
+    <scriptDefinition className="org.jetbrains.kotlin.idea.core.script.BundledIdeScriptDefinition" definitionName="Kotlin Script">
+      <order>3</order>
+      <autoReloadConfigurations>true</autoReloadConfigurations>
+    </scriptDefinition>
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="2" />
   </component>
@@ -131,7 +98,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "project.kotlinCompiler",
+    "settings.editor.selected.configurable": "preferences.sourceCode",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>

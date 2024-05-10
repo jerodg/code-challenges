@@ -27,3 +27,7 @@ A
 leet_code/2487.cs,9/a/9ac7f6cc8f7f3e5cee14ab1e54a4962495119722
 @
 leet_code/881.cs,6/5/65bc5c66f2dad0e9d8b102f8807196290358b0ce
+@
+leet_code/786.cs,8/e/8e44563448a0e4b9da331b1477beb08d1b92cba2
+A
+leet_code/3075.cs,c/5/c55058b81317997fe997151f53f963d20f4de92d
