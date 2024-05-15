@@ -20,29 +20,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(leet_code): add missing lang solutions&#10;&#10;+ c&#10;+ c++&#10;+ dart&#10;+ c#&#10;+ java&#10;+ go&#10;+ swift">
-      <change afterPath="$PROJECT_DIR$/leet_code/2812.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/.dart_tool/package_config.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/dtest/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/dtest/CHANGELOG.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/dtest/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/dtest/analysis_options.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/dtest/example/dtest_example.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/dtest/pubspec.yaml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/dtest/test/dtest_test.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1219.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/2812.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/leet_code/861.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/pubspec.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../dart/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(leet_code): add missing lang solutions&#10;&#10;+ c&#10;+ c++&#10;+ dart&#10;+ c#&#10;+ java&#10;+ go&#10;+ swift" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
