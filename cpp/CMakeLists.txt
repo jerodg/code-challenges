@@ -44,4 +44,5 @@ add_executable(c__
         leet_code/881.cpp
         leet_code/2487.cpp
         leet_code/2816.cpp
+        leet_code/2812.cpp
 )

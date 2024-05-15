@@ -21,46 +21,27 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(leet_code): add missing lang solutions&#10;&#10;+ c&#10;+ c++&#10;+ dart&#10;+ c#&#10;+ java&#10;+ go&#10;+ swift">
-      <change afterPath="$PROJECT_DIR$/leet_code/2816.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/2487.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/2816.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/881.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/composer.phar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/2487.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/2816.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/leet_code/881.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/vendor/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/ClassLoader.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/LICENSE" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/autoload_classmap.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/autoload_namespaces.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/autoload_psr4.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/autoload_real.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../php/vendor/composer/autoload_static.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/leet_code/2487.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/leet_code/2816.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python/leet_code/881.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/2487.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/2816.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/881.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/2487.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/2816.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/881.rs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/2812.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/.dart_tool/package_config.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/dtest/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/dtest/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/dtest/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/dtest/analysis_options.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/dtest/example/dtest_example.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/dtest/pubspec.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/dtest/test/dtest_test.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1219.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/2812.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/861.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/pubspec.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../php/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../php/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../php/.idea/php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../php/.idea/php.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../php/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../php/.idea/php.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,7 +110,7 @@
     &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240404_0006&quot;,
     &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
     &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/devdrive/projects/monograph&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/devdrive/projects/code-challenges/cpp&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
@@ -141,13 +122,6 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager">
-    <configuration name="c__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="cpp" TARGET_NAME="c__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="cpp" RUN_TARGET_NAME="c__">
-      <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SwiftWorkspaceSettings">
     <option name="detectedToolchain" value="true" />
