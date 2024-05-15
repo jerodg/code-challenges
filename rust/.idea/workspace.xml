@@ -5,7 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c581ba4-f445-4951-8203-f7e7203665a9" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/1219.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../java/leet_code/2812.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/1219.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/2812.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/1219.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/2812.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/3075.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/786.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/861.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1219.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../scala/leet_code/2812.scala" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,37 +60,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.rust.reset.selective.auto.import&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/devdrive/projects/monograph/src/rust&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;org.rust.cargo.project.model.PROJECT_DISCOVERY&quot;: &quot;true&quot;,
-    &quot;org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon&quot;: &quot;&quot;,
-    &quot;org.rust.first.attach.projects&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/1289.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/165.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/1915.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2370.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2441.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2487.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2816.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/881.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/1992.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/623.rs&quot;: &quot;true&quot;,
-    &quot;org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/988.rs&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.rust.reset.selective.auto.import": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "trunk",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "/devdrive/projects/monograph/src/rust",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.cargo.project.model.PROJECT_DISCOVERY": "true",
+    "org.rust.cargo.project.model.impl.CargoExternalSystemProjectAware.subscribe.first.balloon": "",
+    "org.rust.first.attach.projects": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/1289.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/165.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/1915.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2370.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2441.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2487.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/2816.rs": "true",
+    "org.rust.hideNoCargoProjectNotifications/devdrive/projects/code-challenges/rust/src/leet_code/881.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/1219.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/1992.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/2812.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/3075.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/623.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/786.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/861.rs": "true",
+    "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/988.rs": "true",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RsExternalLinterProjectSettings">
     <option name="runOnTheFly" value="true" />
   </component>

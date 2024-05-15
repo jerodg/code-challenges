@@ -55,4 +55,10 @@ add_executable(c
         leet_code/1289.c
         leet_code/165.c
         leet_code/881.c
-        leet_code/2487.c)
+        leet_code/2487.c
+        leet_code/2812.c
+        leet_code/1219.c
+        leet_code/861.c
+        leet_code/786.c
+        leet_code/3075.c
+        leet_code/2816.c)

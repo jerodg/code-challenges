@@ -1,5 +1,6 @@
 // Optimizing the code for speed and unrolling loops for efficiency.
 #pragma GCC optimize("O3,unroll-loops")
+
 #include <unordered_map>
 #include <algorithm>
 #include <vector>
