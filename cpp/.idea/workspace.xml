@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="ANALYZE_INJECTED_CODE" value="false" />
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
@@ -21,37 +25,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(leet_code): add missing lang solutions&#10;&#10;+ c&#10;+ c++&#10;+ dart&#10;+ c#&#10;+ java&#10;+ go&#10;+ swift">
-      <change afterPath="$PROJECT_DIR$/../c/.clang-tidy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/1219.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/2812.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/2816.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/3075.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/786.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/861.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.clang-format" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.clang-tidy" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/3075.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/1219.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/2812.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/1219.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/2812.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/1219.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/2812.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/3075.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/786.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/861.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1219.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/2812.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.clang-format" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.clang-format" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/leet_code/2958.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2958.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elixir/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlang/.idea/dtsSettings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlang/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlang/.idea/erlang.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlang/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlang/.idea/libraries/Erlang_SDK.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlang/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlang/.idea/rebar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlang/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../erlang/leet_code/2812.erl" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../python/leet_code/2812.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/leet_code/2812.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/leet_code/2812.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../java/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/misc.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -106,33 +93,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.RadMigrateCodeStyle&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.readMode.enableVisualFormatting&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;cf.advertisement.text.overridden&quot;: &quot;true&quot;,
-    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
-    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
-    &quot;com.google.cloudcode.ide_session_index&quot;: &quot;20240404_0006&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code-challenges/cpp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.stylelint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.stylelint&quot;: &quot;&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "cf.advertisement.text.overridden": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "com.google.cloudcode.ide_session_index": "20240404_0006",
+    "git-widget-placeholder": "trunk",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/code-challenges/erlang",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.stylelint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.stylelint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SwiftWorkspaceSettings">
     <option name="detectedToolchain" value="true" />
