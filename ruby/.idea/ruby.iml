@@ -5,7 +5,8 @@
   </component>
   <component name="NewModuleRootManager">
     <content url="file://$MODULE_DIR$" />
-    <orderEntry type="jdk" jdkName="rbenv: 3.1.2" jdkType="RUBY_SDK" />
+    <orderEntry type="jdk" jdkName="ruby-3.3.1-p55" jdkType="RUBY_SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="json (v2.7.2, ruby-3.3.1-p55) [gem]" level="application" />
   </component>
 </module>

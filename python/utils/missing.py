@@ -3,10 +3,11 @@ import re
 
 DRE = re.compile(r'(\d+)')
 
+
 def find_leet_code_dirs(path):
     leet_code_dirs = []
     all_files = set()
-    ignore_names = {'__init__', '__pycache__'}
+    ignore_names = {'__init__', '__pycache__', 'main'}
 
     # Walk through each directory in the given path
     for root, dirs, files in os.walk(path):
@@ -32,13 +33,14 @@ def find_leet_code_dirs(path):
     # Check that there aren't any file names with more than one extension
     for file in all_files:
         if file.count('.') > 1:
-            print(f"Error: {file} has more than one extension")
+            print(f'Error: {file} has more than one extension')
 
     return leet_code_dirs, list(all_files)
 
 
 if __name__ == '__main__':
-    leet_code_dirs, all_files = find_leet_code_dirs('/devdrive/projects/code-challenges')
+    leet_code_dirs, all_files = find_leet_code_dirs('d:/code-challenges')
     print(*leet_code_dirs, sep='\n')
     af = sorted(all_files, key=lambda _: [int(s) if s.isdigit() else s.lower() for s in re.split(DRE, _)])
-    print("All unique files across all 'leet_code' directories:", af)
+
+    # print("All unique files across all 'leet_code' directories:", af)

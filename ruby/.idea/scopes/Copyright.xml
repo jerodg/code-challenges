@@ -1,0 +1,3 @@
+<component name="DependencyValidationManager">
+  <scope name="Copyright" pattern="file:*.rb&amp;&amp;!file[ruby]:.idea//*" />
+</component>
