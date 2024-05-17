@@ -5,26 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2cc58289-d4e5-4bee-a013-4d1b97c4c98e" name="Changes" comment="feat(leet_code): add solutions&#10;&#10;+ 1700">
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/1219.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../csharp/leet_code/861.cs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/Ruby.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/markdown.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/scopes/Copyright.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.rubocop.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1219.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/3075.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/786.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/861.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/../csharp/.idea/.idea.csharp.dir/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../go/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../go/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../python/utils/missing.py" beforeDir="false" afterPath="$PROJECT_DIR$/../python/utils/missing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ruby.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/ruby.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elixir/.idea/dictionaries/JerryG.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elixir/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elixir/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../elixir/leet_code/1293.ex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1293.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1325.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/2331.rb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/2812.rb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.github/issue_template/bug_report.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.github/issue_template/config.yml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.github/issue_template/documentation_issue.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.github/issue_template/feature_request.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.github/issue_template/question.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elixir/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/libraries/Erlang_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erlang/.idea/libraries/Erlang_SDK.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/rebar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erlang/.idea/rebar.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,12 +52,12 @@
   <component name="GitToolBoxStore">
     <option name="projectConfigVersion" value="5" />
   </component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;git@github.com:jerodg/code-challenges.git&quot;,
-    &quot;accountId&quot;: &quot;1b2e3e85-18a3-40ec-8442-362c65e2e84c&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/jerodg/code-challenges.git",
+    "accountId": "1b2e3e85-18a3-40ec-8442-362c65e2e84c"
   }
-}</component>
+}]]></component>
   <component name="NamedScopeManager">
     <order>
       <scope name="Copyright" />
@@ -76,24 +74,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/code-challenges/ruby&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;ruby.structure.view.model.defaults.configured&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;copyright.filetypes.Ruby&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "trunk",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "D:/projects/code-challenges/ruby",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "ruby.structure.view.model.defaults.configured": "true",
+    "settings.editor.selected.configurable": "copyright.filetypes.Ruby",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration default="true" type="CucumberRunConfigurationType" factoryName="Cucumber">
       <predefined_log_file enabled="true" id="RUBY_CUCUMBER" />

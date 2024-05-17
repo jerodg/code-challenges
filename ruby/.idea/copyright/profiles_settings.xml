@@ -5,8 +5,12 @@
     </module2copyright>
     <LanguageOptions name="Ruby">
       <option name="fileTypeOverride" value="3" />
+      <option name="addBlankAfter" value="false" />
       <option name="block" value="false" />
       <option name="prefixLines" value="false" />
+      <option name="lenBefore" value="5" />
+      <option name="lenAfter" value="5" />
+      <option name="filler" value="|" />
     </LanguageOptions>
   </settings>
 </component>
