@@ -11,6 +11,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameters are well-formed, i.e., `root` is a TreeNode object, `val` is an integer, and `depth` is a positive integer.
 /// - If the input parameters are not well-formed, the behavior of the method is undefined.
+library;
 
 class TreeNode {
   int val;

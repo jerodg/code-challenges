@@ -12,6 +12,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameters are well-formed, i.e., `nums1` and `nums2` are lists of integers, and `m` and `n` are integers.
 /// - If the input parameters are not well-formed, the behavior of the method is undefined.
+library;
 
 class Solution {
   /// Merges two sorted arrays in-place.

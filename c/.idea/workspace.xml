@@ -21,33 +21,44 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3ae945e7-9e2a-4edc-9731-cdabb9d412b3" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/leet_code/1293.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1325.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/2331.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1293.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../elixir/.idea/dictionaries/JerryG.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../elixir/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../elixir/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../elixir/leet_code/1293.ex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1293.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/1325.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/2331.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ruby/leet_code/2812.rb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/issue_template/bug_report.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/issue_template/config.yml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/issue_template/documentation_issue.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/issue_template/feature_request.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../.github/issue_template/question.md" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/SSPL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1863.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/979.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1219.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1863.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2331.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/786.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/861.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/979.rs" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../elixir/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/libraries/Erlang_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erlang/.idea/libraries/Erlang_SDK.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/rebar.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erlang/.idea/rebar.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/copyright/profiles_settings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ruby/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/dictionaries/JerryG.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/elixir.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/leet_code/1293.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/dtsSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/erlang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/libraries/Erlang_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/rebar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/leet_code/2812.erl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,23 +102,27 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.advertisement.text.overridden": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "trunk",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "D:/projects/code-challenges/erlang",
-    "settings.editor.selected.configurable": "preferences.sourceCode"
+    "last_opened_file_path": "D:/projects/code-challenges/c",
+    "settings.editor.selected.configurable": "copyright.filetypes.HTML"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
       </method>
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="UpdateCopyrightCheckinHandler">
+    <option name="UPDATE_COPYRIGHT" value="true" />
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="true" />

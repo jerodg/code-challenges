@@ -10,6 +10,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameters are well-formed, i.e., `nums` is a list of integers and `val` is an integer.
 /// - If the input parameters are not well-formed, the behavior of the method is undefined.
+library;
 
 class Solution {
   /// Removes all instances of `val` in the array and returns the new length.

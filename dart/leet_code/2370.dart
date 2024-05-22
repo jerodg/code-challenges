@@ -7,6 +7,7 @@
 /// An ideal string is defined as a string where the difference between the ASCII values of any two characters is not more than `k`.
 ///
 /// This module uses Dart 3.3 syntax and follows Dart and Google Style Guide standards.
+library;
 
 import 'dart:math';
 

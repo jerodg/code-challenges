@@ -6,6 +6,8 @@
 ///
 /// Class: Solution
 /// This class encapsulates the solution for the problem.
+library;
+
 import 'dart:math';
 
 class Solution {

@@ -11,6 +11,7 @@
 /// The above copyright notice and this permission notice shall be included in all copies or
 /// substantial portions of the Software. You should have received a copy of the SSPL along with this
 /// program. If not, see <https://www.mongodb.com/licensing/server-side-public-license>.
+library;
 
 /// A file that defines a linked list node and a solution to double the value of each node in the list.
 

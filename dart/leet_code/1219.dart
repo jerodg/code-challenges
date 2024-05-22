@@ -15,6 +15,8 @@
 /// The above copyright notice and this permission notice shall be included in all copies or
 /// substantial portions of the Software. You should have received a copy of the SSPL along with this
 /// program. If not, see <https://www.mongodb.com/licensing/server-side-public-license>.
+library;
+
 import 'dart:math';
 
 /// The `Solution` class provides a method to find the maximum amount of gold that can be collected in a grid.

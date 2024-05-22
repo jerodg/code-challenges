@@ -11,6 +11,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameters are well-formed, i.e., `s` and `t` are strings.
 /// - If the input parameters are not well-formed, the behavior of the method is undefined.
+library;
 
 class Solution {
   /// Determines whether two strings are isomorphic.

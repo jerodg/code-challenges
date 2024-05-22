@@ -12,6 +12,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameters are well-formed, i.e., `n` is a positive integer, `edges` is a list of lists with two integers each, and `source` and `destination` are valid node indices.
 /// - If the input parameters are not well-formed, the behavior of the method is undefined.
+library;
 
 import 'dart:collection';
 
@@ -45,7 +46,7 @@ class Solution {
     bool ans = destination == source;
 
     // Perform BFS on the graph.
-    while (q.length != 0) {
+    while (q.isNotEmpty) {
       int sz = q.length;
       for (int i = 0; i < sz; i++) {
         // If the last node in the queue is the destination node, the path exists.

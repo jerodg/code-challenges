@@ -10,6 +10,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameters are well-formed, i.e., `num` is a string and `k` is an integer.
 /// - If the input parameters are not well-formed, the behavior of the method is undefined.
+library;
 
 class Solution {
   /// Removes `k` digits from the input number to form the smallest possible number.

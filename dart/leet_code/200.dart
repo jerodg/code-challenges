@@ -11,6 +11,7 @@
 /// - This method assumes that the input parameter is well-formed, i.e., `grid` is a 2D list of strings.
 /// - If the input parameter is not well-formed, the behavior of the method is undefined.
 /// - If the grid is null, an `ArgumentError` is thrown.
+library;
 
 class Solution {
   /// Counts the number of islands in a 2D grid map.
@@ -25,8 +26,7 @@ class Solution {
     int count = 0;
 
     // Initialize a 2D list to keep track of visited cells.
-    List<List<bool>> visited = List.generate(
-        grid.length, (_) => List.generate(grid[0].length, (_) => false));
+    List<List<bool>> visited = List.generate(grid.length, (_) => List.generate(grid[0].length, (_) => false));
 
     /// Performs a Depth-First Search from a given cell.
     ///

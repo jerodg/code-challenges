@@ -9,6 +9,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameter is well-formed, i.e., `matrix` is a 2D list of strings.
 /// - If the input parameter is not well-formed, the behavior of the method is undefined.
+library;
 
 import 'dart:math';
 

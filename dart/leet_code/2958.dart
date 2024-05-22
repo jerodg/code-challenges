@@ -1,4 +1,6 @@
 /// Dart core library for fundamental classes.
+library;
+
 import 'dart:math';
 
 /// Dart implementation of a hypothetical problem.
@@ -30,7 +32,7 @@ class Solution {
   int maxSubarrayLength(List<int> nums, int k) {
     int left = 0;
     Map<int, int> counter = {};
-    int max_length = 0;
+    int maxLength = 0;
     for (int right = 0; right < nums.length; right++) {
       counter[nums[right]] = (counter[nums[right]] ?? 0) + 1;
       while (counter[nums[right]]! > k) {
@@ -40,8 +42,8 @@ class Solution {
         }
         left++;
       }
-      max_length = max(max_length, right - left + 1);
+      maxLength = max(maxLength, right - left + 1);
     }
-    return max_length;
+    return maxLength;
   }
 }

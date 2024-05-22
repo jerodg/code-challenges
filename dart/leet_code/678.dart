@@ -10,6 +10,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameter is well-formed, i.e., `s` is a string of parentheses and '*'.
 /// - If the input parameter is not well-formed, the behavior of the method is undefined.
+library;
 
 import 'dart:math';
 

@@ -13,6 +13,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameters are well-formed, i.e., `tickets` is a list of integers and `k` is an integer.
 /// - If the input parameters are not well-formed, the behavior of the method is undefined.
+library;
 
 class Solution {
   /// Calculates the time required for the person at index `k` to buy all their tickets.

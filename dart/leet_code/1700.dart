@@ -14,6 +14,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameters are well-formed, i.e., `students` and `sandwiches` are lists of integers.
 /// - If the input parameters are not well-formed, the behavior of the method is undefined.
+library;
 
 class Solution {
   /// Counts the number of students who cannot eat lunch.

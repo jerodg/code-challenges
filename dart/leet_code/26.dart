@@ -9,6 +9,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameter is well-formed, i.e., `nums` is a list of integers sorted in non-decreasing order.
 /// - If the input parameter is not well-formed, the behavior of the method is undefined.
+library;
 
 import 'dart:core';
 

@@ -1,4 +1,6 @@
 /// Dart core library for fundamental classes.
+library;
+
 import 'dart:core';
 
 /// Dart implementation of the LeetCode problem 1992: Find All Groups of Farmland.

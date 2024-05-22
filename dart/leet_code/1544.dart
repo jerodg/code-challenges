@@ -10,6 +10,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameter is well-formed, i.e., `s` is a string of letters.
 /// - If the input parameter is not well-formed, the behavior of the method is undefined.
+library;
 
 class Solution {
   /// Makes the input string "good".
@@ -24,9 +25,7 @@ class Solution {
   String makeGood(String s) {
     List<String> stack = [];
     for (int i = 0; i < s.length; i++) {
-      if (stack.isNotEmpty &&
-          stack.last.toLowerCase() == s[i].toLowerCase() &&
-          stack.last != s[i]) {
+      if (stack.isNotEmpty && stack.last.toLowerCase() == s[i].toLowerCase() && stack.last != s[i]) {
         stack.removeLast();
       } else {
         stack.add(s[i]);

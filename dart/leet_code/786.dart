@@ -11,6 +11,7 @@
 /// The above copyright notice and this permission notice shall be included in all copies or
 /// substantial portions of the Software. You should have received a copy of the SSPL along with this
 /// program. If not, see <https://www.mongodb.com/licensing/server-side-public-license>.
+library;
 
 /// A solution class for solving a specific problem.
 ///
@@ -35,7 +36,9 @@ class Solution {
       // Iterate over the list of prime numbers.
       for (int i = 0, j = n - 1; i < n; i++) {
         // Adjust the index j so that A[i] / A[n - 1 - j] <= m.
-        while (j >= 0 && A[i] > m * A[n - 1 - j]) j--;
+        while (j >= 0 && A[i] > m * A[n - 1 - j]) {
+          j--;
+        }
 
         // Count the number of fractions that are less than or equal to m.
         cnt += (j + 1);

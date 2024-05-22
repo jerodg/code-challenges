@@ -5,20 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1c581ba4-f445-4951-8203-f7e7203665a9" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/1219.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../java/leet_code/2812.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/1219.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kotlin/leet_code/2812.kts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet_code/1219.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet_code/2812.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet_code/3075.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet_code/786.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leet_code/861.rs" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/1219.scala" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../scala/leet_code/2812.scala" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../java/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../kotlin/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1219.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2331.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/786.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/861.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leet_code/979.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -69,7 +64,7 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "trunk",
     "ignore.virus.scanning.warn.message": "true",
-    "last_opened_file_path": "/devdrive/projects/monograph/src/rust",
+    "last_opened_file_path": "D:/projects/code-challenges/rust",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -94,7 +89,8 @@
     "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/786.rs": "true",
     "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/861.rs": "true",
     "org.rust.hideNoCargoProjectNotificationsD:/code-challenges/rust/src/leet_code/988.rs": "true",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "org.rust.hideNoCargoProjectNotificationsD:/projects/code-challenges/rust/src/leet_code/979.rs": "true",
+    "settings.editor.selected.configurable": "language.rust",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>

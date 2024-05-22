@@ -5,7 +5,91 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c91c8925-c709-4304-ae26-1c9061d65646" name="Changes" comment="feat(leet_code): add 881&#10;&#10;+ 881&#10;~ improve documentation&#10;~ formatting">
+      <change afterPath="$PROJECT_DIR$/../c/.idea/copyright/SSPL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/.idea/copyright/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/1863.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/979.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1219.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/1863.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/2331.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/786.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../cpp/leet_code/861.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/.idea/libraries/Dart_Packages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1293.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1325.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/1863.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/2331.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../dart/leet_code/979.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/979.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../cpp/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../cpp/CMakeLists.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.dart_tool/package_config.json" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.dart_tool/package_config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/dart.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/dart.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/.idea/libraries/Dart_SDK.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/libraries/Dart_SDK.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../dart/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/dtest/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/dtest/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/dtest/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/dtest/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1219.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1219.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1249.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1249.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1289.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1289.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1544.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1544.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1614.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1614.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1700.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1700.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1971.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1971.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/1992.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/1992.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/200.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/200.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/205.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/205.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/2073.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/2073.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/2370.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/2370.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/2441.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/2441.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/2487.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/2487.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/26.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/26.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/27.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/27.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/2816.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/2816.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/2958.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/2958.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/3075.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/3075.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/402.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/402.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/42.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/42.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/463.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/463.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/623.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/623.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/678.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/678.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/786.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/786.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/79.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/79.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/85.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/85.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/861.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/861.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/88.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/88.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/881.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/881.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/950.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/950.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/leet_code/988.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/leet_code/988.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/pubspec.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../dart/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../dart/pubspec.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/codeStyles/Project.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/dictionaries/JerryG.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/elixir.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../elixir/leet_code/1293.ex" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/dtsSettings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/editor.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/erlang.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/libraries/Erlang_SDK.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/rebar.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../erlang/leet_code/2812.erl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,26 +140,26 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "DefaultGoTemplateProperty": "Go File",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.go.formatter.settings.were.checked": "true",
-    "RunOnceActivity.go.migrated.go.modules.settings": "true",
-    "RunOnceActivity.go.modules.automatic.dependencies.download": "true",
-    "RunOnceActivity.go.modules.go.list.on.any.changes.was.set": "true",
-    "code.cleanup.on.save": "true",
-    "configurable..is.expanded": "true",
-    "dart.analysis.tool.window.visible": "false",
-    "git-widget-placeholder": "trunk",
-    "go.import.settings.migrated": "true",
-    "go.sdk.automatically.set": "true",
-    "last_opened_file_path": "C:/Users/JerryG",
-    "rearrange.code.on.save": "true",
-    "settings.editor.selected.configurable": "settings.sync"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultGoTemplateProperty&quot;: &quot;Go File&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.formatter.settings.were.checked&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.migrated.go.modules.settings&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.automatic.dependencies.download&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.go.modules.go.list.on.any.changes.was.set&quot;: &quot;true&quot;,
+    &quot;code.cleanup.on.save&quot;: &quot;true&quot;,
+    &quot;configurable..is.expanded&quot;: &quot;true&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;trunk&quot;,
+    &quot;go.import.settings.migrated&quot;: &quot;true&quot;,
+    &quot;go.sdk.automatically.set&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/projects/code-challenges/dart&quot;,
+    &quot;rearrange.code.on.save&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;settings.sync&quot;
   }
-}]]></component>
+}</component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>

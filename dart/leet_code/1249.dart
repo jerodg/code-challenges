@@ -9,6 +9,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameter is well-formed, i.e., `s` is a string of parentheses.
 /// - If the input parameter is not well-formed, the behavior of the method is undefined.
+library;
 
 class Solution {
   /// Removes the minimum number of parentheses to make the input string valid.

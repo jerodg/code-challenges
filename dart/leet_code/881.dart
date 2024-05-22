@@ -12,6 +12,7 @@
 /// - Average-case: O(n log n), same reason as above.
 ///
 /// Space Complexity: O(1), no additional space is used.
+library;
 
 class Solution {
   /// Calculates the minimum number of boats required to rescue people.
@@ -28,10 +29,10 @@ class Solution {
   /// Error Handling: This function assumes that all inputs are valid. That is, `a` is a non-empty
   /// list of positive integers and `limit` is a positive integer.
   int numRescueBoats(List<int> a, int limit) {
-    int count = 0;  // Initialize the count of boats
-    a.sort();  // Sort the list of weights
-    int left = 0;  // Pointer to the lightest person
-    int right = a.length - 1;  // Pointer to the heaviest person
+    int count = 0; // Initialize the count of boats
+    a.sort(); // Sort the list of weights
+    int left = 0; // Pointer to the lightest person
+    int right = a.length - 1; // Pointer to the heaviest person
 
     // Continue until all people are paired or only the heaviest people remain
     while (left <= right) {

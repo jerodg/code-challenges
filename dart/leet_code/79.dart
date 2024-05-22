@@ -12,6 +12,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameters are well-formed, i.e., `board` is a 2D list of strings and `word` is a string.
 /// - If the input parameters are not well-formed, the behavior of the method is undefined.
+library;
 
 import 'dart:core';
 
@@ -27,11 +28,7 @@ class Solution {
   /// The method returns a boolean indicating whether the word can be found starting from the current position.
   bool dfs(List<List<String>> board, int i, int j, String word, int k) {
     // If the current position is out of bounds or the current character does not match the word, return false.
-    if (i < 0 ||
-        j < 0 ||
-        i >= board.length ||
-        j >= board[i].length ||
-        board[i][j] != word[k]) return false;
+    if (i < 0 || j < 0 || i >= board.length || j >= board[i].length || board[i][j] != word[k]) return false;
 
     // If the entire word has been found, return true.
     if (k == word.length - 1) return true;

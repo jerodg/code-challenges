@@ -11,6 +11,7 @@
 /// Error Handling:
 /// - This method assumes that the input parameter is well-formed, i.e., `deck` is a list of integers.
 /// - If the input parameter is not well-formed, the behavior of the method is undefined.
+library;
 
 import 'dart:collection';
 

@@ -14,6 +14,7 @@
 /// copies or substantial portions of the Software.
 /// You should have received a copy of the SSPL along with this program.
 /// If not, see <https://www.mongodb.com/licensing/server-side-public-license>.
+library;
 
 /// A class that represents a node in a singly linked list.
 ///

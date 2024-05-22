@@ -9,6 +9,7 @@
 ///
 /// This class encapsulates the solution for the problem. It has a single
 /// method `findMaxK`.
+library;
 
 class Solution {
   /// Method: findMaxK
