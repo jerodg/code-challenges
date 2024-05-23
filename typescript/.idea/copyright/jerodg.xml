@@ -1,0 +1,6 @@
+<component name="CopyrightManager">
+  <copyright>
+    <option name="notice" value=" Copyright ©2010-&amp;#36;today.year &lt;a href=&quot;https://github.com/jerodg/&quot;&gt;JerodG&lt;/a&gt;&#10;&#10; This program is free software: you can redistribute it and/or modify it under the terms of the&#10; Server Side Public License (SSPL) as published by MongoDB, Inc., either version 1 of the License,&#10; or (at your option) any later version.&#10; &#10; This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without&#10; even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the SSPL&#10; for more details.&#10; &#10; The above copyright notice and this permission notice shall be included in all copies or&#10; substantial portions of the Software. You should have received a copy of the SSPL along with this&#10; program. If not, see SSPL." />
+    <option name="myName" value="jerodg" />
+  </copyright>
+</component>
