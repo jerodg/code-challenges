@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="RuffConfigService">
+    <option name="projectRuffExecutablePath" value="D:\projects\dexa2\.venv\Scripts\ruff.exe" />
+    <option name="projectRuffLspExecutablePath" value="D:\projects\dexa2\.venv\Scripts\ruff-lsp.exe" />
     <option name="useRuffFormat" value="true" />
     <option name="useRuffLsp" value="true" />
   </component>

@@ -25,44 +25,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e6a6f0d0-07b8-42fb-b9f2-190d1a815288" name="Changes" comment="feat(leet_code): add missing lang solutions&#10;&#10;+ c&#10;+ c++&#10;+ dart&#10;+ c#&#10;+ java&#10;+ go&#10;+ swift">
-      <change afterPath="$PROJECT_DIR$/../c/.idea/copyright/SSPL.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/.idea/copyright/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/1863.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../c/leet_code/979.c" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1219.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/1863.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/2331.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/786.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/leet_code/861.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../rust/src/leet_code/979.rs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../c/leet_code/140.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/1255.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/140.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leet_code/2597.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../c/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../c/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/../c/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/.idea/dictionaries/JerryG.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/.idea/elixir.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../elixir/leet_code/1293.ex" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/dtsSettings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/editor.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/encodings.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/erlang.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/libraries/Erlang_SDK.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/rebar.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/.idea/workspace.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../erlang/leet_code/2812.erl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../rust/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../rust/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -141,14 +111,14 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "configurable.group.appearance",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RunManager">
-    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
+    <configuration default="true" type="CLionExternalRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true">
       <method v="2">
-        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+        <option name="CLION.EXTERNAL.BUILD" enabled="true" />
       </method>
     </configuration>
   </component>

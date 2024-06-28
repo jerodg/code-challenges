@@ -25,6 +25,7 @@ dev-dependencies = [
     "pytest-cov>=4.1.0",
     "ruff>=0.4.1",
     "ruff-lsp>=0.0.53",
+    "appmap>=2.0.6",
 ]
 
 

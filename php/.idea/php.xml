@@ -13,7 +13,7 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings>
-      <PhpCSConfiguration beautifier_path="/usr/bin/phpcbf" standards="MySource;PEAR;PSR1;PSR12;PSR2;Squiz;Zend" tool_path="/usr/bin/phpcs" />
+      <PhpCSConfiguration beautifier_path="$USER_HOME$/AppData/Roaming/Composer/vendor/squizlabs/php_codesniffer/bin/phpcbf" standards="MySource;PEAR;PSR1;PSR12;PSR2;Squiz;Zend" tool_path="$USER_HOME$/AppData/Roaming/Composer/vendor/squizlabs/php_codesniffer/bin/phpcs" />
     </phpcs_settings>
   </component>
   <component name="PhpExternalFormatter">
