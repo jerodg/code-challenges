@@ -7,8 +7,6 @@ license-files = { paths = ["../LICENSE.adoc"] }
 requires-python = ">= 3.12"
 authors = [{ name = "JerodG", email = "2856163+jerodg@users.noreply.github.com" }]
 dependencies = [
-    "ruff>=0.4.2",
-    "ruff-lsp>=0.0.53",
 ]
 
 
@@ -23,9 +21,6 @@ dev-dependencies = [
     "pytest>=8.0.2",
     "pytest-benchmark>=4.0.0",
     "pytest-cov>=4.1.0",
-    "ruff>=0.4.1",
-    "ruff-lsp>=0.0.53",
-    "appmap>=2.0.6",
 ]
 
 
