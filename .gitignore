@@ -1063,3 +1063,5 @@ $RECYCLE.BIN/
 python/requirements.lock
 python/requirements-dev.lock
 **/package-lock.json
+.aider*
+uv.lock

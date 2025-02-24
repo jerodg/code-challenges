@@ -1,12 +1,139 @@
 [project]
-name = "python"
+name = "python-code-challenges"
 version = "0.1.0"
-description = "Add your description here"
+description = "Python Code Challenges"
 readme = "README.md"
 requires-python = ">=3.13"
-dependencies = []
+dependencies = [
+
+]
 
 [dependency-groups]
 dev = [
-    "ruff>=0.8.1",
+    "ruff>=0.8.4",
+    "pytest>=8.3.3",
+    "pytest-mock>=3.14.0",
+    "pytest-cov>=6.0.0",
 ]
+
+[tool.ruff]
+unsafe-fixes = true
+extend-include = ["*.ipynb"]
+# Exclude a variety of commonly ignored directories.
+exclude = [
+    ".bzr",
+    ".direnv",
+    ".eggs",
+    ".git",
+    ".git-rewrite",
+    ".hg",
+    ".ipynb_checkpoints",
+    ".mypy_cache",
+    ".nox",
+    ".pants.d",
+    ".pyenv",
+    ".pytest_cache",
+    ".pytype",
+    ".ruff_cache",
+    ".svn",
+    ".tox",
+    ".venv",
+    ".vscode",
+    "__pypackages__",
+    "_build",
+    "buck-out",
+    "build",
+    "dist",
+    "node_modules",
+    "site-packages",
+    "venv",
+    ".idea",
+    ".venv",
+]
+line-length = 132
+fix = true
+indent-width = 4
+target-version = "py313"
+include = ["*.py"]
+respect-gitignore = true
+select = [
+    "F", # pyflakes
+    "E", # pycodestyle errors
+    "W", # pycodestyle warnings
+    "C901", # mccabe complexity
+    "I", # isort
+    "N", # pep8-naming
+    "D", # pydocstyle
+    "YTT", # flake8-2020
+    "ANN", # flake8-annotations
+    "ASYNC", # flake8-async
+    "A", # flake8-builtins
+    "COM", # flake8-commas
+    "CPY", # flake8-copyright
+    "C4", # flake8-comprehensions
+    "DTZ", # flake8-datetimez
+    "ICN", # flake8-import-conventions
+    "INP", # flake8-no-pep420
+    "PIE", # flake8-pie
+    "PT", # flake8-pytest-style
+    "Q", # flake8-quotes
+    "RSE", # flake8-raise
+    "RET", # flake8-return
+    "SLF", # flake8-self
+    "SLOT", # flake8-slot
+    "SIM", # flake8-simplify
+    "TID", # flake8-tidy-imports
+    "INT", # flake8-gettext
+    "ARG", # flake8-unused-arguments
+    "PTH", # flake8-use-pathlib
+    "TD", # flake8-todos
+    "FIX", # flake8-fixme
+    "ERA", # eradicate
+    "PD", # pandas-vet
+    "PL", # pylint
+    "FLY", # flynt
+    "PERF", # perflint
+    "FURB", # refurb
+    "RUF", # ruff
+]
+ignore = [
+    "PLR2004", # Magic value used in comparison
+]
+preview = true
+task-tags = ["TODO:", "todo:", "FIXME:", "fixme:"]
+fixable = ["ALL"]
+unfixable = [""]
+extend-fixable = []
+
+[tool.ruff.pydocstyle]
+convention = "google"
+
+[tool.ruff.pycodestyle]
+max-doc-length = 132
+
+[tool.ruff.flake8-quotes]
+inline-quotes = "single"
+multiline-quotes = "double"
+
+[tool.ruff.lint.isort]
+case-sensitive = true
+combine-as-imports = true
+order-by-type = true
+no-sections = false
+known-first-party = ["app"]
+section-order = ["future", "standard-library", "first-party", "local-folder", "third-party"]
+
+[tool.ruff.format]
+quote-style = "single"
+indent-style = "space"
+skip-magic-trailing-comma = true
+line-ending = "lf"
+docstring-code-format = true
+docstring-code-line-length = 132
+preview = true
+
+[tool.pytest.ini_options]
+minversion = "6.0"
+addopts = "-ra -q --log-level=INFO"
+testpaths = ["tests"]
+markers = ["random: marks tests as random (deselect with '-m \"not random\"')"]

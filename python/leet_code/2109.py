@@ -17,7 +17,7 @@ program. If not, see SSPL.
 class Solution:
     """A class to solve the problem of adding spaces at specified positions in a string."""
 
-    def addSpaces(self, s: str, spaces: List[int]) -> str:
+    def addSpaces(self, s: str, spaces: list[int]) -> str:
         """
         Inserts spaces into the string `s` at the positions specified in the list `spaces`.
 
