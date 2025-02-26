@@ -1,41 +1,79 @@
-"""Functions used in preparing Guido's gorgeous lasagna.
+"""Copyright ©2010-2025 JerodG <https://github.com/jerodg/>
+
+This program is free software: you can redistribute it and/or modify it under the terms of the
+Server Side Public License (SSPL) as published by MongoDB, Inc., either version 1 of the License,
+or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
+even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the SSPL
+for more details.
+
+The above copyright notice and this permission notice shall be included in all copies or
+substantial portions of the Software. You should have received a copy of the SSPL along with this
+program. If not, see <https://www.mongodb.com/licensing/server-side-public-license>.
+
+Functions used in preparing Guido's gorgeous lasagna.
 
 Learn about Guido, the creator of the Python language:
 https://en.wikipedia.org/wiki/Guido_van_Rossum
-
-This is a module docstring, used to describe the functionality
-of a module and its functions and/or classes.
 """
+EXPECTED_BAKE_TIME = 40
+PREPARATION_TIME = 2
 
 
-#TODO: define the 'EXPECTED_BAKE_TIME' constant below.
-
-
-#TODO: Remove 'pass' and complete the 'bake_time_remaining()' function below.
-def bake_time_remaining():
-    """Calculate the bake time remaining.
-
-    :param elapsed_bake_time: int - baking time already elapsed.
-    :return: int - remaining bake time (in minutes) derived from 'EXPECTED_BAKE_TIME'.
-
-    Function that takes the actual minutes the lasagna has been in the oven as
-    an argument and returns how many minutes the lasagna still needs to bake
-    based on the `EXPECTED_BAKE_TIME`.
+def bake_time_remaining(elapsed_bake_time: int) -> int:
     """
+    Calculates the remaining bake time for the lasagna based on a constant expected bake time.
 
-    pass
+    Args:
+        elapsed_bake_time (int): The number of minutes the lasagna has been in the oven.
+
+    Returns:
+        int: The number of minutes remaining until the lasagna is done.
+
+    Examples:
+        >>> bake_time_remaining(30)
+        10
+        >>> bake_time_remaining(0)
+        40
+    """
+    return EXPECTED_BAKE_TIME - elapsed_bake_time
 
 
-#TODO: Define the 'preparation_time_in_minutes()' function below.
-# You might also consider defining a 'PREPARATION_TIME' constant.
-# You can do that on the line below the 'EXPECTED_BAKE_TIME' constant.
-# This will make it easier to do calculations.
+def preparation_time_in_minutes(layers: int) -> int:
+    """
+    Calculates the preparation time based on the number of layers in the lasagna.
+
+    Args:
+        layers (int): The number of layers in the lasagna.
+
+    Returns:
+        int: Total preparation time in minutes.
+
+    Examples:
+        >>> preparation_time_in_minutes(1)
+        2
+        >>> preparation_time_in_minutes(4)
+        8
+    """
+    return layers * PREPARATION_TIME
 
 
+def elapsed_time_in_minutes(layers: int, elapsed_bake_time: int) -> int:
+    """
+    Calculates the total elapsed cooking time for the lasagna.
 
-#TODO: define the 'elapsed_time_in_minutes()' function below.
+    Args:
+        layers (int): The number of layers in the lasagna.
+        elapsed_bake_time (int): The number of minutes the lasagna has been baking.
 
+    Returns:
+        int: Total elapsed minutes spent on the lasagna, including preparation and baking time.
 
-
-# TODO: Remember to go back and add docstrings to all your functions
-#  (you can copy and then alter the one from bake_time_remaining.)
+    Examples:
+        >>> elapsed_time_in_minutes(3, 20)
+        26
+        >>> elapsed_time_in_minutes(1, 30)
+        32
+    """
+    return preparation_time_in_minutes(layers) + elapsed_bake_time

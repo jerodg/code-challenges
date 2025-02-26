@@ -1,7 +1,4 @@
-"""
-leet_code/3075.py
-
-Copyright ©2012-2024 JerodG <https://github.com/jerodg/>
+"""Copyright ©2010-2025 JerodG <https://github.com/jerodg/>
 
 This program is free software: you can redistribute it and/or modify it under the terms of the
 Server Side Public License (SSPL) as published by MongoDB, Inc., either version 1 of the License,
@@ -18,14 +15,11 @@ program. If not, see <https://www.mongodb.com/licensing/server-side-public-licen
 
 
 class Solution:
-    """
-    This class provides a solution for the problem. It has a method called maximumHappinessSum.
-    """
+    """This class provides a solution for the problem. It has a method called maximumHappinessSum."""
 
     @staticmethod
     def maximumHappinessSum(happiness: list[int], k: int) -> int:
-        """
-        This method calculates the maximum happiness sum.
+        """This method calculates the maximum happiness sum.
 
         It first sorts the happiness list in descending order. Then it checks if the kth child's
         happiness is greater than or equal to k-1.
