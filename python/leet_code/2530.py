@@ -1,4 +1,4 @@
-"""Copyright © 2010-2024 <a href="https://github.com/jerodg/">JerodG</a>
+"""Copyright © 2010-2024 <a href="https://github.com/jerodg/">JerodG</a>.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the
 Server Side Public License (SSPL) as published by MongoDB, Inc., either version 1 of the License,
@@ -12,8 +12,9 @@ The above copyright notice and this permission notice shall be included in all c
 substantial portions of the Software. You should have received a copy of the SSPL along with this
 program. If not, see <a href="https://www.mongodb.com/licensing/server-side-public-license">SSPL</a>.
 """
-from math import floor
+
 import heapq
+from math import floor
 
 
 class Solution:
@@ -23,7 +24,7 @@ class Solution:
     element with one-third of its value, rounded down, for a specified number of operations.
     """
 
-    def maxKelements(self, nums: List[int], k: int) -> int:
+    def maxKelements(self, nums: list[int], k: int) -> int:
         """Maximize the sum of elements after performing k operations.
 
         This function takes a list of integers and a number of operations. In each operation, it replaces the

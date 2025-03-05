@@ -1,4 +1,4 @@
-"""Copyright © 2010-2024 <a href="https://github.com/jerodg/">JerodG</a>
+"""Copyright © 2010-2024 <a href="https://github.com/jerodg/">JerodG</a>.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the
 Server Side Public License (SSPL) as published by MongoDB, Inc., either version 1 of the License,
@@ -13,6 +13,9 @@ substantial portions of the Software. You should have received a copy of the SSP
 program. If not, see <a href="https://www.mongodb.com/licensing/server-side-public-license">SSPL</a>.
 """
 
+import heapq
+import operator
+
 
 class Solution:
     def smallestChair(self, times: list[list[int]], targetFriend: int) -> int:
@@ -23,7 +26,7 @@ class Solution:
         for i in range(len(times)):
             times[i].append(i)
 
-        times.sort(key=lambda x: x[0])
+        times.sort(key=operator.itemgetter(0))
 
         for arrival, leaving, i in times:
             while len(occupied) > 0 and occupied[0][0] <= arrival:
@@ -37,3 +40,4 @@ class Solution:
             else:
                 empty_chair = heapq.heappop(empty_chairs)
                 heapq.heappush(occupied, (leaving, empty_chair))
+        return None

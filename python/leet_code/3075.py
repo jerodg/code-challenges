@@ -15,43 +15,49 @@ program. If not, see <https://www.mongodb.com/licensing/server-side-public-licen
 
 
 class Solution:
-    """This class provides a solution for the problem. It has a method called maximumHappinessSum."""
+    """Provides solutions for the maximum happiness sum problem.
+
+    Implements algorithmic solutions for calculating the maximum
+    happiness achievable when giving gifts to children with various constraints.
+    """
 
     @staticmethod
     def maximumHappinessSum(happiness: list[int], k: int) -> int:
-        """This method calculates the maximum happiness sum.
+        """Calculates the maximum possible sum of happiness after giving gifts to children.
 
-        It first sorts the happiness list in descending order. Then it checks if the kth child's
-        happiness is greater than or equal to k-1.
-        If it is, it returns the sum of the happiness of the first k children minus the sum of the
-        first k-1 natural  numbers.
-        If it's not, it calculates the sum of the happiness of each child minus their index
-        (0-indexed) until the result is non-positive.
+        The happiness of each child is reduced by their position in the gift-giving order
+        (0-indexed). A gift is only given if the resulting happiness is positive.
 
-        Parameters:
-        happiness (list[int]): A list of integers representing the happiness of each child.
-        k (int): The number of children to consider.
+        Args:
+            happiness: A list of integers representing each child's happiness value.
+            k: The maximum number of children to give gifts to.
 
         Returns:
-        int: The maximum happiness sum.
-        """
+            The maximum possible sum of happiness after giving gifts to at most k children.
 
-        # Sort the happiness list in descending order
+        Examples:
+            >>> Solution().maximumHappinessSum([1, 2, 3], 2)
+            4
+            >>> Solution().maximumHappinessSum([10, 5, 8], 3)
+            20
+        """
+        # Sort children by happiness in descending order to prioritize the happiest children
         children = sorted(happiness, reverse=True)
 
-        # Check if the kth child's happiness is greater than or equal to k-1
+        # Optimization: If the k-th happiest child still has positive happiness
+        # after decrementing (k-1) times, we can use a formula to calculate the total
         if children[k - 1] >= k - 1:
-            # Return the sum of the happiness of the first k children minus the sum of the first
-            # k-1 natural numbers
+            # Sum of first k children minus the sum of decrements (arithmetic sequence)
             return sum(children[:k]) - ((0 + k - 1) * k // 2)
 
         res = 0
-        # Calculate the sum of the happiness of each child minus their index (0-indexed) until the
-        # result is non-positive
+
+        # Process each child in order of decreasing happiness
         for i, h in enumerate(children[:k]):
+            # Skip children who would have zero or negative happiness after decrement
             if h - i <= 0:
                 break
+            # Add adjusted happiness value to the result
             res += h - i
 
-        # Return the maximum happiness sum
         return res

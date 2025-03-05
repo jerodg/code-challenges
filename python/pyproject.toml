@@ -96,11 +96,13 @@ select = [
     "FURB", # refurb
     "RUF", # ruff
 ]
-ignore = []
+ignore = ["T201", # print statements
+    "CPY001", # missing-copyright-notice (doesn't "see" the current notice for some reason)
+]
 preview = true
 task-tags = ["TODO:", "todo:", "FIXME:", "fixme:"]
 fixable = ["ALL"]
-unfixable = [""]
+unfixable = ["T20"]
 extend-fixable = []
 
 [tool.ruff.pydocstyle]
@@ -132,6 +134,6 @@ preview = true
 
 [tool.pytest.ini_options]
 minversion = "6.0"
-addopts = "-ra -q --log-level=INFO --cov-report"
+addopts = "-ra -q"
 testpaths = ["tests"]
 markers = ["random: marks tests as random (deselect with '-m \"not random\"')"]

@@ -1,4 +1,4 @@
-"""Copyright © 2010-2024 <a href="https://github.com/jerodg/">JerodG</a>
+"""Copyright © 2010-2024 <a href="https://github.com/jerodg/">JerodG</a>.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the
 Server Side Public License (SSPL) as published by MongoDB, Inc., either version 1 of the License,
@@ -20,7 +20,7 @@ class Solution:
     The rank array is an array where each element is replaced by its rank in the sorted array.
     """
 
-    def arrayRankTransform(self, arr: List[int]) -> List[int]:
+    def arrayRankTransform(self, arr: list[int]) -> list[int]:
         """Transforms the input array into its rank array.
 
         The rank of an element is its position in the sorted unique array, starting from 1.
@@ -42,6 +42,4 @@ class Solution:
         c = {ele: rank + 1 for rank, ele in enumerate(b)}
 
         # Replace each element in the original array with its rank.
-        ranked_arr = [c[ele] for ele in arr]
-
-        return ranked_arr
+        return [c[ele] for ele in arr]

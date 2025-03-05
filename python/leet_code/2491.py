@@ -1,4 +1,4 @@
-"""Copyright © 2010-2024 <a href="https://github.com/jerodg/">JerodG</a>
+"""Copyright © 2010-2024 <a href="https://github.com/jerodg/">JerodG</a>.
 
 This program is free software: you can redistribute it and/or modify it under the terms of the
 Server Side Public License (SSPL) as published by MongoDB, Inc., either version 1 of the License,
@@ -13,15 +13,15 @@ substantial portions of the Software. You should have received a copy of the SSP
 program. If not, see <a href="https://www.mongodb.com/licensing/server-side-public-license">SSPL</a>.
 """
 
+from pickle import loads
+from sys import exit, stdin
+
 
 class Solution:
-    """
-    A class used to represent the solution to the problem of dividing players into pairs based on their skill levels.
-    """
+    """A class used to represent the solution to the problem of dividing players into pairs based on their skill levels."""
 
-    def dividePlayers(self, skill: List[int]) -> int:
-        """
-        Divides players into pairs such that the sum of skills in each pair is the same and returns the sum of the
+    def dividePlayers(self, skill: list[int]) -> int:
+        """Divides players into pairs such that the sum of skills in each pair is the same and returns the sum of the
         product of skills in each pair.
 
         Args:
@@ -59,7 +59,7 @@ class Solution:
         return result
 
 
-with open("user.out", "w") as f:
+with open('user.out', 'w', encoding='utf-8') as f:
     inputs = map(loads, stdin)
 
     # Process each input and write the result to the output file.

@@ -1,5 +1,5 @@
 class Solution:
-    def timeRequiredToBuy(self, tickets: List[int], k: int) -> int:
+    def timeRequiredToBuy(self, tickets: list[int], k: int) -> int:
         res = 0
 
         for i in range(len(tickets)):

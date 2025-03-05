@@ -1,16 +1,14 @@
 #!/usr/bin/env python3.8
-"""
-Exceptions Jerod Gawne, 2020.02.16 <https://github.com/jerodg/hackerrank>
-"""
+"""Exceptions Jerod Gawne, 2020.02.16 <https://github.com/jerodg/hackerrank>."""
 
 
-def main():
-    for _ in range(0, int(input())):
+def main() -> None:
+    for _ in range(int(input())):
         try:
             k, m = map(int, input().split())
             print(k // m)
         # except Exception as excp:
-        except BaseException:
+        except BaseException as excp:
             print(f'Error Code: {excp}')
 
 
