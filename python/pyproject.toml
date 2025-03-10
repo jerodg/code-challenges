@@ -98,6 +98,7 @@ select = [
 ]
 ignore = ["T201", # print statements
     "CPY001", # missing-copyright-notice (doesn't "see" the current notice for some reason)
+    "PLR2004", # Magic value used in comparison
 ]
 preview = true
 task-tags = ["TODO:", "todo:", "FIXME:", "fixme:"]
