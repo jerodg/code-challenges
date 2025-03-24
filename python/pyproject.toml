@@ -100,6 +100,7 @@ ignore = ["T201", # print statements
     "CPY001", # missing-copyright-notice (doesn't "see" the current notice for some reason)
     "PLR2004", # Magic value used in comparison
     "N999", # No name in module (or numbers as name)
+    "COM812", # No trailing comma
 ]
 preview = true
 task-tags = ["TODO:", "todo:", "FIXME:", "fixme:"]
