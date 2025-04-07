@@ -1,0 +1,32 @@
+"""Copyright ©2010-2025 JerodG <https://github.com/jerodg/>.
+
+This program is free software: you can redistribute it and/or modify it under the terms of the
+Server Side Public License (SSPL) as published by MongoDB, Inc., either version 1 of the License,
+or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without
+even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the SSPL
+for more details.
+
+The above copyright notice and this permission notice shall be included in all copies or
+substantial portions of the Software. You should have received a copy of the SSPL along with this
+program. If not, see <https://www.mongodb.com/licensing/server-side-public-license>.
+"""
+import re
+
+# Read input
+S = input().strip()
+k = input().strip()
+
+# Find all occurrences of k in S (including overlapping matches) using lookahead assertion
+pattern = re.compile(f"(?={re.escape(k)})")
+matches = list(pattern.finditer(S))
+
+# Print results
+if not matches:
+    print((-1, -1))
+else:
+    for match in matches:
+        start_idx = match.start()
+        end_idx = start_idx + len(k) - 1
+        print((start_idx, end_idx))

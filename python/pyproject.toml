@@ -115,7 +115,7 @@ convention = "google"
 max-doc-length = 132
 
 [tool.ruff.flake8-quotes]
-inline-quotes = "single"
+inline-quotes = "double"
 multiline-quotes = "double"
 
 [tool.ruff.lint.isort]
@@ -127,7 +127,7 @@ known-first-party = []
 section-order = ["future", "standard-library", "first-party", "local-folder", "third-party"]
 
 [tool.ruff.format]
-quote-style = "single"
+quote-style = "double"
 indent-style = "space"
 skip-magic-trailing-comma = true
 line-ending = "lf"
