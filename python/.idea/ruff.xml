@@ -3,6 +3,7 @@
   <component name="RuffConfigService">
     <option name="globalRuffExecutablePath" value="C:\Users\j3rderer\.local\bin\ruff.exe" />
     <option name="useRuffFormat" value="true" />
+    <option name="useRuffImportOptimizer" value="true" />
     <option name="useRuffServer" value="true" />
   </component>
 </project>
