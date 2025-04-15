@@ -5,7 +5,7 @@ description = "Python Code Challenges"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
-
+    "sortedcontainers>=2.4.0",
 ]
 
 [dependency-groups]
